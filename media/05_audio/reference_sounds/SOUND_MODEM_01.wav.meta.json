@@ -1,0 +1,20 @@
+{
+  "id": "SOUND_MODEM_01",
+  "task": "AU03",
+  "kind": "audio",
+  "title": "File:48K-64-QAM-8-32KHZ-PsalmPhotoZip.wav",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/48K-64-QAM-8-32KHZ-PsalmPhotoZip.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "path": "media/05_audio/reference_sounds/SOUND_MODEM_01.wav",
+  "source_page": "https://commons.wikimedia.org/wiki/File:48K-64-QAM-8-32KHZ-PsalmPhotoZip.wav",
+  "author": "HamRadioOperator73",
+  "rights": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "attribution": "",
+  "description": "48K 64-QAM 8 32KHZ data encoded as an audio file. The data is a zip file with some images with text from the Book of Psalms. The WAV file can be decoded with amodem https://github.com/romanz/amodem .",
+  "retrieved_at": "2026-11-08T04:45:19.351145+00:00",
+  "status": "rejected_irrelevant",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/48K-64-QAM-8-32KHZ-PsalmPhotoZip.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "error": "size limit",
+  "review_note": "非拨号握手音，或头像被误识别为手稿；不列入可用素材"
+}

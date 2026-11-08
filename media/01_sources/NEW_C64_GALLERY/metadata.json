@@ -1,0 +1,14 @@
+{
+  "id": "NEW_C64_GALLERY",
+  "source_url": "http://www.c64.com/pictures.html",
+  "retrieved_at": "2026-11-08T04:42:12.268138+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "http://www.c64.com/pictures.html",
+  "content_type": "text/html",
+  "path": "media/01_sources/NEW_C64_GALLERY/original.html",
+  "bytes": 10053,
+  "sha256": "fa2d911eafabd93d034601967f7b21df801df457ecd115a0d15aae9de0425b0f",
+  "title": "C64.COM - To Protect and Preserve"
+}

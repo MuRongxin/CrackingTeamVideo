@@ -1,0 +1,20 @@
+{
+  "id": "EX12_STEAM_1245620_screenshot2",
+  "task": "EX12",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.1920x1080.jpg?t=1790290043",
+  "path": "media/03_stills/official_games/EX12_1245620_screenshot2.jpg",
+  "source_page": "https://store.steampowered.com/app/1245620/",
+  "title": "ELDEN RING",
+  "author": "FromSoftware, Inc.",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:47.558553+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.1920x1080.jpg?t=1790290043",
+  "width": 1920,
+  "height": 1080,
+  "format": "JPEG",
+  "bytes": 462996,
+  "sha256": "69c3db5456b357c14e5d707f0daee158fc5fa1752af856d7e9f291ade8ac2134"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SOUND_MODEM_02",
+  "task": "AU03",
+  "kind": "audio",
+  "title": "File:Bell202-2400Baud-Psalm118-JPG.ogg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bell202-2400Baud-Psalm118-JPG.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "path": "media/05_audio/reference_sounds/SOUND_MODEM_02.ogg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Bell202-2400Baud-Psalm118-JPG.ogg",
+  "author": "HamRadioOperator73",
+  "rights": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "attribution": "",
+  "description": "Bell 202 2400 encoded file of a vintage photo of Psalm 118. Can be decoded with minimodem.",
+  "retrieved_at": "2026-11-08T04:45:30.884449+00:00",
+  "status": "rejected_irrelevant",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bell202-2400Baud-Psalm118-JPG.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "bytes": 32824025,
+  "sha256": "c0140a9e1954838f28c964820f9a0857352559fe27af5539e6bea99183cb0dd7",
+  "review_note": "非拨号握手音，或头像被误识别为手稿；不列入可用素材"
+}

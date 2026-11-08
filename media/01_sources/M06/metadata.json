@@ -1,0 +1,8 @@
+{
+  "id": "M06",
+  "source_url": "https://www.oocities.org/goose_topgun2000/nfos/1desperado.txt",
+  "retrieved_at": "2026-11-08T04:39:25.688049+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "error": "HTTPSConnectionPool(host='www.oocities.org', port=443): Read timed out. (read timeout=12)"
+}

@@ -1,0 +1,8 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2AnbYNudAyM
+[youtube] 2AnbYNudAyM: Downloading webpage
+WARNING: Your yt-dlp version (2026.03.17) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         Run "yt-dlp --update" or "yt-dlp -U" to update.
+         To suppress this warning, add --no-update to your command/config.
+WARNING: Only images are available for download. use --list-formats to see them
+ERROR: [youtube] 2AnbYNudAyM: Requested format is not available. Use --list-formats for a list of available formats

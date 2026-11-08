@@ -1,0 +1,2197 @@
+{
+  "links": [
+    {
+      "text": "Deutsch",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?lang=de_DE"
+    },
+    {
+      "text": "English",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?lang=en_US"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "API",
+      "url": "https://www.xrel.to/wiki/1681/API.html"
+    },
+    {
+      "text": "Status",
+      "url": "https://www.xrel.to/wiki/7106/statuspage.html"
+    },
+    {
+      "text": "Help",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/movie/46260/Red-Sonja-2025.html"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Scene Releases",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "P2P Releases",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "Homepage",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "Release Overview",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Popular Releases",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Movies",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "Blockbusters",
+      "url": "https://www.xrel.to/movie-topmovie-release-list.html"
+    },
+    {
+      "text": "HDTV",
+      "url": "https://www.xrel.to/movie-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/movie-uhd-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/movie-retail-release-list.html"
+    },
+    {
+      "text": "3D",
+      "url": "https://www.xrel.to/movie-3d-release-list.html"
+    },
+    {
+      "text": "US Releases",
+      "url": "https://www.xrel.to/movie-english-release-list.html"
+    },
+    {
+      "text": "MDVD-R",
+      "url": "https://www.xrel.to/movie-mdvdr-release-list.html"
+    },
+    {
+      "text": "x264",
+      "url": "https://www.xrel.to/movie-x264-release-list.html"
+    },
+    {
+      "text": "x265",
+      "url": "https://www.xrel.to/movie-x265-release-list.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/movie-dvdr-release-list.html"
+    },
+    {
+      "text": "DivX/XviD",
+      "url": "https://www.xrel.to/movie-xvid-release-list.html"
+    },
+    {
+      "text": "(S)VCD",
+      "url": "https://www.xrel.to/movie-vcd-release-list.html"
+    },
+    {
+      "text": "XXX",
+      "url": "https://www.xrel.to/xxx-xxx-release-list.html"
+    },
+    {
+      "text": "PC Games",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/game-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/game-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/game-linux-release-list.html"
+    },
+    {
+      "text": "Updates",
+      "url": "https://www.xrel.to/game-update-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "ISO",
+      "url": "https://www.xrel.to/software-iso-release-list.html"
+    },
+    {
+      "text": "E-Learning",
+      "url": "https://www.xrel.to/software-elearning-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/software-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/software-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/software-linux-release-list.html"
+    },
+    {
+      "text": "Software Add-Ons",
+      "url": "https://www.xrel.to/software-softaddon-release-list.html"
+    },
+    {
+      "text": "Console",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "PS4",
+      "url": "https://www.xrel.to/console-ps4-release-list.html"
+    },
+    {
+      "text": "PlayStation 5",
+      "url": "https://www.xrel.to/console-ps5-release-list.html"
+    },
+    {
+      "text": "Xbox One",
+      "url": "https://www.xrel.to/console-xboxone-release-list.html"
+    },
+    {
+      "text": "Xbox Series X|S",
+      "url": "https://www.xrel.to/console-xboxseriesx-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/console-nsw-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch 2",
+      "url": "https://www.xrel.to/console-nsw2-release-list.html"
+    },
+    {
+      "text": "PlayStation 1",
+      "url": "https://www.xrel.to/console-ps1-release-list.html"
+    },
+    {
+      "text": "PlayStation 2",
+      "url": "https://www.xrel.to/console-ps2-release-list.html"
+    },
+    {
+      "text": "PlayStation 3",
+      "url": "https://www.xrel.to/console-ps3-release-list.html"
+    },
+    {
+      "text": "Xbox 360 DLC",
+      "url": "https://www.xrel.to/console-x360dlc-release-list.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/console-xbox360-release-list.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/console-wii-release-list.html"
+    },
+    {
+      "text": "WiiWare/VC",
+      "url": "https://www.xrel.to/console-wiidl-release-list.html"
+    },
+    {
+      "text": "PSP",
+      "url": "https://www.xrel.to/console-psp-release-list.html"
+    },
+    {
+      "text": "NDS",
+      "url": "https://www.xrel.to/console-nds-release-list.html"
+    },
+    {
+      "text": "Xbox",
+      "url": "https://www.xrel.to/console-xbox-release-list.html"
+    },
+    {
+      "text": "GameCube",
+      "url": "https://www.xrel.to/console-gamecube-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "TV Series",
+      "url": "https://www.xrel.to/tv-tvseries-release-list.html"
+    },
+    {
+      "text": "Documentaries",
+      "url": "https://www.xrel.to/tv-tvdoc-release-list.html"
+    },
+    {
+      "text": "TV Shows",
+      "url": "https://www.xrel.to/tv-tvshow-release-list.html"
+    },
+    {
+      "text": "HDTV",
+      "url": "https://www.xrel.to/tv-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/tv-uhd-release-list.html"
+    },
+    {
+      "text": "US Releases",
+      "url": "https://www.xrel.to/tv-english-release-list.html"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.xrel.to/tv-tvsport-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/tv-retail-release-list.html"
+    },
+    {
+      "text": "Custom Subbed",
+      "url": "https://www.xrel.to/tv-tvsubbed-release-list.html"
+    },
+    {
+      "text": "Special",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?lang=en_US"
+    },
+    {
+      "text": "US Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "HDTV",
+      "url": "https://www.xrel.to/hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/uhd-release-list.html"
+    },
+    {
+      "text": "iNTERNAL",
+      "url": "https://www.xrel.to/internal-release-list.html"
+    },
+    {
+      "text": "Anime",
+      "url": "https://www.xrel.to/anime-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/retail-release-list.html"
+    },
+    {
+      "text": "Popular Releases",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Release Overview",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Movies",
+      "url": "https://www.xrel.to/p2p/15-movie/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/6-movie-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/5-movie-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/13-movie-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/18-movie-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/1-movie-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/2-movie-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/25-movie-hd-2160p/releases.html"
+    },
+    {
+      "text": "PC Games",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/p2p/12-software/releases.html"
+    },
+    {
+      "text": "Console",
+      "url": "https://www.xrel.to/p2p/10-console/releases.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/p2p/-console-xbox360/releases.html"
+    },
+    {
+      "text": "PlayStation",
+      "url": "https://www.xrel.to/p2p/21-console-playstation/releases.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/p2p/22-console-wii/releases.html"
+    },
+    {
+      "text": "PSP",
+      "url": "https://www.xrel.to/p2p/23-console-psp/releases.html"
+    },
+    {
+      "text": "NDS",
+      "url": "https://www.xrel.to/p2p/24-console-nds/releases.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/p2p/27-console-nsw/releases.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/p2p/16-tv/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/8-tv-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/7-tv-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/14-tv-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/19-tv-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/3-tv-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/4-tv-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/26-tv-hd-2160p/releases.html"
+    },
+    {
+      "text": "Add NFO",
+      "url": "https://www.xrel.to/p2p/addrls.html"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "xREL Top 100",
+      "url": "https://www.xrel.to/entertainment-top.html"
+    },
+    {
+      "text": "Most Awaited",
+      "url": "https://www.xrel.to/entertainment-awaited.html"
+    },
+    {
+      "text": "TV Series",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Trailers",
+      "url": "https://www.xrel.to/entertainment-trailers.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Login",
+      "url": "https://www.xrel.to/login.html"
+    },
+    {
+      "text": "Still no account?",
+      "url": "https://www.xrel.to/signup.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Die Sims 4",
+      "url": "https://www.xrel.to/title/130517/Die-Sims-4.html"
+    },
+    {
+      "text": "The.Sims.4.My.Wedding.Stories-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515873/The-Sims-4-My-Wedding-Stories-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515873/The-Sims-4-My-Wedding-Stories-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (9)",
+      "url": "https://www.xrel.to/comments/2515873/The-Sims-4-My-Wedding-Stories-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Vagrus - The Riven Realms",
+      "url": "https://www.xrel.to/title/219538/Vagrus-The-Riven-Realms.html"
+    },
+    {
+      "text": "Vagrus.The.Riven.Realms.v1.0.20-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515865/Vagrus-The-Riven-Realms-v1-0-20-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515865/Vagrus-The-Riven-Realms-v1-0-20-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "This Land Is My Land",
+      "url": "https://www.xrel.to/title/225235/This-Land-Is-My-Land.html"
+    },
+    {
+      "text": "This.Land.Is.My.Land.Update.v1.0.1.18702-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515862/This-Land-Is-My-Land-Update-v1-0-1-18702-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515862/This-Land-Is-My-Land-Update-v1-0-1-18702-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515862/This-Land-Is-My-Land-Update-v1-0-1-18702-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Stellaris",
+      "url": "https://www.xrel.to/title/162985/Stellaris.html"
+    },
+    {
+      "text": "Stellaris.Aquatics.Species.Pack.Update.v3.3.1-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515864/Stellaris-Aquatics-Species-Pack-Update-v3-3-1-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515864/Stellaris-Aquatics-Species-Pack-Update-v3-3-1-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515864/Stellaris-Aquatics-Species-Pack-Update-v3-3-1-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Railroad Corporation",
+      "url": "https://www.xrel.to/title/198000/Railroad-Corporation.html"
+    },
+    {
+      "text": "Railroad.C...n.All.or.Nothing.Update.v1.1.13051-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515863/Railroad-Corporation-All-or-Nothing-Update-v1-1-13051-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515863/Railroad-Corporation-All-or-Nothing-Update-v1-1-13051-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515863/Railroad-Corporation-All-or-Nothing-Update-v1-1-13051-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Life is Strange Remastered",
+      "url": "https://www.xrel.to/title/223600/Life-is-Strange-Remastered.html"
+    },
+    {
+      "text": "Life.is.Strange.Remastered.Update.1-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515861/Life-is-Strange-Remastered-Update-1-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515861/Life-is-Strange-Remastered-Update-1-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515861/Life-is-Strange-Remastered-Update-1-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Life is Strange: Before the Storm Remastered",
+      "url": "https://www.xrel.to/title/223487/Life-is-Strange-Before-the-Storm-Remastered.html"
+    },
+    {
+      "text": "Life.is.St...fore.the.Storm.Remastered.Update.1-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515859/Life-is-Strange-Before-the-Storm-Remastered-Update-1-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515859/Life-is-Strange-Before-the-Storm-Remastered-Update-1-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515859/Life-is-Strange-Before-the-Storm-Remastered-Update-1-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Liber",
+      "url": "https://www.xrel.to/title/226030/Liber.html"
+    },
+    {
+      "text": "LiBER.v1.0.0.5-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515860/LiBER-v1-0-0-5-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515860/LiBER-v1-0-0-5-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Hearts of Iron IV",
+      "url": "https://www.xrel.to/title/162989/Hearts-of-Iron-IV.html"
+    },
+    {
+      "text": "Hearts.of.Iron.IV.No.Step.Back.Update.v1.11.7-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515858/Hearts-of-Iron-IV-No-Step-Back-Update-v1-11-7-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515858/Hearts-of-Iron-IV-No-Step-Back-Update-v1-11-7-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515858/Hearts-of-Iron-IV-No-Step-Back-Update-v1-11-7-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Crusader Kings III",
+      "url": "https://www.xrel.to/title/157908/Crusader-Kings-III.html"
+    },
+    {
+      "text": "Crusader.Kings.III.Royal.Court.Update.v1.5.0.2-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515857/Crusader-Kings-III-Royal-Court-Update-v1-5-0-2-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515857/Crusader-Kings-III-Royal-Court-Update-v1-5-0-2-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515857/Crusader-Kings-III-Royal-Court-Update-v1-5-0-2-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "State of Decay 2",
+      "url": "https://www.xrel.to/title/193456/State-of-Decay-2.html"
+    },
+    {
+      "text": "State.of.De...naut.Edition.Homecoming.Update.29-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515485/State-of-Decay-2-Juggernaut-Edition-Homecoming-Update-29-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515485/State-of-Decay-2-Juggernaut-Edition-Homecoming-Update-29-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515485/State-of-Decay-2-Juggernaut-Edition-Homecoming-Update-29-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Sherlock Holmes Chapter One",
+      "url": "https://www.xrel.to/title/218687/Sherlock-Holmes-Chapter-One.html"
+    },
+    {
+      "text": "Sherlock.Holmes.Chapter.One.v1.04-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515486/Sherlock-Holmes-Chapter-One-v1-04-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515486/Sherlock-Holmes-Chapter-One-v1-04-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Monark",
+      "url": "https://www.xrel.to/title/223911/Monark.html"
+    },
+    {
+      "text": "MONARK-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515221/MONARK-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515221/MONARK-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Killsquad",
+      "url": "https://www.xrel.to/title/106608/Killsquad.html"
+    },
+    {
+      "text": "KillSquad.Update.v1.3.3.3-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515014/KillSquad-Update-v1-3-3-3-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515014/KillSquad-Update-v1-3-3-3-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515014/KillSquad-Update-v1-3-3-3-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Flaklypa Grand Prix",
+      "url": "https://www.xrel.to/title/225406/Flaklypa-Grand-Prix.html"
+    },
+    {
+      "text": "Flaklypa.Grand.Prix.Update.1-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515016/Flaklypa-Grand-Prix-Update-1-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515016/Flaklypa-Grand-Prix-Update-1-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515016/Flaklypa-Grand-Prix-Update-1-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Empyrion - Galactic Survival",
+      "url": "https://www.xrel.to/title/219729/Empyrion-Galactic-Survival.html"
+    },
+    {
+      "text": "Empyrion.Galactic.Survival.Update.v1.7.3-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515015/Empyrion-Galactic-Survival-Update-v1-7-3-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515015/Empyrion-Galactic-Survival-Update-v1-7-3-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515015/Empyrion-Galactic-Survival-Update-v1-7-3-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Call to Arms",
+      "url": "https://www.xrel.to/title/195126/Call-to-Arms.html"
+    },
+    {
+      "text": "Call.to.Ar...tes.of.Hell.Ostfront.Update.v1.018-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515012/Call-to-Arms-Gates-of-Hell-Ostfront-Update-v1-018-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515012/Call-to-Arms-Gates-of-Hell-Ostfront-Update-v1-018-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515012/Call-to-Arms-Gates-of-Hell-Ostfront-Update-v1-018-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Alfred Hitchcock - Vertigo",
+      "url": "https://www.xrel.to/title/225752/Alfred-Hitchcock-Vertigo.html"
+    },
+    {
+      "text": "Alfred.Hitchcock.Vertigo.Update.v20220204-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2515011/Alfred-Hitchcock-Vertigo-Update-v20220204-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2515011/Alfred-Hitchcock-Vertigo-Update-v20220204-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2515011/Alfred-Hitchcock-Vertigo-Update-v20220204-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Cyberpunk 2077",
+      "url": "https://www.xrel.to/title/151844/Cyberpunk-2077.html"
+    },
+    {
+      "text": "Cyberpunk.2077.v1.5.Hotfix-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2513499/Cyberpunk-2077-v1-5-Hotfix-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2513499/Cyberpunk-2077-v1-5-Hotfix-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (3)",
+      "url": "https://www.xrel.to/comments/2513499/Cyberpunk-2077-v1-5-Hotfix-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Cyberpunk 2077",
+      "url": "https://www.xrel.to/title/151844/Cyberpunk-2077.html"
+    },
+    {
+      "text": "Cyberpunk.2077.Language.Pack.v1.5.Hotfix-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2513498/Cyberpunk-2077-Language-Pack-v1-5-Hotfix-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2513498/Cyberpunk-2077-Language-Pack-v1-5-Hotfix-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2513498/Cyberpunk-2077-Language-Pack-v1-5-Hotfix-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Astria Ascending",
+      "url": "https://www.xrel.to/title/223902/Astria-Ascending.html"
+    },
+    {
+      "text": "Astria.Ascending.Update.v1.0.132r-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2513497/Astria-Ascending-Update-v1-0-132r-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2513497/Astria-Ascending-Update-v1-0-132r-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2513497/Astria-Ascending-Update-v1-0-132r-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "The Shore",
+      "url": "https://www.xrel.to/title/222247/The-Shore.html"
+    },
+    {
+      "text": "The.Shore.Anniversary-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2513234/The-Shore-Anniversary-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2513234/The-Shore-Anniversary-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Gaia Beyond",
+      "url": "https://www.xrel.to/title/219980/Gaia-Beyond.html"
+    },
+    {
+      "text": "Gaia.Beyond.Enter.the.Caduceus-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2512316/Gaia-Beyond-Enter-the-Caduceus-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2512316/Gaia-Beyond-Enter-the-Caduceus-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "King's Bounty II",
+      "url": "https://www.xrel.to/title/220069/King-s-Bounty-II.html"
+    },
+    {
+      "text": "Kings.Bounty.II.DLC.Pack-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511855/Kings-Bounty-II-DLC-Pack-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511855/Kings-Bounty-II-DLC-Pack-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Realpolitiks II",
+      "url": "https://www.xrel.to/title/132404/Realpolitiks-II.html"
+    },
+    {
+      "text": "Realpolitiks.II.Update.v1.08-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511854/Realpolitiks-II-Update-v1-08-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511854/Realpolitiks-II-Update-v1-08-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511854/Realpolitiks-II-Update-v1-08-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Orcs Must Die! 3",
+      "url": "https://www.xrel.to/title/223857/Orcs-Must-Die-3.html"
+    },
+    {
+      "text": "Orcs.Must.Die.3.Cold.as.Eyes.Update.v1.1.1.1-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511853/Orcs-Must-Die-3-Cold-as-Eyes-Update-v1-1-1-1-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511853/Orcs-Must-Die-3-Cold-as-Eyes-Update-v1-1-1-1-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511853/Orcs-Must-Die-3-Cold-as-Eyes-Update-v1-1-1-1-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Disciples: Liberation",
+      "url": "https://www.xrel.to/title/222549/Disciples-Liberation.html"
+    },
+    {
+      "text": "Disciples.Liberation.Update.v1.0.3.8284-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511852/Disciples-Liberation-Update-v1-0-3-8284-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511852/Disciples-Liberation-Update-v1-0-3-8284-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511852/Disciples-Liberation-Update-v1-0-3-8284-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Red Solstice 2: Survivors",
+      "url": "https://www.xrel.to/title/223611/Red-Solstice-2-Survivors.html"
+    },
+    {
+      "text": "Red.Solstice.2.Survivors.Condatis.Group-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511851/Red-Solstice-2-Survivors-Condatis-Group-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511851/Red-Solstice-2-Survivors-Condatis-Group-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Bassmaster Fishing 2022",
+      "url": "https://www.xrel.to/title/225309/Bassmaster-Fishing-2022.html"
+    },
+    {
+      "text": "Bassmaster.Fishing.2022.Lake.Hartwell-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511850/Bassmaster-Fishing-2022-Lake-Hartwell-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511850/Bassmaster-Fishing-2022-Lake-Hartwell-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "King's Bounty II",
+      "url": "https://www.xrel.to/title/220069/King-s-Bounty-II.html"
+    },
+    {
+      "text": "Kings.Bounty.II-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511848/Kings-Bounty-II-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511848/Kings-Bounty-II-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Sifu",
+      "url": "https://www.xrel.to/title/225753/Sifu.html"
+    },
+    {
+      "text": "SIFU.Update.v1.5.3.369-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511844/SIFU-Update-v1-5-3-369-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511844/SIFU-Update-v1-5-3-369-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511844/SIFU-Update-v1-5-3-369-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Nascar 21: Ignition",
+      "url": "https://www.xrel.to/title/224974/Nascar-21-Ignition.html"
+    },
+    {
+      "text": "NASCAR.21.Ignition.Update.v1.4.5.0-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511846/NASCAR-21-Ignition-Update-v1-4-5-0-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511846/NASCAR-21-Ignition-Update-v1-4-5-0-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511846/NASCAR-21-Ignition-Update-v1-4-5-0-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Aeterna Noctis",
+      "url": "https://www.xrel.to/title/224776/Aeterna-Noctis.html"
+    },
+    {
+      "text": "Aeterna.Noctis.Update.v1.0.012a-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511843/Aeterna-Noctis-Update-v1-0-012a-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511843/Aeterna-Noctis-Update-v1-0-012a-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511843/Aeterna-Noctis-Update-v1-0-012a-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Punk Wars",
+      "url": "https://www.xrel.to/title/225438/Punk-Wars.html"
+    },
+    {
+      "text": "Punk.Wars.Update.v1.1.1-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511652/Punk-Wars-Update-v1-1-1-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511652/Punk-Wars-Update-v1-1-1-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511652/Punk-Wars-Update-v1-1-1-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Lawn Mowing Simulator",
+      "url": "https://www.xrel.to/title/224453/Lawn-Mowing-Simulator.html"
+    },
+    {
+      "text": "Lawn.Mowin...r.Ancient.Britain.Update.v1.0.10.0-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511651/Lawn-Mowing-Simulator-Ancient-Britain-Update-v1-0-10-0-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511651/Lawn-Mowing-Simulator-Ancient-Britain-Update-v1-0-10-0-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511651/Lawn-Mowing-Simulator-Ancient-Britain-Update-v1-0-10-0-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Hot Wheels Unleashed",
+      "url": "https://www.xrel.to/title/223641/Hot-Wheels-Unleashed.html"
+    },
+    {
+      "text": "HOT.WHEELS.UNLEASHED.Update.14.incl.DLC-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511649/HOT-WHEELS-UNLEASHED-Update-14-incl-DLC-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511649/HOT-WHEELS-UNLEASHED-Update-14-incl-DLC-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511649/HOT-WHEELS-UNLEASHED-Update-14-incl-DLC-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Kingdoms of Amalur: Re-Reckoning",
+      "url": "https://www.xrel.to/title/220108/Kingdoms-of-Amalur-Re-Reckoning.html"
+    },
+    {
+      "text": "Kingdoms.o...Re-Reckoning.Fatesworn.Update.v1.8-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511650/Kingdoms-of-Amalur-Re-Reckoning-Fatesworn-Update-v1-8-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511650/Kingdoms-of-Amalur-Re-Reckoning-Fatesworn-Update-v1-8-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511650/Kingdoms-of-Amalur-Re-Reckoning-Fatesworn-Update-v1-8-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Grim Dawn",
+      "url": "https://www.xrel.to/title/115890/Grim-Dawn.html"
+    },
+    {
+      "text": "Grim.Dawn.Definitive.Edition.Update.v1.1.9.5-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511648/Grim-Dawn-Definitive-Edition-Update-v1-1-9-5-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511648/Grim-Dawn-Definitive-Edition-Update-v1-1-9-5-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511648/Grim-Dawn-Definitive-Edition-Update-v1-1-9-5-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Atom RPG: Trudograd",
+      "url": "https://www.xrel.to/title/221902/Atom-RPG-Trudograd.html"
+    },
+    {
+      "text": "ATOM.RPG.Trudograd.Update.v1.042-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2511645/ATOM-RPG-Trudograd-Update-v1-042-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2511645/ATOM-RPG-Trudograd-Update-v1-042-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2511645/ATOM-RPG-Trudograd-Update-v1-042-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Cyberpunk 2077",
+      "url": "https://www.xrel.to/title/151844/Cyberpunk-2077.html"
+    },
+    {
+      "text": "Cyberpunk.2077.Language.Pack.v1.5-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510523/Cyberpunk-2077-Language-Pack-v1-5-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510523/Cyberpunk-2077-Language-Pack-v1-5-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Cyberpunk 2077",
+      "url": "https://www.xrel.to/title/151844/Cyberpunk-2077.html"
+    },
+    {
+      "text": "Cyberpunk.2077.v1.5-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510450/Cyberpunk-2077-v1-5-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510450/Cyberpunk-2077-v1-5-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (3)",
+      "url": "https://www.xrel.to/comments/2510450/Cyberpunk-2077-v1-5-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "The Amazing American Circus",
+      "url": "https://www.xrel.to/title/223731/The-Amazing-American-Circus.html"
+    },
+    {
+      "text": "The.Amazing.American.Circus.Update.v20220131-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510201/The-Amazing-American-Circus-Update-v20220131-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510201/The-Amazing-American-Circus-Update-v20220131-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2510201/The-Amazing-American-Circus-Update-v20220131-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Shadow of the Tomb Raider",
+      "url": "https://www.xrel.to/title/193600/Shadow-of-the-Tomb-Raider.html"
+    },
+    {
+      "text": "Shadow.of.th...nitive.Edition.Update.v1.0.458.0-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510200/Shadow-of-the-Tomb-Raider-Definitive-Edition-Update-v1-0-458-0-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510200/Shadow-of-the-Tomb-Raider-Definitive-Edition-Update-v1-0-458-0-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2510200/Shadow-of-the-Tomb-Raider-Definitive-Edition-Update-v1-0-458-0-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Aliens: Fireteam Elite",
+      "url": "https://www.xrel.to/title/223986/Aliens-Fireteam-Elite.html"
+    },
+    {
+      "text": "Aliens.Fire...oint.Defense.Update.v1.0.2.92952-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510204/Aliens-Fireteam-Elite-Point-Defense-Update-v1-0-2-92952-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510204/Aliens-Fireteam-Elite-Point-Defense-Update-v1-0-2-92952-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2510204/Aliens-Fireteam-Elite-Point-Defense-Update-v1-0-2-92952-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Praey for the Gods",
+      "url": "https://www.xrel.to/title/188148/Praey-for-the-Gods.html"
+    },
+    {
+      "text": "Praey.for.the.Gods.Update.v1.0.006-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510195/Praey-for-the-Gods-Update-v1-0-006-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510195/Praey-for-the-Gods-Update-v1-0-006-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2510195/Praey-for-the-Gods-Update-v1-0-006-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Outer Wilds",
+      "url": "https://www.xrel.to/title/197021/Outer-Wilds.html"
+    },
+    {
+      "text": "Outer.Wilds.Echoes.of.the.Eye.Update.v1.1.12-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510196/Outer-Wilds-Echoes-of-the-Eye-Update-v1-1-12-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510196/Outer-Wilds-Echoes-of-the-Eye-Update-v1-1-12-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2510196/Outer-Wilds-Echoes-of-the-Eye-Update-v1-1-12-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Chorus",
+      "url": "https://www.xrel.to/title/221944/Chorus.html"
+    },
+    {
+      "text": "Chorus.Update.v1.0.0.10.209217-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2510193/Chorus-Update-v1-0-0-10-209217-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2510193/Chorus-Update-v1-0-0-10-209217-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2510193/Chorus-Update-v1-0-0-10-209217-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "The Shore",
+      "url": "https://www.xrel.to/title/222247/The-Shore.html"
+    },
+    {
+      "text": "The.Shore.Update.v20210720-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2509683/The-Shore-Update-v20210720-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2509683/The-Shore-Update-v20210720-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2509683/The-Shore-Update-v20210720-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "The Riftbreaker",
+      "url": "https://www.xrel.to/title/223149/The-Riftbreaker.html"
+    },
+    {
+      "text": "The.Riftbreaker.Update.v27303-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2509682/The-Riftbreaker-Update-v27303-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2509682/The-Riftbreaker-Update-v27303-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "Comments (1)",
+      "url": "https://www.xrel.to/comments/2509682/The-Riftbreaker-Update-v27303-CODEX.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Song of Iron",
+      "url": "https://www.xrel.to/title/224291/Song-of-Iron.html"
+    },
+    {
+      "text": "Song.of.Iron.v1.0.9.5-CODEX",
+      "url": "https://www.xrel.to/game-nfo/2509694/Song-of-Iron-v1-0-9-5-CODEX.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/2509694/Song-of-Iron-v1-0-9-5-CODEX.html"
+    },
+    {
+      "text": "CODEX",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html"
+    },
+    {
+      "text": "02",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?page=2"
+    },
+    {
+      "text": "03",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?page=3"
+    },
+    {
+      "text": "04",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?page=4"
+    },
+    {
+      "text": "148",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?page=148"
+    },
+    {
+      "text": "forward",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?page=2"
+    },
+    {
+      "text": "23 Jan. 2014",
+      "url": "https://www.xrel.to/game-nfo/736666/Bloodbath-CODEX.html"
+    },
+    {
+      "text": "23 Feb. 2022",
+      "url": "https://www.xrel.to/game-nfo/2515873/The-Sims-4-My-Wedding-Stories-CODEX.html"
+    },
+    {
+      "text": "Pathfinder....v2.1.7b-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=473720"
+    },
+    {
+      "text": "Pathfinder....v2.1.5d-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=473719"
+    },
+    {
+      "text": "Wasteland.3...6.9.420-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=473717"
+    },
+    {
+      "text": "Catherine.Classic-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=468314"
+    },
+    {
+      "text": "DARK.SO...pdate.v1.03-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=436893"
+    },
+    {
+      "text": "Them.and.Us-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=426336"
+    },
+    {
+      "text": "Cyberp....v1.5.Hotfix-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=420027"
+    },
+    {
+      "text": "Cyberp....v1.5.Hotfix-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=420022"
+    },
+    {
+      "text": "Flakly...rix.Update.1-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419308"
+    },
+    {
+      "text": "Call.to.Ar...e.v1.018-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419307"
+    },
+    {
+      "text": "Cyberp....v1.5.Hotfix-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419306"
+    },
+    {
+      "text": "Crusader.....v1.5.0.2-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419304"
+    },
+    {
+      "text": "Railroad.C....1.13051-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419303"
+    },
+    {
+      "text": "This.Lan....0.1.18702-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419302"
+    },
+    {
+      "text": "Astria....e.v1.0.132r-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419301"
+    },
+    {
+      "text": "Orcs.Must....v1.1.1.1-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419299"
+    },
+    {
+      "text": "Aeterna...e.v1.0.012a-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419298"
+    },
+    {
+      "text": "Lawn.Mowin...1.0.10.0-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419296"
+    },
+    {
+      "text": "Stellaris...te.v3.3.1-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419295"
+    },
+    {
+      "text": "Hearts.of...e.v1.11.7-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419294"
+    },
+    {
+      "text": "State.of.De...date.29-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419293"
+    },
+    {
+      "text": "KillSq...ate.v1.3.3.3-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419292"
+    },
+    {
+      "text": "Empyrion...ate.v1.7.3-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419291"
+    },
+    {
+      "text": "Cyberpun...1.5.Hotfix-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419289"
+    },
+    {
+      "text": "Realpo...Update.v1.08-CODEX",
+      "url": "https://www.xrel.to/comments-goto.html?id=419287"
+    },
+    {
+      "text": "Homepage",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "Help",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "Release Overview",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Movies",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "PC Games",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "Console",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "US Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "Release Overview",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "TV Series",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Ja!",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?lang=en_US"
+    },
+    {
+      "text": "Nein!",
+      "url": "https://www.google.de/"
+    },
+    {
+      "text": "Yes!",
+      "url": "https://www.xrel.to/group-CODEX-release-list.html?lang=en_US"
+    },
+    {
+      "text": "No!",
+      "url": "https://www.google.com/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/de_DE.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/en_US.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/en_US.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/arrow_down.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/bg/search_autocomplete_arrow.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/toolbar_search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Loading...",
+      "url": "https://www.xrel.to/static/img/icons/ajax_loader.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/mini_scene.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/xrel_logo3.png",
+      "srcset": ""
+    }
+  ]
+}

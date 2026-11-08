@@ -1,0 +1,19 @@
+{
+  "id": "FL11_TheSarge_portrait",
+  "task": "FL11",
+  "kind": "image",
+  "url": "http://www.c64.com/pictures/sarge_show_the/images/sarge.jpg",
+  "path": "media/03_stills/c64_artwork/FL11_TheSarge_portrait.jpg",
+  "source_page": "http://www.c64.com/scene_display_interview.php?interview=84",
+  "author": "摄影者见 C64.com 原页，待确认",
+  "rights": "公开人物照片；许可待确认",
+  "retrieved_at": "2026-11-08T04:45:21.919161+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "http://www.c64.com/pictures/sarge_show_the/images/sarge.jpg",
+  "width": 124,
+  "height": 150,
+  "format": "JPEG",
+  "bytes": 11808,
+  "sha256": "dc579a624a97db8243a19f1e06603f09ba69dedab9f89200f11627f964f45a90"
+}

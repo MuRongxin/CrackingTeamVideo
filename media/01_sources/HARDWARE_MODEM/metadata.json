@@ -1,0 +1,7 @@
+{
+  "id": "HARDWARE_MODEM",
+  "source_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=intitle%3A%22modem%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=2&prop=imageinfo&iiprop=url%7Cextmetadata",
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=intitle%3A%22modem%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=2&prop=imageinfo&iiprop=url%7Cextmetadata",
+  "status": "downloaded_unreviewed",
+  "title": "intitle:\"modem\" filetype:bitmap"
+}

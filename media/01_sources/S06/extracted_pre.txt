@@ -1,0 +1,192 @@
+■ ■ ■ ■ ■ ■ ■ ■ ■                                             ■ ■ ■ ■ ■ ■ ■ ■ ■
+■ ■ ■ ■ ■ ■ ■ ■                                                 ■ ■ ■ ■ ■ ■ ■ ■
+■ ■ ■ ■ ■ ■ ■                                                     ■ ■ ■ ■ ■ ■ ■
+■ ■ ■ ■ ■ ■                                                         ■ ■ ■ ■ ■ ■
+■ ■ ■ ■ ■                                                             ■ ■ ■ ■ ■
+■ ■ ■ ■                                                                 ■ ■ ■ ■
+■ ■ ■                                                                     ■ ■ ■
+■ ■                                                                         ■ ■
+■                ┌▄▄▄▄▄┐ ┌▄▄▄▄▄▄▄▄▄┐ ┌▄▄▄▄▄▄▄▄▄▄▄▄▄┐ ┌▄┐ ┌▄▄▄▄▄┐ ┌─┐ ┌▄┐      ■
+■     RAZOR 1911 │ ┌═┐█│ │█┌═════┐ │ │█┌═════════┐░│ █│ │░┌══█│ │≡│ █│      ■
+■    ┌▄▄▄▄▄▄▄▄▄┐ │░│ │▓│ │▓│ ┌─┐ │ │ │▓│ ┌─┐ ┌∙┐ │▒│ │█│ │▒▄▄▄█│ │░│ ││      ■
+■    │┌══════░│ │▒│ │▒│ │▒│ └■┘ │░│ │▒│ └·┘ └═┘ │▓│ │█│ └═══┐█│ │░│ ││      ■
+■    │▓▄▄▄▄▄▄▄▒│ │▓│ │▒│ │░│ ┌─┐ │▒│ │░└▄▄▄▄▄▄▄▄▄┘·│ │▓│ ┌─┐ │▓│ │░│ │▓│      ■
+■    │▒┌═┐█┌═══┘ └─┘ │░│ └─┘ └═┘ │▓│ │░┌═════┐█┌═══┘ │▓│ │º│ │▓│ │▒│ │▓│      ■
+■    │░│ │█│ ┌▄▄▄▄▄─▄┘░│ ┌▄▄▄▄▄▄▄┘│ │ │ ┌─┐ │▓│ ┌─┐ │▒│ │░│ │▒│ │▒│ │▒│      ■
+■    │░│ │▓│ │█┌═════┐░│ │█┌═══════┘ └─┘ └═┘ │▒│ │≡│ │▒│ │▒│ │▒│ │▒│ │▒│      ■
+■    │:│ │▒│ │▓│ ┌─┐ │░│ │▓│ ┌─┐ ┌▄▄▄▄▄▄▄▄▄┐ │░│ │░│ │▒│ │▒│ │▒│ │▓│ │░│      ■
+■    │≡│ │▒│ │▒│ └═┘ │░│ │▒│ │░│ │█┌═════┐░│ │░│ │▒│ │░│ │▓│ │░│ │▓│ │ │      ■
+■    ││ │░│ │░▄▄▄▄▄▄▄░│ │░│ │▒│ │▓│ ┌─┐ │▒│ │░│ │▓│ │░│ │▓│ │░│ │▓│ │G│      ■
+■    └═┘ │░│ └═════════┘ │░│ │▓│ │▒│ └═· │▓│ │ │ │▓│ │ │ │█│ │░│ │█│ │8│      ■
+■    ┌─┐ │░▄▄▄▄▄▄─▄─▄─∙┐ │░▄▄▄█│ │░└▄▄▄▄▄▄█│ │ ▄▄▄│ │ │ │█▄▄▄░│ │█│ │0│      ■
+■    └═┘ └═════════════┘ └═════┘ └═════════┘ └═════┘ └═┘ └═════┘ └═┘ └═┘      ■
+■                                                                             ■
+■                                                                             ■
+■                                                                             ■
+■                                                                             ■
+■        Razor 1911 proudly presents:              Date: 05-04-2026           ■
+■        "Razor 1911"                              Size: 31mb                 ■
+■        an eponymous demo celebrating             Type: Demo                 ■
+■ _      the first 40 years of the group.          Platform: Windows          ■
+■ ■ -                                                                         ■
+■ ■ ■ ■ -                                                                     ■
+■ ■ ■ ■ ■ ▀ -                                                                 ■
+■ ■ ■ ■ ■ ■ ▀ ▀ -                                                             ■
+■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ -                                                         ■
+■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ -                                                     ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ -                                                 ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ -                                             ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ -                                         ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀▀ -                                     ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ -                                 ■
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀ -                             ■
+■ ■ ■ ▀ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀
+■ ■ ■ ▀ ▀ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀ ▀ ▀ ▀ ▀ ▀
+■ ■ ■ ▀ ▀ ▀ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀ ▀ ▀ ▀ ▀
+■ ■ ■ ▀ ▀ ▀ ▀ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀ ▀ ▀ ▀
+■ ■ ■ ▀ ▀ ▀ ▀ ▀ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀ ▀ ▀
+■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀ ▀
+      ▀ ▀ ▀ ▀ ▀ ▀ ▀ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀
+              ┌▄▄▄▄▄┐ ■ ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀
+      ┌▄▄▄▄▄┐ │░┌═┐█│   ■ ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀▀
+      │░┌═┐█│ │▒│ │▓│     ■ ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀
+      │▒│ │▓│ │▒│ │▒│       ■ ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀
+      │█│ │░│ │█│ │░│         ■ ■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀▀
+▄ ▄▄ ▄▄█│ │ ▄▄▄█│ │:└───────────■ ■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀
+▀ ──────┘ └─────┘ └───────────────■ ■ ■ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀ ▀▀ ▀▀ ▀▀
+
+
+ DEMO NOTES ───────────────────────────────────────────────────────────────────
+
+ This demo was made by ANAT, DUBMOOD, GOTO80 & FLOPINE.
+
+ Based on music written by Bright White Lightning (heavily modified by Dubmood,
+ Goto80 and MASTER BOOT RECORD.)
+
+ And with a lot of help from our friends:
+
+ Asphyx - pixels, ansi & ascii
+ b████ - help, support, fact checking
+ black panther - additional tooling code, research and help
+ Dino/dS! - petscii & research
+ exocet/up rough - pixels
+ f██████ - additional code
+ fr0st/tulou^triad
+ gb_ - pixels
+ m████ - help & fact checking
+ MASTER BOOT RECORD - additional music
+ prof/comic bakery - pixels
+ Randall Flagg - help & fact checking
+ Replay - additional code
+ Rez - additional code
+ sander/focus - pixels
+ Sector9 - pixels, help, support, fact checking
+ TiNKER/d-bug - pixels
+ ziphoid - help, support & additional outro music
+ zabutom - additional outro music
+ zombie - help & fact checking
+
+ Sorry for the not very optimized file size for this party version, we'll
+ make sure to push a PROPER once Revision 2026 is finished.
+
+ This demo will not run on intel iris gpus and only in 1080p.
+
+
+ GROUP NOTES ──────────────────────────────────────────────────────────────────
+
+ 40 strong years. No other group on the PC ISO scene today even comes close to
+ such a long and uninterrupted activity, especially while keeping a continuous
+ succession of active members. No reboots, no new crews taking up an old name.
+ Just a sustained flow of dedicated people who pass on the heritage and spirit
+ of a true release group through the ages. All these individuals, past and
+ present, those who were caught and those who passed, are the ones to whom we
+ owe the fact that we are still here.
+
+ For a collective like ours, 40 years is nothing.
+
+ // Razor 1911 - class of 1985
+
+                                      -+-
+
+ Back in 1985, three goofy Norwegian teenagers: Insane TTM, Doctor No and mysel
+ were tinkering with our Commodore 64s. We had just begun figuring out all the
+ ins and outs of this amazing machine, but we were absolutely certain of one
+ thing: we needed to form a group. Why? Honestly, none of us really knew.
+ But after seeing cracked games with intro screens from cracking groups, we kne
+ we had to be part of that world.
+
+ So we started figuring out how "the scene" worked - although the term hadn't
+ been invented yet. There was no Internet, so it was a slow and meticulous
+ process, but the more we learned, the deeper we got involved. After a few
+ embarrassingly bad group names, we finally landed on Razor 1911 in
+ October 1985.
+
+ From that point on, it's fair to say Razor became our number one priority
+ for most of the next decade. Luckily many devoted new members shared our
+ vision and together we poured an absurd amount of time and energy into
+ making our mark on the scene and releasing the best possible products under
+ the Razor 1911 name.
+
+ Was it rational? Probably not. But it was an incredible time, filled with
+ countless experiences we still reminisce about today. It's unlikely any of us
+ founding members will return to "the scene" - there's a time and place for
+ everything, but we take pride in knowing that after we stepped away, so many
+ talented people kept the group alive and relevant. Razor 1911 has grown into
+ something far bigger than the sum of its members, and as founders we're proud
+ of everything that has been accomplished.
+
+ Here's to another 40 years!  //Sector 9
+
+
+ GREETINGS ────────────────────────────────────────────────────────────────────
+
+ To everyone who ever contributed to Razor 1911 since 1985, especially those
+ we missed. To all the couriers, the sysops, the competition.
+
+ To all dead groups that didn't make it:
+
+ Flash Cracking Group 1941, Section 8, Electronic Cracking Association 1998,
+ ABS 1999, Jedi 2001, 1103, Hellmates, SCC, Dynamic Duo, Paranoimia,
+ Accumulators, Eclipse (amiga), Quartex, Classic, Skillion, Inc, Dream Team,
+ The Humble Guys, Public Enemy, Hybrid (thanks Hoson), Divine, Fantasy,
+ Origin, Class, Myth, Deviance, DOD, PWA, RISC, PDM, AiR, everyone we forgot...
+
+
+
+
+
+
+                                 In Memory of:
+
+                                  Bug (1994)
+                                 Dycus (2012)
+                             Martial Artist (2001)
+                                 PieMan (2015)
+                                 S.T.V (2023)
+                                Westbam (2007)
+
+
+
+
+                                       .
+                                      .$.
+                                     .$$$.
+                                    .$$$$$.
+                                   .$.   .$.
+                                  .$$$. .$$$.
+                                 .$$$$$.$$$$$.
+
+
+                                        ██████
+                  ▄▄▄▄▄▄▄▄▄▄▄▄     ▄▄▄  ██████     ▄▄▄▄▄▄▄▄
+                      █▄▄█████▄▄▄▄▄▄▄█▄▄▄▄▄▄████████▄▄█████
+                       ▀ █▄▄▄ █████▄▄██▄▄▄ ▄ ██████ █▄ █▄▄▄▄▄
+                                      ▀▀▀▀ ▀
+
+                                   SiNCE 1985
+
+
+
+                 If you enjoy this product, consider buying it.
+
+        

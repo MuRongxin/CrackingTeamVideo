@@ -1,0 +1,322 @@
+RiME v1.01 update :: RiME General Discussions
+Sign in
+Store
+Home
+Discovery Queue
+Wishlist
+Points Shop
+News
+Charts
+Community
+Home
+Discussions
+Workshop
+Market
+Broadcasts
+About
+Support
+Change language
+Get the Steam Mobile App
+View desktop website
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+Privacy Policy
+|
+Legal
+|
+Accessibility
+|
+Steam Subscriber Agreement
+|
+Refunds
+|
+Cookies
+STORE
+Home
+Discovery Queue
+Wishlist
+Points Shop
+News
+Charts
+COMMUNITY
+Home
+Discussions
+Workshop
+Market
+Broadcasts
+About
+SUPPORT
+Install Steam
+sign in
+|
+language
+简体中文 (Simplified Chinese)
+繁體中文 (Traditional Chinese)
+日本語 (Japanese)
+한국어 (Korean)
+ไทย (Thai)
+Bahasa Indonesia (Indonesian)
+Bahasa Melayu (Malay)
+BETA
+Български (Bulgarian)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Español - España (Spanish - Spain)
+Español - Latinoamérica (Spanish - Latin America)
+Ελληνικά (Greek)
+Français (French)
+Italiano (Italian)
+Magyar (Hungarian)
+Nederlands (Dutch)
+Norsk (Norwegian)
+Polski (Polish)
+Português (Portuguese - Portugal)
+Português - Brasil (Portuguese - Brazil)
+Română (Romanian)
+Русский (Russian)
+Suomi (Finnish)
+Svenska (Swedish)
+Türkçe (Turkish)
+Tiếng Việt (Vietnamese)
+Українська (Ukrainian)
+Report a translation problem
+Store Page
+RiME
+All
+Discussions
+Screenshots
+Artwork
+Broadcasts
+Videos
+News
+Guides
+Reviews
+All
+Discussions
+Screenshots
+Artwork
+Broadcasts
+Videos
+News
+Guides
+Reviews
+RiME
+Store Page
+View Stats:
+Global Achievements
+RiME
+>
+General Discussions
+>
+Topic Details
+Kalvothe
+View Profile
+View Posts
+1 Jun, 2017 @ 5:24pm
+Report this post
+RiME v1.01 update
+Hi everybody,
+We wanted to give you an update regarding the use of Denuvo anti-tamper software in RiME. Today, we got word that there was a crack which would bypass Denuvo. Upon receiving this news, we worked to test this and verify that it was, in fact, the case. We have now confirmed that it is. As such, we at Team Grey Box are following through on our promise from earlier this week that we will be replacing the current build of RiME with one that does not contain Denuvo. Please make sure your PC version of RiME has been updated, if it has not done so automatically.
+Team Grey Box is also committed both to supporting the games we publish and to our player base, so this is definitely not the final update you will see with RiME. We are currently working on our first traditional patch, which we are aiming to release next week. This patch will provide a fix for the VR initialization bug, and will also provide a fix to some specific instances of hardware-related crashes, among other updates which will be detailed at the time. We sincerely thank players who have reported issues, and a special thanks to those who have worked with us to provide additional details, DxDiag files, and the like. We want to continue giving you the best product we possibly can.
+Please feel free to reach out to us with any additional questions or concerns you may have. Thanks again for your continued support!
+<
+>
+Showing
+1
+-
+15
+of
+204
+comments
+will smit
+View Profile
+View Posts
+1 Jun, 2017 @ 5:32pm
+Report this post
+what no no no no no i love drm what happened no why why
+#1
+PUN PUN
+View Profile
+View Posts
+1 Jun, 2017 @ 5:32pm
+Report this post
+Shouldn't have been implemented in the first place so crazily!
+#2
+Debug
+View Profile
+View Posts
+1 Jun, 2017 @ 5:35pm
+Report this post
+Originally posted by
+tree
+:
+what no no no no no i love drm what happened no why why
+You're kidding, right? What good did this DRM even do? The game was cracked in less than a week.
+#3
+Titanone01
+View Profile
+View Posts
+1 Jun, 2017 @ 6:08pm
+Report this post
+Please, i notice some input lag or bad response on Dualshock 4 controls, character is not reactive to soft movement or walking, is just passing 0-100 and the camera acceleration is so unconfortable, check this please.
+#4
+Sneaky (Stephan)
+View Profile
+View Posts
+1 Jun, 2017 @ 6:10pm
+Report this post
+It looks to me like you're trying to have your cake and eat it too.
+You're in for some major backlash if after denuvo is removed those long load times suddenly become a lot shorter, or if the performance noticably improves, especially after that insulting PR spin for why you had denuvo.
+#5
+zouhair
+View Profile
+View Posts
+1 Jun, 2017 @ 6:13pm
+Report this post
+♥♥♥♥, just noticed you are the makers of Sexy Brutale. I really wanted to buy that. ♥♥♥♥
+Now I am not playing either.
+Why the ♥♥♥♥ would you do that.
+Utter stupidity.
+#6
+KssioAug
+View Profile
+View Posts
+1 Jun, 2017 @ 6:18pm
+Report this post
+Amazing. That's great. You should not even bother with denuvo to start with, but I'm glad you're taking action about removing it and reporting about that so soon.
+#7
+cosporcos
+View Profile
+View Posts
+1 Jun, 2017 @ 6:27pm
+Report this post
+Good on the devs / publisher for the quick reaction.
+For me DRM only means that while i'm paying i'm getting a worse experience than those who pirated, Inject software on our systems to bog down our experience with software to protect your product isn't ok. I agree with defending your copyright, protecting your product, but not with malware. You are already using steam as a DRM, steam is an accepted DRM because it provides much more than Digital Rights Management to devs, they provide players chat, voice chat, an online storefront, streaming, cosmetic stuff, achivement stuff. Denuvo and other intrusive software for DRM only serves to punnish those who pay for the product because as you can see now less than a week later... pirates are playing a version without denuvo nor steam.
+I don't pretend to have the solution for protecting your product, but malware isn't the correct one for sure. Do something like sirious sam 3 did (a permanent boss that didn't die for the pirated version players) or game dev tycoon (that caused the game progress to halt due to piracy of the games created while playing), those were funny and memorable examples of punishment to pirates rather than for paying customers...and then games like Witcher 3... for this one they didn't even need DRM or tricks they just did a great game that was saluted with good reception and sales .
+and no, i don't endorse piracy, look at my profile, i paid for my games, but i paid to get to have a good experience while playing, to see pirates having a better experience and sometimes even having to resort to use that version to be able to have a good experience at all is just insulting.
+Now good to see that your removed the malrware, now just correct the remaining issues with the game and you redeemed yourselves.
+Last edited by
+cosporcos
+;
+1 Jun, 2017 @ 6:33pm
+#8
+poope
+View Profile
+View Posts
+1 Jun, 2017 @ 6:28pm
+Report this post
+Look at all these losers crying who don't even own the game. At least the developer had the heart to remove Denuvo after crack. Personally I dislike Denuvo but don't pretend any of you who haven't purchased the game can put forth such criticism when most of you pirate anyway.
+Peace, blocking this discussion and won't be reading your replies. Just know you're really sad for ganging up on a dev who yes, shouldn't have included Denuvo in the first place, but had the heart to take it out. :^)
+#9
+Arthurion
+View Profile
+View Posts
+1 Jun, 2017 @ 6:29pm
+Report this post
+Still not "great". Did you guys need do this circus to get attetion to your game? Why don't release on DRM-Free plataforms like GOG in first place? Did the DRM-Free consumers are like "second class citizens" to you? Treat consumers like that and your image will be like an EA or Ubisoft, that practically everyone hates.
+Please, don't do this again. In the future games, put the money on QA instead.
+#10
+Chewie
+View Profile
+View Posts
+1 Jun, 2017 @ 6:32pm
+Report this post
+Well after the update I can confirm (at least for me) that initial loading time when launching the game has improved as well as in-game performance/smoothness.
+#11
+GalacticPimpWithaLimp
+View Profile
+View Posts
+1 Jun, 2017 @ 7:37pm
+Report this post
+I purchased and returned the version with Denuvo as it seemed like a terrible port. I have played the version that is Denuvo-free and the performance is night and day. For a developer to KNOWINGLY add DRM that many claim to cause performance issues (and is now confirmed) is a slap in the face to your customers. You guys lost a lot of $$ on a dumb assed decision that in the end did nothing more than push paying customers away.
+#CDProjektREDAreTheRealMVP's!
+BRAVO!!
+/golfclap
+#12
+Arthurion
+View Profile
+View Posts
+1 Jun, 2017 @ 7:53pm
+Report this post
+Originally posted by
+Kaldaien
+:
+Originally posted by
+Astorius
+:
+Still not "great". Did you guys need do this circus to get attetion to your game? Why don't release on DRM-Free plataforms like GOG in first place? Did the DRM-Free consumers are like "second class citizens" to you? Treat consumers like that and your image will be like an EA or Ubisoft, that practically everyone hates.
+Please, don't do this again. In the future games, put the money on QA instead.
+The game still has DRM. Denuvo was never DRM and the Steam DRM still exists even after Denuvo is removed. So that's why they don't release games on GOG.
+GOG is DRM too, by the way. 30 days after you purchase your game, the license terms change. DRM-free software doesn't do that.
+Oh god, this again. Yeah Denuvo isn't DRM, right right....
+GOG being DRM is the same that saying that the disc where your game comes is a DRM too, since when the disc become's unreadable you can't play the game. I'll try explain in a simple way:
+1) When you buy a game on Steam, the game is bound to your account. If you want play this game in another PC, you'll need first login in the Steam App with you Steam Account. This is DRM.
+2) When you buy on GOG, you can download a installer, put it on your pendrive, and install on another PC without even acessing the internet. You don't need to prove to someone that the product that you purchased is truly yours.
+Got it?
+Last edited by
+Arthurion
+;
+1 Jun, 2017 @ 8:17pm
+#13
+AbSybKes
+View Profile
+View Posts
+1 Jun, 2017 @ 8:01pm
+Report this post
+Originally posted by
+Kaldaien
+:
+Originally posted by
+Astorius
+:
+Still not "great". Did you guys need do this circus to get attetion to your game? Why don't release on DRM-Free plataforms like GOG in first place? Did the DRM-Free consumers are like "second class citizens" to you? Treat consumers like that and your image will be like an EA or Ubisoft, that practically everyone hates.
+Please, don't do this again. In the future games, put the money on QA instead.
+The game still has DRM. Denuvo was never DRM and the Steam DRM still exists even after Denuvo is removed. So that's why they don't release games on GOG.
+GOG is DRM too, by the way. 30 days after you purchase your game, the license terms change. DRM-free software doesn't do that.
+http://store.steampowered.com/app/429660/Tales_of_Berseria/
+Lookie here. Denuvo IS DRM. I mean, doesn't "DRM" stand for "Digital Rights Management" or am I remembering wrongly? And that's what Denuvo's doing, limiting the buyers digital rights to the software - managing it in other words...just a lil play on words through, Denuvo is identified as DRM by Steam, Bamco, Bethesda and others, so if you wanna say it wasn't such, articulate yourself in a way that clearly shows those arguments.
+#14
+Skexer
+View Profile
+View Posts
+1 Jun, 2017 @ 8:15pm
+Report this post
+Haha nice one, that was fast. You really did make yourselves a target with this Denuvo dilemna.
+Hope you get your money back from Denuvo. They have failed once more.
+A lower price, no denuvo and better performance would have probably helped your sales... Thanks for keeping the promise I might buy the game after all.
+#15
+<
+>
+Showing
+1
+-
+15
+of
+204
+comments
+Per page:
+15
+30
+50
+RiME
+>
+General Discussions
+>
+Topic Details
+Date Posted:
+1 Jun, 2017 @ 5:24pm
+Posts:
+204
+Discussions Rules and Guidelines
+More discussions
+2
+Pleas add cards.
+19
+FPS increase after Denuro got removed
+3
+Linux version?
+1
+Thank you devs
+Report this post
+REASON
+Note: This is ONLY to be used to report spam, advertising, and problematic (harassment, fighting, or rude) posts.

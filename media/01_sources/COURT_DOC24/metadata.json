@@ -1,0 +1,13 @@
+{
+  "id": "COURT_DOC24",
+  "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.24.0.pdf",
+  "retrieved_at": "2026-11-08T04:48:54.376610+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.24.0.pdf",
+  "content_type": "application/pdf",
+  "path": "media/01_sources/COURT_DOC24/original.pdf",
+  "bytes": 186308,
+  "sha256": "9ddd8263fb9567e45a7796af6cc62662e00298a451259ffc7d39ac334aa6c6f4"
+}

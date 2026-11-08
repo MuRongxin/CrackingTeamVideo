@@ -1,0 +1,20 @@
+{
+  "id": "NEW_COMMONS_DATASETTE_img01",
+  "kind": "image",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Commodore_1530_Datasette_C64.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+  "path": "media/03_stills/source_images/NEW_COMMONS_DATASETTE_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Commodore_1530_Datasette_C64.jpg",
+  "source_code": "NEW_COMMONS_DATASETTE",
+  "rights": "CC BY 3.0",
+  "author": "Bilby",
+  "retrieved_at": "2026-11-08T04:43:39.926088+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Commodore_1530_Datasette_C64.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+  "width": 3000,
+  "height": 3000,
+  "format": "JPEG",
+  "bytes": 2358945,
+  "sha256": "f76adb859e155f49095391d80631395ceaf7abebac6f328097b6628b2a1b1259",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/"
+}

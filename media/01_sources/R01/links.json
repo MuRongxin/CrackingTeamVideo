@@ -1,0 +1,2105 @@
+{
+  "links": [
+    {
+      "text": "Deutsch",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html?lang=de_DE"
+    },
+    {
+      "text": "English",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html?lang=en_US"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "API",
+      "url": "https://www.xrel.to/wiki/1681/API.html"
+    },
+    {
+      "text": "Status",
+      "url": "https://www.xrel.to/wiki/7106/statuspage.html"
+    },
+    {
+      "text": "Hilfe",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Kontakt",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/movie/46260/Red-Sonja-2025.html"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Scene-Releases",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "P2P-Releases",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Suche",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Aktuell beliebt",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "Top-Filme",
+      "url": "https://www.xrel.to/movie-topmovie-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/movie-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/movie-uhd-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/movie-retail-release-list.html"
+    },
+    {
+      "text": "3D",
+      "url": "https://www.xrel.to/movie-3d-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/movie-english-release-list.html"
+    },
+    {
+      "text": "Musik-DVDs",
+      "url": "https://www.xrel.to/movie-mdvdr-release-list.html"
+    },
+    {
+      "text": "x264",
+      "url": "https://www.xrel.to/movie-x264-release-list.html"
+    },
+    {
+      "text": "x265",
+      "url": "https://www.xrel.to/movie-x265-release-list.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/movie-dvdr-release-list.html"
+    },
+    {
+      "text": "DivX/XviD",
+      "url": "https://www.xrel.to/movie-xvid-release-list.html"
+    },
+    {
+      "text": "(S)VCD",
+      "url": "https://www.xrel.to/movie-vcd-release-list.html"
+    },
+    {
+      "text": "XXX-Filme",
+      "url": "https://www.xrel.to/xxx-xxx-release-list.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/game-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/game-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/game-linux-release-list.html"
+    },
+    {
+      "text": "Updates",
+      "url": "https://www.xrel.to/game-update-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "ISO",
+      "url": "https://www.xrel.to/software-iso-release-list.html"
+    },
+    {
+      "text": "E-Learning",
+      "url": "https://www.xrel.to/software-elearning-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/software-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/software-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/software-linux-release-list.html"
+    },
+    {
+      "text": "Software Add-Ons",
+      "url": "https://www.xrel.to/software-softaddon-release-list.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "PlayStation 4",
+      "url": "https://www.xrel.to/console-ps4-release-list.html"
+    },
+    {
+      "text": "PlayStation 5",
+      "url": "https://www.xrel.to/console-ps5-release-list.html"
+    },
+    {
+      "text": "Xbox One",
+      "url": "https://www.xrel.to/console-xboxone-release-list.html"
+    },
+    {
+      "text": "Xbox Series X|S",
+      "url": "https://www.xrel.to/console-xboxseriesx-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/console-nsw-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch 2",
+      "url": "https://www.xrel.to/console-nsw2-release-list.html"
+    },
+    {
+      "text": "PlayStation 1",
+      "url": "https://www.xrel.to/console-ps1-release-list.html"
+    },
+    {
+      "text": "PlayStation 2",
+      "url": "https://www.xrel.to/console-ps2-release-list.html"
+    },
+    {
+      "text": "PlayStation 3",
+      "url": "https://www.xrel.to/console-ps3-release-list.html"
+    },
+    {
+      "text": "Xbox 360-DLC",
+      "url": "https://www.xrel.to/console-x360dlc-release-list.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/console-xbox360-release-list.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/console-wii-release-list.html"
+    },
+    {
+      "text": "WiiWare / VC / Emu",
+      "url": "https://www.xrel.to/console-wiidl-release-list.html"
+    },
+    {
+      "text": "PlayStation Portable",
+      "url": "https://www.xrel.to/console-psp-release-list.html"
+    },
+    {
+      "text": "Nintendo DS/3DS",
+      "url": "https://www.xrel.to/console-nds-release-list.html"
+    },
+    {
+      "text": "Xbox",
+      "url": "https://www.xrel.to/console-xbox-release-list.html"
+    },
+    {
+      "text": "GameCube",
+      "url": "https://www.xrel.to/console-gamecube-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/tv-tvseries-release-list.html"
+    },
+    {
+      "text": "Dokumentationen",
+      "url": "https://www.xrel.to/tv-tvdoc-release-list.html"
+    },
+    {
+      "text": "Fernsehshows",
+      "url": "https://www.xrel.to/tv-tvshow-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/tv-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/tv-uhd-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/tv-english-release-list.html"
+    },
+    {
+      "text": "TV-Sport",
+      "url": "https://www.xrel.to/tv-tvsport-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/tv-retail-release-list.html"
+    },
+    {
+      "text": "Custom Subbed (OmU)",
+      "url": "https://www.xrel.to/tv-tvsubbed-release-list.html"
+    },
+    {
+      "text": "Spezial",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/uhd-release-list.html"
+    },
+    {
+      "text": "iNTERNAL",
+      "url": "https://www.xrel.to/internal-release-list.html"
+    },
+    {
+      "text": "Anime",
+      "url": "https://www.xrel.to/anime-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/retail-release-list.html"
+    },
+    {
+      "text": "Aktuell beliebt",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/p2p/15-movie/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/6-movie-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/5-movie-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/13-movie-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/18-movie-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/1-movie-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/2-movie-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/25-movie-hd-2160p/releases.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/p2p/12-software/releases.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/p2p/10-console/releases.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/p2p/-console-xbox360/releases.html"
+    },
+    {
+      "text": "PlayStation",
+      "url": "https://www.xrel.to/p2p/21-console-playstation/releases.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/p2p/22-console-wii/releases.html"
+    },
+    {
+      "text": "PlayStation Portable",
+      "url": "https://www.xrel.to/p2p/23-console-psp/releases.html"
+    },
+    {
+      "text": "Nintendo DS/3DS",
+      "url": "https://www.xrel.to/p2p/24-console-nds/releases.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/p2p/27-console-nsw/releases.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/p2p/16-tv/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/8-tv-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/7-tv-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/14-tv-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/19-tv-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/3-tv-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/4-tv-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/26-tv-hd-2160p/releases.html"
+    },
+    {
+      "text": "NFO posten",
+      "url": "https://www.xrel.to/p2p/addrls.html"
+    },
+    {
+      "text": "Übersicht",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "xREL-Top-100",
+      "url": "https://www.xrel.to/entertainment-top.html"
+    },
+    {
+      "text": "Heiß Erwartet",
+      "url": "https://www.xrel.to/entertainment-awaited.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Trailer",
+      "url": "https://www.xrel.to/entertainment-trailers.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Einloggen",
+      "url": "https://www.xrel.to/login.html"
+    },
+    {
+      "text": "Noch keinen Account?",
+      "url": "https://www.xrel.to/signup.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Vampire: The Masquerade - Bloodlines 2",
+      "url": "https://www.xrel.to/title/146821/Vampire-The-Masquerade-Bloodlines-2.html"
+    },
+    {
+      "text": "Vampire.The.Ma...wer.and.the.Flame.Update.v53301-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627260/Vampire-The-Masquerade-Bloodlines-2-The-Flower-and-the-Flame-Update-v53301-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627260/Vampire-The-Masquerade-Bloodlines-2-The-Flower-and-the-Flame-Update-v53301-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Sunken Realms",
+      "url": "https://www.xrel.to/title/11292/Sunken-Realms.html"
+    },
+    {
+      "text": "Sunken.Realms.Update.v1.13-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627261/Sunken-Realms-Update-v1-13-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627261/Sunken-Realms-Update-v1-13-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Star Wars Zero Company",
+      "url": "https://www.xrel.to/title/142549/Star-Wars-Zero-Company.html"
+    },
+    {
+      "text": "STAR.WARS.Zero.Company.Update.v1.2-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627262/STAR-WARS-Zero-Company-Update-v1-2-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627262/STAR-WARS-Zero-Company-Update-v1-2-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Let It Die",
+      "url": "https://www.xrel.to/title/142111/Let-It-Die.html"
+    },
+    {
+      "text": "LET.IT.DIE.Update.v5.0.5.0-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627263/LET-IT-DIE-Update-v5-0-5-0-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627263/LET-IT-DIE-Update-v5-0-5-0-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Honeycomb: The World Beyond",
+      "url": "https://www.xrel.to/title/232600/Honeycomb-The-World-Beyond.html"
+    },
+    {
+      "text": "Honeycomb.The.World.Beyond.Update.v1.0.53331-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627264/Honeycomb-The-World-Beyond-Update-v1-0-53331-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627264/Honeycomb-The-World-Beyond-Update-v1-0-53331-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Frontier Paladin",
+      "url": "https://www.xrel.to/title/146393/Frontier-Paladin.html"
+    },
+    {
+      "text": "Frontier.Paladin.The.Celestial.War-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627265/Frontier-Paladin-The-Celestial-War-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627265/Frontier-Paladin-The-Celestial-War-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Elden Ring",
+      "url": "https://www.xrel.to/title/155009/Elden-Ring.html"
+    },
+    {
+      "text": "ELDEN.RING.Tarnished.Edition.Update.v1.17.2-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627266/ELDEN-RING-Tarnished-Edition-Update-v1-17-2-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627266/ELDEN-RING-Tarnished-Edition-Update-v1-17-2-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Dragon's Dogma 2",
+      "url": "https://www.xrel.to/title/230545/Dragon-s-Dogma-2.html"
+    },
+    {
+      "text": "Dragons.Dogma.2.Dark.Arisen.Update.v4.2-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627267/Dragons-Dogma-2-Dark-Arisen-Update-v4-2-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627267/Dragons-Dogma-2-Dark-Arisen-Update-v4-2-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Crime Boss: Rockay City",
+      "url": "https://www.xrel.to/title/228974/Crime-Boss-Rockay-City.html"
+    },
+    {
+      "text": "Crime.Boss.Rockay.City.Update.v1.22.incl.DLC-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627268/Crime-Boss-Rockay-City-Update-v1-22-incl-DLC-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627268/Crime-Boss-Rockay-City-Update-v1-22-incl-DLC-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "CarX Street",
+      "url": "https://www.xrel.to/title/234490/CarX-Street.html"
+    },
+    {
+      "text": "CarX.Street.Midnight.Rush.Update.v1.16.1-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627269/CarX-Street-Midnight-Rush-Update-v1-16-1-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627269/CarX-Street-Midnight-Rush-Update-v1-16-1-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Carmageddon: Rogue Shift",
+      "url": "https://www.xrel.to/title/115756/Carmageddon-Rogue-Shift.html"
+    },
+    {
+      "text": "Carmageddon.Rogue.Shift.Update.v1.5.3-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627270/Carmageddon-Rogue-Shift-Update-v1-5-3-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627270/Carmageddon-Rogue-Shift-Update-v1-5-3-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Blades of Fire",
+      "url": "https://www.xrel.to/title/236697/Blades-of-Fire.html"
+    },
+    {
+      "text": "Blades.of.Fire.Update.v2.0.3.0-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627271/Blades-of-Fire-Update-v2-0-3-0-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627271/Blades-of-Fire-Update-v2-0-3-0-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Escape Academy 2: Back 2 School",
+      "url": "https://www.xrel.to/title/209227/Escape-Academy-2-Back-2-School.html"
+    },
+    {
+      "text": "Escape.Academy.2.Back.2.School-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3627090/Escape-Academy-2-Back-2-School-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627090/Escape-Academy-2-Back-2-School-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Arma Reforger",
+      "url": "https://www.xrel.to/title/226939/Arma-Reforger.html"
+    },
+    {
+      "text": "Arma.Reforger.Rally-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3626271/Arma-Reforger-Rally-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626271/Arma-Reforger-Rally-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Heavy Cargo - The Truck Simulator",
+      "url": "https://www.xrel.to/title/234934/Heavy-Cargo-The-Truck-Simulator.html"
+    },
+    {
+      "text": "Heavy.Cargo.The.Truck.Simulator.Heavy.Defense-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3626272/Heavy-Cargo-The-Truck-Simulator-Heavy-Defense-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626272/Heavy-Cargo-The-Truck-Simulator-Heavy-Defense-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Lost Host",
+      "url": "https://www.xrel.to/title/122053/Lost-Host.html"
+    },
+    {
+      "text": "Lost.Host-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3626273/Lost-Host-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626273/Lost-Host-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Victoria 3",
+      "url": "https://www.xrel.to/title/223706/Victoria-3.html"
+    },
+    {
+      "text": "Victoria.3.State.and.Revolution-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3626274/Victoria-3-State-and-Revolution-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626274/Victoria-3-State-and-Revolution-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Void/Breaker",
+      "url": "https://www.xrel.to/title/31405/Void-Breaker.html"
+    },
+    {
+      "text": "VOID.BREAKER-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625660/VOID-BREAKER-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625660/VOID-BREAKER-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Lightyear Frontier",
+      "url": "https://www.xrel.to/title/237642/Lightyear-Frontier.html"
+    },
+    {
+      "text": "Lightyear.Frontier-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625661/Lightyear-Frontier-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625661/Lightyear-Frontier-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Worship",
+      "url": "https://www.xrel.to/title/120322/Worship.html"
+    },
+    {
+      "text": "Worship-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625649/Worship-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625649/Worship-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Sir Whoopass: Immortal Death",
+      "url": "https://www.xrel.to/title/227587/Sir-Whoopass-Immortal-Death.html"
+    },
+    {
+      "text": "Sir.Whoopass.Immortal.Death.Rumble-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625654/Sir-Whoopass-Immortal-Death-Rumble-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625654/Sir-Whoopass-Immortal-Death-Rumble-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Silica",
+      "url": "https://www.xrel.to/title/139143/Silica.html"
+    },
+    {
+      "text": "Silica-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625138/Silica-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625138/Silica-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Godzilla: Destroy All Monsters Melee Remast...",
+      "url": "https://www.xrel.to/title/29639/Godzilla-Destroy-All-Monsters-Melee-Remastered.html"
+    },
+    {
+      "text": "Godzilla.Destroy.All.Monsters.Melee.Remastered-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625139/Godzilla-Destroy-All-Monsters-Melee-Remastered-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625139/Godzilla-Destroy-All-Monsters-Melee-Remastered-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Railroad Corporation 2",
+      "url": "https://www.xrel.to/title/194546/Railroad-Corporation-2.html"
+    },
+    {
+      "text": "Railroad.Corporation.2.Winter.Expedition-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625096/Railroad-Corporation-2-Winter-Expedition-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625096/Railroad-Corporation-2-Winter-Expedition-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Age of Wonders 4",
+      "url": "https://www.xrel.to/title/228724/Age-of-Wonders-4.html"
+    },
+    {
+      "text": "Age.of.Wonders.4.The.Silver.Seas-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625097/Age-of-Wonders-4-The-Silver-Seas-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625097/Age-of-Wonders-4-The-Silver-Seas-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "RoadCraft",
+      "url": "https://www.xrel.to/title/236379/RoadCraft.html"
+    },
+    {
+      "text": "RoadCraft.Foundations-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625102/RoadCraft-Foundations-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625102/RoadCraft-Foundations-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Marvel Tokon: Fighting Souls",
+      "url": "https://www.xrel.to/title/238212/Marvel-Tokon-Fighting-Souls.html"
+    },
+    {
+      "text": "MARVEL.Tok...hting.Souls.Update.v1.4.2.incl.DLC-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3625111/MARVEL-Tokon-Fighting-Souls-Update-v1-4-2-incl-DLC-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625111/MARVEL-Tokon-Fighting-Souls-Update-v1-4-2-incl-DLC-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Wartales",
+      "url": "https://www.xrel.to/title/223930/Wartales.html"
+    },
+    {
+      "text": "Wartales.Fires.in.the.Capital.Update.v1.0.48274-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624793/Wartales-Fires-in-the-Capital-Update-v1-0-48274-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624793/Wartales-Fires-in-the-Capital-Update-v1-0-48274-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Trail Out",
+      "url": "https://www.xrel.to/title/227739/Trail-Out.html"
+    },
+    {
+      "text": "TRAIL.OUT.Update.v5.5-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624794/TRAIL-OUT-Update-v5-5-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624794/TRAIL-OUT-Update-v5-5-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Motorslice",
+      "url": "https://www.xrel.to/title/50185/Motorslice.html"
+    },
+    {
+      "text": "MOTORSLICE.Update.v1.06-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624795/MOTORSLICE-Update-v1-06-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624795/MOTORSLICE-Update-v1-06-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Master of Command",
+      "url": "https://www.xrel.to/title/238966/Master-of-Command.html"
+    },
+    {
+      "text": "Master.of....nd.The.Lion.and.Eagle.Update.v2.0.3-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624796/Master-of-Command-The-Lion-and-Eagle-Update-v2-0-3-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624796/Master-of-Command-The-Lion-and-Eagle-Update-v2-0-3-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Maseylia: Echoes of the Past",
+      "url": "https://www.xrel.to/title/208729/Maseylia-Echoes-of-the-Past.html"
+    },
+    {
+      "text": "Maseylia.Echoes.of.the.Past.v20261027-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624797/Maseylia-Echoes-of-the-Past-v20261027-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624797/Maseylia-Echoes-of-the-Past-v20261027-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Lou's Lagoon",
+      "url": "https://www.xrel.to/title/16277/Lou-s-Lagoon.html"
+    },
+    {
+      "text": "Lous.Lagoon.Update.v1.2.2-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624798/Lous-Lagoon-Update-v1-2-2-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624798/Lous-Lagoon-Update-v1-2-2-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Lady Death Demonicron",
+      "url": "https://www.xrel.to/title/211227/Lady-Death-Demonicron.html"
+    },
+    {
+      "text": "Lady.Death.Demonicron.Update.v0.243-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624799/Lady-Death-Demonicron-Update-v0-243-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624799/Lady-Death-Demonicron-Update-v0-243-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "House Flipper Remastered Collection",
+      "url": "https://www.xrel.to/title/208251/House-Flipper-Remastered-Collection.html"
+    },
+    {
+      "text": "House.Flip...mastered.Collection.Update.v1.26303-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624800/House-Flipper-Remastered-Collection-Update-v1-26303-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624800/House-Flipper-Remastered-Collection-Update-v1-26303-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Halloween: The Game",
+      "url": "https://www.xrel.to/title/113024/Halloween-The-Game.html"
+    },
+    {
+      "text": "Halloween.The.Game.Update.v1.2.3-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624801/Halloween-The-Game-Update-v1-2-3-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624801/Halloween-The-Game-Update-v1-2-3-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Gunsmith Simulator",
+      "url": "https://www.xrel.to/title/234888/Gunsmith-Simulator.html"
+    },
+    {
+      "text": "Gunsmith.Simulator.Heavy.Metal.Update.v1.7.18-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624802/Gunsmith-Simulator-Heavy-Metal-Update-v1-7-18-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624802/Gunsmith-Simulator-Heavy-Metal-Update-v1-7-18-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Dreadful River",
+      "url": "https://www.xrel.to/title/239962/Dreadful-River.html"
+    },
+    {
+      "text": "Dreadful.River.v1.1.1.0-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624803/Dreadful-River-v1-1-1-0-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624803/Dreadful-River-v1-1-1-0-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Bus Simulator 27",
+      "url": "https://www.xrel.to/title/238124/Bus-Simulator-27.html"
+    },
+    {
+      "text": "Bus.Simulator.27.Update.v1.20-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624804/Bus-Simulator-27-Update-v1-20-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624804/Bus-Simulator-27-Update-v1-20-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "You Are Empty",
+      "url": "https://www.xrel.to/title/18762/You-Are-Empty.html"
+    },
+    {
+      "text": "You.Are.Empty.Absolute.Edition.Hotfix.3-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624044/You-Are-Empty-Absolute-Edition-Hotfix-3-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624044/You-Are-Empty-Absolute-Edition-Hotfix-3-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Virtua Fighter 5 R.E.V.O.",
+      "url": "https://www.xrel.to/title/235960/Virtua-Fighter-5-R-E-V-O.html"
+    },
+    {
+      "text": "Virtua.Fi....5.R.E.V.O.World.Stage.Update.v1.12-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624045/Virtua-Fighter-5-R-E-V-O-World-Stage-Update-v1-12-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624045/Virtua-Fighter-5-R-E-V-O-World-Stage-Update-v1-12-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Timberborn",
+      "url": "https://www.xrel.to/title/240029/Timberborn.html"
+    },
+    {
+      "text": "Timberborn.Update.v1.1.2.8-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624046/Timberborn-Update-v1-1-2-8-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624046/Timberborn-Update-v1-1-2-8-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "The Spell Brigade",
+      "url": "https://www.xrel.to/title/239226/The-Spell-Brigade.html"
+    },
+    {
+      "text": "The.Spell.Brigade.Update.v1.2.1.20135-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624047/The-Spell-Brigade-Update-v1-2-1-20135-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624047/The-Spell-Brigade-Update-v1-2-1-20135-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "url": "https://www.xrel.to/title/195577/S-T-A-L-K-E-R-2-Heart-of-Chornobyl.html"
+    },
+    {
+      "text": "S.T.A.L.K.E...hornobyl.Cost.of.Hope.Update.v2.1-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624049/S-T-A-L-K-E-R-2-Heart-of-Chornobyl-Cost-of-Hope-Update-v2-1-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624049/S-T-A-L-K-E-R-2-Heart-of-Chornobyl-Cost-of-Hope-Update-v2-1-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Opus: Prism Peak",
+      "url": "https://www.xrel.to/title/187169/Opus-Prism-Peak.html"
+    },
+    {
+      "text": "OPUS.Prism.Peak.Update.v1.35.4.87-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624050/OPUS-Prism-Peak-Update-v1-35-4-87-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624050/OPUS-Prism-Peak-Update-v1-35-4-87-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Mexican Ninja",
+      "url": "https://www.xrel.to/title/26019/Mexican-Ninja.html"
+    },
+    {
+      "text": "Mexican.Ninja.Update.v1.0.02056-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624051/Mexican-Ninja-Update-v1-0-02056-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624051/Mexican-Ninja-Update-v1-0-02056-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Metal Gear Solid: Peace Walker - Master Col...",
+      "url": "https://www.xrel.to/title/165148/Metal-Gear-Solid-Peace-Walker-Master-Collection-Version.html"
+    },
+    {
+      "text": "METAL.GEAR.SO...ollection.Version.Update.v1.3.2-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624052/METAL-GEAR-SOLID-Peace-Walker-Master-Collection-Version-Update-v1-3-2-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624052/METAL-GEAR-SOLID-Peace-Walker-Master-Collection-Version-Update-v1-3-2-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Metal Gear Solid 4: Guns of the Patriots -...",
+      "url": "https://www.xrel.to/title/198587/Metal-Gear-Solid-4-Guns-of-the-Patriots-Master-Collection-Version.html"
+    },
+    {
+      "text": "METAL.GEAR.SOL...llection.Version.Update.v1.4.1-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624053/METAL-GEAR-SOLID-4-Guns-of-the-Patriots-Master-Collection-Version-Update-v1-4-1-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624053/METAL-GEAR-SOLID-4-Guns-of-the-Patriots-Master-Collection-Version-Update-v1-4-1-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "EA Sports College Football 27",
+      "url": "https://www.xrel.to/title/71990/EA-Sports-College-Football-27.html"
+    },
+    {
+      "text": "EA.SPORTS....Football.27.Update.v1.0.141.13368-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624054/EA-SPORTS-College-Football-27-Update-v1-0-141-13368-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624054/EA-SPORTS-College-Football-27-Update-v1-0-141-13368-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Curse of Resthaven",
+      "url": "https://www.xrel.to/title/204819/Curse-of-Resthaven.html"
+    },
+    {
+      "text": "Curse.of.Resthaven-RUNE",
+      "url": "https://www.xrel.to/game-nfo/3624055/Curse-of-Resthaven-RUNE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624055/Curse-of-Resthaven-RUNE.html"
+    },
+    {
+      "text": "RUNE",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "02",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html?page=2"
+    },
+    {
+      "text": "03",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html?page=3"
+    },
+    {
+      "text": "04",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html?page=4"
+    },
+    {
+      "text": "84",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html?page=84"
+    },
+    {
+      "text": "vorwärts",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html?page=2"
+    },
+    {
+      "text": "21. Mai 2020",
+      "url": "https://www.xrel.to/game-nfo/2113112/Age-of-Empires-II-Definitive-Edition-GERMAN-RUNE.html"
+    },
+    {
+      "text": "7. Nov. 2026",
+      "url": "https://www.xrel.to/game-nfo/3627260/Vampire-The-Masquerade-Bloodlines-2-The-Flower-and-the-Flame-Update-v53301-RUNE.html"
+    },
+    {
+      "text": "CONTRO...Update.v1.4.2-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475798"
+    },
+    {
+      "text": "Keeper.Update.v1226428-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475682"
+    },
+    {
+      "text": "Keeper.Update.v1226428-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475675"
+    },
+    {
+      "text": "Borderlands.4-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475434"
+    },
+    {
+      "text": "NBA.2K27-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475318"
+    },
+    {
+      "text": "Transport.Fever.3-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475277"
+    },
+    {
+      "text": "Dragon...2.Dark.Arisen-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475098"
+    },
+    {
+      "text": "Gear.Club.Unlimited.3-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475080"
+    },
+    {
+      "text": "Clive.B...iser.Revival-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475065"
+    },
+    {
+      "text": "Gears.of.War.E-Day-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=475048"
+    },
+    {
+      "text": "CONTRO...Update.v1.4.1-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474991"
+    },
+    {
+      "text": "CONTRO...Update.v1.4.0-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474931"
+    },
+    {
+      "text": "Gothic.1....5.Hotfix.2-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474898"
+    },
+    {
+      "text": "STAR.WARS.Zero.Company-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474895"
+    },
+    {
+      "text": "STAR.WARS.Zero.Company-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474888"
+    },
+    {
+      "text": "CONTROL.Resonant-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474816"
+    },
+    {
+      "text": "CONTROL.Resonant-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474810"
+    },
+    {
+      "text": "SILENT.HILL.Townfall-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474769"
+    },
+    {
+      "text": "Assassins.Creed.Mirage-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474768"
+    },
+    {
+      "text": "Assassins.Creed.Mirage-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474724"
+    },
+    {
+      "text": "Assassins.Creed.Mirage-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474722"
+    },
+    {
+      "text": "Assassins.Creed.Mirage-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474700"
+    },
+    {
+      "text": "Assassins.Creed.Mirage-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474698"
+    },
+    {
+      "text": "Assassins.Creed.Mirage-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474695"
+    },
+    {
+      "text": "Assassins.Creed.Mirage-RUNE",
+      "url": "https://www.xrel.to/comments-goto.html?id=474694"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Suche",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "Hilfe",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Kontakt",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Übersicht",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Ja!",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "Nein!",
+      "url": "https://www.google.de/"
+    },
+    {
+      "text": "Yes!",
+      "url": "https://www.xrel.to/group-RUNE-release-list.html"
+    },
+    {
+      "text": "No!",
+      "url": "https://www.google.com/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/de_DE.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/en_US.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/de_DE.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/arrow_down.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/bg/search_autocomplete_arrow.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/toolbar_search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Laden...",
+      "url": "https://www.xrel.to/static/img/icons/ajax_loader.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/mini_scene.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/xrel_logo3.png",
+      "srcset": ""
+    }
+  ]
+}

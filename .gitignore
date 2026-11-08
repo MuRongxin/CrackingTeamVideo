@@ -1,0 +1,27 @@
+# Small media files remain versionable. Refresh the size-based list with:
+# python3 media/00_ledger/update_media_ignore.py
+/media/00_ledger/*_probe.txt
+
+# BEGIN LARGE MEDIA (generated)
+# Threshold: >= 10 MiB
+/media/01_sources/G11/original.pdf
+/media/02_footage/EX02_STEAM_33230_trailer1_394p.mp4
+/media/02_footage/EX13_STEAM_1196590_trailer1_720p.mp4
+/media/02_footage/EX16_STEAM_1687950_trailer1_720p.mp4
+/media/02_footage/FL09_DM_x9fr6hm.mp4
+/media/02_footage/FL22_NODE_-VhecrFsZjc.mp4
+/media/02_footage/OP01_STEAM_524220_trailer2_720p.mp4
+# END LARGE MEDIA (generated)
+
+# Generated renders and temporary download files.
+/renders/
+/output/
+*.part
+*.part-*
+*.ytdl
+*.tmp
+
+# Local caches.
+__pycache__/
+*.py[cod]
+.DS_Store

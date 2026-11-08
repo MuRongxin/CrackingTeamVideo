@@ -1,0 +1,189 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 2,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "133194926": {
+        "pageid": 133194926,
+        "ns": 6,
+        "title": "File:48K-64-QAM-8-32KHZ-PsalmPhotoZip.wav",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/48K-64-QAM-8-32KHZ-PsalmPhotoZip.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:48K-64-QAM-8-32KHZ-PsalmPhotoZip.wav",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133194926",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-19 23:05:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "48K-64-QAM-8-32KHZ-PsalmPhotoZip",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Modems|Modulation|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "48K 64-QAM 8 32KHZ data encoded as an audio file. The data is a zip file with some images with text from the Book of Psalms. The WAV file can be decoded with amodem <a rel=\"nofollow\" class=\"external free\" href=\"https://github.com/romanz/amodem\">https://github.com/romanz/amodem</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-06-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HamRadioOperator73&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HamRadioOperator73 (page does not exist)\">HamRadioOperator73</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "133997462": {
+        "pageid": 133997462,
+        "ns": 6,
+        "title": "File:Bell202-2400Baud-Psalm118-JPG.ogg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bell202-2400Baud-Psalm118-JPG.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bell202-2400Baud-Psalm118-JPG.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133997462",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-05 21:37:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bell202-2400Baud-Psalm118-JPG",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Modems|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bell 202 2400 encoded file of a vintage photo of Psalm 118. Can be decoded with minimodem.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HamRadioOperator73&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HamRadioOperator73 (page does not exist)\">HamRadioOperator73</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[launcher]
+game=game.exe
+driver_intel=driver_intel/hyperkd.sys
+driver_amd=driver_amd/SimpleSvm.sys
+service_name=denuvo
+
+
+# Debug build
+cargo build
+
+# Release build (optimized, stripped)
+cargo build --release

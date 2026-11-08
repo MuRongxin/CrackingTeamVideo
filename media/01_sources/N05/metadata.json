@@ -1,0 +1,14 @@
+{
+  "id": "N05",
+  "source_url": "https://www.pouet.net/prod_nfo.php?which=7332",
+  "retrieved_at": "2026-11-08T04:39:34.846759+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://www.pouet.net/prod_nfo.php?which=7332",
+  "content_type": "text/html; charset=utf-8",
+  "path": "media/01_sources/N05/original.html",
+  "bytes": 13826,
+  "sha256": "26d7bed6991289b449264db52ea7f10e27494dac75377eb92ceed3cc04adceb6",
+  "title": "WorldCharts #14 by The Silents & Scoopex & Hoodlum :: nfo :: pouët.net"
+}

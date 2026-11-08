@@ -1,0 +1,122 @@
+{
+  "continue": {
+    "iistart": "2021-10-10T11:13:01Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": {
+      "110876020": {
+        "pageid": 110876020,
+        "ns": 6,
+        "title": "File:USRobotics Courier 2400 Modem powered on.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/USRobotics_Courier_2400_Modem_powered_on.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 2400,
+            "thumbheight": 1715,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/USRobotics_Courier_2400_Modem_powered_on.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 2400,
+              "height": 1715
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/USRobotics_Courier_2400_Modem_powered_on.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:USRobotics_Courier_2400_Modem_powered_on.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110876020",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-03 14:36:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "USRobotics Courier 2400 Modem powered on",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Images with extracted images|Files with coordinates missing SDC location of creation|U.S. Robotics Courier 2400",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.324806",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-74.274094",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "USRobotics Courier brand modem, supporting 2400 baud connections, shown powered on, although the attached RS-232 25-pin cable is not connected to anything.  Modem is from the late 1980s.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-10-09 14:27:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jonathan_Schilling\" title=\"User:Jonathan Schilling\">Jonathan Schilling</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

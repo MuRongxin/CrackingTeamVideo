@@ -1,0 +1,236 @@
+{
+  "links": [
+    {
+      "text": "",
+      "url": "https://git.denuvosanctuary.com/"
+    },
+    {
+      "text": "Explore",
+      "url": "https://git.denuvosanctuary.com/explore/repos"
+    },
+    {
+      "text": "Help",
+      "url": "https://forgejo.org/docs/latest/"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://git.denuvosanctuary.com/user/login?redirect_to=%2fandreh%2fhypervisor-launcher"
+    },
+    {
+      "text": "andreh",
+      "url": "https://git.denuvosanctuary.com/andreh"
+    },
+    {
+      "text": "hypervisor-launcher",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher"
+    },
+    {
+      "text": "",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher.rss"
+    },
+    {
+      "text": "1",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/watchers"
+    },
+    {
+      "text": "0",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/stars"
+    },
+    {
+      "text": "0",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/forks"
+    },
+    {
+      "text": "Code",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher"
+    },
+    {
+      "text": "Issues",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/issues"
+    },
+    {
+      "text": "Pull requests",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/pulls"
+    },
+    {
+      "text": "Projects",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/projects"
+    },
+    {
+      "text": "Releases 1",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/releases"
+    },
+    {
+      "text": "Packages",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/packages"
+    },
+    {
+      "text": "Wiki",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/wiki"
+    },
+    {
+      "text": "Activity",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/activity"
+    },
+    {
+      "text": "Actions",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/actions"
+    },
+    {
+      "text": "11 commits",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commits/branch/main"
+    },
+    {
+      "text": "1 branch",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/branches"
+    },
+    {
+      "text": "1 tag",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/tags"
+    },
+    {
+      "text": "",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/compare/main...main"
+    },
+    {
+      "text": "Find a file",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/find/branch/main"
+    },
+    {
+      "text": "Download ZIP",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/archive/main.zip"
+    },
+    {
+      "text": "Download TAR.GZ",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/archive/main.tar.gz"
+    },
+    {
+      "text": "Download BUNDLE",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/archive/main.bundle"
+    },
+    {
+      "text": "db19479e84",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/db19479e84b922db9daaf1d10721031e13f1a5c4"
+    },
+    {
+      "text": "",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/actions/runs/3/jobs/0"
+    },
+    {
+      "text": "Details",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/actions/runs/3/jobs/0"
+    },
+    {
+      "text": "Canonicalize service driver path, version bump",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/db19479e84b922db9daaf1d10721031e13f1a5c4"
+    },
+    {
+      "text": ".github /workflows",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/.github/workflows"
+    },
+    {
+      "text": "Update CI",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/ee6f794d90c91db82fab18ebc35404b76c4f9f2d"
+    },
+    {
+      "text": "src",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/src"
+    },
+    {
+      "text": "Canonicalize service driver path, version bump",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/db19479e84b922db9daaf1d10721031e13f1a5c4"
+    },
+    {
+      "text": ".gitignore",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/.gitignore"
+    },
+    {
+      "text": "Initial commit",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/d49a39d2ba28dc8acd2e75205887a291f95dc6f4"
+    },
+    {
+      "text": "app.manifest",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/app.manifest"
+    },
+    {
+      "text": "Initial commit",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/d49a39d2ba28dc8acd2e75205887a291f95dc6f4"
+    },
+    {
+      "text": "build.rs",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/build.rs"
+    },
+    {
+      "text": "Initial commit",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/d49a39d2ba28dc8acd2e75205887a291f95dc6f4"
+    },
+    {
+      "text": "Cargo.lock",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/Cargo.lock"
+    },
+    {
+      "text": "Canonicalize service driver path, version bump",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/db19479e84b922db9daaf1d10721031e13f1a5c4"
+    },
+    {
+      "text": "Cargo.toml",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/Cargo.toml"
+    },
+    {
+      "text": "Canonicalize service driver path, version bump",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/db19479e84b922db9daaf1d10721031e13f1a5c4"
+    },
+    {
+      "text": "README.md",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/README.md"
+    },
+    {
+      "text": "Removed EfiGuard, version bump",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/3ee3ef36d9b835746677a8ab6c6a902e977dd076"
+    },
+    {
+      "text": "reflex.ini",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/src/branch/main/reflex.ini"
+    },
+    {
+      "text": "Initial commit",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher/commit/d49a39d2ba28dc8acd2e75205887a291f95dc6f4"
+    },
+    {
+      "text": "README.md",
+      "url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher#readme"
+    },
+    {
+      "text": "Releases",
+      "url": "https://github.com/NotAndreh/hypervisor-launcher/releases"
+    },
+    {
+      "text": "Actions",
+      "url": "https://github.com/NotAndreh/hypervisor-launcher/actions"
+    },
+    {
+      "text": "Powered by Forgejo",
+      "url": "https://forgejo.org"
+    },
+    {
+      "text": "Licenses",
+      "url": "https://git.denuvosanctuary.com/assets/licenses.txt"
+    },
+    {
+      "text": "API",
+      "url": "https://git.denuvosanctuary.com/api/swagger"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Logo",
+      "url": "https://git.denuvosanctuary.com/assets/img/logo.svg",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://git.denuvosanctuary.com/assets/img/avatar_default.png",
+      "srcset": ""
+    }
+  ]
+}

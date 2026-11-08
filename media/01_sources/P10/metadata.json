@@ -1,0 +1,8 @@
+{
+  "id": "P10",
+  "source_url": "https://torrentfreak.com/iconic-game-cracking-group-codex-shuts-down-220224/",
+  "retrieved_at": "2026-11-08T04:39:37.955461+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "error": "HTTPSConnectionPool(host='torrentfreak.com', port=443): Max retries exceeded with url: /iconic-game-cracking-group-codex-shuts-down-220224/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+}

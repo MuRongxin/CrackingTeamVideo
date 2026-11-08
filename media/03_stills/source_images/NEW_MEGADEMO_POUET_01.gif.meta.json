@@ -1,0 +1,19 @@
+{
+  "id": "NEW_MEGADEMO_POUET_img01",
+  "kind": "image",
+  "url": "https://content.pouet.net/files/screenshots/00009/00009088.gif",
+  "path": "media/03_stills/source_images/NEW_MEGADEMO_POUET_01.gif",
+  "source_page": "https://www.pouet.net/prod.php?which=9088",
+  "source_code": "NEW_MEGADEMO_POUET",
+  "rights": "待确认；作品／NFO／游戏图像，仅作为研究与剪辑候选",
+  "author": "见来源页，待核署名",
+  "retrieved_at": "2026-11-08T04:43:44.295903+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://content.pouet.net/files/screenshots/00009/00009088.gif",
+  "width": 352,
+  "height": 288,
+  "format": "GIF",
+  "bytes": 32903,
+  "sha256": "38ee23e8b7e11b9c25245c156b328e3f3e5536247a536e9a5dfe9116e7baa06b"
+}

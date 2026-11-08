@@ -1,0 +1,14 @@
+{
+  "id": "G35",
+  "source_url": "https://www.pouet.net/groups.php?order=release&which=44",
+  "retrieved_at": "2026-11-08T04:39:20.974834+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://www.pouet.net/groups.php?order=release&which=44",
+  "content_type": "text/html; charset=utf-8",
+  "path": "media/01_sources/G35/original.html",
+  "bytes": 481972,
+  "sha256": "063d965248aa5b51a50904d6270ddb2c4eb7ede96f7660998d1bd264569412f4",
+  "title": "Fairlight :: pouët.net"
+}

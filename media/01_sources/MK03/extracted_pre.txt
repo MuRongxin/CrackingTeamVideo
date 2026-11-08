@@ -1,0 +1,30 @@
+Thanks to MKDEV, SPECIAL FOR , TOXIC , DISCORD ADMINS , FRIENDS WHO TESTED, PLAYED AND OTHERS FORGOTTEN
+
+ENJOY
+POZDRAV
+
+MKDEV TEAM
+
+Group Notes
+
+This is only a test version of the hypervisor method! More instructions to load the included
+SimpleSvm.sys hypervisor driver may be included later, trying to get this out ASAP just in case
+
+Testing steps:
+
+1 - Load the hypervisor .sys file
+2 - Copy and paste everything else apart from the "HypervisorSource" folder to the main game directory
+3 - Launch P5R.exe
+
+Disclaimer: Kernel drivers are able to cause blue screens when there are mistakes in the code, this
+has not yet been tested for long term stability.
+
+Persona 5 Royal
+
+Protection: Denuvo + Steam
+
+Release Notes
+
+-Thanks to sagerao for helping with the KUSER spoofing code and patching environment checks!
+-Thanks to Mr Goldberg for the Steam emu.
+-Game version is 1.04.

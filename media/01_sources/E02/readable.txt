@@ -1,0 +1,235 @@
+The Woman Bulldozing Video Games’ Toughest DRM | WIRED
+Skip to main content
+READ FREE IN THE APP
+DOWNLOAD NOW »
+Menu
+WIRED
+SECURITY
+POLITICS
+THE BIG STORY
+BUSINESS
+SCIENCE
+CULTURE
+REVIEWS
+Menu
+WIRED
+Account
+Account
+Newsletters
+Security
+Politics
+The Big Story
+Business
+Science
+Culture
+Reviews
+Chevron
+More
+Expand
+The Big Interview
+Magazine
+Events
+WIRED Insider
+WIRED Consulting
+Newsletters
+Podcasts
+Video
+Livestreams
+WIRED Store
+Search
+Search
+Cecilia D'Anastasio
+Security
+Feb 22, 2021 5:55 PM
+The Woman Bulldozing Video Games’ Toughest DRM
+For Empress, cracking titles like
+Red Dead Redemption 2
+and
+Immortals Fenyx Rising
+is more than a pastime. It's a mission.
+The cracker known as Empress has upended the piracy scene over the last year.
+Illustration: Sam Whitney; Getty Images
+Save Story
+Save this story
+Save Story
+Save this story
+If you ask
+Empress what got her started breaking
+DRM
+, she says it was a dream she had one night in 2014. Chains made up of numbers wrapped around the video game
+Dark Souls 2
+. It was anti-piracy software, she realized. As she focused, she began to see “what every number meant ‘universally,’’’ she says. Turning deeper inward, she says, she soon entered “the ‘ZONE,’ which allows me to SEE MORE into everything.” The chains broke.
+In the seven years since that vision, Empress has become arguably the most powerful breaker of digital rights management software in the world. Video game publishers—and ebook sellers and most other digital media hawkers—use DRM to retain control over your purchases. DRM crackers work to unlock those bits and bytes to achieve something closer to true ownership. From
+Red Dead Redemption 2
+to
+Mortal Kombat 11
+, no one has liberated more high-profile games over the past year than Empress.
+Almost every modern game has DRM, which publishers deploy to prevent piracy and cheating. But as long as video games have had copy protections, there have been people dedicated to cracking them wide open. Since at least the late ’80s, in tight-knit groups with names like SKIDROW and FAiRLiGHT, “crackers,” mostly young men, competed to dismantle the software barriers protecting popular contemporary games. It was a hobby, even a sport. Then came Denuvo, an anti-piracy juggernaut first introduced on
+FIFA 15
+in 2014 and licensed and revalidated over 350 million times since.
+The only surefire way to keep a game healthy and alive relied on a shift in power from publishers to pirates.
+Denuvo is everywhere now, and it kicked old-school piracy groups’ asses. As an added deterrent, law enforcement
+has increasingly gone
+after some of the scene’s biggest pirate groups and personalities over the past couple years. As the old guard’s activity has dwindled, a new type of DRM-breaker has emerged: feverishly dedicated, mission-driven lone wolves. These peer-to-peer crackers see themselves as protecting games from game publishers and will spend any amount of time doing it. If you ask Empress how she got to this point, the most she’ll say is “by mixing philosophy with coding. It's very complicated.”
+“I have a ‘Goal’ that no one else has,” she says. “I have no need for ‘Ego.’”
+Empress won’t say where she is or when she began cracking games. Some have speculated that Empress is actually a collective of people, which she vehemently denies. Aside from her chosen handle, the only indication of her gender came in a fiery Reddit post from late October, addressed to “all the GENDER FREAKS out there who keep claiming out of their own ass that I am male.” In an interview with WIRED, Empress said, “i am 23 years old, and i am beautiful AS HELL. but i don't care 1 bit how i ‘look.’ i care of what i ‘Do.’”
+She says her pivotal shōnen-character-development moment turned on Atari’s little-known, poorly reviewed 2011 online racing game
+Test Drive Unlimited 2
+—which, of course, she loves. When the studio that developed it shut down, she says, she had trouble accessing the game. Atari used the DRM software SecuROM—also present in hits like
+BioShock
+,
+Mass Effect
+and
+Spore
+—to protect
+Test Drive Unlimited 2
+from pirates, but it kept
+presenting problems
+for players trying to buy the game on Steam.
+Empress found a cracked, or DRM-disabled, version of
+Test Drive Unlimited 2
+thanks to the piracy group Prophet. That’s when the wheels started turning: She couldn’t depend on publishers to preserve games she likes, she realized. They can just drop their support, and
+poof
+it goes, or at best she’d have to wait for someone else to fix DRM-related glitches. The only surefire way to keep a game healthy and alive relied on a shift in power from publishers to pirates.
+“i think the main problem is that people ‘fail’ to see Video Games as the pinnacle and max potential of ‘art,’” she says.
+Empress says that as a child she was a “very strange girl who did not like the ‘Real World’ as much as other people seem to.” More than the average gamer, she says, she has always taken games seriously not just as a way to pass the time, but as places to go and be. She loved
+Tetris
+on the NES, for when she wanted to “go ‘beyond’ the human limits in terms of ‘Response’ and ‘creativity.’” She loved
+Megaman 1
+, “for philosophical reasons that people do not understand.” For more standard reasons, she liked
+Little Samson
+and
+Adventures of Kirby
+.
+By the time Empress was downloading
+Test Drive Unlimited 2
+, game cracking had coalesced into a “scene.” Warez groups (“warez” meaning software) were deep, deep underground, only communicating with the outside through text files, embellished with ASCII art, attached to games. And that was if the public even got their hands on those downloads. Most were uploaded to private servers. If they did get out, it was through repackers, or individuals who helped compress pirated game files for faster downloads. Groups targeted whichever games they pleased, insulating themselves from outside input, to say nothing of requests. And a lot of the time, they didn’t update their releases to account for bug fixes or software changes, fating their achievements to obsolescence. Empress doesn’t think they loved video games. They loved themselves, and winning.
+“Everything they did was just a way to ‘prove’ themselves and boost their fake meaningless Egos,’” says Empress.
+Then came Denuvo,which assigns a unique authentication “ticket” to each copy of a game, a sort of license shaped by all sorts of factors like hardware ID. Because Denuvo integrates with a game’s code, you can’t just crack it once and call it a day. Each title presents a unique challenge. For pirates, it was a bitch. Publishers loved it.
+Denuvo parent company Irdeto compares its DRM to brick-and-mortar stores’ anti-theft technology. “The Denuvo anti-tamper technology is ultimately to protect the gaming industry and ensure game studios have an ability to continue to invest and build new games,” said a representative in a statement. “On PC, a large proportion of games (especially the AAA games) tend to be protected for a period of time to protect the monetization of the games being launched—say six months or 12 months for example.”
+But for gamers, Denuvo and other DRM represent the renting culture that has come to define digital purchases. Increasingly, publishers ask you to stream media, access it on their platforms, defer to their guidelines for how to use it. “You forked over the 60 dollars for this game,” says Aaron Perzanowski, a law professor at Case Western Reserve University and author of
+The End of Ownership
+. “Why should you have to live with these interferences, with these impositions on your ability to play the game the way you want or on the device you want without being monitored?”
+To Empress, crushing Denuvo is bigger than playing a video game for free. It’s bigger than “pirating.” She has no idea how gamers tolerate its existence at all. Publishers are telling them what they can and can’t do with it—namely, share it with friends or play offline. She thinks it’s straight-up evil.
+“i always keep in the ZONE till i crush their pathetic puzzle prisons,” she says. Cracking DRM has taught her that the only real way to view the games industry right now is through the lens of philosophy. Philosophy helps people discern what is valuable, she says. And to discern what is valuable, you must look for higher truths. The higher truth in gaming, she says, is that “wanting to preserve something you ‘Buy’ should NEVER be a ‘Crime.’”
+Recently, she cracked
+Anno 1800
+, which layered three types of protection, Denuvo on top. “No one else does this because it requires insane amount of focus, dedication and endless passion. I was able to achieve this only in several months of research. it was HELL to say the least.”
+“There is little to no competition in the cracking scene when it comes to that particular DRM,” says OverkillLabs, who used to run the gaming-piracy-focused CrackWatch subreddit. OverkillLabs says they know of just three groups that have broken it, and none with the sense of mission Empress has.
+Although OverkillLabs can’t quite pin down when her rise to fame began, as she keeps her history intentionally opaque, Empress first came on their radar when she shared her crack of
+SoulCalibur VI
+in March 2020. Unlike the insular Warez groups, Empress posted polls asking what gamers wanted next, shared her philosophy, delineated principles, named her enemies. The text files accompanying her games (long, white ASCII columns supporting her name) stuck with him: “The reason why Ubisoft, EA and such companies never remove denuvo from their games is only because they LOVE feeling *superior* and ENJOY seeing you the customer as PIG under their control or worse.” OverkillLabs also noticed that, unlike other groups, which were motivated by kudos and upvotes, Empress accepts donations. Cryptocurrency, specifically.
+“People are used to scene groups that do it all for free and ask for nothing in return,” says OverkillLabs.
+Sign Up Today
+Sign up for our Games newsletter
+and never miss our latest
+gaming tips, reviews, and features
+.
+Empress has big “fuck you, pay me” energy. “I have an outside job, ofc,” she says. “How much time I spend in it depends on the amount of donations I receive.” She’ll skip work and take runs against a game for as long as she can afford it, but is steadfast in the idea that her work should be compensated. In a September 2020 post titled “I will need your help moving forward,” Empress bragged that she cracked
+Planet Zoo
+in one week.
+Total War Three Kingdoms
+in four days. It was time for her to tackle Denuvo version 9, integrated with
+Death Stranding
+and
+Resident Evil 3
+. She just needed some Bitcoin. “I'm just a little confused,” replied one commenter on Reddit. “People aren't willing to pay money for games but they're willing to pay money to get games illegally? :S.”
+“the entire ‘Scene’ rules that accept ‘no money/donations’ is 1 of the biggest problems which always push the crackers back, instead of forward,” says Empress. “if you’re going to do such INSANE EFFORT, you wouldn't just do it for and from ‘nothing.’” A hobbyist couldn’t push through, she says, “to reach something with a bigger meaning than a quick boost of ego, which is very hollow and can be shattered very easily.”
+On October 22, 2020, Empress released a liberated
+Red Dead Redemption 2
+along with another cracker who goes by Mr_Goldberg, who wrote an emulator for the game’s launcher that allowed the DRM-free version to work. It landed on the front page of Reddit with over 23,000 upvotes.
+“It took only 2 days for Empress to crack the RDR2 drm and denuvo is very difficult to crack,” says Mr_Goldberg. “never know when someone else might appear out of nowhere but right now empress is the number 1 in cracking ability.” Empress says she hates
+Red Dead Redemption 2
+. She just cracked it for “the people.”
+On Sunday, Empress posted her crack of
+Immortals Fenyx Rising
+, protected by Denuvo and released December 3, 2020. Commenters on CrackWatch, a site that tracks game cracks, went wild, calling her a “goddess.” A cult of worship has attended her newfound fame. Gleeful cries of “fuck Denuvo!” flooded her uploads.
+But slowly, over the last day, downloaders realized that Empress had capped the speed. She designed it so nobody could download the game in less than 24 hours. That would prevent repackers from repackaging her cracks for easier downloads—and potentially claiming the credit.
+When fans in her community chat began questioning her motivation, Empress had an explanation ready. “If not for my plan here, everybody would already be shouting: ‘fitgirl you are AWESOME!,’” she said, singling out,
+a popular repacker
+. Empress maintains she doesn’t need attention. But at the same time, she says, “everyone just should know ‘Who’ is actually responsible of the cracks, and also to support and donate to the person who did the REAL work.”
+More Great WIRED Stories
+📩 The latest on tech, science, and more:
+Get our newsletters
+!
+Premature babies and the
+lonely terror of a pandemic NICU
+Researchers levitated a small tray
+using nothing but light
+The recession exposes the US’
+failures on worker retraining
+Why insider “Zoom bombs”
+are so hard to stop
+How to
+free up space on your laptop
+🎮 WIRED Games: Get the latest
+tips, reviews, and more
+🏃🏽‍♀️ Want the best tools to get healthy? Check out our Gear team’s picks for the
+best fitness trackers
+,
+running gear
+(including
+shoes
+and
+socks
+), and
+best headphones
+Cecilia D'Anastasio
+is a staff writer at WIRED covering the games industry and gaming culture. She was previously a senior reporter at Kotaku, G/O Media's video game vertical. Send tips to
+[email protected]
+. ...
+Read More
+Staff Writer
+X
+Topics
+Piracy
+drm
+video games
+WIRED is obsessed with what comes next. Through rigorous investigations and game-changing reporting, we tell stories that don’t just reflect the moment—they help create it. When you look back in 10, 20, even 50 years, WIRED will be the publication that led the story of the present, mapped the people, products, and ideas defining it, and explained how those forces forged the future. WIRED: For Future Reference.
+More From WIRED
+Subscribe
+Newsletters
+Download the WIRED App
+Livestreams
+Travel
+FAQ
+Contact Us
+WIRED Staff
+WIRED Education
+Editorial Standards
+Archive
+RSS
+Site Map
+Accessibility Help
+Reviews and Guides
+Reviews
+Buying Guides
+Streaming Guides
+Gift Guides
+Coupons
+Advertise
+Manage Account
+Jobs
+Press Center
+Condé Nast Store
+User Agreement
+Privacy Policy
+Your California Privacy Rights
+©
+2026
+Condé Nast. All rights reserved.
+WIRED
+may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+Select international site
+United States
+LargeChevron
+Italia
+Japón
+Czech Republic & Slovakia
+Facebook
+X
+Pinterest
+YouTube
+Instagram
+Tiktok

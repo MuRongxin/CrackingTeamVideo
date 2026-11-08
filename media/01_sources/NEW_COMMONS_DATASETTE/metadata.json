@@ -1,0 +1,14 @@
+{
+  "id": "NEW_COMMONS_DATASETTE",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Commodore_1530_Datasette_C64.jpg",
+  "retrieved_at": "2026-11-08T04:42:13.616125+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/wiki/File:Commodore_1530_Datasette_C64.jpg",
+  "content_type": "text/html; charset=UTF-8",
+  "path": "media/01_sources/NEW_COMMONS_DATASETTE/original.html",
+  "bytes": 113321,
+  "sha256": "c645c1a1b3e51a36071f602f447adc3f157ab7c7bda27b100c31eaf05105dce3",
+  "title": "File:Commodore 1530 Datasette C64.jpg - Wikimedia Commons"
+}

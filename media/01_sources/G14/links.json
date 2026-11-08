@@ -1,0 +1,50 @@
+{
+  "links": [
+    {
+      "text": "[back]",
+      "url": "https://www.atlantis-prophecy.org/recollection/?load=interviews"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://www.atlantis-prophecy.org/recollection/images/logo.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.atlantis-prophecy.org/recollection/menu.php?load=interviews",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "http://www.atlantis-prophecy.org/recollection/interviews/screens/snacky3.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "http://www.atlantis-prophecy.org/recollection/interviews/screens/snacky1.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "http://www.atlantis-prophecy.org/recollection/interviews/screens/snacky2.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "http://www.atlantis-prophecy.org/recollection/interviews/screens/snacky4.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "http://www.atlantis-prophecy.org/recollection/interviews/screens/snacky5.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "http://www.atlantis-prophecy.org/recollection/interviews/screens/snacky6.gif",
+      "srcset": ""
+    }
+  ]
+}

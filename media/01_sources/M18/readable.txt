@@ -1,0 +1,698 @@
+Age of Empires III: 2005
+Age of Empires III
+Age of Empires III information. Screenshots, demo, walkthroughs, latest news about its development state.
+12.20.2005
+Age of Empires III Winter Wonderland map
+Winter Wonderland is a custom map for Age of Empires III. As you might have guessed is a festive new map for the Christmas holidays!
+This map is covered with snow, has red nosed deers, decorated trees, and piles of gifts. Nice of them to think of this.
+You can download it from here (zip file of about 10KB):
+Winter Wonderland Map
+After you download the zip file, simply extract the
+Christmas.xml
+and
+Christmas.xs
+to your: My Documents\My Games\Age of Empires 3\RM folder (usually it should be
+C:\Documents and Settings\
+\My Documents\My Games\Age of Empires 3\RM
+if you installed AOEIII on your C partition).
+When you host a single or multiplayer game of
+Age of Empires 3
+, check the
+Custom Map
+box in order to be able to select the
+Winter Wonderland
+map. Note that when you play multiplayer games no experience is gained when you play on Custom Maps.
+Have phun playing this. And happy hollidays!
+Posted by
+Claude
+at
+11:12:00 AM
+1 comment:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+12.07.2005
+Work on Age of Empires IV ...
+I know, they've just released
+Age of Empires III
+and I'm already talking about
+Age of Empires IV
+. But the thing is that being a successful game it will have other sequels as well.
+This is not the point. I wanted to say that
+Ensemble Studios
+, the company that develops Age of Empires III is hiring, so if you are a skilled artist you might have a chance to work for their next game.
+If you're not an artist/programmer stay calm, they are not hiring any interns or testers (they state that "not at this time" so there is always the hope).
+Positions they have opened:
+Producer
+Lead Artist
+3D Artist
+User Interface Artist
+Game Animator
+Environment Artist
+Senior Server Programmer
+Senior Game Programmer
+Senior Programmers
+Programmers
+They have an entire list of responsabilities/qualifications on their
+Job Openings
+page.
+To candidate for any of the positions, you have to send a resume (with a portfolio) to studiosrecruiting@ensemblestudios.com . There are some guidelines for the portfolio:
+Please submit your portfolio on CD or DVD. Submissions are kept on file for future consideration and will not be returned to you. Please do not send original artwork. We will accept a .ZIP file or website URL, however please consider that poor navigation or slow download will certainly affect your presentation. Please include a description of each file indicating software used, time to completion, general technical specifications, and some indication of the artistic direction or purpose for the work. If your demo reel contains any collaborative work provide a shot list indicating exactly what components of each examples are wholly your own. For technical art please include detailed descriptions of the technical aspects of your work, particularly if it is not immediately apparent in the samples. Diagrams or a step by step description of process may be more informative than the finished imagery.
+What can I say...good luck to those who meet the requirements and may that you work on
+Age of Empires IV
+.
+Posted by
+Claude
+at
+12:34:00 PM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+11.16.2005
+Age of Empires III video problem
+I've received recently an email from someone trying to play
+Age of Empires III
+but having video problems regarding the game:
+so when i try to play my aoe 3 game it says that i need to update my video hardware but i cant seem to find the right update online. i can still play the game but its all slow and choppey and suck all i want to do is play the game shit please help!
+This seems as a hardware upgrade related problem. First you would need to verify if your system meets the minimum requirements to play Age of Empires III:
+• Microsoft Windows XP
+• A computer that has a 1.4 gigahertz (GHz) processor
+• 256 megabytes (MB) of system RAM
+• A hard disk that has at least 2 gigabytes (GB) of available space
+• A 32x speed CD drive
+• A 64 MB video card that supports Hardware Transform and Lighting
+• An audio card and speakers or headphones
+• A Microsoft mouse or a compatible pointing device
+• A 56.6 kilobytes per second (KBps) or faster Internet connection for online play
+• DirectX 9.0c
+Note These are the minimum system requirements that a computer must have to run Age of Empires III. You may experience increased performance on computers that exceed these requirements.
+You can use the DirectX Diagnostic Tool to view the computer information and to verify whether the computer meets the minimum required settings to run Age of Empires III. To do this, follow these steps:
+1. Click
+Start
+, click
+Run
+, type
+dxdiag
+, and then click
+OK
+.
+2. On the
+System
+tab, view the processor details and the memory details.
+3. Click the
+Display
+tab.
+4. In the
+Device
+area, note the name of the video card and its approximate total memory.
+5. Click
+Exit
+.
+You could also verify if your video card is supported by AOE III. According to this
+microsoft technote
+, these are the video cards not supported in AOE III:
+• 3dfx• Banshee
+• Rush (Alliance)
+• Rush (Macronix)
+• Voodoo 1
+• Voodoo 2
+• Voodoo 3
+• Voodoo 4
+• Voodoo 5
+• 3D Labs • GLiNT
+• GLiNT 300SX
+• GLiNT 500TX
+• GLiNT G1
+• GLiNT MX
+• Oxygen Series Gamma2
+• Oxygen Series R3
+• Oxygen Series R4
+• Permedia
+• Permedia 1
+• Permedia 2
+• Permedia 3
+• Permedia 4
+• ATI• ATI ES1000
+• IGP 340M
+• Mach 32
+• Mach 64
+• Mobility Fire GL
+• Mobility Radeon 7000 IGP
+• Radeon 7000 IGP
+• Rage 128
+• Rage 128 Pro
+• Rage Fury Pro-MAXX
+• Rage II
+• Rage II+
+• Rage IIC
+• Rage LT
+• Rage LT Pro
+• Rage Mobility
+• Rage Mobility 128
+• Rage Pro
+• Rage XC
+• Rage XL
+• Chromatic• MPact
+• Cirrus• CL4610
+• CL4614
+• CL5462
+• CL6729
+• GD5430
+• GD5434
+• GD5436
+• GD5446
+• GD5464
+• GD5465
+• GD5480
+• GD7543
+• GD7548
+• Compaq • QVision
+• Digital• TGA
+• TGA2
+• Guillemot • GeForce 256
+• TNT2
+• TNT2 M64
+• TNT2 Ultra
+• TNT Vanta
+• Intel• 810
+• 810e
+• 815
+• 740
+• 752
+• 830
+• 845
+• 865G
+• 915
+• 945
+• Matrox • Millennium
+• Mystique
+• Millennium II
+• G100 PCI
+• G100 AGP
+• G200 PCI
+• G200 AGP
+• Fusion G450
+• G400-450
+• Mistral
+• G550
+• NeoMagic • 128
+• 128ZV
+• 128XD
+• 256AV
+• 256ZX
+• 256XL
+• Number Nine• Revolution 3D
+• Revolution IV
+• nVidia• GeForce 256
+• GeForce 256 DDR
+• GeForce 256 Quadro
+• GeForce 256 Ultra
+• NV 1
+• NV 2
+• Riva 128
+• Riva 128 ZX
+• TNT
+• TNT Vanta
+• TNT2
+• TNT2 Aladdin
+• TNT2 M64
+• TNT2 Ultra
+• Rendition• Verite 1000
+• Verite 2100
+• S3• Aurora 128
+• Graphics Twister
+• ProSavage
+• Savage 2000
+• Savage 3D
+• Savage 3D S3
+• Savage 3D S4
+• Savage IX
+• Savage MX
+• Savage4 ProSavage
+• SuperSavage 128 IX
+• SuperSavage 128 IX DDR
+• SuperSavage 128 MX
+• SuperSavage IX
+• SuperSavage IX DDR
+• SuperSavage IXC DDR
+• SuperSavage IXC SDR
+• Trio 3D
+• Trio 64
+• Trio 64 DX
+• Trio 64 Plus
+• Trio3D
+• Virge
+• Virge DXGX
+• Virge GX2
+• Virge MX
+• Virge MXC
+• Silicon Motion• Lynx 3D
+• Lynx 3DM
+• SiS• 305
+• 315
+• 530
+• 650
+• 6205
+• 6215
+• 6326
+• ST Microelectronics• Kyro I-II
+• Trident • 975
+• 9753
+• 3D Image
+• Blade 3D
+• Cyber
+• Cyber XP5
+• Cyber9320
+• Cyber9385
+• Cyber9388
+• Cyber9397
+• Cyber9397 DVD
+• Cyber9520
+• Cyber9520 DVD
+• CyberBlade E4
+• CyberBlade i7
+• CyberBlade XP
+• CyberBlade XPm
+• Tsend Labs• ET4000
+• ET6000
+• ET6300
+• VIA • CLE266
+• KM400
+• VIAS3G UniChrome Pro IGP
+• VideoLogic• PowerVR
+• PowerVR2
+• Weitek• P9000
+• P9100
+Microsoft has also a list of
+Known Graphics issues in Age of Empires III
+and also a solutions center for
+Video related problems in AOE III
+.
+Boy this game does have its problems. There is another huge post on this
+Age of Empires III forum
+regarding problems with AOE III.
+If any of these solutions doesn't work then maybe someone else could give a solution if you give more details about this problem.
+Posted by
+Claude
+at
+10:01:00 AM
+23 comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+11.05.2005
+FAREWELL (c) Myth
+It seems one of the "major groups from the scene" retired. Maybe they got busted or something, who knows. Just found their farewell notice and thought to share it. What? No, no, I'm not enjoying this ;):
+FAREWELL (c) Myth
+°  RELEASE SIZE :                    RELEASE DATE : 10/2005           °
+°  PROTECTION   :                                                    ° Ü
+°°° °ß °°  Û °°° ° °  °[ RELEASE NOTES ] °  °  °° Üþ°°°° ° °   °°° °
+READ THIS NFO PROPERLY & UNDERSTAND IT!
+A group built off the ashes of two others. Two top groups putting
+aside their differences to merge and make something brilliant. The
+first title we put out was C&C TS - FIRESTORM *STANDALONE* back in
+2000. The amount of major titles since then is unbelieveable, regardless
+of what some people may try to get you to think. Unlike our competitors
+egos did not make us decide to call it quits. A dying rip scene and a
+dying scene all together made this choice for us.
+We were a group of passionate friends, a group that was known to push
+the boundaries and vocalized our opinions without hesitation.
+Not only were we friends online, we were known to go and meet yearly
+in various places around the world. Although we have found ourselves
+making allegiances with unworthy individuals on more then one occasion,
+we learned from it.
+Many nights we recall sitting up and having complete cohesion in the
+group and beating a rival by a matter of seconds. We also remember
+being on the opposite side and losing that title. Many have come and
+gone, but none of these people will be forgotten. We were here for
+the competition, here for the fun and most of all, the friendship.
+When we leave we like to think we made an impact.
+We were the first to take the initiative on a dying scene and create
+new rules, twice.
+We once again showed true innovation on the first DVDRip of all games
+groups in the scene back in 2003.
+While the competition struggled with protections like Safedisc 3 and
+Starfoce, we were the first to beat them.
+No other group supported the titles they released as much as us.
+We were the most active games group doing trainers. We released hundreds
+of crack updates and patches when the competition would lack the patience
+to continuously keep active.
+Some majors that were most anticipated we released included:
+Empire Earth I & II
+Stronghold II
+Grand Theft Auto III
+Warcraft III: Frozen Throne
+Colin McRae 04
+Lords of the Realm III
+Homeworld
+Neverwinter Nights
+These are just a very few of the many major titles we released.
+We believe that the rip scene is one of incredible skill. Not only
+is there the cracking talent needed to be successful like that of ISO,
+you must have dedicated coders and rippers to fully complete the task.
+Much time is needed to perfect a rip like that of Neverwinter Nights.
+(We'll never forget you old friend) With the faster speed of the
+internet, equates to less usage of rips and just makes it not worth it.
+When you are releasing upwards of 30 games a month some months, and you
+know not many people are downloading them. It hardly gives you the
+rush of winning the title. We see groups throw out games now with stolen
+cracks and are completely non-working. These titles are not nuked, as no
+one even notices anymore, indeed a sad time in the scene.
+We look at the state of everything now, P2P, torrents, ISONEWS and
+NForce. While people believe that these things do not damage the scene
+they are of course incorrect. NForce and ISONEWS gives the scene too much
+exposure. When anyone, from some lamer can type in an address, and read
+sometimes sensitive information, and see  what has been released
+is of course not a good thing. Now millions of people can download
+off P2P or torrents with a few clicks. People wonder why there is so
+many busts, it's because of the exposure. Now it's not a few hundred
+thousand copies lost for the software developer, it's millions.
+MYTH being as innovative as we have been, had some plans to change this
+but we realize no one really cares anymore. For those that want to change
+the scene as much as we did, here's a few ideas to make it secure.
+- Automate all trading, get rid of the middle man. Something that has
+been talked about numerous times, just no follow through.
+- Add a demo to the exe of the game itself to show the info on the game
+rather than a NFO. Make it a image that is constantly moving so you
+cannot screenshot it. Thus killing off sites like ISONEWS and NForce.
+- Perhaps standardize a way of crypting releases, we know the burden
+that comes with this option, but this could possibly kill off P2P and
+torrent, making it safer for everyone again.
+- Groups and members of old must realize this is a new scene not
+the one they were used to, adapt.
+As we have adapted before we will go into hibernation and get ready
+to adapt again. Will MYTH be back? I would say yes. But we will not let
+some old member get an approval to restart it. Or somebody with motivation
+ask permission to bring back a legendary group. The only way this group
+will be coming back is if one of the last leaders is active in the group,
+otherwise it's just not the same.
+Considering the amount of people that helped this group I could go on
+forever thanking, but I would like to just keep it to a minimum.
+Thanks to:
+All those you made this group something special, even though in the
+last year or 2 some split off, you will still be remembered for the
+contributions you made to this group. We salute our old competition, thanks
+for driving us to work harder and faster. Special thanks to the Ducks of
+old, you guys will be greatly
+missed.
+- G & L
+P.S. - If you are going to steal one of the most respected names in PC
+GAME ISO history, do not release a comeback title like Charlie and the
+Chocolate Factory. Amateurs. Sad to see such a great name be stolen and
+used, and not even release anywhere like it used to, with less
+competition then ever before. Get a clue and throw the towel in.
+°°  °Üþ °°° °  ßÜ þ    [ RELEASE COMMENT ]      ° Ü þß °° °   Ü °°
+The group that never sold!
+2000-2005
+Posted by
+Claude
+at
+10:55:00 AM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+10.17.2005
+Age.Of.Empires.III-RELOADED
+Well not soon after the Age of Empires III became gold and ES sent it to the press, seems like a 3CD cracked version of AOE III started populating the web. I think this is bad since the official release should be tommorrow and the cracked version was first spotted on October 8th, 2005, so more than a week ago. Seems a group called RELOADED released it, here is the NFO:
+█    ▄▀▀█ ▄▀▀  ▓   ▄▀▀▄ ▄▀▀▄ ▄▀▄  ▄▀▀  ▄▀▄     █
+█▄▄▄ █▀▓  ▓▀ ▄ █   █  ▓ █▀▀▓ ▓  █ ▓▀ ▄ █  ▓ ▄▄▄█
+█  ▀▀▀▀ ▀▀▀  ▀▀  ▀    ▀▀▀  ▀▀▀▀ ▀▀▀
+Age Of Empires III (c) Microsoft
+10/2005 :..... RELEASE.DATE .. PROTECTION .......: SmartE/Serial
+3 :.......... DISC(S) .. GAME.TYPE ........: Simulation
+▄▀▀  ▄▀▀▄ ▄▀▄▀▄ ▄▀▀  ▀ ▄▀▀▄ ▄▀▀▄ ▄▀▀▄ ▄▀
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ █ ▀▓ █▀▀▓ █   ▓ ▓▀ ▄ █ █  ▓ ▓▀   █  ▓ ▀▀▀█ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▀▀  ▀    ▀   ▀ ▀▀▀▀ ▀ ▀    ▀     ▀▀   ▀▀
+In this highly anticipated next installment in the Age of Empires franchise
+from Ensemble Studios, Age of Empires III places players in the time period
+of roughly 1500û1850, picking up where Age of Empires II: The Age of Kings
+left off. As players work to establish their empire, they take on the role
+of a European power struggling to explore, colonize, and conquer North and
+South America.
+Age of Empires III introduces exciting new gameplay elements, including the
+all-new Home City and an incredible combat system. Players have new
+civilizations to discover, random maps to conquer, and a single-player
+campaign unlike any other. Players also find stunning graphics as a result
+of a revolutionary graphics engine that pushes the limits of PC graphics
+technology in an entirely new way.
+▀ ▄▀▀▄ ▄▀   ▓▄▄  ▄▀▀▄ ▓   ▓   ▄▀▀▄ ▄▀▀▄ ▓▄▄  ▄▀▀  ▄▀
+▀▀▀▀▀▀▀▀▀▀ █ █  ▓ ▀▀▀█ █  ▄ █▀▀▓ █   █   █  ▓ █  ▓ █  ▄ ▓▀ ▄ ▀▀▀█ ▀▀▀▀▀▀▀▀▀▀
+▀ ▀     ▀▀   ▀▀▀ ▀    ▀▀▀ ▀▀▀ ▀     ▀▀   ▀▀▀ ▀▀▀▀  ▀▀
+1. Unrar.
+2. Burn or mount with daemon tools.
+3. Install the game, when prompted for a serial enter the following:
+XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+4. Copy the cracked executable from the /crack dir on CD1 to your
+installation directory.
+5. Play the game.
+▄▀▀  ▄▀▀█ ▄▀▀▄ ▓  ▄ ▄▀▀█ ▄▀▀▄ ▄▀▀▄ ▓▄▄  ▄▀▀  ▄▀
+▀▀▀▀▀▀▀▀▀▀▀▀ █ ▀▓ █▀▓  █  ▓ █  ▓ █▀▀  █  ▓ █  ▓ █  ▄ ▓▀ ▄ ▀▀▀█ ▀▀▀▀▀▀▀▀▀▀▀▀▀
+▀▀    █   ▀▀   ▀▀  ▀    ▀     ▀▀   ▀▀▀ ▀▀▀▀  ▀▀
+" Now hiring Talented Coders (asm) and Crackers: rld@inbox.lv "
+Posted by
+Claude
+at
+12:35:00 AM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+10.03.2005
+Age of Empires III in the press
+Age of Empires III
+is getting some media coverage, but I think things are about to get more exiting as the official release date approaches.
+Here are some of the media mentions for
+Age of Empires III
+:
+GamesFirst
+Microsoft Game Studios revitalized the real-time strategy genre with the original Age of Empires. The series has consistently worked to push the genre in new and exciting directions.
+Games are fun talks about our website
+“Ensemble Studios, the developer, has really gone against the grain with this one, because this site isn't boring.”
+Game Spot
+Age of Empires III continues to look like a solid and visually attractive game that will offer plenty of depth in the form of its persistent home cities.
+Voodoo Extreme
+Coolest looking real-time-strategy game - Age of Empires 3 -- Actually seeing how the physics were built into the gameplay was pretty neato and the game engine itself was rather inspired.
+CorpNews
+Age of Empires 3 is going to be your RTS daddy.
+GameSpy
+Age of Empires III is beyond comparison -- I felt bad for all the other real-time strategy games on the floor.
+Computer Gaming World
+"Developer Ensemble Studios is pulling out all the stops here, leading the next generation of RTS games with what many consider to be the biggest name in the genre."
+PCWorld
+“Age of Empires III: The latest entry in one of the most popular real-time strategy series ever produced…”
+The Mercury News
+“Microsoft's Ensemble Studios proved that there is life after ``Half-Life 2'' for graphics fans. The mesmerizing look of Ensemble's upcoming ``Age of Empires 3'' shows that it's possible to push 3-D graphics in new directions.”
+Pocket Factory
+“AOE III takes the series to a whole new level, and offers a completely new graphical environment. The graphics are simply amazing! If the finished product looks this good, Microsoft has another hit on its hands.”
+Joystiq
+“Scores of soldiers blasted 30 feet into the air by a cannonball. Clock towers getting their top blown off. The environments are the richest ever done for an RTS, and perhaps any genre.”
+Yahoo Games
+“We all knew it was coming, now Age of Empires is going to conquer the New World...”
+IGN
+“The screenshots we've seen look too good to be true.”
+GameSpy
+“Simply by virtue of its announcement, Age of Empires III instantly became one of the most anticipated PC games of 2005.”
+PCGamer
+“Ensemble has single-handedly introduced a fresh style to the RTS genre…”
+If you know more media mentions about Age of Empires III, send them in to spuby2000[at]gmail[dot]com.
+Posted by
+Claude
+at
+11:08:00 AM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+9.26.2005
+Age Of Empires III – Preview
+It's been a long time since the last Age of Empires. The fans await with great anticipation this new sequel, especially because of the beautiful, story like graphics, screenshots and trailers.
+For those of you who have been waiting for something completely new, you're in for a disappointment. With a few exceptions and the introduction of a new feature you will see nothing revolutionary.
+Age of Empires III picks up where its predecessor, the Age of Kings, left it. Focusing on the colonizing of the Americas, AoE 3 follows the actions of the European powers as they strive to carve out their influence on the New World. The time period covered by AoE 3 allows an interesting mix of medieval and gunpowder-early steam-age technologies.
+You will be able to play 8 powers, each with its distinctive gameplay (not sufficient, as you might notice) and a multitude of units. Unfortunately, they don't differ much from other RTS games that have surfaced this days and which cover the same time periods. On account of this, Ensemble Studios decided to introduce the new feature we were talking about - The Home City- which actually looks like the castle in Heroes of Might and Magic, which you can access anytime. [
+read full review
+]
+This is a good review, might want to take a look and read through the lines as I did :). Of course, the images are the ones that catch our attention. And I don't recommend reading the review just because it's written by a Romanian ;).
+Posted by
+Claude
+at
+11:26:00 AM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+Age of Empires III goes gold
+September 23, 2005
+Prepare for Battle as Age of Empires III Goes Gold
+Armies of the Third Age Prepare to March on October 18
+Ready your troops! Age of Empires III, the stunning real-time strategy (RTS) landmark from Microsoft and Ensemble Studios, is complete and poised to invade retail on October 18. Available in two versions - standard and Collector's Edition - Age of Empires III will fire up gamers with groundbreaking new features like the persistent Home City and jaw-dropping graphics never before seen in an RTS. Gamers can now experience the game first-hand with a recently released playable demo that offers hours of exciting combat challenges, as well as the ability to upgrade the player's Home City.
+The third game in the illustrious Age of Empires series that has sold more than 16 million copies and defined the historical RTS, Age of Empires III is being hailed by critics as a new benchmark for real-time strategy games. The minimum system requirements for Age of Empires III are: 1.4GHz processor, 256 MB RAM, 64 MB video card that supports hardware transform and lighting, Windows XP, 56k modem for online play, and 2GB hard drive space.
+In Age of Empires III, players assume the role of a European power between 1500 and 1850 A.D. as they struggle to explore, colonize and conquer North and South America. Find out more about Age of Empires III by visiting
+http://www.ageofempires3.com
+So what does this mean? The final release is getting closer, only 23 days left. I didn't
+install the demo
+yet, due to the bugs others have reported, but I'll install the full game when it's released. Have anything to send regarding
+AOEIII demo
+? Drop me an email to spuby2000@gmail.com and I'll publish it here.
+Posted by
+Claude
+at
+11:10:00 AM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+9.08.2005
+Age of Empires III demo released!
+Yes the demo for Age of Empires was released today by Microsoft. This didn't take as long as I expected but unfortunately it seems that it is a little disappointing (I didn't test it yet, I'm just speaking from the posts other people made on the official forum).
+First of all, before you download, see if you have these minimum requirements:
+Microsoft Windows XP
+1.4ghz Processor
+256 RAM
+64 MB Video Card that supports HW T&L
+Approximately 370MB of Hard Drive space (not including installer)
+DirectX 9c
+After that you can
+download the Age of Empires III demo
+, this is a direct link and has about 350MB.
+If you have problems installing you might take a look at this thread on
+Direct3D Initialization Problem in Demo
+or make sure the following requirements are met:
+AntiVirus software is temporarily switched off
+Programs that provide a "shield" around your system settings should be temporarily switched off (The new ZoneAlarm 6 does it, as well as MS's Anti-Spyware software and Spybot's Teatimer)
+Your video card drivers are up to date
+Your DirectX installation is up to date (current version is 9.0c)
+Your system is spyware and virus free
+You should close as many programs as possible before you install the game to minimize any chances of error
+I'll post my impressions too after I test it, but as I said I didn't see too many good things being said about this
+Age of Empires III demo
+. My opinion, let's give it some time people, it is just a demo and there were something like 800 bugs at that time, I'm sure the final release will look better.
+Posted by
+Claude
+at
+9:39:00 AM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+9.05.2005
+Age of Empires III demo released this month
+Dave Pottinger from
+Ensemble Studios
+announced on the official Age of Empires III forum that a demo should be released somewhere this month (September 2005).
+The game however will take a little longer until its final release, since is being tested by Microsoft, and we all know how meticulous they are ( :)) ).
+These are fragments from the original post made on the
+Age of Empires III Heaven Forum
+:
+Demo's done (it went out the door to marketing today)... Finally
+The highpoints:
+* SP only, no MP
+* 2 scenarios from the CPN
+* 2 RMs
+* 2 civs
+dave
+[...]
+Yes, to be quite sure, a ton of folks helped pull the demo together. Or, more appropriately, pull things out of the demo to pull it together. It actually ended up a very download-friendly size by the time we got done with it. Much smaller than I feared it would be
+Yes, there are limits to things like the max HC levels and whatnot. We can't quite give away *that* much gameplay in the demo. And, yes, for those pesky hackers out there, we did actually go nuke the high end content, so you can go hack out the level limits, but it won't get you anything...
+The demo's actually a good time. I didn't go back and specifically compare, but it's quite a bit more gameplay than I recall the AOM demo having. Though there's no need to start a petition if that turns out not to be true
+It's liberating to actually get it done so soon; one less worry post-ship. But, since we're also putting it in the CE (to give to a buddy), we had to actually finish it with the rest of the game anyway.
+On some of the other questions... Someone did properly guess both civs. No, the civs that are in the demo are fully functional (minus HC visual upgrades (too much space) and most of the HC card content (too much game)).
+dave
+[...]
+It's about 375MB, IIRC.
+I honestly have no idea where it's going to show up first, or when. I'm sure the Internet will blaze with the fires of communication and posting once the mythical location and timing of the demo's release is thrust upon the ever-waiting populace. Or something like that
+dave
+[...]
+I'm not going to 'approve' everyone's specs... Sorry if trying to do that once was the wrong thing.
+That said, an X800 card and 1GB of RAM isn't a high end system. 2GB of RAM and a better video card would be required.
+The game looks great in shader model 2, but it just doesn't look as great as it does in 3.0. 1GB of RAM will run the game fine, but 2GB will run with more details on and less swapping.
+The minspecs will be coming out soon; I'll prolly just let those speak for themselves.
+dave
+[...]
+Demo code is about 3 weeks old by now. It's missing some fairly heavy optimizations that we've made, plus quite a few bugfixes. I cut the code for the demo when we had ~800 programming bugs in our DB (we're at 0 now).
+It's definitely not perfect code and there are lots of rough edges given how much we sliced out to get the size manageable. But, hopefully the fact that it's out well ahead of the game (instead of a few weeks after the game like usual) means folks will cut it some slack... If not, I'm sure we'll hear about it
+dave
+The demo will be about 375MB and it seems that is going to be a little buggy :). I'm going to love it anyway and I hardly wait to play it.
+Posted by
+Claude
+at
+7:57:00 AM
+No comments:
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+Newer Posts
+Home
+Subscribe to:
+Posts (Atom)
+Blog Archive
+►
+2008
+(1)
+►
+February
+(1)
+►
+2006
+(4)
+►
+March
+(1)
+►
+February
+(2)
+►
+January
+(1)
+▼
+2005
+(10)
+▼
+December
+(2)
+Age of Empires III Winter Wonderland map
+Work on Age of Empires IV ...
+►
+November
+(2)
+Age of Empires III video problem
+FAREWELL (c) Myth
+►
+October
+(2)
+Age.Of.Empires.III-RELOADED
+Age of Empires III in the press
+►
+September
+(4)
+Age Of Empires III – Preview
+Age of Empires III goes gold
+Age of Empires III demo released!
+Age of Empires III demo released this month
+About Me
+Claude
+View my complete profile
+Awesome Inc. theme. Powered by
+Blogger
+.

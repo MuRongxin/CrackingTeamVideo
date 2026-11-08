@@ -1,0 +1,20 @@
+{
+  "id": "EX03_STEAM_12110_screenshot1",
+  "task": "EX03",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12110/0000003313.1920x1080.jpg?t=1634144465",
+  "path": "media/03_stills/official_games/EX03_12110_screenshot1.jpg",
+  "source_page": "https://store.steampowered.com/app/12110/",
+  "title": "Grand Theft Auto: Vice City",
+  "author": "Rockstar Games",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:50.593987+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12110/0000003313.1920x1080.jpg?t=1634144465",
+  "width": 1024,
+  "height": 768,
+  "format": "JPEG",
+  "bytes": 214165,
+  "sha256": "a1ceda2b395fd0fed6ec0cb20e3e04e154f6177fda542634f60452dd2ffafcdf"
+}

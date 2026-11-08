@@ -1,0 +1,221 @@
+”We might be old, but we're still the elite” | Computer Sweden
+Ämnen
+Nyhetsbrev
+Utgåvor
+Sök
+Meny
+Ämnen
+Stäng
+Artificiell intelligens
+Karriär
+Cloud
+Samarbetsverktyg
+Datorer och kringutrustning
+Datacenter
+Digitalisering
+Framväxande teknik
+Företagsprogram
+Generativ AI
+Offentlig sektor
+Hybrid- och distansarbete
+Bransch
+Lagar och regleringar
+Juridik
+Mobilt
+Nätverk
+Open Source
+Operativsystem
+Säkerhet
+Systemutveckling
+Windows
+Tillbaka
+Stäng
+Sök
+SE
+-
+SV
+Ämnen
+Spotlight: It-ledarskap
+Nyhetsbrev
+Mer
+Brandposts
+IT-ord
+Topics
+Ämnen
+Artificiell intelligens
+Karriär
+Cloud
+Samarbetsverktyg
+Datorer och kringutrustning
+Datacenter
+Digitalisering
+Framväxande teknik
+Företagsprogram
+Generativ AI
+Offentlig sektor
+Hybrid- och distansarbete
+Bransch
+Lagar och regleringar
+Juridik
+Mobilt
+Nätverk
+Open Source
+Operativsystem
+Säkerhet
+Systemutveckling
+Windows
+Amerika
+USA
+Asien
+Indien
+Korea
+Europa
+Nederländerna
+Polen
+Spanien
+Storbritannien
+Sverige
+Tyskland
+Oceanien
+Australien
+Nya Zeeland
+Hem
+Säkerhet
+av									daniel_goldberg
+Uppdaterad
+”We might be old, but we’re still the elite”
+Nyhet
+20 apr. 2012
+7 min
+The story of how the Fairlight pirate group from Malmö, Sweden, conquered the world is a legend in IT in Sweden. When the group recently celebrated its 25th anniversary in Stockholm, Computer Sweden was there.
+It was 1988 and Strider had a problem. The first copy of the Commodore 64 game The Last Ninja 2 had just landed in the computer shop in Malmö where he used to work after school. Strider hade an exceptional opportunity to be the first kid on the schoolyard with a cracked copy of the game everybody wanted.
+But to do that, Strider needed to pass the game over to his friend Gollum. Gollum was a cracker, specialized in removing copy protection from the games Strider provided him with. But Gollum lived in Ronneby. Mailing the game to him wouldn’t do, because then he wouldn’t get it until next day. That would give other groups time to get ahead and cheat the two friends of the release. Strider had to think.
+The solution became one of the linchpins of Fairlight, the worldwide pirat empire that Strider eventually found himself being the ruler of. A couple of chocolate bars was all that was needed to convince a train conductor at Malmö central station to assist. Strider gave him the cassette with The Last Ninja in Malmö. When the train arrived to Ronneby, Gollum was waiting at the station. A couple of hours later, the game was cracked, signed with a Fairlight intro and ready to spread across the world. Strider could lean back and enjoy all the talk about him. Nobody understood how Fairlight could be that fast.
+”That was the secret, a train conductor. Not many people know that today,” says Pontus “Bacchus” Berg.
+He laughs as he tells the story. 25 years have passed and we’re having a cup of coffee at Slussen in Stockholm. In a couple of hours, Pontus will board the boat to Finland to celebrate the 25th anniversary of Fairlight. Some 30 members of the group will attend. Many of them have been friends for more than two decades, but several have never met face to face.
+Did you ever own a Commodore 64? Then you know that Fairlight is one of the world’s most enduring and legendary pirate groups. During these 25 years, the group has cracked and distributed hundreds of computer games, starting with the Commodore 64 cassettes of the 1980’s through Amiga and Super Nintendo to contemporary lavish PC productions. The group was founded in Malmö 1987 by Tony ”Strider” Krvaric. This was long before the internet became common property. The Fairlight myth grew on BBSes, at demo parties and at schoolyards.
+Some fifteen years later, Fairlight and other pirate groups were seen as such a threat to the software industry that FBI was asked to put an end to them. Operation Fastlink, as the initiative was called, was one of the most massive attacks on organized piracy ever. More than 120 persons from ten countries were arrested and charged, several of them from Fairlight. According to John Ashcroft, then Attorney General of the USA, law enforcement had shut down a ”well-organized criminal network.”
+Still, Fairlight survived and prevails – althought most members are now middle-aged and have left the scene far behind. The anniversary meeting in Stockholm is the first one so far, says Pontus Berg. The agenda includes mingle, demos, buffet and beer.
+Pontus Berg, now 43, has been a Fairlight member since 1988. For several years, he was the leader of the group. For this interview, he brings Magnus ”Pantaloon” Sjöberg, 38, still the leader of the Fairlight demo section. Pontus has worked in the telecom business for some years. Magnus is the lead software engineer at computer game company Digital Illusions. Pontus giggles as he tells me how Fairlight in 1992 cracked and distributed the Digital Illusions breakthrough game Pinball Dreams.
+Other founding members of Fairlight include Fredrik ”Gollum” Kahl, now a professor of mathematics at Lund University, and Per ”Zike” Carlbring, now a professor of clinical psychology at Umeå University. And, of course, ”Strider”. The story of Tony Krvaric’s life is probably one of the most absurd ones in Swedish IT history (see sidebar).
+Pontus and Magnus were both attracted to the scene in school. ”What nerds had instead of soccer,” they say. None of them says they’re active in the pirate world today, they mainly work with demo programming. These days it’s mainly about keeping up with old acquantainces.
+”For me, it’s like meeting the old soccer team, even if there are younger talents playing today. We may all be ancient, but we’re still the elite. Fairlight shaped my adolescence and is an important factor in my becoming who I am,” says Pontus Berg.
+Both the creation of demos and cracking games is about challenge, they believe. To show what you know and be acknowledged and get appreciation from others ”on the scene.” It might be argued that current phenomena such as The Pirate Bay goes back to scene groups like Fairlight. However, both Pontus and Magnus take a negative view of the current pirate culture. What was a technically demanding hobby for enthusiasts has become a mindless culture of freeloading, they say.
+”I can appreciate the technical challenge of cracking a game. But what’s happening today, I find it hard to justify. Any idiot could rip a movie and upload it to Pirate Bay, and they’re even making money from it. That’s nothing but commercial murder of those who actually make those items,” says Pontus Berg.
+What they like to talk about is the positive effects of the demo and warez scene. There’s a straight line from the demo and warez groups of the 1980’s to today’s flourishing Scandinavian computer games industry, they say. Sweden’s Digital Illusions and Starbreeze, Finland’s Remedy have annual turnovers of hundreds of millions of Swedish Kronor. They were all started by persons with a background on the scene.
+”We could be accused of having acted in a legal grey zone. But for national finances, I believe it was a giant plus. The availability of demos and cracked games was very important in the beginning for
+the sales of home computers,” says Pontus Berg.
+”Also, we learned a lot. When I had just turned 20, I was in charge of business on four continents. What managment class would have given me that opportunity?”
+Translated by Anders Lotsson.
+TONY ”STRIDER” KRVARIC
+In the 1980’s, Tony ”Strider” Krvaric insisted on signing his Fairlight releases with the words ”kill a commie for your mommie”. That was a hint on where life would take him. In 1992, the infamous gaming pirate left Fairlight and emigrated to the USA. After becoming an American citizen, he entered politics and made a fast career in the Republican party. Today, Tony Krvaric is the chairman of the San Diego Republicans.
+”After personally having experienced the disastrous effects of socialism in Sweden and Europe, he was determined to stand up for the traditional, conservative values that made America so successful,” is how the party web page summarizes his political standpoint.
+In 2008, the news site The Raw Story revealed Krvaric’s background in Fairlight under the headline ”San Diego GOP chairman founded international piracy ring”. Four years earlier, several members of the group he founded were arrested by the FBI during Operation Fastlink.
+Today Tony Krvaric is unwilling to speak openly about his background, and he does not wish to be associated with it. The Fairlight anniversary celebration will be the first time in many years that he meets other members of the group, according to Pontus Berg.
+THREE DEMOS FROM FAIRLIGHT
+We are new (C64)
+http://www.youtube.com/watch?v=L8onlB0F1_A
+Legoland 3 (C64)
+http://www.youtube.com/watch?v=l8FxzdaM8As
+Only one wish (PC)
+http://www.youtube.com/watch?v=nY1s9O4iTO0
+Säkerhet
+Relaterat innehåll
+Krönika
+Ta ryssen i frysen på allvar
+Av Marcus Jerräng
+6 nov. 2026
+4 min
+Säkerhet
+Nyhet
+Myndigheter varnar för nya frysattacker
+Av Mikael Markander
+6 nov. 2026
+1 min
+Säkerhet
+Nyhet
+Open AI släpper nya säkerhetsmodellen GPT-6 Cyber
+Av Mikael Markander
+6 nov. 2026
+1 min
+Artificiell intelligens
+Säkerhet
+Nyhet
+Kritiska system patchas alldeles för långsamt
+Av Gyana Swain
+6 nov. 2026
+5 min
+Nätverkssäkerhet
+Säkerhet
+Sårbarheter
+av
+daniel_goldberg
+Mer från skribenten
+nyhet
+“64 000 studenter hanteras i system från 1980-talet”
+12 feb. 2013
+4 min
+nyhet
+Tungt skifte väntar SJ
+12 feb. 2013
+5 min
+nyhet
+Krafttag mot karusellbedragare
+30 apr. 2007
+4 min
+Visa fler
+Mest lästa
+Nyhet
+Svenskarna mer negativa än positiva till AI
+Av Viktor Eriksson
+6 nov. 2026
+1 min
+Artificiell intelligens
+Nyhet
+EU kräver att Tiktok ändrar sitt “skadliga” För dig-flöde
+Av Viktor Eriksson
+6 nov. 2026
+1 min
+Offentlig sektor
+Lagar och regleringar
+Marknader
+Nyhet
+IMY granskar Arbetsförmedlingens AI-system
+Av Viktor Eriksson
+6 nov. 2026
+1 min
+Offentlig sektor
+Lagar och regleringar
+Marknader
+Om oss
+Om oss
+Kontakta redaktionen
+Annonsera
+Redaktionell etikpolicy
+Jobba på Foundry
+Licensiering & återutgivning
+Nyhetsbrev
+Computer Sweden Recruitment
+Ansvarig utgivare: Marcus Jerräng
+Policy
+Användarvillkor
+Personuppgiftspolicy
+Cookiepolicy
+Meddelande om upphovsrätt
+Läsarinställningar
+Redaktionellt oberoende
+Annonsinställningar
+CCPA
+Integritetsinställningar
+Mer
+Brandposts
+IT-ord
+Vårt nätverk
+CIO
+Computerworld
+CSO
+InfoWorld
+Network World
+Google News
+LinkedIn
+© 2026  FoundryCo, Inc. All Rights Reserved.

@@ -1,0 +1,21 @@
+{
+  "id": "HARDWARE_USROBOTICS",
+  "task": "OP03",
+  "kind": "image",
+  "title": "File:USRobotics Courier 2400 Modem powered on.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/USRobotics_Courier_2400_Modem_powered_on.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "path": "media/03_stills/hardware/HARDWARE_USROBOTICS.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:USRobotics_Courier_2400_Modem_powered_on.jpg",
+  "author": "Jonathan Schilling",
+  "rights": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved_at": "2026-11-08T04:50:10.438577+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/USRobotics_Courier_2400_Modem_powered_on.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "width": 3330,
+  "height": 2380,
+  "format": "JPEG",
+  "bytes": 1604967,
+  "sha256": "fe9d2344c93ddf2790d41caeafb238d2a02e7ef9b73fe50c98f6884a623a858a"
+}

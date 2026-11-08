@@ -1,0 +1,14 @@
+{
+  "id": "MK05",
+  "source_url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher",
+  "retrieved_at": "2026-11-08T04:39:31.021858+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://git.denuvosanctuary.com/andreh/hypervisor-launcher",
+  "content_type": "text/html; charset=utf-8",
+  "path": "media/01_sources/MK05/original.html",
+  "bytes": 60232,
+  "sha256": "ebe7c0ffbdd5f22a4cee48b9a96ab3030c4b03eb586c97b1a60b11a854a4e7eb",
+  "title": "andreh/hypervisor-launcher: Configless and easy to use launcher for hypervisor games - AntiDenuvoSanctuary Git"
+}

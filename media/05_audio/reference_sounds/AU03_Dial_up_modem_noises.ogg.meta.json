@@ -1,0 +1,19 @@
+{
+  "id": "AU03_Dialup",
+  "task": "AU03",
+  "kind": "audio",
+  "title": "File:Dial up modem noises.ogg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dial_up_modem_noises.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "path": "media/05_audio/reference_sounds/AU03_Dial_up_modem_noises.ogg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Dial_up_modem_noises.ogg",
+  "author": "William Termini",
+  "rights": "Public domain",
+  "license_url": "",
+  "note": "较晚期拨号连接的声音示例；不冒充1987年具体设备原声",
+  "retrieved_at": "2026-11-08T04:47:17.604416+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dial_up_modem_noises.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "bytes": 426843,
+  "sha256": "52cb128a6e07cba77c7a571238bb16356a9a84e4d50c9e37a714c1f54da7cc21"
+}

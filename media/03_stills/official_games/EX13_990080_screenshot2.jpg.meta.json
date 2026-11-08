@@ -1,0 +1,20 @@
+{
+  "id": "EX13_STEAM_990080_screenshot2",
+  "task": "EX13",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1790708992",
+  "path": "media/03_stills/official_games/EX13_990080_screenshot2.jpg",
+  "source_page": "https://store.steampowered.com/app/990080/",
+  "title": "Hogwarts Legacy",
+  "author": "Avalanche Software",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:51.786358+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1790708992",
+  "width": 1920,
+  "height": 1080,
+  "format": "JPEG",
+  "bytes": 405908,
+  "sha256": "d0ebb93521d2143e89f9856852da58a4c1aebc4984e1052a84cebb32109dde54"
+}

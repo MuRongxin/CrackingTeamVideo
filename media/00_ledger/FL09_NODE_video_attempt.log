@@ -1,0 +1,10 @@
+WARNING: Your yt-dlp version (2026.03.17) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         Run "yt-dlp --update" or "yt-dlp -U" to update.
+         To suppress this warning, add --no-update to your command/config.
+[youtube] Extracting URL: https://www.youtube.com/watch?v=R8e35xJzrUg
+[youtube] R8e35xJzrUg: Downloading webpage
+[youtube] R8e35xJzrUg: Downloading android vr player API JSON
+[info] R8e35xJzrUg: Downloading 1 format(s): 18
+[info] Writing video metadata as JSON to: media/02_footage/FL09_NODE_R8e35xJzrUg.info.json
+ERROR: unable to download video data: HTTP Error 403: Forbidden

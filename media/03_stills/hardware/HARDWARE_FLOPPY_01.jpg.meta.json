@@ -1,0 +1,19 @@
+{
+  "id": "HARDWARE_FLOPPY_01",
+  "task": "OP03",
+  "kind": "image",
+  "title": "File:1986 year. 5¼-inch floppy disks.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1986_year._5%C2%BC-inch_floppy_disks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "path": "media/03_stills/hardware/HARDWARE_FLOPPY_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:1986_year._5%C2%BC-inch_floppy_disks.jpg",
+  "author": "Dmitry Makeev",
+  "rights": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "attribution": "",
+  "description": "1986 year. 5¼-inch floppy disks, with the program for telex.",
+  "retrieved_at": "2026-11-08T04:45:09.177596+00:00",
+  "status": "failed",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1986_year._5%C2%BC-inch_floppy_disks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "error": "size limit"
+}

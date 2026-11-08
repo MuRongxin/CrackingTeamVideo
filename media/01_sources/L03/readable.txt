@@ -1,0 +1,976 @@
+Prozac's Personal Gaming Report (February 1999) • Neperos
+Neperos
+SIGN IN
+Copy Link
+Add to Bookmark
+Report
+Prozac's Personal Gaming Report (February 1999)
+eZine lover
+(@eZine)
+Published in
+Prozac
+· 3 years ago
+______________________________    ______/\___________________
+\__   _   \__   _   \__   _   \_.-\_   /  \__   _   \__    _/___
+-poyZ/SP/    /    /   _/   _/    /    /    __/    /         /    /    /
+__    /    _____/____\    \_________/___________/____/____/_________/     __
+/_/\--/____/-----------\    /---------------------------------------------/\_\
+\_\/                    \  /                                              \/_/
+:    P R O Z A C ' S    \/   P E R S O N A L   G A M I N G   R E P O R T   :
+:                            FEBRUARY 1999                                 :
++--------------------------------------------------------------------------+
+It seems after you put your time in the gaming scene you should look into creating a gaming report as a way to kick back, but still be involved in the gaming scene. Many gaming reports have come and gone, and this report is pretty a much a month by month trial basis: When I get bored or too boggled down to handle the report, I just won't do it. This report is not 100% bias-free, as I am currently with the group Class and all attempts to abstain a truly unbiased report can not be fully possible. I had thought of calling this report "Prozac's Slightly Bias Report", but that'd be just a rip off TRC's old bias gaming report. This report is sort of a hybrid cross (no pun intended) of Just the Facts & Mason's Gaming Report in the scoring system and monthly gaming report.
+My personal history in the gaming scene
+If you're reading this report and you have no clue who I am, I will give a history of gaming warez life. I've actually been in the scene since '92, and was a big-time courier & utility supplier up until about mid-96 where I decided to plunge into game supplying hardcore (before this I had supplied small games to small groups, but nothing significant) by helping startup a group called Illusion. When Illusion died in Oct. 96, I went over to Prestige until they finally disbanded on Dec. 31st 1996. On Jan. 1st, 1997, I joined a newly founded group called Class with ex-members from multiple groups. At this current time I've still stuck with Class, even though some hard times. At this current time I'm an active person in Class, and spend a great deal of time trying to help the group.
+Rules of a release (May be revisions, amended and modified at any given notice of one month. A % will be placed next to the rule if one has been modified or added in comparison to last month):
+This report will uphold to The Faction's rules, including the disk limit of 50 * 2.88M disks. Any release that purposely breaks The Faction rules will have -1.0 points deducted.
+% Trainers and Update Cracks will receive 0.5 points. A trainer that is an exact duplicate with the same functions of another group's trainer will receive 0.0 points. Non-working trainers and uncracked updates will receive -0.3 points. A group that release a duplicate cracked update will receive -0.5 points.
+% A game, trainer, patch or addon mispackaged will receive -0.5 points.
+% A game must work 100% to receive all of the points of the game. -1.0 points will be deducted if a game requires a major fix. If one group fixes another group release to make the game functional, that group that fixed the release will be transferred the release points and the original release group will receive -1.0 points for the game. If a game requires a minor fix (Uncommon .DLL file, etc.), a group will be deducted -0.5 points.
+Trainers, patches and add-ons for an over-the-limit or ISO release will receive 0.0 points.
+Add-ons for a game: a maximum of 2 are allowed for one game and will receive 0.5 points per add-on. These add-ons must be 100% completely functional with the original release and be under 25 disks, or the add-on will receive 0.0 points.
+Official add-ons for a game that are not standalone will receive half the points of a full release. Authorized or unofficial add-ons will receive 0.0 points.
+If two groups put out one game at the same time, the winning group on the FTP sites will receive the full points, and the losing group will receive 0.0 points. A dupe from a release last month or several months ago will receive -2.0 points.
+% If a game is proven to be a beta, and the final is put out that month, the group who releases the final will receive the release points, and the group releasing the beta will be deducted -2.0 points. If a final is put out the next month or several months down the road, the group that released the beta will receive -2.5. The points from the group that released the original beta will have its points deducted from the yearly total. Beta to final patches from a group will receive up to 2.0 points, and the original group releasing the beta will be hit with -2.0 (less than a month old beta) or -2.5 (over a month old beta) points for the infracture.
+Games intended for kids, edutainment or just plain lame (Ex. 3D Maze Man) will receive -1.0 points.
+Scoring System:
+The scoring system mixes both JTF & Mason's report with this formula:
+Rating. This is based on how good the game is. This can collect between 1.0-4.0 points depending on the quality of the actual game.
+Company. A release will receive 0.1-0.5 points based on what company the game was published and/or developed by. The more well-known the company, the more points it will accumulate. An example is a game from EA will receive 0.5 points, while a game from Webfoot would receive 0.1 points. The game will not receive any points in this category if it breaks a rule like being a dupe or beta.
+Popularity & Anticipation. This depends on how awaited and how well receive the game is, like Quake 3, or if the game is a surprise smash hit, like Grand Theft Auto. If it's an unknown game by an unknown company, like Rising Star, it'd get 0.0. This can receive 0.0-0.5 points. The game will not receive any points in this category if it breaks a rule like being a dupe or beta.
+______  /|  ___   /\______ /\______
+/      \/ | / _ \ /   _____/   _____>
+/    |_ /  |/  |  \\____  \ \____  \
+<     | <   /   |   /   |   \/   |   \
+\  _____\_<____|___\_____  /\_____  /
++=\/======================\/=======\/==+
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+Rising Lands Update Patch 2 (c) Microids     02/09| +0.5 | 0.0 | 0.0 = +0.5  |
+BattleCruiser 3000AD v2.03 (c) Interplay     02/09| +0.5 | 0.0 | 0.0 = +0.5  |
+Army Men 2 +3 Trainer                        02/10| +0.5 | 0.0 | 0.0 = +0.5  |
+Gruntz All Levels Cheat                      02/11| +0.5 | 0.0 | 0.0 = +0.5  |
+The Creed (c) Insomnia/EA                    02/12| +3.0 |+0.5 |+0.3 = +3.8  |
+The Creed +3 Trainer                         02/12| +0.5 | 0.0 | 0.0 = +0.5  |
+The Creed Speech Addon                       02/12| +0.5 | 0.0 | 0.0 = +0.5  |
+Solitaire Antics Deluxe (c) Masque           02/15| +1.1 |+0.1 | 0.0 = +1.2  |
+Sega Smash Pack (c) Sega PC                  02/20| +2.3 |+0.4 |+0.2 = +2.9  |
+Descent Freespace v1.06 EAX (c) Interplay    02/20| +0.5 | 0.0 | 0.0 = +0.5  |
+HOMM3 +7 Trainer -NOT WORKING                02/21| -0.3 | 0.0 | 0.0 = -0.3  |
+Rollcage All Levels & Cars Cheat             02/22| +0.5 | 0.0 | 0.0 = +0.5  |
+Red Baron 2 3D v1.0.7.8 (c) Sierra           02/25| +0.5 | 0.0 | 0.0 = +0.5  |
+F-16 Aggressor (c) Virgin                    02/25| +2.7 |+0.5 |+0.2 = +3.4  |
+WW2 Fighters v1.07 (c) Jane's/EA             02/26| +0.5 | 0.0 | 0.0 = +0.5  |
+Zero Gravity Combat Fighter Cheat Codes      02/26| +0.5 | 0.0 | 0.0 = +0.5  |
+The Creed Cheat Enabler                      02/28| +0.5 | 0.0 | 0.0 = +0.5  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +17.0 |
+------------------------------------------------------------------------------
+Notes worth mentioning
+As it seems that Class is just going downhill right now. The only games worth mentioning they managed to grab was The Creed & F16 Aggressor. They were able to also pull in a fair amount of other things to keep the people happy, but this is definitely not the same Class of the past.
+€€€ ‹‹‹ ‹‹‹ ∞±≤ ‹‹‹ ﬂﬂﬂﬂ€€‹ ﬂﬂﬂﬂ€€‹
+‹€‹€€€ ﬂﬂﬂ €€€ ±≤€ ﬂﬂﬂ ≤±∞ €€€ ∞±≤ ≤€€
+€€€ ≤€€ ≤±∞ €€≤ ≤€€ ∞±≤ €≤± ≤€€ ±≤€ﬂﬂﬂ
+€€≤ ±≤€ €≤± €€≤ €€€ ±≤€ €€≤ ≤€€ ≤€€ ∞±≤
+€€≤ ∞±≤ €€≤ €€€ €€€ ≤€€ €€€ ≤€€ €€€ ±≤€
+ﬂ€€‹‹‹‹‹€€€  ﬂ€‹€ﬂ  €€€ €€€ €€€ €€€‹≤€ﬂ
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+Xenic (c) PlayWorks                          02/07| +1.5 |+0.1 |+0.1 = +1.7  |
+Xenic +3 Trainer                             02/10| +0.5 | 0.0 | 0.0 = +0.5  |
+Hard Trucks FINAL (c) Pride Interactive      02/14| +2.4 |+0.2 |+0.2 = +2.8  |
+Las Vegas Courses for Tiger Woods (c) EA     02/17| +1.2 |+0.5 |+0.1 = +1.8  |
+Zero Degree Fighter Combat +8 Trainer        02/17| +0.5 | 0.0 | 0.0 = +0.5  |
+Wild Varmint Bounty Hunting (c) Running Dog  02/20| +1.3 |+0.1 | 0.0 = +1.4  |
+Turok 2 v1.04 (c) Acclaim                    02/27| +0.5 | 0.0 | 0.0 = +0.5  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +9.2  |
+------------------------------------------------------------------------------
+Notes worth mentioning
+I didn't mention Divine in the first report because I thought they had disappeared. Man, was i wrong. While they only released the small games (and an addon that had been in stores for 5 months), they managed to do enough this month to be worth keeping a monthly chart on. I hope this continues isn't a one month fluke. The most decent game of the month was Hard Trucks Final.
+__ ______ ______  ____ _____  ____ _____
+\//  _   \  _   \_\__/  _   \_\__/_\_   \
+/   /   /  /   /.  /   /   /   /   /   /
+\______/   \____|_/\___   /___/___/   /
+--------|___|---------/____\------/____\-
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+USM 98-99 Season Editor Money Editor         02/04| +0.5 | 0.0 | 0.0 = +0.5  |
+Elimanator +5 Trainer                        02/06| +0.5 | 0.0 | 0.0 = +0.5  |
+Elimanator +5 Trainer REPACK                 02/06| -0.3 | 0.0 | 0.0 = -0.3  |
+WormNet Enabler                              02/06| +0.5 | 0.0 | 0.0 = +0.5  |
+BFAIS:Zero Gravity Fighter Combat (c) Aegis  02/12| +2.1 |+0.1 |+0.1 = +2.3  |
+Gruntz +2 Trainer                            02/15| +0.5 | 0.0 | 0.0 = +0.5  |
+Hard Trucks Money Trainer *WORKING*          02/17| +0.5 | 0.0 | 0.0 = +0.5  |
+Rollcage (c) Psygnosis                       02/17| +3.5 |+0.3 |+0.4 = +4.2  |
+Resident Evil 2 (c) Capcom                   02/18| +3.7 |+0.4 |+0.5 = +4.6  |
+Resident Evil 2 Install Files -POINTLESS     02/18|  0.0 | 0.0 | 0.0 =  0.0  |
+Rollcage Cheat Codes                         02/18| +0.5 | 0.0 | 0.0 = +0.5  |
+Resident Evil 2 Claire Endgames Addon        02/19| +0.5 | 0.0 | 0.0 = +0.5  |
+Resident Evil 2 Leon Endgames Addon          02/19| +0.5 | 0.0 | 0.0 = +0.5  |
+Southpark +10 Trainer                        02/20| +0.5 | 0.0 | 0.0 = +0.5  |
+HOMM3 +7 Trainer                             02/21| +0.5 | 0.0 | 0.0 = +0.5  |
+Varmint Hunting +2 Trainer                   02/21| +0.5 | 0.0 | 0.0 = +0.5  |
+Thief v1.33 Update (c) Eidos                 02/22| +0.5 | 0.0 | 0.0 = +0.5  |
+F-16 Aggressor (c) Virgin -DUPE              02/25|  0.0 | 0.0 | 0.0 =  0.0  |
+Pool Shark (c) Gremlin                       02/26| +2.7 |+0.3 |+0.3 = +3.3  |
+Pool Shark REGSETUP -FIX                     02/26| -1.0 | 0.0 | 0.0 = -1.0  |
+Lander (c) Psygnosis                         02/28| +2.6 |+0.3 |+0.3 = +3.2  |
+Lander Intro/Endgame Addon                   02/28| +0.5 | 0.0 | 0.0 = +0.5  |
+Wild Varmits Trainer +2                      02/28| +0.5 | 0.0 | 0.0 = +0.5  |
+Lander Cutscenes Addon                       02/28| +0.5 | 0.0 | 0.0 = +0.5  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +23.8 |
+------------------------------------------------------------------------------
+Notes worth mentioning
+The UK Team again pulls through and manages to bring us some huge UK Hits to the scene, but there wasn't a lot of activity from the US side. But who can complain when we see Resident Evil 2 (Smash hit on the PSX) ripped down to a decent size. This will be Hybrid, Part 2 if this keeps up.
+‹€€ﬂ€€‹                 ﬁ€‹ €‹
+ﬁ€€› ﬁ€€› ﬂ   ﬂﬂ  ﬂﬂ ﬂﬂﬂﬂﬁ€≤›≤€ﬂﬂﬂ ﬂﬂﬂ ﬂ  ﬂ
+ﬁ€€› ﬁ€€›€€‹ﬂ€ﬂ€€‹ﬂ€€‹ﬁ€ﬂﬁ€≤›‹ ﬁ€ﬂ€€‹ﬂ‹€€‹
+ﬁ€€›‹€€ﬂ ﬁ≤€›› €€≤ ﬁ€€›› ﬁ€€›€€ › ﬁ€€›€ €€›
+ﬁ€€› ‹€€ﬂ‹€€›› ‹‹‹ﬂ‹€€›  ﬁ€€›€€›  ﬁ€€›€ ﬁ€€
+ﬁ€€›ﬁ€€› ﬁ€≤››ﬁ€€› ﬁ€≤›› ﬁ€≤›€≤›› ﬁ€≤›€ ﬁ€≤
+ﬁ€€› ﬂ€€‹€ﬂ€›€‹ﬂ€€‹€ﬂ€›€‹€€ﬂ‹€€›€‹ﬁ€≤›ﬂ €€≤
+‹‹‹ ﬁ€€›
+ﬂ€€€‹€€€
+ﬂﬂﬂﬂﬂ
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+Gruntz (c) Monolith                          02/03| +2.2 |+0.3 |+0.1 = +2.6  |
+Speedboat Attack V2 Update (c) Telstar       02/04| +0.5 | 0.0 | 0.0 = +0.5  |
+Elimanator (c) Psygnosis                     02/05| +2.3 |+0.3 |+0.2 = +2.8  |
+OAOW Battle Pack 1 (c) Talonsoft             02/06| +2.1 |+0.3 |+0.1 = +2.5  |
+NFL Football Pro '99 v2.008 (c) Sierra       02/07| +0.5 | 0.0 | 0.0 = +0.5  |
+SuperBike (c) Milestone/EA                   02/09| +3.1 |+0.5 |+0.3 = +3.9  |
+Army Men 2 (c) 3DO                           02/09| +3.2 |+0.3 |+0.4 = +3.9  |
+MotoRacer 2 v1.34 (c) EA                     02/14| +0.5 | 0.0 | 0.0 = +0.5  |
+Army Men v1.2 (c) 3DO                        02/15| +0.5 | 0.0 | 0.0 = +0.5  |
+Nascar Revolution (c) EA                     02/17| +3.3 |+0.5 |+0.4 = +4.2  |
+Nascar Revolution Movie Addon                02/17| +0.5 | 0.0 | 0.0 = +0.5  |
+Southpark (c) Acclaim                        02/18| +3.8 |+0.3 |+0.5 = +4.6  |
+Fifa 99 v1.11 (c) EA                         02/19| +0.5 | 0.0 | 0.0 = +0.5  |
+Lamenation Sword (c) Lomax                   02/19| +2.2 |+0.1 |+0.1 = +2.4  |
+Hereos of Might And Magic 3 (c) 3DO          02/20| +3.9 |+0.3 |+0.5 = +4.7  |
+North vs South (c) Interactive Magic         02/20| +2.5 |+0.3 |+0.2 = +3.0  |
+Hereos of Might and Magic 3 Music Addon      02/20| +0.5 | 0.0 | 0.0 = +0.5  |
+Civ 2 Multiplayer Gold v1.2 (c) Microprose   02/23| +0.5 | 0.0 | 0.0 = +0.5  |
+Sin: Wages of Sin -ADDON, NOT STANDALONE     02/25| +1.8 |+0.5 |+0.4 = +2.7  |
+Extreme Bullriding (c) Head Games            02/25| +2.1 |+0.2 |+0.1 = +2.4  |
+Delta Force v1.00.2 (c) Novalogic            02/27| +0.5 | 0.0 | 0.0 = +0.5  |
+Starsiege (c) Sierra/Dynamix                 02/27| +3.6 |+0.5 |+0.4 = +4.5  |
+Starsiege Missing Registry File              02/28| -1.0 | 0.0 | 0.0 = -1.0  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +47.7 |
+------------------------------------------------------------------------------
+Notes worth mentioning
+Paradigm has finally woken up a sleeping giant. They have been able to bring in some of the biggest games for the month, including HOMM3 & Southpark. Maybe PDM is just getting revenge. Maybe it's luck. Whatever it is, these guys are really tearing up the scene right now.
+/\______  /\______  ____/\______     __
+\____   \/  \__   \/  _ \____   \ __/  \____
+/ _/  _/    \/   /   /  / _/  _// / / / / /
+/  \   \  /\ /   /\  /  /  \   \/ /\  / / /
+\__/\   \/  \______\___/\__/\   \/ / /_/_/
+======\___)===\__)============\___)=\/=======
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+Baldur's Gate Exp. Patch Update -FOR ISO     02/13|  0.0 | 0.0 | 0.0 =  0.0  |
+Blood 2 v2.0 (c) Monolith                    02/18| +0.5 | 0.0 | 0.0 = +0.5  |
+HOMM3 +16 Mega Trainer                       02/25| +0.5 | 0.0 | 0.0 = +0.5  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +1.0  |
+------------------------------------------------------------------------------
+Notes worth mentioning
+Dead. Dead. Dead. With The Punisher unofficially retired (again), and every other RZR supplier inactive, all we see is some patches & trainers to show some inactive. But even after 2 months, RZR is in the red for '99. Come on RZR, I know you can break even some day!
+Other
+This ranking will not be tallied each month, but this column is worth mentioning games from group not considered top groups in the scene. This is where groups like TPC, Backlash, & Fusion would typically fall under. If a group puts out a respectable amount of games, they will be put in the report and tracked accordingly.
+-----------------------------------------------------------------------------
+Release Name & Company                                        Date     Group
+Galatic Invasion (c) Webfoot                                  02/01     TPC
+Emergency Room 2 (c) GT Interactive                           02/07     ASS
+Intergalatic Exterminator (c) Galaxy                          02/12     TRD
+Blast Thru & Cube Hopper (c) RomTech                          02/13     TPC
+Bad Toys 3D (c) Tibo Software                                 02/15     TPC
+Aargon (c) Twilight                                           02/16     TPC
+Bernie Boulder (c) Topware                                    02/16     TBT
+1863:Gettysburg (c) 21st Century Office                       02/16     TPC
+Samauri Showdown 2 (c) Kinesoft                               02/21     TBT
+Ultra Vixen 2 (c) Pixis Interactive                           02/26     PNS
+Grand Slam Turkey Hunt (c) Wizardworks                        02/27     TPC
+_____________________________________________________________________________
+Notes worth mentioning
+A lot of ho-hum games got released by TPC this month, and the only reason why I don't chart this group is because the quality is just not there yet. When the quality titles start coming out, then I'll put them in my regular charts. We also finally saw the wildly popular anime game Ultra Vixen 2 come out to the scene.
+Ranking of groups for the month
+Group          Monthly Total Points
+1. Paradigm             +47.7
+2. Origin               +23.8
+3. Class                +17.0
+4. Divine               +9.2
+5. Razor                +1.0
+Yearly total so far
+Group          Yearly Total
+1.  Paradigm            +78.9
+2.  Class               +38.2
+3.  Origin              +35.3
+4.  Divine              +9.2
+5.  Razor               -1.8
+Feature of the month
+This month I went the easy route, and just did an interview from one person of CLS, PDM & OGN. I couldn't think of anyone worth interviewing in RZR since things are very idle in the group, but if you think you're worth an interview with RZR, give me a holler! (AND NO to The Punisher, he's already been OVER- interviewed). The interviews include: Zip from Origin, Drizzt from Paradigm, and ATM from Class. Never of heard of these people? Well, I chose to interview the people who make a large impact in their respective groups, but don't get the recognition I believe they deserve. These interviews are long, and very through, so if you're impatient, then don't read these interviews. If you're a scene person that appreciates what people have on their minds, then give this a try.
+We'll start with Zip from Origin. If you have no idea who this person is, he is one of Origin's best cracker, and can usually tackle any protection, but you'll be surprised what his major will be:
+<PPGR> Okay, so thanks for this interview. Who exactly are you? Where you start? Why cracking?
+<ZiP> Well, I've been a cracker in the utils scene for just over a year now, and i started cracking for Premiere in early 97
+<ZiP> I chose cracking because it was the only way for any person to easily break into the warez scene
+<ZiP> crackers are universally accepted
+<ZiP> probably too easily in fact
+<PPGR> Why is it that crackers from rival groups have such a wide open communication, and converse information among each other, unlike suppliers & leaders from rival groups?
+<ZiP> I think there's a certain ethic among crackers that says that we are above petty squabbles and inter-group politics
+<ZiP> We share information, have fun together
+<ZiP> and, in a way, we're kind of a group separate and apart from the scene
+<ZiP> Cracking is kind of a scene of its own.
+<PPGR> Do you ever tell each other how you cracked a certain game if a rival cracker was racing you on a game? Can't this be used against you later on another game?
+<ZiP> Heh, well, I've been in this situation myself, but I don't think any cracker is so much better than another that without a pointer in the right direction we couldn't all crack the same protection.
+<ZiP> So, with the exception of newbies, most crackers don't mind sharing little useful pointers.
+<ZiP> Going into specifics is absolutely unnecessary.
+<ZiP> And..
+<ZiP> It's not something that others couldn't figure out with a little time anyways, or at least that's how I see it.
+<PPGR> What about some the tougher situation, like cracking C-Dilla & SafeDisc? Or is every game different when it comes to ISO protection?
+<ZiP> I was referring to ISO protections before.
+<ZiP> No other protections are really worth speaking of.
+<ZiP> I would have to say that
+<ZiP> I wouldn't give enormous hints or step by step directions to a rival cracker.
+<ZiP> But a friendly hint from one friend to another is always appreciated.
+<PPGR> Do you think the threat of ISO protection is a joke? Or you think it'll get harder and harder?
+<ZiP> Hrmm... I can't see it getting that much harder than it already is. If you can run the game with the CD, you can crack it :)
+<PPGR> What does a typical ISO crack usually take? What software would one need to learn to be a cracker? Time wise also.
+<ZiP> The typical ISO crack will just require you to dump unencrypted code from memory
+<ZiP> and piece together a working executable
+<ZiP> that will function free of the CD.
+<ZiP> There really isn't much software you need to crack.
+<ZiP> I use: Softice, IDA, W32dasm, a miscellaneous hex editor
+<ZiP> and various custom or specific tools
+<ZiP> and
+<ZiP> as for time, i think you can get a start quickly if you want to
+<PPGR> And what you learn to learn how to use all this? Could I just go to a college, take a couple courses on C & Asm, and be a cracker? ;)
+<ZiP> heh, i doubt it, i think that if you know ASM, that's a good start
+<ZiP> but you need to sit down and physically try to crack something
+<ZiP> and keep going until you do :)
+<PPGR> I've heard about programs that make safedisc protection a snap to crack, you have any idea what im talking about?
+<ZiP> well, heh, such as the generic crack made for it by some group a little while ago? :)
+<PPGR> Yeah.
+<ZiP> who knows, if i had one i certainly wouldn't say, but..
+<ZiP> commercially distributed protections are always going to fall because they are repetitive and can be universally cracked (as a rule)
+<PPGR> For ISO protection now, doesn't the cracker need a copy of the original CD, or the supplier to like give a memory dump of the actual CD?
+<ZiP> That totally depends on which ISO protection it is. Some are so stupid as to be easily defeatable without the CD.
+<ZiP> If they do require the CD however,
+<ZiP> It is always easier to have the original in front of you
+<ZiP> But of course, not necessary
+<ZiP> As with dongles, and i've done this many times, It is always possible to code something that will get the required memory dump
+<ZiP> without any cracking knowledge
+<PPGR> Which are harder to crack, games or utils?
+<ZiP> When looking at the extremely hard protections from each category
+<ZiP> Utils are by far harder.
+<PPGR> Any particular companies very sneeky in protection?
+<ZiP> For utils or games?
+<PPGR> Both.
+<ZiP> Well, for utils some of the dongle manufacturers make very good products.
+<ZiP> And as for games, Eidos are a bunch of tricky bastards :)
+<ZiP> heh
+<ZiP> i can't really think of an outstanding game protector
+<PPGR> Heh, when cracking, have you ever seen side comments provoking crackers or making fun of them, or even tips on how to crack it? I ask this cuz one game a cracker once told me, they were looking at an exe and it told how to remove the speech file in it.
+<ZiP> hehehe
+<ZiP> Occasionally you see stuff provoking crackers
+<ZiP> I've never seen actual cracking instructions
+<ZiP> In old timelock protections
+<ZiP> you would see routines named "DontTraceIntoMeMrCracker"
+<ZiP> or something like that :)
+<PPGR> Why do you think you haven't gotten the props like other cracker have gotten, like Beo & Grudge?
+<ZiP> Well, primarily, I haven't been in the scene as long as Beo, I'm not sure how long Grudge has been around but I suspect it's been a while
+<PPGR> What was the first games group you joined, and the first game you cracked? Which game are you most proud of cracking (so far as of Feb. 7th, 1999)?
+<ZiP> I was first in Reflux when it was revived last summer
+<ZiP> The first game i cracked was...
+<ZiP> heh, what was the name
+<ZiP> sec, let me do a dupe check :)
+<ZiP> Hrmm, the name just isn't coming to me :)
+<ZiP> but, anyways, the game I am most proud of cracking... hrmm
+<ZiP> I guess it would be Player Manager 98, not because it was a great game or something
+<ZiP> but because it was the first ISO protection I did
+<ZiP> The new laserlok
+<PPGR> was it one of these games?
+<PPGR> Evel_Knievel-RLX
+<PPGR> rlxspz01.zip , 10, 14105 KB, 07-08-98, Speedy_Zone-RLX
+<PPGR> rlxekfix.zip , 1, 40 KB, 07-09-98, Evel.Knievel.REAL.FIX-RLX
+<PPGR> rlxrwr01.zip , 17, 24086 KB, 07-13-98, Rune_War-RLX
+<ZiP> Speedy Zone, that was it :D
+<ZiP> heh
+<ZiP> err
+<ZiP> no
+<ZiP> Even Knievel :/
+<PPGR> Heh, didn't that need a fix?
+<ZiP> Nah
+<ZiP> I think DVN did a 'fix' for it
+<ZiP> that brought back the cd protection
+<ZiP> or something :)
+<PPGR> No i remember that actually, it did cuz it would only work in C:
+<ZiP> nope, i think the way i cracked it you needed to install to a certain dir
+<ZiP> and people didn't read the nfo
+<PPGR> Since OGN is unofficially with DVNiSO, do you crack ISO's for them, on non-rippable games?
+<ZiP> I'm also in DVNiSO, so i guess that would be a yes :)
+<PPGR> Have you ever spoken voice with the leaders of OGN/DVNiSO?
+<ZiP> yup
+<ZiP> when i first came into the scene
+<ZiP> I swore I would never give out any personal info, or talk to anyone over the phone
+<ZiP> or anything like that
+<ZiP> but i guess you make friends and things change (a bit)
+<PPGR> That trust thing always works it way in into friendships :)
+<ZiP> Yah, it does :)
+<PPGR> Do crackers ever get any special treatment, or a word of what goes on in OGN/DVNiSO?
+<ZiP> I suppose to a certain degree all crackers get special treatment.
+<ZiP> I used to joke about new computers arriving in the mail and stuff.
+<ZiP> But it isn't really like that :)
+<PPGR> Well do you get what you ask for, hardware & software wise?
+<ZiP> I make it a personal policy not to ask for anything.
+<PPGR> Do you think your due any?
+<ZiP> If someone wants to give me something, that's great of course :)
+<ZiP> Well
+<ZiP> Maybe that's true
+<ZiP> but it sickens me to see people whine for leech on sites
+<ZiP> or beg for hw
+<ZiP> and so it's not something i would ever do myself
+<PPGR> Well is all the rumours about OGN having buttloads of money & hardware, that all true or just false rumors? Or you just dunno?
+<ZiP> Heh, lemme go check my paycheck :)
+<ZiP> nah, j/k
+<ZiP> uhmm
+<ZiP> Not being in any other major games group
+<ZiP> I don't know how OGN would compare.
+<ZiP> I'm sure all groups have at least some money lying around :)
+<PPGR> Hehe, have you ever been offered money to crack a certain game/util?
+<ZiP> Yah, a few times, I've always turned it down.
+<ZiP> Sometimes because I didn't feel right accepting it.
+<ZiP> Other times because I just didn't think it was worth giving out personal info.
+<PPGR> Whats your view on the scene, is it a game, a hobby, a way to get revenge on companies, or something different?
+<ZiP> A game basically, I find it fun, and I love the competition.
+<ZiP> I don't think I feel any malice towards game companies at all.
+<ZiP> I doubt the scene is really about that for many people.
+<ZiP> With the exception of anti-ms people maybe :)
+<PPGR> You ever plan to use your skills in cracking in helping making better protection for companies, if the price was right?
+<ZiP> I doubt I ever will, but if I was ever offered something like that I'd be a fool to turn it down.
+<ZiP> Then again,
+<ZiP> I'd be fighting a losing battle :)
+<PPGR> But being a cracker is actually helping in real life right? Something you could put on a resume?
+<PPGR> Could call yourself a Reverse Software Engineer :P
+<ZiP> Nah, I don't think so :)
+<ZiP> It's probably a complete waste of time for me.
+<ZiP> I'm not even looking at a career in computers, so it's something I'll never use in real life.
+<PPGR> Do you go to school currently?
+<ZiP> Yes I do, university.
+<PPGR> Whats your major?
+<ZiP> I haven't declared one yet, but I'm thinking of Physiology.
+<ZiP> Looking ahead to medicine of course.
+<PPGR> Heh, interesting. Most crackers I talk to, their upcoming CS (Computer Science) majors :)
+<ZiP> Yah, I think I'm quite the exception that way :)
+<PPGR> Why Medicine, the money?
+<ZiP> That's definitely a part of it, and the prestige, but I also have other reasons too personal to mention here :)
+<PPGR> Oh understood, if I'm getting too personal, let me know :)
+<ZiP> I will :)
+<PPGR> An obvious question, i'm gonna say one word, and i want you to go off about it as much as you want: SC3000.
+<ZiP> :/
+<PPGR> But if you don't, if you wanna make it the past, you can say "NO COMMENT"
+<ZiP> I guess I can go into this... for the millionth time.
+<ZiP> well
+<ZiP> i think I'll take that option actually
+<PPGR> Just RTF NFO? (Read the Fucking NFO)
+<ZiP> everything that can be said has been
+<ZiP> If anyone cares anymore, they can go read up on it :)
+<PPGR> Just had to ask, sorry :)
+<ZiP> heh
+<ZiP> OGN WAS FINAL
+<ZiP> heh, sorry, couldn't resist :)
+<PPGR> hehehe :)
+<PPGR> Do you think the marriage with OGN/DVNiSO will last? You think its a good decision?
+<ZiP> Yah, I think it was a great decision. The two groups get along great, and there are a lot of great people in both groups that make it all work great :)
+<ZiP> I can see it lasting a long time to come (maybe until the rip scene dies)
+<ZiP> err
+<ZiP> i just realized i said 'great' a million times in that one sentence :)
+<ZiP> I guess that pretty much summarizes it :)
+<PPGR> Heh, that opens up another set of questions, you think rip scene has like a year left before it goes ISO only?
+<ZiP> I wouldn't dare to hazard a guess.
+<ZiP> As games get bigger, or faster connections become more readily available, the rip scene will die.
+<ZiP> Maybe a new rip scene will be born as DVD's become the norm, who knows :/
+<PPGR> Well you think ISO will overlap rips in popularity within the next year, or the same answer?
+<ZiP> Yah, I can see ISO's becoming much more popular, especially with everyone getting cable these days. I don't think I have a friend who doesn't have it or isn't planning on ordering it :)
+<PPGR> Well my take has always been, when Joe Hick from AOL can successfully burn an ISO with no prob, there goes the rip scene :P
+<ZiP> Yah, very true. If it ever comes to that, who would need rips?
+<PPGR> Well that's about all the questions I got, any last words, shout outs, comments, beatdowns, etc you want to say?
+<PPGR> Or anything I didn't bring up you wanted to mention.
+<ZiP> Nah, not really :) Hi to all my friends, and to everyone who hates me too :)
+While I was editing this log, I came up with some more questions. Luckily, I was able to get a hold of ZiP again to ask some more (so this is like Part 2 :)
+<PPGR> Do crackers make a difference between rip & rape?
+<ZiP> Hrmm, good question :)
+<ZiP> I guess that some people just don't know how to rip
+<ZiP> and rip out stupid stuff
+<ZiP> I think in general whoever makes the decision to release a rape should have the blame placed on them.
+<ZiP> I guess... to a certain extent
+<PPGR> But like large adventures, where everything is indexed in large files, couldn't a cracker decide "Yeah let's keep that, nah nix that" etc?
+<ZiP> Yah, for sure, but quite often it's obvious what has to go
+<ZiP> and then what can stay is the next decision
+<ZiP> and then you decide if it's worth releasing it or not
+<ZiP> with what you have to rip gone
+<PPGR> Doesn't have a high speed connection tremendously help out, or do you do a lot of .exe cracking?
+<ZiP> I used to do a lot of cracking just from the .exe when I was on a dialup
+<ZiP> but
+<ZiP> a high connection speed is extremely helpful
+<ZiP> there are some things you just can't do with the .exe alone
+<ZiP> and to reindex large files, you're crippled on a slow connection
+<PPGR> Which you prefer, the rip, or the actual iso?
+<ZiP> The ISO I suppose, you have everything, but then again not everyone can or is willing to get isos
+<PPGR> If I was a supplier, and had a game, what would need from me before you can start working on the game?
+<ZiP> A dir list and a .exe would be a minimum, and from there more decisions could be made
+<PPGR> Which you prefer, 5 min. crack, or a game that's a challenge to crack?
+<ZiP> A challenge for sure :)
+<PPGR> When you get stuck on a game, do you ask for help from rival crackers?
+<ZiP> Nope, they're probably working on the same game :)
+<ZiP> If I get stumped, I turn off music and other distractions and try to concentrate harder :)
+<ZiP> It almost always works too :)
+<PPGR> Which is harder, re-indexing, ISO or encryption protection?
+<PPGR> Or is the hardest a protection you've never seen before?
+<ZiP> Hrmm
+<ZiP> Everything is hardest the first time you do it, but I don't think that any of the above is much harder than the rest.
+<PPGR> Would you say then that getting a game with some hard protection, that a cracker should learn to crack it to gain experience?
+<ZiP> Yup, definitely.
+<ZiP> I don't think that's really news to anyone though :)
+<PPGR> Do you think a cracker can make or break a group?
+<ZiP> To a certain extent, but there are so many other things that make groups too.
+<ZiP> One thing's for sure, without a cracker or two you're going nowhere :)
+<PPGR> Why you think games come out to the scene not 100%, is that the fault of the cracker or the tester?
+<ZiP> Probably both, no one has time to play each game from beginning to end, and no one is perfect either.
+<PPGR> Are you ever pressured to put out a fix for a messed up game from a rival group?
+<ZiP> No, not really.
+<PPGR> When a game is released, and its not 100% cracked, do crackers rag on the cracker who messed up the game?
+<ZiP> heh, to a certain extent yah, there are rivalries and certain people do hate others and take every opportunity to put down people
+<ZiP> among friends it doesn't happen much though
+<PPGR> Are most crackers friends with each other? Is there like an inner circle crackers join once there accepted as being a decent cracker?
+<ZiP> Well, there is a group of the best crackers from all groups
+<ZiP> Union
+<ZiP> It's a place where what group you're a part of doesn't matter
+<ZiP> And you don't have to put up with idiots.
+<ZiP> An alternative to
+#cracking
+:)
+<PPGR> Union a channel, irc server, msg board? When a really known tough game is cracked, do crackers Oww and Awwhie, and clamour to find out how they did it? Do crackers brag about there lasting cracking expeditions?
+<ZiP> Nah, not really.
+<ZiP> People congratulate each other, but bragging isn't really important.
+<ZiP> Union is just a group of crackers, the best of the best basically.
+<PPGR> Which creates more pressure on you, a store game or a game everyone has but just a race on getting the first working crack.
+<ZiP> A store game I guess. Most store games aren't that hard to crack, so you never know far ahead or back you are from the competition.
+<PPGR> Have you ever lost on a game due to not able to crack it fast enough?
+<ZiP> Nope, never happened to me (yet).
+<PPGR> When your working on a game, don't the suppliers/leaders bother you constantly on updates and working cracks?
+<ZiP> Nah, I don't really have the time to do a lot of updates.
+<PPGR> I mean updates like "So how long?"
+<ZiP> oh
+<ZiP> i see
+<ZiP> Yah, you get that occasionally
+<ZiP> but
+<ZiP> usually from couriers more than suppliers or leaders :)
+<ZiP> and they ask 'how big' a lot too :)
+<PPGR> Which irritate crackers most, new protection, botched rips, or uncooperative suppliers?
+<PPGR> or something else?
+<ZiP> hrmm... I think that you already mentioned the most irritating thing, people who ask for updates every 5 minutes :)
+<PPGR> Has there ever been times you've been overwhelmed from multiple groups wanting you to crack all kinds of things at the same time?
+<ZiP> Yah, when people want a util cracked and you're working on a game and this and that. It happens to people who don't go for games alone.
+<PPGR> Which get more priority, games or utils?
+<ZiP> games for sure
+<ZiP> Mainly because you know that tons of people are going to play what you crack.
+<ZiP> With utils, you hardly ever get any feedback. It's just not as rewarding.
+<PPGR> Have you ever been threatened by any companies cuz you successfully reverse engineered there software?
+<ZiP> Hehe, that would be funny, but no, it's never happened to me.
+<ZiP> I've known crackers to email companies their cracks.
+<ZiP> As a way of showing them how to improve their protection.
+<ZiP> Especially generic cracks for commercial protections schemes.
+<PPGR> Do crackers taunt companies?
+<ZiP> Yah, some do, some don't care. I've personally never talked to anyone who's software I've cracked.
+<PPGR> Why do you think companies don't spend more time in making games harder to crack? Is it like the philosophy I have, "If protection can be coded, it can be de-coded." :)
+<ZiP> I'd be guessing, but most coders probably know it's a futile waste of time.
+<ZiP> I don't make games, so I'm not positive, but it must cost a lot to pay your staff for a week of coding a protection scheme too.
+<PPGR> Why because the coders that make the game are typically ex-warez people?
+<ZiP> hrmm, I couldn't really say.
+<ZiP> From past experience from other companies maybe.
+<ZiP> Can you think of a game that hasn't been cracked?
+<PPGR> The only one i can think that took forever was Speed Busters, cuz of UbiSoft's protection.
+<ZiP> I never had the pleasure of looking at that :/
+<ZiP> It was a dongle, right?
+<PPGR> No, .exe encryption & iso protection.
+<ZiP> oh, i see :)
+<PPGR> Would you say that the best protection a company should use on a game is there own proprietary protection, and not some protection you can purchase from a company?
+<ZiP> If the people making the proprietary protection know what they're doing it will be better because it's something new. Chances are the commercial protection scheme has been cracked many times over before.
+<PPGR> Recently Blue Byte & Ubisoft put out press statements saying they had higher game sales due to better protection on the games. Don't you find that an insult to crackers?
+<ZiP> Heh, indirectly I suppose. I doubt that the next game they make will take nearly as long to crack.
+<ZiP> I don't really understand why it took so long anyways.
+<ZiP> A month is ridiculous, I really want to take a look at this game now :)
+<PPGR> Being in euroland, isn't protection harder to do than games from the US?
+<ZiP> I'm not euro :) but iso protections are more common in Europe. The same games are often released in the US minus the iso protection.
+<ZiP> and, you're right, a lot of the games i see are euro versions
+<PPGR> Heh, for some reason I thought you were in .fi :|
+<ZiP> nope :)
+<PPGR> Cuz i always see you at weird times, like the euros.
+<ZiP> heh
+<PPGR> You in the states?
+<ZiP> nope, Canada :)
+<PPGR> Heh, canuck, you wanna be 2nd most famous canadian cracker before you retire (Behind Beowulf of Razor)? maybe 1st?
+<ZiP> heh, I don't know, I never really thought about it that way :)
+<ZiP> Beo is probably more famous than I'll ever be though.
+--
+My next person was ATM, the Class coder who makes those fabulous intros and installers. If you like his stuff, you should check out his website at
+http://www.multimania.com/atm9x/
+- has copies of most of his PC intro's and installers:
+<PPGR> Thanks for the time for this interview. At This Moment (pun not intended), you are probably one of the most famous installer creators in the scene. What got you started into installers? Why not cracking? Also, why not trainers?
+<ATM> I decided to do installers a while back when I saw some did by some others groups, the one which impressed me more was Paradigm, then
+<ATM> I started coding on PC
+<ATM> originally, I was coding on the amiga but
+<ATM> when the amiga died, I stopped everything coz I hated the PC (like almost all amiga users :o)
+<PPGR> When you got into the scene, did you intend to be a coder of installers & intros?
+<ATM> not really, I did an installer (which took me a long time) which was made for me (for my own usage)
+<ATM> since PDM made an installer
+<ATM> I thought an Installer was really cool and I sent one to Class so they can use it if they'd like it
+<ATM> I got an answer asking me if I would like to join to do some...
+<ATM> I accepted
+<ATM> I don't know how to crack, that's why I just did installers ;)
+<ATM> and also, Trainers are not the best stuff I do, even, it's something specific
+<ATM> closer to cracking
+<PPGR> What inspired you to just out of the blue make one for CLS? Did they impress you in some way?
+<ATM> First time, I sent the "1st blue one" installer to Razor, and I got an answer saying "thanx, but go to hell please". hmm, well, I thought maybe Class would love it :P
+<PPGR> So if RZR had accepted you, we would of seen these famous installers under the label RZR?
+<ATM> I guess so :P
+<ATM> Razor was impressing on the Amiga,
+<ATM> close to Fairlight, Paradox, Crystal, ...
+<ATM> that was part of my favorite groups
+<PPGR> Who was the first group you joined for the Amiga? And your first installers for Amiga.
+<PPGR> Actually, just give me your scene history ;)
+<ATM> heh, well, I have been in two group, but aren't very popular since they were French only,
+<ATM> this was Red Dragon and Xact (Xact was a coding group for intros)
+<ATM> and in a french demogroup, but my real name is floating on some web sites, so I'd better shutup about that ;)
+<PPGR> What do you use to make your installers & intros? Do you use code libraries available on the net?
+<ATM> For installers, it's 95% Borland Delphi 3.0 and a bit of ASM for patching purpose (storing games informations inside the EXE),
+<ATM> same thing for Intros, and I'm actually studying Glide3.0 SDK
+<ATM> but not in Delphi this time
+<ATM> there won't be a lot of Delphi Intros from me in a close future
+<ATM> the DirectX libs can be found on the net
+<ATM>
+www.delphi-jedi.org
+<PPGR> What about tutorials? What advise you give to a coder who wants to make installers/intros? Or do they just bother you for your source code?
+<ATM> That's normal ppl ask for source codes, when you begin coding in whatever language, most of the time you don't know where to begin. So it's often easier to check in someone else code and see what can be done if you change 1 or 2 parameters. There is a lot of tutorials already. For example,
+www.hornet.org
+(which is a demogroup based site) and in the Microsoft DirectX SDKs,
+<ATM> in my opinion, the best way is to get all necessary materials (SDK + dev tools) and begin with simple things.
+<ATM> Give you a simple goal, and try to achieve it
+<ATM> then upgrade it.
+<ATM> For example: Trying to do a basic PONG game would be a good start :)
+<PPGR> Do you use the same code in most of your installers, and just change the frontend, or is each intro specially coded?
+<ATM> For installers, the engine has been improved version after versions until the end of 1998. Then I put all what I did in the trash and restarted from scratch to try to bring something different. The latest installer from me (not yet released/used by CLASS) bring something really new to installers ;)
+<ATM> for intros, it's every time a new code,
+<ATM> just 5% is the same.
+<ATM> but I try to keep the way installers are done
+<ATM> end-users used to know PDM or CLASS installers now,
+<ATM> and every others installers are now based on this "standard"
+<ATM> (exception is the Razor one)
+<PPGR> I've noticed that several of your intros are remakes of "infamous" scene intros? Still have ties to the amiga scene?
+<ATM> :o it's hard to forget your origins (ouch that's word hurts!). Also, I have always loved the oldschool intros. Most of the remakes have been done in association with the original coders: for example Icarus of Paradox (Lightforce Gameboy intro remake) and Razor's duck Intro (Hetero supplied me all materials).
+<ATM> But also, someone already did a remake of my intros ;)
+<PPGR> Really?? Who? I'd like to see this.
+<ATM> When Miramax was in Razor, there was a little story between us (!) and Miramax did a 99% remake of the Bionic Commando Intro of mine (I sent him the materials). This was a kind of contest between us ;)
+<ATM> It has been used in a fake CLASS release made by Razor :p (a fake Unreal fix)
+<PPGR> But what inspires you artistically? Suggestions, ideas, things in the paper?
+<ATM> nothing special, but games are a good source of inspiration
+<ATM> for the latest Class intro (Bio Hazard Area) I have been inspired by Half Life.
+<PPGR> To a point, you make a living off this don't you?
+<ATM> Yes and no:
+<ATM> I'm working as a Web Designer and I do CGI code. I plan to move in the gaming industry this year since I got a proposition
+<ATM> I just have to decide :o
+<PPGR> Heh, a large famous french gaming company? ;)
+<ATM> not so large, but working on a promising title :)
+<PPGR> You think we'll (CLASS) get it early and pirate it ;)
+<ATM> oh huhu :p certainly hehe :p hope so, I prefer seeing it properly pirated ;)
+<ATM> since anyway it will be pirated
+<PPGR> Would you ever release your source code or installer packages to the scene if & when you retire?
+<ATM> not sure. Maybe some stuff but not everything. All the coders I knew on the amiga never released any source codes. It's like a kind of cooking secret ;)
+<ATM> but I'm not retired yet, and I don't plan to retire right now even :P
+<PPGR> Doesn't coding these installers & intros take up a lot of your time, especially since you work?
+<ATM> hmm yes, being really involved in the PC Wares Scene ruins your real life, that's a fact, and that's a choice. But you learn a lot tho
+<PPGR> Do you ever do your coding/html for the scene at work? Does your family get mad at you ever cuz you rather code than do other things?
+<ATM> I do 99% of my stuff at home, but my GF hasn't left me (yet) because of that :P She accepts the fact I learn more every time I code something, and that's another brick added to the knowledge required to get a better job :) Tho, I do most of the codes/stuff late in the night
+<PPGR> Have you ever said, "I'm sorry honey, I just can't tonight, I gotta code!" (just kidding ;)
+<ATM> huh, code is not the priority then :P
+<PPGR> What ever happened to scene fantasy?
+<ATM> hrmph, Scene fantasy is kinda frozen actually, I began to code this little game to make it more a joke than a real game. But adding & adding more & more stuff made it a real game... So, now, the code isn't clean enough to support all the ideas/features and I have to break it to recode it properly. So it's really a lot of work and I didn't thought it will be so big when I began to code it. (it's already about 15meg big!)
+<PPGR> Do you code on request?
+<ATM> I did, but I don't do that anymore. Just when Fairlight wants me to do an intro, I do it (sentimental stuff about the amiga ;) nothing gayish with Hemp Hoodlum!). All my work is for Class, and for the monthly JTF release
+<PPGR> Do you think you've risen too quickly as kind of a celebrity of the scene? Do you like the attention you get?
+<ATM> err, funny question :p It's always hard for me to believe i'm kinda popular. I just don't think I am popular myself. I know that's a lot of ppl out there that like what I do, and I'm glad to know ppl are interested in what I do. That's always cool to get feedback from my work
+<ATM> I would have preferred to see some ppl coding stuff and not feeling alone with Hetero, Shrine or Moonlord
+<PPGR> Who do you admire in the coding scene?
+<ATM> Hetero for his intros (always top qualities), Shrine for his PDM intros (particularly the latest PDM 3D DOS intro!)
+<ATM> and the Paradox Console PSX intro coders
+<PPGR> What about your HTML skills? I know you've done quite a few scene pages, what's your magic, and the tools you use?
+<ATM> simple: Dreamweavers from Macromedia is the best HTML tool I know (and I tested almost all since it's my real work) and Photoshop 3.0 (I don't really use v4.0 or v5.0, I tired of crashes...) I don't think there is magic in it, but more like 4 or 5 hours a day using those kind of tools during years
+<ATM> like I said for code, Practising is the best way to learn :)
+<PPGR> What ever happen to class101.com ?
+<ATM> I dunno, I saw the beta of the site, but I don't do it myself. I have no idea of when it will be finished :/
+<PPGR> Your just like most other coders, you're very humble about your work. Is that a thing about most coders, they don't like to brag about their work?
+<ATM> haha, I don't know if it's a tradition of something, but you just can't know everything in code. That's not like drawing or painting or even doing music. You always have someone better than you... and that's cool even, or else it would be really boring :) Each time I play a really great game like Turok2 or Unreal, I'm watching at the effect (the technical part) and I wonder: "hmm shit, damn, which f***king functions did they used to do this nice effect :p)
+<ATM> I just think that most of the coders respects themselves
+<PPGR> Are the coders in groups usually friends with each other even thought they are in rival groups? Do you just drop your squabbles? It seems you have a lot of trust in each other if you share code with each other.
+<ATM> Hetero, Miramax and me are forming like a small team, sharing ideas and technics. But not everything or else this would not be really funny :) We MUST keep some of our secrets :).I have chatted 1 time with Shrine which is a really cool guy. I chat sometime with Icarus of Paradox (long time amiga/psx coder). I just chatted one time with Moonlord in 1997, this was enough tho
+<PPGR> What coders did you look up to when you first started doing installers?
+<ATM> Moonlord of PDM. I respected a lot what he did. But like I said, when I coded my 1st installer, I just did that for myself, not to come back intro any scene or something. Just for my own & personal usage :)
+<PPGR> How many have you done officially, unofficially, PC & Amiga?
+<ATM> err :P huhu, I can't remember myself =] and a lot hasn't been used. Some were never released even. and on the amiga, I just can't remember! I did tons of small BBS intros and a game (a tetris battle gaiden clone)
+<ATM> (Since it has been published I can't name it)
+<PPGR> Would you guess in the 100's ?
+<ATM> hmm, no I don't think so, but closer to 70 for everything I did so far
+<PPGR> Why were you forced to use "all in one .exe" in the newer CLS installers?
+<PPGR> I liked the .ini you had at first, really convient in making changes :)
+<ATM> yes :) but I was bored to see that's sometimes some files were lost/forgotten. It's always really painful to see a .DLL is missing or 5 extra files floating around all those .Cxx files... This avoid mistakes to be done
+<PPGR> What about the fakes using your .exe/.ini, has that been a nuisances?
+<ATM> going to visit a friend of mine, he showed me is "el33t" silvers CD coming straigth from Hong Kong, and guess what?
+<ATM> using the CLASS or PDM installers, modified, with fake information like
+<ATM> Shoea Twin Sue (or smth) brings you today: Quake 2... we rules bleh blah!
+<ATM> this killed me and I felt like raped. (tho I fully understand game coders...but that's unavoidable)
+<ATM> I decided 1st to simple encode the .INI files to get rid of little lamers, then one day, someone released some kind of translation table to edit the encoded .INI files (a real encoder would have been better:p)
+<ATM> so, I decided to patch the .EXE with the information of this .INI file
+<PPGR> Do you see fakes still even thought you've used all in one .exe's cuz maybe someone accidentally included the editors in a release?
+<ATM> no, never.
+<ATM> even, the editor without a blank EXE wouldn't be any help
+<PPGR> Do you think intro's & installers will change radically in the future? Will they be useless when ISO's become the norm?
+<ATM> I don't really think. Paradox PSX already include intros when you boot the PSX CD. Including an Autorun.inf with a intro in a ISO could be totally possible I think
+<ATM> like every Amiga Floppy release when you inserted the Disk in the amiga drive and the intro started :)
+<ATM> that's was so cool *sigh*
+<PPGR> Do you think intro's/installers in all PC games is a fad? Do you think the demand for coders will ever wane?
+<ATM> yes, I think. Maybe not for installers, but certainly for intros. And actually, without the actually Intro coders in the PC scene (I can count 5 or 6 regular maximum) the PC cracktros would be prolly already gone. Imagine if we all meet, go on a tour in a bus together and we have a crash? :P heh bye bye intros =)
+<PPGR> Is being a coder for the PC scene something I could put on a job resume, maybe as "Demo artist" ? Have you ever used your installer/intro skills to help land you a job?
+<ATM> that's difficult to say. I don't think it's a good idea... better do a specific version ;)
+<PPGR> what you mean, rephrase the question?
+<ATM> I mean:
+<ATM> If I go to a game company with a intro or an installer, I guess I don't come out whithout being beaten to death :p I'd rather do something specific to show to get a job, but sure not an installer or an intro....
+<ATM> Scene based installer or intros = piracy = not good
+<PPGR> Couldn't you just change the output text & graphics to that specific name, like change CLASS to "ELECTRONIC ARTS"
+<ATM> yes I could, that's what I meant. Doing something specific
+<ATM> (this reminds me: one day I got a mail from a dude from EA asking me if I could send him a 8x8 font I drawed :p the one I used for the Bionic Commando intro)
+<PPGR> Aren't most coders who make the games also ex-pirates themselves?
+<PPGR> Artists, coders, producers, etc..
+<ATM> not really most of them
+<ATM> some of them was (or are still) in the scene.
+<PPGR> Do you feel hurt when someone pirates a game you put weeks/months into?
+<ATM> no. this won't never change. ALL games so far (since 1st computers) have been pirated. The problem is WHEN it's pirated (for companies). Coders/artist are anyways(95% of the time) paid(raped) by companies for their work.
+<ATM> tho, the more the game is raped, the better it is (for a coder/artist)
+<PPGR> So most coders don't mind the scene? It's just the companies who are pissed off cuz of lost profits?
+<ATM> I think yes. I personally know 2 game coders working on upcoming title who doesn't give a fuck to be pirated. The major problem is how fast it is pirated (to sell enough copies to pay the development costs). The 2 told me they prefer seeing the game raped than with Video/Sound addons
+<ATM> if the enduser want the true version, he will buy it
+<ATM> Like I do for every elite games myself
+<PPGR> What about ISO's, doesn't that make things worse for them?
+<ATM> yes exact, but who can get a hand on ISOs right now? 1% of the end users? Not even all the ppl in the PC scene can get ISOs regularly
+<ATM> but In the future, this will be more a problem for companies. Tho, the traffic is monitored on networks and sites who can handles this traffic must be huge
+<PPGR> Do you think you get the respect you deserve in CLS?
+<ATM> Yes I think, I don't see anything to say. I have really good friends in CLS. That's ok :) or else, why the hell I would have stay in CLS since 1997? ;) That's nice like that
+<PPGR> Do you ever get overburdened with the demands/requests in the PC scene?
+<ATM> this has been hectic during a while when I was in Class & in Fusion. I have been invited to help X-pression to begin, and got a request from a friend. This was a kind of tought on me and at certain times, you must learn to say "No, sorry I can't :(". It's not very good to be overworked, you have the pressure to put everything out in time and doesn't do something really like it should be
+<PPGR> Do you get e-mailed/msg a lot of fan mail?
+<ATM> fans :p hehe, I can't even stick this word with me :) but yes, I often get e-mails from ppl telling me what I do is cool and stuff, and I try to answer everyone to say "thanx, glad you like it :)"
+<PPGR> I think that's all I got for today, any other last words for the scene, specific people, etc? Or any other topics I didn't bring up?
+<ATM> no topics, but I'd like to add that:
+<ATM> I encourage every beginners coders to go and trust in what they do. The PC scene badly lacks intros. The PC Demo scene is slowly dying and need a new generations
+<ATM> it's always great to see new comers :)
+<ATM> I don't see anything to add myself :)
+<PPGR> So you think the PC demo scene could disappear if we don't see some fresh blood soon?
+<ATM> hmm, perhaps... the number of releases decrease at each parties... (In reference to demo parties held every year all over the world).
+<ATM> I guess the best are quickly recruited by game companies
+<ATM> ...that's the way this work...
+<PPGR> How Ironic.
+<ATM> :)
+--
+Lastly we end the report with one of Paradigm's top US suppliers, Drizzt. This ex-RLX member has really shaped up in the last 8 months to kicking some serious arse, and he's all out of bubblegum:
+<PPGR> Alrighty, So thanks for letting me interview you. So, lets be blunt, where did you come from? (not the birds & the bees story, I mean in scene talk :)
+<drizzt> Alrighty
+<drizzt> I first got into "warez" back in my days on AOL. I used to be the common AOLamer, and just leech games from AOL
+<drizzt> I then joined a group called Mystic, which used to be run by NyteMyst
+<drizzt> After uploading to AOL for several months, I wanted to get more involved I then joined a small little courier group called PTA, which was founded by Imperial - _iM on IRC
+<drizzt> He helped show me the ropes, and I did what I could .. After several months of that, I was again looking for more
+<drizzt> I walked into
+#ror
+, and started talking to tklp
+<drizzt> I told him I was interested in supplying games, but I had no clue on how to do it
+<drizzt> I was expecting to get shot down right on the spot, but for some reason, he took me in.
+<drizzt> He started showing me how to find little shitty games on the web (Which ROR was famous for), mail orders, store pickups, etc..
+<drizzt> Several days after I joined ROR, this shit hit the fan
+<drizzt> ROR released a beta of Quake, and I guess it was the last step for the rest of the scene
+<drizzt> ROR dis-banded, and Reflux was formed
+<drizzt> They got banned from most sites, as did Reflux, considering it was the same group as ROR, just under another name.
+<drizzt> I basically knew jack shit about the scene at this time, so I just stayed with RLX, hope for the best.
+<drizzt> I scored my first title (Tempest 2000), which required a fix.
+<drizzt> I had no clue on how to rip or do anything back in those days, and I forgot to take the CD out of the drive to check for a CD check .. =/
+<drizzt> A really stupid mistake, but I had no clue back then.
+<drizzt> Anyways, I continued to supply what I could to RLX at that time, and became more and more active. I met a lot of people who are still around today ... ][ce, Flounder, tklp, etc.. Even Tai Pan, who I would later join up with in PDM several years later.
+<drizzt> I was promoted to senior in RLX several months after putting in some hard work and time, even though I was still totally clueless on a lot of things about the scene.
+<drizzt> I then stuck around with RLX until everything started going bad. People left, sites left, etc.. The group just really went to the bottom of the barrel real quick (Not like they were ever not there, but you get the idea). I then tried to form my own group with a bunch of people from RLX, which we called Destiny. I never really took to it. I helped form the group, then I left the scene.
+<drizzt> I was gone for several months on and off just popping in once in a while I then graduated from high school, and headed out to the East coast to go to college. Several months after being in college, I started to get active again.
+<drizzt> I came back in the scene, and joined up with DVN right away, who are always eager to accept anyone.
+<drizzt> I quickly realized that DVN wasn't for me, and I attempted to get into RZR. I picked up Sorry (c) Hasbro from CompUSA, and gave that to RZR. However, I lost by about 2 hours on it to CLS. I had been really late on picking it up, and really didn't expect to win anyways.
+<drizzt> I then got Spearhead about 1 day after RZR already got it, and I was starting to get frustrated.
+<drizzt> RZR had Wish Bone covering store pickups, and I really felt un-needed. I never got a thank-you, or must respect or attention from anyone in RZR. I didn't even feel like they cared about me.
+<drizzt> Then there was another store pickup, Janes F15. RZR had already picked it up, but I was getting really impatient with them. I then brought the game over to PDM, who was currently having a dry spell after the whole Tai Pan fiasco
+<drizzt> I talked to Zeus about it, and BlueWater helped me rip the game.. It ended up being more like a rape, but I had no clue what a rape even was. I was still new to the whole game scene, and it was more difficult getting back then I thought it would be
+<drizzt> I then supplied several titles last year, but still making mistakes and losing on several races.
+<drizzt> School then let out for the summer, and I headed home. Since I would only be on a modem back home, I decided to take the summer off. I then came back this year with determination.
+<drizzt> That brings us up to current time I guess.. =)
+<PPGR> So if RZR had treated you with more respect & dignity, and appreciated your work, RZR would probably not be as dead at this moment?
+<drizzt> Well, I don't know if I could have made a difference in RZR. Shortly after I left for the summer, RZR ran into problems with ][ce and Cypher, and the whole situation there. I still really don't know what happened there, but I'm glad I wasn't a part of it.
+<drizzt> But yes, if RZR would have given me more respect and dignity back then, I would be in RZR right now.
+<PPGR> Who did ya look up to? Who were your idols? And who has probably helped you out the most in game supplying?
+<drizzt> Well, I really look up to Zeus and Leno. Those 2 have been around for many years, and they really understand the scene. They've helped me more then anything in getting to the current supplier I am. I would also have to tklp & Tai Pan helped me a lot when I was in Reflux, as we did most of the work for the group then.
+<PPGR> Isn't kind of ironic who use to be a part of ROR, and see what's happened to them? I joined when they started up in late 95, ][ce & cypher was a part of it (and became OGN), now you've come out to really be a big supplier. Even tklp revised RLX for a tad.. Why you think that happened?
+<drizzt> The whole ROR situation is really ironic. I'm the 3rd notable ex-ROR/RLX to join PDM. Tai Pan was the first, and made quite a name for himself with his brief period in PDM. Then I joined, and now we have rantnrave, who used to be in ROR/RLX also. Its just odd that a lot of people who are really active and do something in the scene now used to be part of ROR/RLX
+<drizzt> About RLX ..
+<drizzt> I kept in touch with tklp over the years. We would write emails once in a while to each other, and he was busy with some band he had organized (Which he called Reflux).
+<drizzt> He then decided to startup RLX around last June or so, and asked me to join.
+<PPGR> Do you think game supplying is going downhill?
+<drizzt> I really haven't been around the scene long enough to talk about supplying. At times, I still feel like newbie at it. But from what I've heard from other people, especially insider or whatever, its getting more dangerous to supply with finger printing and whatever else goes on. I know that Net Act that was passed last year really scared a lot of people too.
+<PPGR> Hrm, do you do more than just "store supply" ?
+<drizzt> Well, store supply's are easy. The majority of the people who keep track of the scene knows where those games come from. A lot of the other titles that are pirated before they hit stores are what the average joe is amazed about, because he has no clue where they come from.
+<PPGR> And do you get & supply those titles that don't hit stores first ?
+<drizzt> Yes, I've gotten my share of those titles. =)
+<PPGR> How do you afford all these store titles?
+<drizzt> Well, people tend to think its really expensive to go out and buy all these titles, but let me tell you, they are ways around it. Everyone knows that EB has a 10 day return policy, as long as you bring the box back in somewhat re-sellable condition. Of course, EB has problems if you do this too often. However, I got a good friend that works at EB, and he lets me bring back games and asks no questions.
+<drizzt> Other people do other things, like make their buddy or girlfriend bring them back so they don't recognize you, re-seal the games themselves, etc..
+<PPGR> Do you have a car?
+<drizzt> Yes, I bought a brand new Toyota Tacoma 4x4 last year. =)
+<PPGR> If I said "This game called PlayaHata is at EB.", how long would it take for you to get it?
+<drizzt> Well, no more then 2 hours if its a simple crack. EB opens at 10am, and I have no classes from 10am to 2pm. EB is less then 1 mile from my house, and I'm on a cable modem, so it doesn't take all that long. Generally, I feel if that I don't have the game out in 2 hours, I don't deserve to win on it.
+<PPGR> Do the sales people recognize you, except your eb friend ?
+<drizzt> Yes, they do. =) The same 2 or 3 people work every morning, and I'm on a first name basis with all 3 of them. They don't ask any questions, because they generally only see me buying the games, not returning them. I do however, keep the occasional game or two for my own enjoyment.
+<PPGR> So would a domino effect happen if your eb friend quit/fired ?
+<drizzt> I really don't think so. I own a re-sealer, which I can use to re-seal games. Sales reps don't tend to ask any questions about a sealed box. Its not to tough to find a friend to bring a game back either.
+<drizzt> During the slow months, many games don't hit the stores.. They're can only be several store pickups over the month
+<drizzt> I can afford several titles a month, even if I couldn't return.
+<PPGR> What about games you don't buy from EB ? The ones where when you open it, you can't return it, what do you do then?
+<drizzt> That situation has nevera really happened to me. My friend at EB grabbed me a role of those circle stickers that go on the ends of boxes, and using that with the re-sealer, I can make just about any game look professional re-sealed. I have however, made the mistake of losing my receipt or forgetting about a game and then not being able to return it .. =/
+<PPGR> Lucky bastard, I don't have either convience, and eat thousands of dollars of games every year :P
+<drizzt> heh
+<drizzt> <--- poor starving college student
+<PPGR> <-- just poor.
+<drizzt> I couldn't afford this shit if I didn't have those conviences
+<drizzt> =)
+<PPGR> Do you think you'd get out of this after you graduated? Or was kicked out of school, which ever came first.
+<drizzt> heh
+<drizzt> Well
+<drizzt> I'm in a five year program at my university, and this is only my second year. Of course, the work load gets heavier each quarter, so I really don't know how much longer I'll have time for the scene. I have 3 more years left, but who even knows if the scene will be around then.
+<PPGR> You sound pessimistic, you think the scene will die soon?
+<PPGR> You make it sound like armaggedon is coming.
+<drizzt> I don't think it will die soon, but I think its starting to get there. More and more people are getting interested in ISO's, and with cheaper media and faster Internet connections around the world, its hard to say where the scene is heading.
+<drizzt> I just hope that it doesn't die while I'm around. =)
+<PPGR> You mean the rip scene.
+<drizzt> Yes, the rip scene.
+<PPGR> So are you saying when the scene goes 100% iso's, you'll quit?
+<drizzt> Definatly, without a doubt. I feel that the ISO's just are not as entertaining. What fun is it to make an ISO, rar it up, and send it out? Its just more fun to get a game, rip it down, get a cracker online to crack it, package it up, etc..
+<drizzt> I've done ISO's before, and the only word I can use to describe it is "boring"
+<PPGR> So you stick around supplying just because its fun, not because of the competition?
+<drizzt> I really don't know what keeps me in the scene. I'm not a big gamer, as I don't really play games that often. I do however, really enjoy the people I meet, not only in PDM, but other groups as well. I'm also really driven by the competition. The whole thing about being the "first person in the world" to get a game out is just exciting to me. I still get a rush everytime I put a game out.
+<PPGR> But hasn't the scene affected your personal/school life?
+<drizzt> Well, not all that much. I'm away from home, and basically lost touch with most of friends from high school, but thats going to happen no matter what. I have had a girlfriend for the last 2 years or so, who I'll probably end up marrying in the next 3 years or so.
+<drizzt> I'm not the type of person to go out and party every weekend, as I usually end up working all weekend to pay for my new truck .. =/
+<PPGR> How you doing in school?
+<drizzt> School is school .. At some points it gets really hectic, and I'm just swamped between school and work. At other times, I have nothing to do for 2-3 weeks, and that is when I devote a lot of my time to the scene. I've had some bumps along the way, especially last year, but I got that all taken care of this year and got my GPA back up where it should be. It was nothing scene related, it was just that I had a lot of personal things happen to me
+<drizzt> Its just a matter of taking the time to put your balls to the wall and getting shit done.
+<PPGR> Do you talk with the other PDM members over the phone often?
+<drizzt> At first, no I didn't. I felt like there were the certain members of the group that were close together, and I was on the outside looking in. However, I've been pretty active since September, and a lot of the guys have got to know me better. So now I often talk to other members of PDM over the phone not only about the scene, but about other things in real life.
+<drizzt> I mean, its not to put PDM down at all. I joined them last year for 3-4 months, left for 3 months, then came back.
+<drizzt> They really didn't get a chance to get to know me all that well.
+<PPGR> So thanks to PDM, you make and meet friends you probably wouldn't of met in real life?
+<drizzt> Well, yea, definitely. I've really gotten to know the guys of the group, and I'm on a first name basis with most of them. It was a bit awkward at first, since i'm the "baby" of the group being only 20 years old, which most of the other guys in the group I talked to are in their mid to upper 20's
+<PPGR> Heh, i'm only 21 myself, but been game supplying since mid 96, and active in the net scene since 94.
+<drizzt> I feel I'm a newbie both in age and scene experience, especially compares to people like Zeus and JLennon who have been around for years.
+<PPGR> But at times, don't you get sick of the BS, politics, and scene in general?
+<drizzt> I hate politics. Especially the whole thing with groups ragging on each other, site ops bitching about pre's, etc.. I used to get interested in it, until I found out that its nothing but trouble. =)
+<PPGR> The ragging & competition, doesn't that create unwanted friction among group rivals even thought they might be friends?
+<drizzt> I have no problems with being friends with people from other groups, and I even try to talk to some people about non-scene related topics. However, a lot of people just want to talk about the scene, try to get inside information on PDM, etc.. Its just sad that people can't give it up for 5 minutes and talk to a rival group member about something unrelated
+<drizzt> They're are exceptions of course.. I've talked to Smokey, Principal, you, etc.. about unrelated topics
+<drizzt> Its nice to get away from the scene every once in a while
+<PPGR> Well the problem is not everyone is the same, and noone likes to express there true interests.. Yeah we like the scene, but in real life I'm a big techno music & sports fan, but I don't know how to find other scene related people who like those also without seeming like im intruding.
+<drizzt> Exactly, I couldn't have said it better.
+<drizzt> Its also hard to talk sports to a lot of the people in PDM, considering most are from Europe, and they have different sports they enjoy. =)
+<drizzt> soccer, bleh
+<PPGR> Have you ever met anyone from the scene in real-life ?
+<drizzt> No, but I really want to. Smokey (CLS) lives about 60 miles from me, and JLennon lives only a couple hours. I plan to go visit JLennon during Christmas, and several of the members of PDM invited me with them to go to some upcoming exhibition shows.
+<drizzt> I've talked to Smokey about it before, and he's all up for it, but he's always busy pimping chicks or some shit .. ;p
+<PPGR> Why do you think we're not seeing so much new blood coming into the game supplying circle?
+<drizzt> You know, I'm really surprised at that also. Its hard to find good dedicated people these days. I don't know how groups like CLS & RZR do it, because the average person can't even get into the channels. Then again, the average person who wants to get started in the scene isn't going to come up to PDM, CLS, or RZR, and do what I did.
+<drizzt> They're needs to be little groups where people can get started.
+<drizzt> I got started in Reflux, as did Tai Pan, and ][cE
+<drizzt> Its just difficult for people who are interested in supplying to actually get involved
+<PPGR> But noone seems to want to compete, it's as if the scene is losing hope in itself.
+<drizzt> Well, I don't know how true that statement is. One of the main reasons I'm around is for the competition, and I still get upset when another group releases a game that I could/should have gotten. I really don't know how the scene was 1-2 years ago, so I can't really compare.
+<drizzt> I feel that the scene is still competitive, but you don't have any "great" suppliers around
+<drizzt> I mean, they're are no "walking legends" around that everyone goes, "Oh yea, thats so and so, he's supplied blah blah"
+<PPGR> Well the problem also is people can't reveal who supplied some games due to fear.
+<drizzt> I agree, a lot of suppliers go unknown to the general public. I just remember hearing the average joe user talking about Zeus or Mad Turnip and talking how much they supplied and how great they were.
+<drizzt> Of course, that was a long time ago. =)
+<PPGR> Since the competition is thinning out, couldn't it be possible that someone could come into some group, be extremely determined/dedicated/ motivated, use all the tricks of the trade, and just dominate?
+<drizzt> I really don't know. OGN seems to think they can, and they proved it in December. Now some more members of PDM are getting active again, and seem to have the motivation and determination you're talking about. Its hard to say. Groups like CLS are going to get their titles no matter what, just because they have the resources.
+<drizzt> Its just difficult to stay motivated determined, because that takes a lot of time
+<drizzt> Real life tends to get in the way of that.
+<PPGR> Do you think PDM will completely dominate in '99, after 2 year of (arguably) CLS's strong prescene in the scene?
+<drizzt> CLS has definitely owned the scene since they've become involved. PDM is looking good now, but its hard to say where they are. They're are only 3 US suppliers, and then there are the germans. If one or two of the suppliers become involved in whatever, the group hurts.
+<PPGR> Why did Tai Pan just "flip" one day and dropped everything and walked away from it?
+<drizzt> Because he's an asshole ? =)
+<drizzt> Tai Pan was just weird .. He got inactive about 2 months before I joined PDM, and when I did talk to him, he was a complete asshole. I'm not sure what happened there, but everyone tells me it was because he got ego over all the titles he was getting.
+<PPGR> So supplying could corrupt you, and largely inflate your ego.. how do keep yours at check so it doesn't get out of hand like Tai's?
+<drizzt> I really try to keep my ego low. No one likes someone with an ego. ][ce & Cypher are an excellent example. Yes, they can supply, but they get ego's that not even they can handle. I just try to keep it in check so that it doesn't get too big .. =)
+<drizzt> I've been spending a lot of time talking to JLennon, and the guy is a supplying stud, yet he doesn't have any ego. He's just helped me keep mine in check. =)
+<PPGR> Action always speaks 10x louder than words.
+<drizzt> I totally agree with you.
+<PPGR> When you get a game from EB, do you fret & freak out on what the competition is doing?
+<drizzt> The first couple times I did. I was really afraid that I wouldn't be fast enough, and I made a lot of mistakes. Everytime after that I've tried to just minimize on those and try to get a little faster on it. I'm at the point now where I feel that I can't get any faster at it. If I lose now, its to the better man.
+<PPGR> Which do you like more, finding a game you weren't expecting to be in stores, or putting out anticipated titles?
+<drizzt> I've only had a couple of each, but its definitely a nice surprise to walk into EB, and find a new game coming out of the box that wasn't expected. But highly anticipated titles are definitely very exciting, but they tend to be a lot harder to get because groups seem to put more effort into getting them.
+<PPGR> Okay well you got any last comments/shoutouts/anything not discussed you want to bring up?
+<drizzt> not really .. ;p
+Wheew! If you read all of that, you have a lot of time to kill :) Probably next monthly I'll only do one or two interviews, because I really like to do very extensive interviews with people. Hope you enjoyed this issue, and if you'd like to nominate someone to be interviewed, just message me on IRC.
+-----------------------------------------------------------------------------
+(c) Prozac's Personal Gaming Report
+Thiis report may not be reproduced with out talking with me on irc first.
+Check out my weekly gaming report in NWR, all issues in
+#nwr
+on EFNET.
+URL:
+http://ppgr.webjump.com
+- E-mail:ppgr@usa.net
+Share this article
+← previous
+next →
+sending ...
+New to Neperos ? Sign Up for free
+Let's discover also
+Prozac's Personal Gaming Report (June 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (January 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (May 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (March 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (April 1999)
+Prozac
+@eZine • 3 years ago
+8 February 1999b, New Poll Reveals Half Of Personal Bank Deposits To Be Withdrawn
+Building Community
+@eZine • 7 months ago
+Dreamcast Timeline: April 1999 to February 2001
+Dreamcast
+@Dreamcast • 4 years ago
+Dextrose Chart - Issue 10 - February 1999
+dextrose chart
+@Nintendo64 • 6 years ago
+MAGONIA Monthly Supplement No. 12 February 1999
+Magonia
+@eZine • 1 year ago
+APIS Volume 17, Number 2, February 1999
+APIS
+@eZine • 2 years ago
+Recent Articles
+11. Pius XII: War images
+PIO XII
+@serenella • 12 hours ago
+10. Pascalina, "der gute Engel des Vatikans"
+PIO XII
+@serenella • 12 hours ago
+Durakhapalam, the Indian "machine" for dematerializing and rematerializing the body
+lostworlds
+@lostcivilizations • 12 hours ago
+Tinker newsletter: free checkpoint storage plan, Dimuon optimizer and RL stability
+Thinking Machines Lab
+@eZine • 13 hours ago
+Dimuon: a new optimizer for LoRA fine-tuning
+Thinking Machines Lab
+@eZine • 14 hours ago
+Price drops and new models for long-context work
+Thinking Machines Lab
+@eZine • 14 hours ago
+The Young Hackers of Spain #2
+The Young Hackers of Spain
+@eZine • 14 hours ago
+The Young Hackers of Spain #1
+The Young Hackers of Spain
+@eZine • 14 hours ago
+GLM-5.3 on Tinker
+Thinking Machines Lab
+@eZine • 14 hours ago
+The Legend of the Seven Cities of Gold of Cibola
+lostworlds
+@lostcivilizations • 1 day ago
+Recent Comments
+@guest
+8 Nov 2026
+Особенности стоматологического кабинета
+
+Главные отличия стоматологического кабинета и клиники
+
+В этой статье разберемся в форматах частных стоматологий, выявим ...
+@guest
+7 Nov 2026
+КАК ПРОИСХОДИТ ЛЕЧЕНИЕ В COSMODENT?
+Lost Civilizations (@lostcivilizations)
+6 Nov 2026
+The idea of a hollow space inside our planet dates back to ancient times, when concepts like the Greek Hades or the Christian Hell first emerged. Numerous scholars later argued that there were two ope ...
+@guest
+6 Nov 2026
+Interesting post! A little visionary, but nice.
+@guest
+6 Nov 2026
+Legends of underground kingdoms can be found in many cultures around the world. Traditionally, the Underworld has been associated with the dead, since people were buried in the earth, leading ancient  ...
+@guest
+4 Nov 2026
+video molto interessante
+@guest
+2 Nov 2026
+60
+
+260
+
+- ускорить процесс монтажных и полировочных работ;
+
+прежде чем приступить к работе, нужно удостовериться в надежности фиксации насадки на оси инструмента;
+37,2
+
+38,2 ...
+@guest
+2 Nov 2026
+very interesting. Thanks for sharing!
+@guest
+31 Oct 2026
+Zahi Hawass is a criminal liar
+@guest
+30 Oct 2026
+Преимущества и недостатки бухгалтерского сопровождения
+
+Преимущества и недостатки аутсорсинга бухгалтерии
+a Francesco Arca production 2016 - 2026
+Terms of Service
+-
+Privacy Policy
+This website uses cookies to store your preferences and improve the service. Cookies authorization will allow me and / or my partners to process personal data such as browsing behaviour.
+By pressing
+OK
+you agree to the
+Terms of Service
+and acknowledge the
+Privacy Policy
+By pressing
+REJECT
+you will be able to continue to use Neperos (like read articles or write comments) but some important cookies will not be set. This may affect certain features and functions of the platform.
+OK
+REJECT

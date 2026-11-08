@@ -1,0 +1,14 @@
+{
+  "id": "NEW_MAHONEY",
+  "source_url": "https://livet.se/mahoney/timeline.php",
+  "retrieved_at": "2026-11-08T04:47:18.687533+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://livet.se/mahoney/timeline.php",
+  "content_type": "text/html; charset=UTF-8",
+  "path": "media/01_sources/NEW_MAHONEY/original.html",
+  "bytes": 88773,
+  "sha256": "e104a4c1e88308b7fdf522b6cb875edb4d17f3300e6ba3dd7330f55cf17428ac",
+  "title": "Pex \"Mahoney\" Tufvesson's homepage"
+}

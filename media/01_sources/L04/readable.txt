@@ -1,0 +1,713 @@
+Prozac's Personal Gaming Report (March 1999) • Neperos
+Neperos
+SIGN IN
+Copy Link
+Add to Bookmark
+Report
+Prozac's Personal Gaming Report (March 1999)
+eZine lover
+(@eZine)
+Published in
+Prozac
+· 3 years ago
+______________________________    ______/\___________________
+\__   _   \__   _   \__   _   \_.-\_   /  \__   _   \__    _/___
+-poyZ/SP/    /    /   _/   _/    /    /    __/    /         /    /    /
+__    /    _____/____\    \_________/___________/____/____/_________/     __
+/_/\--/____/-----------\    /---------------------------------------------/\_\
+\_\/                    \  /                                              \/_/
+:    P R O Z A C ' S    \/   P E R S O N A L   G A M I N G   R E P O R T   :
+:                            MARCH 1999                                    :
++--------------------------------------------------------------------------+
+It seems after you put your time in the gaming scene you should look into creating a gaming report as a way to kick back, but still be involved in the gaming scene. Many gaming reports have come and gone, and this report is pretty a much a month by month trial basis (but from the positive feedback I've gotten so far, it isn't going to stop soon): When I get bored or too boggled down to handle the report, I just won't do it. This report is not 100% bias-free, as I am currently with the group Class and all attempts to abstain a truly unbiased report can not be fully possible. I had thought of calling this report "Prozac's Slightly Bias Report", but that'd be just a rip off TRC's old bias gaming report. This report is sort of a hybrid cross (no pun intended) of Just the Facts & Mason's Gaming Report in the scoring system and monthly gaming report.
+My personal history in the gaming scene
+If you're reading this report and you have no clue who I am, I will give a history of gaming warez life. I've actually been in the scene since '92, and was a big-time courier & utility supplier up until about mid-96 where I decided to plunge into game supplying hardcore (before this I had supplied small games to small groups, but nothing significant) by helping startup a group called Illusion. When Illusion died in Oct. 96, I went over to Prestige until they finally disbanded on Dec. 31st 1996. On Jan. 1st, 1997, I joined a newly founded group called Class with ex-members from multiple groups. At this current time I'm still with Class and very active for the group, even through some hard times.
+Rules of a release (May be revisions, amended and modified at any given notice of one month. A % will be placed next to the rule if one has been modified or added in comparison to last month):
+This report will uphold to The Faction's rules, including the disk limit of 50 * 2.88M disks. Any release that purposely breaks The Faction rules will have -1.0 points deducted.
+Trainers and Update Cracks will receive 0.5 points. A trainer that is an exact duplicate with the same functions of another group's trainer will receive 0.0 points. Non-working trainers and uncracked updates will receive -0.3 points. A group that release a duplicate cracked update will receive -0.5 points.
+A game, trainer, patch or addon mispackaged will receive -0.5 points.
+% A game must work 100% to receive all of the points of the game. -1.0 points will be deducted if a game requires a major fix. If one group fixes another group release to make the game functional at the beginning, that group that fixed the release will be transferred the release points and the original release group will receive -1.0 points for the game. If a game requires a minor fix (Uncommon .DLL file, etc.), a group will be deducted -0.5 points. A game infected with a virus will be deducted -1.0.
+% Trainers, patches and add-ons for an over-the-limit or ISO release will receive 0.0 points. Any group who releases an add-on that didn't originally release the rip version will get 0.0 points.
+% Add-ons for a game: a maximum of 2 are allowed for one game and will receive 0.5 points per add-on. These add-ons must be 100% completely functional with the original release and be under 25 disks, or the add-on will receive -0.5 points.
+Official add-ons for a game that are not standalone will receive half the points of a full release. Unauthorized or unofficial add-ons will receive 0.0 points.
+If two groups put out one game at the same time, the winning group on the FTP sites will receive the full points, and the losing group will receive 0.0 points. A dupe from a release last month or several months ago will receive -2.0 points.
+If a game is proven to be a beta, and the final is put out that month, the group who releases the final will receive the release points, and the group releasing the beta will be deducted -2.0 points. If a final is put out the next month or several months down the road, the group that released the beta will receive -2.5. The points from the group that released the original beta will have its points deducted from the yearly total. Beta to final patches from a group will receive up to 2.0 points, and the original group releasing the beta will be hit with -2.0 (less than a month old beta) or -2.5 (over a month old beta) points for the infraction.
+Games intended for kids, edutainment or just plain lame (Ex. 3D Maze Man) will receive -1.0 points.
+% Any rule found to be broken after the monthly charts have been released will still have it's points removed from the yearly total in the next months charts. The original points will be removed along with points removed depending on the infraction.
+Scoring System:
+The scoring system mixes both JTF & Mason's report with this formula:
+Rating. This is based on how good the game is. This can collect between 1.0-4.0 points depending on the quality of the actual game.
+Company. A release will receive 0.1-0.5 points based on what company the game was published and/or developed by. The more well-known the company, the more points it will accumulate. An example is a game from EA will receive 0.5 points, while a game from Webfoot would receive 0.1 points. The game will not receive any points in this category if it breaks a rule like being a dupe or beta.
+Popularity & Anticipation. This depends on how awaited and how well receive the game is, like Quake 3, or if the game is a surprise smash hit, like Grand Theft Auto. If it's an unknown game by an unknown company, like Rising Star, it'd get 0.0. This can receive 0.0-0.5 points. The game will not receive any points in this category if it breaks a rule like being a dupe or beta.
+______  /|  ___   /\______ /\______
+/      \/ | / _ \ /   _____/   _____>
+/    |_ /  |/  |  \\____  \ \____  \
+<     | <   /   |   /   |   \/   |   \
+\  _____\_<____|___\_____  /\_____  /
++=\/======================\/=======\/==+
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+NASCAR Truck Racing (c) Sierra -DUPE         03/03| -2.0 | 0.0 | 0.0 = -2.0  |
+SCARS Update (c) Ubisoft                     03/04| +0.5 | 0.0 | 0.0 = +0.5  |
+Football Pro 99 v2.010 (c) Sierra            03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+WW2 Fighters v1.08 (c) Jane's/EA             03/06| +0.5 | 0.0 | 0.0 = +0.5  |
+Imperialism 2 (c) SSI/Mindscape              03/09| +3.0 |+0.3 |+0.2 = +3.5  |
+RollerCoaster Tycoon +2 Trainer              03/13| +0.5 | 0.0 | 0.0 = +0.5  |
+Redline +6 Trainer                           03/13| +0.5 | 0.0 | 0.0 = +0.5  |
+Brian Lara Cricket (c) Codemasters           03/20| +2.6 |+0.2 |+0.2 = +3.0  |
+Jazz Jackrabbit 2: The Secret Files (c) Epic 03/20| +2.7 |+0.2 |+0.2 = +3.1  |
+Jazz 2: The Secret Files Cheat Codes         03/20| +0.5 | 0.0 | 0.0 = +0.5  |
+Triple Play 2000 (c) EA                      03/22| +3.5 |+0.5 |+0.4 = +4.4  |
+Blood 2: Nightmare Levels -NOT STANDALONE    03/23| +1.7 |+0.3 |+0.3 = +2.3  |
+WWII G.I. (c) GT Interactive                 03/24| +2.4 |+0.5 |+0.1 = +3.0  |
+North vs. South v1.1 Cracked (c) I-Magic     03/24| +0.5 | 0.0 | 0.0 = +0.5  |
+Championship Manager 3 (c) Eidos             03/24| +3.7 |+0.4 |+0.4 = +4.5  |
+Triple Play Season Fix -FIX                  03/24| -1.0 | 0.0 | 0.0 = -1.0  |
+Warzone 2100 (c) Eidos                       03/25| +3.0 |+0.4 |+0.3 = +3.7  |
+Corsairs (c) Microids                        03/27| +2.8 |+0.2 |+0.2 = +3.2  |
+Corsairs Mega-Trainer                        03/28| +0.5 | 0.0 | 0.0 = +0.5  |
+Settlers 3 Mission Pack (c) Blue Byte        03/29| +3.1 |+0.2 |+0.3 = +3.6  |
+Civ3: A Call To Power (c) Activision         03/29| +3.8 |+0.5 |+0.5 = +4.8  |
+Warzone 2100 -MISSION BRIEFING PROB          03/29| -1.0 | 0.0 | 0.0 = -1.0  |
+Rapanui Trainer                              03/31| +0.5 | 0.0 | 0.0 = +0.5  |
+Civ 3 Multi Fix -RZR REL. FIX                03/31| -1.0 | 0.0 | 0.0 = -1.0  |
+East Front 2 (c) Talonsoft                   03/31| +2.8 |+0.3 |+0.2 = +3.3  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +41.9 |
+------------------------------------------------------------------------------
+Notes worth mentioning
+Well this is a nice surprise. CLS comes back from the dead to bring us two of the most anticipated games of the year, but we also saw an inordinate amount of fixes and botched rips coming from CLS. They might be alive, but being sloppy is not something we want to see coming from groups. Some are saying we are seeing this revitalization from CLS because of the contest. It's not that, completely. It's that the team was always there. It's just they got there ducks in a row, kind of.
+€€€ ‹‹‹ ‹‹‹ ∞±≤ ‹‹‹ ﬂﬂﬂﬂ€€‹ ﬂﬂﬂﬂ€€‹
+‹€‹€€€ ﬂﬂﬂ €€€ ±≤€ ﬂﬂﬂ ≤±∞ €€€ ∞±≤ ≤€€
+€€€ ≤€€ ≤±∞ €€≤ ≤€€ ∞±≤ €≤± ≤€€ ±≤€ﬂﬂﬂ
+€€≤ ±≤€ €≤± €€≤ €€€ ±≤€ €€≤ ≤€€ ≤€€ ∞±≤
+€€≤ ∞±≤ €€≤ €€€ €€€ ≤€€ €€€ ≤€€ €€€ ±≤€
+ﬂ€€‹‹‹‹‹€€€  ﬂ€‹€ﬂ  €€€ €€€ €€€ €€€‹≤€ﬂ
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+Silver Music Addon -NOT ALLOWED              03/28|  0.0 | 0.0 | 0.0 =  0.0  |
+Settlers 3 v1.32 Cracked -NOT CRACKED        03/28| -0.5 | 0.0 | 0.0 = -0.5  |
+Silver +3 Trainer                            03/29| +0.5 | 0.0 | 0.0 = +0.5  |
+LOM: SE v3.01b Cracked (c) Sierra            03/30| +0.5 | 0.0 | 0.0 = +0.5  |
+3D Hunting: Shark (c) Macmillian             03/31| +2.3 |+0.1 |+0.1 = +2.5  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +3.0  |
+------------------------------------------------------------------------------
+Notes worth mentioning
+This group was in a coma until the end of the month, when finally someone said, "HEY! We better show the scene reports we're alive!" So we see some of the usual substandard releases coming from DVN. Hum. Now with RZR coming back with quick bursts of life, this group has finally gone back down to the dog pound, and being in last place. Not only for the month, but for the year.
+__ ______ ______  ____ _____  ____ _____
+\//  _   \  _   \_\__/  _   \_\__/_\_   \
+/   /   /  /   /.  /   /   /   /   /   /
+\______/   \____|_/\___   /___/___/   /
+--------|___|---------/____\------/____\-
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+HOMM3 MegaTrainer                            03/01| +0.5 | 0.0 | 0.0 = +0.5  |
+Premier Manager 99 (c) Gremlin               03/04| +2.2 |+0.3 |+0.2 = +2.7  |
+Premier Manager 99 Database Addon            03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+Premier Manager 99 Speech Addon              03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+Starcraft v1.05 Cracked (c) Blizzard         03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+Starcraft Brood Wars v1.05 (c) Blizzard      03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+Starsiege +3 Trainer                         03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+RollerCoaster Tycoon +7 Trainer              03/15| +0.5 | 0.0 | 0.0 = +0.5  |
+TOCA v1.1a Cracked (c) Codemasters           03/15| +0.5 | 0.0 | 0.0 = +0.5  |
+Redline +3 Trainer                           03/16| +0.5 | 0.0 | 0.0 = +0.5  |
+Tank Racer (c) Grolier Interactive           03/18| +2.5 |+0.2 |+0.2 = +2.9  |
+Player Manager 98-99 v1.4 Cracked            03/18| +0.5 | 0.0 | 0.0 = +0.5  |
+X-Wing Alliance CD Check Fix                 03/20| +1.0 | 0.0 | 0.0 = +1.0  |
+Tank Racer Fix -PROBS IN GAME                03/20| -1.0 | 0.0 | 0.0 = -1.0  |
+FOF v1.0c Standalone Patch -NON WORKING      03/21| -0.5 | 0.0 | 0.0 = -0.5  |
+Front Office Football v1.0c Standalone Patch 03/21| +0.5 | 0.0 | 0.0 = +0.5  |
+Spooky Castle (c) Xtreme Games -NUKED/JUNK   03/22| -1.0 | 0.0 | 0.0 = -1.0  |
+Rocky Horror Interactive Show (c) On-Line    03/23| +2.4 |+0.1 |+0.1 = +2.6  |
+3D Maze Man Tropical Adventure +2 Trainer    03/24| +0.5 | 0.0 | 0.0 = +0.5  |
+Bird Hunter Upland Edition +1 Trainer        03/24| +0.5 | 0.0 | 0.0 = +0.5  |
+Viva Football (c) Virgin                     03/25| +2.7 |+0.5 |+0.2 = +3.4  |
+Viva Football CRC Fix -FIX                   03/25| -1.0 | 0.0 | 0.0 = -1.0  |
+Commandos: Beyond The Call of Duty (c) Eidos 03/30| +3.4 |+0.5 |+0.3 = +4.2  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +19.8 |
+------------------------------------------------------------------------------
+Notes worth mentioning
+This was a semi-lackluster month from OGN. The UK store team was beaten quite a few times this month by the competition in CLS & PDM, and even RZR! After a couple nixed releases, it just wasn't like past performances from OGN in the last 2 months. They are now ranked at where I think they deserve to be.. middle of the road.
+‹€€ﬂ€€‹                 ﬁ€‹ €‹
+ﬁ€€› ﬁ€€› ﬂ   ﬂﬂ  ﬂﬂ ﬂﬂﬂﬂﬁ€≤›≤€ﬂﬂﬂ ﬂﬂﬂ ﬂ  ﬂ
+ﬁ€€› ﬁ€€›€€‹ﬂ€ﬂ€€‹ﬂ€€‹ﬁ€ﬂﬁ€≤›‹ ﬁ€ﬂ€€‹ﬂ‹€€‹
+ﬁ€€›‹€€ﬂ ﬁ≤€›› €€≤ ﬁ€€›› ﬁ€€›€€ › ﬁ€€›€ €€›
+ﬁ€€› ‹€€ﬂ‹€€›› ‹‹‹ﬂ‹€€›  ﬁ€€›€€›  ﬁ€€›€ ﬁ€€
+ﬁ€€›ﬁ€€› ﬁ€≤››ﬁ€€› ﬁ€≤›› ﬁ€≤›€≤›› ﬁ€≤›€ ﬁ€≤
+ﬁ€€› ﬂ€€‹€ﬂ€›€‹ﬂ€€‹€ﬂ€›€‹€€ﬂ‹€€›€‹ﬁ€≤›ﬂ €€≤
+‹‹‹ ﬁ€€›
+ﬂ€€€‹€€€
+ﬂﬂﬂﬂﬂ
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+Lander +5 Trainer (D3D Only)                 03/01| +0.5 | 0.0 | 0.0 = +0.5  |
+Starsiege Tribes v1.3 (c) Sierra/Dynamix     03/03| +0.5 | 0.0 | 0.0 = +0.5  |
+Axis & Allies v1.3.2 (c) Hasbro              03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+Madden 99 v2.09 (c) EA                       03/05| +0.5 | 0.0 | 0.0 = +0.5  |
+Gangsters Patch 2 (c) Eidos                  03/06| +0.5 | 0.0 | 0.0 = +0.5  |
+Bowlda Dash (c) GT Value                     03/06| +2.1 |+0.2 |+0.2 = +2.5  |
+Ultimate's Game Pack (Compilation)           03/06| +1.9 |+0.2 |+0.1 = +2.2  |
+Bowlda Dash Cheat Codes                      03/06| +0.5 | 0.0 | 0.0 = +0.5  |
+Ultimate's GamePack Level Codes              03/06| +0.5 | 0.0 | 0.0 = +0.5  |
+Imperialism 2 Money Trainer                  03/10| +0.5 | 0.0 | 0.0 = +0.5  |
+Recoil FINAL (c) EA/Westwood                 03/10| +3.2 |+0.5 |+0.3 = +4.0  |
+Recoil Movie Addon                           03/10| +0.5 | 0.0 | 0.0 = +0.5  |
+Recoil +2 Trainer                            03/10| +0.5 | 0.0 | 0.0 = +0.5  |
+RollerCoaster Tycoon (c) Microprose/Hasbro   03/11| +3.4 |+0.5 |+0.5 = +4.4  |
+RollerCoaster Tycoon Install Fix -FIX        03/11| -1.0 | 0.0 | 0.0 = -1.0  |
+RollerCoaster Tycoon Money Trainer           03/11| +0.5 | 0.0 | 0.0 = +0.5  |
+Flight Squadron: SDOE (c) Activision         03/12| +3.0 |+0.5 |+0.3 = +3.8  |
+Flight Squadon:SDOE Speech & Editor Addon    03/12| +0.5 | 0.0 | 0.0 = +0.5  |
+Redline (c) Accolade                         03/13| +3.7 |+0.3 |+0.5 = +4.5  |
+Redline Speech Fix -SPEECH FIX               03/13| -1.0 | 0.0 | 0.0 = -1.0  |
+Mephisto Genius 99 (c) NGB                   03/13| +2.3 |+0.1 |+0.1 = +2.5  |
+Battle of Britian (c) Talonsoft              03/17| +2.8 |+0.3 |+0.2 = +3.3  |
+Battle of Britian Movie Addon                03/17| +0.5 | 0.0 | 0.0 = +0.5  |
+Heretic 2 v1.04 Cracked (c) Activision       03/17| +0.5 | 0.0 | 0.0 = +0.5  |
+Battle of Britian Music Addon                03/17| +0.5 | 0.0 | 0.0 = +0.5  |
+Tank Racer All Levels & Tracks Cheat         03/18| +0.5 | 0.0 | 0.0 = +0.5  |
+Alpha Centauri v3.0 Cracked (c) EA           03/19| +0.5 | 0.0 | 0.0 = +0.5  |
+Tank Racer Fix                               03/19| +1.0 | 0.0 | 0.0 = +1.0  |
+Senior PGA Golf (C) Electronic Arts          03/20| +3.0 |+0.5 |+0.2 = +3.6  |
+Senior PGA Golf Addon                        03/20| +0.5 | 0.0 | 0.0 = +0.5  |
+Redline Cheat Codes                          03/23| +0.5 | 0.0 | 0.0 = +0.5  |
+Hardball 6 2000 (c) Accolade                 03/24| +3.2 |+0.3 |+0.3 = +3.8  |
+Hardball 6 2000 Music Addon                  03/24| +0.5 | 0.0 | 0.0 = +0.5  |
+Populus 3: Undiscovered Worlds (c) EA        03/25| +3.2 |+0.5 |+0.3 = +4.0  |
+Motorhead v3.0 Cracked (c) Digital Illusion  03/27| +0.5 | 0.0 | 0.0 = +0.5  |
+Silver (c) Inforgrames                       03/27| +3.2 |+0.3 |+0.4 = +3.9  |
+Warzone 2100 Power Trainer                   03/27| +0.5 | 0.0 | 0.0 = +0.5  |
+Hardball 6 v6.03 Cracked (c) Accolade        03/27| +0.5 | 0.0 | 0.0 = +0.5  |
+Silver Animations & Music Addon              03/28| +0.5 | 0.0 | 0.0 = +0.5  |
+Silver Speech Addon                          03/28| +0.5 | 0.0 | 0.0 = +0.5  |
+Silver Speech Addon Repack -REPACK           03/29| -0.5 | 0.0 | 0.0 = -0.5  |
+Warzone 2100 Mission Briefing Fix -FIX4CLS   03/29| +1.0 | 0.0 | 0.0 = +1.0  |
+Settlers 3 v1.32 Crack -NOT 100% CRACKED     03/29| -0.5 | 0.0 | 0.0 = -0.5  |
+Toca 2: Touring Cars (c) Codemasters         03/30| +3.4 |+0.2 |+0.4 = +4.0  |
+Rapanui (c) Prism Leisure                    03/30| +2.0 |+0.2 |+0.1 = +2.3  |
+Starshot (c) Infogrames                      03/31| +3.0 |+0.3 |+0.2 = +3.5  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +63.8 |
+------------------------------------------------------------------------------
+Notes worth mentioning
+This group is getting everything they can get their hands on, and releasing it to the scene. We have seen a lot of quality titles, and we've seen some questionable releases. The main point is, this group is not slowing down at all. It is currently
+#1
+for the month & year, and has earned that title. Let's see if they can hold on to it.
+/\______  /\______  ____/\______     __
+\____   \/  \__   \/  _ \____   \ __/  \____
+/ _/  _/    \/   /   /  / _/  _// / / / / /
+/  \   \  /\ /   /\  /  /  \   \/ /\  / / /
+\__/\   \/  \______\___/\__/\   \/ / /_/_/
+======\___)===\__)============\___)=\/=======
+------------------------------------------------------------------------------
+Release Name & Company                       Date |Rating|Comp.|Popu.= Total |
+|      |     |             |
+HOMM3 Mega Cheat Enabler                     03/02| +0.5 | 0.0 | 0.0 = +0.5  |
+Gex2: Enter the Gecko US FINAL (c) Midway    03/03| +2.1 |+0.3 |+0.1 = +2.5  |
+Australian Cricket Captain (c) Empire        03/15| +2.1 |+0.3 | 0.0 = +2.4  |
+Aus. Cricket Captain CLEAN EXE -VIRUS FIX    03/15| -1.0 | 0.0 | 0.0 = -1.0  |
+X-Wing Alliance (c) LucasArts                03/19| +3.5 |+0.4 |+0.5 = +4.4  |
+X-Wing Alliance -MIDGAME CD CHECK            03/20| -1.0 | 0.0 | 0.0 = -1.0  |
+X-Wing Alliance Speech Addon                 03/20| +0.5 | 0.0 | 0.0 = +0.5  |
+X-Wing Alliance Music Addon -OVER LIMIT      03/20| -0.5 | 0.0 | 0.0 = -0.5  |
+UEFA Champions League (c) Eidos              03/26| +2.6 |+0.5 |+0.1 = +3.2  |
+Uprising 2 v1.2a Cracked (c) 3DO             03/26| +0.5 | 0.0 | 0.0 = +0.5  |
+Parker Brother Classic Card Games (c) Hasbro 03/27| +2.2 |+0.5 |+0.1 = +2.8  |
+Milton Bradly Classic Board Games (c) Hasbro 03/27| +2.3 |+0.5 |+0.1 = +2.9  |
+Civ:Call to Power Multiplayer Fix -FIX4CLS   03/31| +1.0 | 0.0 | 0.0 = +1.0  |
+__________________________________________________|______|_____|_____________|
+Monthly Total Points                                                 | +18.2 |
+------------------------------------------------------------------------------
+Notes worth mentioning
+This group is ALIVE?! Oh my god! Yep, after a bumbled Jan., and a dead Feb., this group comes out of nowhere to bring one highly awaited titles, and a lot of other sub-standard titles. It won't be lasting, thought. When TP is in town, RZR gets shit done. When he's not in town, this group is dead. Even making the channel -i won't help this group. At least they aren't
+#5
+for once, and out of the red for the year.
+Other
+This ranking will not be tallied each month, but this column is worth mentioning games from group not considered top groups in the scene. This is where groups like TPC, Backlash, & Fusion would typically fall under.
+-----------------------------------------------------------------------------
+Release Name & Company                                        Date     Group
+Play By Email Scrabble (c) Hasbro Interactive                 03/01     TPC
+FunPack 3D (c) WizardWorks                                    03/01     TPC
+Play By Email GM Chess, Checkers & Backgammon (c) Hasbro      03/02     TPC
+Play By Email Battleship (c) Hasbro Interactive               03/02     TPC
+Zero Critical (c) Bethesda                                    03/02     TBT
+Phoenix Links LS Course Addon (c) Access Software             03/02     TBT
+Bird Hunter Upland Edition 3D (c) Wizardworks                 03/10     iND
+Deer's Hunter (c) Snarfblat                                   03/13     TPC
+Smolensk to Moscow (c) Schwerplunkt                           03/15     TPC
+Natuk (c) T. Prodfoot                                         03/19     TPC
+DemonStar v3.01 (c) Mountain King Studios                     03/21     TPC
+Battle Board (c) Galaxy Software                              03/22     TPC
+Roids (c) Xtreme Games                                        03/23     TRD
+Astroid Miner (c) Positech                                    03/23     TPC
+Tunnel Blaster (c) Romtech                                    03/24     TRD
+Close Approach (c) Abstract                                   03/24     TPC
+Dove Hunting Special Edition (c) DPS                          03/27     TPC
+Fishing USA (c) Valu-Soft/Flair                               03/31     TPC
+____________________________________________________________________________
+Notes worth mentioning
+TPC released more games than any other group besides PDM, but none of the titles were even above sub-standard quality. This is the only reason why I don't track TPC in the monthly report along with the other groups. We should all be thankful they release the games people wouldn't of played if it wasn't in thanks to them.
+Ranking of groups for the month
+Group          Monthly Total Points
+1. Paradigm             +63.8
+2. Class                +41.9
+3. Origin               +19.8
+4. Razor                +18.2
+5. Divine               +3.0
+Yearly total so far
+Group          Yearly Total
+1.  Paradigm            +142.6
+2.  Class               +81.1
+3.  Origin              +53.6
+4.  Razor               +16.6
+5.  Divine              +15.2
+Origin has been deducted -2.0 (-1.0 for the original points earned & -1.0 for the infraction) points for the mispackaging of the two Lander addons (admitted by Blitz as both non-working).
+Feature of the month
+This month's feature will be just two interviews with two under-appreciated people. This month, I've selected DaJackal from OGN & Grudge from CLS. I've decided to interview crackers because I feel they are the most unappreciated people in the scene and deserve the credit they put into cracking some tough games.
+On a sad note, OGN has declined any future interviews with me, not giving a valid specific reason except for saying it was a group decision. This interview with DaJackal will probably be the last we'll see from any OGN member for quite a while.
+You might notice in these interviews, I seemingly harp on ISO protection, because I find it at the moment to be a major hurdle in cracking games quickly. I feel we should get the point of view of the people who have to deal with this nerve-racking protection, the crackers.
+If you have no idea who DaJackal is, he helps crack a ton of games for OGN, and in the past was an active cracker for RZR. As you'll see in this interview, he has no harsh feelings for the past, and seems focused on what's happening now:
+<PPGR> Well I want to thank you for letting PPGR interview you for this month's issue. Why not let people know who you are, how you've risen from the ashes. Basically, if you were to write the book "This is my warez life.", let us know how'd you pen it.
+<DaJackal> hmmm, nice question
+<DaJackal> for starters i wouldn't write it, my english blow goats :P
+<DaJackal> basically I came from no where, I came on the pc scene back in September 97 cracking little shareware utils etc etc
+<DaJackal> got noticed by the games scene after doing a what i think is a piss poor rip for a game called 'Virtual Springfield' for a group called Demon, then got recruited by Razor and cracked my first game for them back on the 13th February 1998 and have been cracking games ever since
+<PPGR> Well you seem to go where ever ][ce & Cypher goes, you all developed a good relationship or something?
+<DaJackal> somehow i knew a question like that would be asked :)
+<DaJackal> the setup works, they get games, and i crack em, it is what happened when i was in razor and the situation didn't change
+<DaJackal> we work on the same time scale
+<PPGR> Well I wasn't trying to imply anything.. I have nothing serious against those guys..
+<DaJackal> i've heard the rumours that them guys got me tied down to them in some way
+<DaJackal> but that ain't the case
+<DaJackal> i'm a cracker, and whats a crack without games?? a util cracker :P
+<PPGR> Well you can set the record straight now if you want :P
+<DaJackal> i do whats best for me, at the end of the day all i wanna do it crack and be a part of the games scene
+<DaJackal> and at the moment we have a what i think is a very good working partnership
+<PPGR> What do you see cracking as, a game? a sport? a hobby? or an obsession? or you have another view?
+<DaJackal> all the above
+<DaJackal> first and for most its a hobby
+<DaJackal> you cant get a 9 to 5 job cracking
+<DaJackal> but this hobby can turn to a sort of obsession
+<DaJackal> just ask my girlfriend :P
+<PPGR> <g>, have you ever said no to sex just to crack a game?
+<DaJackal> only once... she went fucking ape shit at me. that one thing i'll never do again
+<PPGR> You said you don't have good english, I always thought you were UK. (Hope i don't offend you :P
+<DaJackal> hehe, just cos i'm a euro that speaks english as a first language doesn't mean i have good english :P
+<DaJackal> i speak alot better than i type
+<PPGR> So you live in the UK?
+<DaJackal> i live somewhere, yes :)
+<PPGR> Who was the people you looked up to when cracking?
+<DaJackal> i started to get interested in cracking on the amiga, and back then it was a sort cream of mine to be in a cracking group in some shape or form
+<DaJackal> i did sorta start pushing my way in by joining a group called Alienation no the amiga
+<DaJackal> we done a nice little intro that used the 'magic roundabout' theme in the module
+<DaJackal> and then the group merged into anthrox i believe, and i got kicked for being idle
+<DaJackal> and also lame :(
+<PPGR> Now lets talk about ISO Protection. You think it's gotten easier over time, and will become easy to crack later on. Or you think it'll be tougher since it's so easy to change the algorithm of the protection.
+<DaJackal> ISO protections only seem to change as soon as a generic crack that works becomes available
+<DaJackal> they will never be easy till you crack one
+<PPGR> What is the hardest one to crack?
+<DaJackal> all of em :)
+<DaJackal> i have my favourite protections
+<DaJackal> the ones i find easy
+<DaJackal> but one mans easy is another mans hard (oh er misses, sounds a bit rude)
+<PPGR> I might sound lame, but i hear the term "iso protection", but I don't know how exactly it runs the protection. I was told it has to deal with memory dumps, and nothing more
+<PPGR> Willing to give an explanation to the scene what iso protection is?
+<DaJackal> come on, you know exactly what an iso protection is and how to deal with it :)
+<DaJackal> but if you really want to know an iso protection is, it stops the original cd to be copied and played, how it does it depends on the protection
+<PPGR> Well you got to remember your not just talking to me, you're talking to the scene. A CD-Check, that's self-explanitory. But ISO protection, that's harder to explain. To me, it means i can't go buy a game like southpark, burn it, and give out 10 copies.
+<DaJackal> thats true, but i could spent hours going into it and the no-techys of the scene still wont be none the wiser
+<PPGR> True, anyway you can go into lamens terms, or is it like how i said, deals with memory dumps, encrypted exes, and building the protection specific to the machine.. or something like that?
+<DaJackal> in a nutshell, the game is protected with a program that will only let the game execute if the original cd is in the drive
+<DaJackal> sometimes they use encryption
+<DaJackal> sometime compression
+<DaJackal> if they use encryption the key to decrypt it is on the cd
+<DaJackal> but this sort of information can be found on any web site about cd protections, it's not exactly hard to find
+<PPGR> Why is it that cracking ISO Protection, the crackers need access to the original cd? Because of that key?
+<DaJackal> sometimes yes
+<DaJackal> sometimes because its easier
+<DaJackal> depends on the protection
+<DaJackal> some you do, some ya don't
+<DaJackal> but anyway, is this interview about me or about what i know or don't know?
+<PPGR> How does it feel that now in all updates in Starsiege Tribes, if your name is seen, a fake msg goes up saying the feds are coming.
+<DaJackal> haha
+<DaJackal> i like that question
+<DaJackal> i love that, when i found out
+<DaJackal> i felt so damn proud
+<DaJackal> it don't bother me in any way as i don't play the game
+<DaJackal> i mean, you hear of all this utils that have blacklists in em to sort utils groups using there name etc etc
+<DaJackal> but this was the first time i hear of a game doing it, it's most prolly not, but its the first i know of
+<PPGR> Do you get msg about this? Of people freaking out?
+<DaJackal> sometimes, but then again they should be able to change the default players name without some telling em to :)
+<DaJackal> its not my fault, they would of protected it in some other way
+<DaJackal> they just chose to do this way first
+<PPGR> Which is harder to do, doing iso protection, or having to rip a game down to 50 disks.
+<DaJackal> getting a game down to 50 disks can be a real pain in the arse
+<PPGR> Like Resident Evil?
+<DaJackal> resident evil wasn't the hardest i've ever done
+<PPGR> What was, Liath? Alien Earth?
+<PPGR> Er wait, you didn't do Alien Earth.. you just joined RZR when that came out :P
+<DaJackal> i didn't do liath or alien earth
+<PPGR> Then what?
+<DaJackal> the rip i am most proud of is vangers
+<PPGR> Ahh, the one that Beo gave up on.
+<DaJackal> thats the one
+<DaJackal> everyone said give up on it, cant be done
+<PPGR> The claims that Beo is a "cracking god", bull, true, or no comment?
+<DaJackal> beo has been around along time, and i have alot of respect for him, but there is no one person that is a 'cracking god'
+<DaJackal> he is good at what he does, as is alot of other people
+<DaJackal> hell, over year ago i was a lame shareware cracker, times change
+<PPGR> Do you think crackers are un-appreciated for what they do?
+<DaJackal> yes and no
+<PPGR> How so?
+<DaJackal> some people think were bottom of the food-chain, others don't
+<DaJackal> i don't think crackers on a whole are un-appreciated, just some people don't realise how hard some of the things we do are
+<PPGR> What's the longest you ever spent on a game, and won? and lost on?
+<DaJackal> the longest i've spent on a game was 2 months, i honest thought this game was rippable i would leave it alone till i ripped it.
+<DaJackal> sad to say it wasn't, but i sure learned a hell of a lot about that game
+<PPGR> Which games you talking about?
+<DaJackal> some flight sim, cant remember the title, this was back when i was in razor
+<PPGR> Lemme guess, Pro Pilot ?
+<DaJackal> nope, it was a helicopter one
+<DaJackal> cant for the life of me remember the title
+<PPGR> When you work on a crack for hours, and your group ends up losing, what does it feel like?
+<DaJackal> like i let myself down
+<DaJackal> but life is such
+<DaJackal> the only thing i cant do is not let it happen again
+<PPGR> Are you ever angry at anyone?
+<DaJackal> only myself
+<DaJackal> its not the groups fault, it's mine
+<PPGR> Do you go to school or have a job?
+<DaJackal> i have a job
+<PPGR> In programming?
+<DaJackal> along with other things yeah
+<PPGR> Why do crackers hardly have egos?
+<DaJackal> because we are really nice guys, and also wants the point of ragged on someone crack when they forget something coz on your next title you may forget and then you'll be the one ragged one
+<DaJackal> damn that last sentence sux, i must learn to spell
+<DaJackal> hehe
+<DaJackal> anyway, we know what the other crackers go through
+<PPGR> Do you ever get stumped on protection at times?
+<DaJackal> doesn't everyone??
+<DaJackal> i mean, a new protection comes out that noones seen before
+<DaJackal> of cos theres bits that stump ya
+<DaJackal> if theres not you the guy who coded it :)
+<PPGR> What you do when stumped?
+<DaJackal> i take 5mins to relax abit and then think the problem through
+<DaJackal> but most people think i phone up someone i know thats done the protection and get them to solve it for me
+<PPGR> How you tackle protection, with logic, seek & destroy, or a puzzle?
+<DaJackal> i tackle a protection from all sides, i find its the best one, if you use one approach you may miss something. That something i learnt the hard way
+<DaJackal> man i tell ya one thing, when i first got talking to someone in razor just before i joined, we had the same sorta conversation but about reindexing
+<DaJackal> how times have changed in a year
+<DaJackal> reindexing seems a thing of the past, and yet its alot harder to do sometimes than iso protections
+<PPGR> In the group, do you think crackers are not given any due special treatment you think they might deserve for cracking a game, something like Vangers.
+<DaJackal> i'm not exactly sure what you mean
+<PPGR> Erm, i'll try to rephrase that. I'm like you. English is my first (and only language), but i don't always get the point across :P
+<DaJackal> hehe
+<DaJackal> hey i'm multilingual, i speak english and bullshit :P
+<PPGR> I mean, you think maybe crackers should get special treatment for cracking at times?
+<DaJackal> it all depends on what you mean by special treatment
+<DaJackal> if the other crackers are like me
+<DaJackal> then somethings just a thank you will do
+<DaJackal> sometimes even
+<PPGR> do you ever feel snubbed or hurt from a lack of appreciation?
+<DaJackal> not at the moment
+<PPGR> nono
+<PPGR> i mean in the past
+<DaJackal> yes, in the past i did, but thats a long story and something i don't wanna talk about
+<DaJackal> the past is the past and it should stay that way
+<DaJackal> and just because things happened in the past doesn't mean that they will happen in the future
+<PPGR> Do you only do games?
+<DaJackal> at the moment yes, i don't have time for utils at the moment, but i may go back to doing in a few months (And yes, what was a request for all the util groups out there to stop trying to recruit me, I DON'T DO UTILS AT THE MOMENT!!!!)
+<DaJackal> and thats something i wanted to get off my chest :)
+<PPGR> One thing I wanted to ask, since you have a job in programming, does it ever bother your conscience what you're doing is morally wrong?
+<PPGR> well morally & legally wrong.
+<DaJackal> does it bother anyone else?
+<PPGR> Well after a while, it stopped bothering me. But the fear of being caught hightens the excitement, and makes me worried at the same time.
+<DaJackal> well, we are all worried about being caught, but then again, some people are worried that they might get hit by a bus walking home, but it don't stop em, just makes em more aware
+<PPGR> Is there really any beneficiary to being a cracker?
+<DaJackal> yes, people know who you are
+<DaJackal> and you get shitloads of leech =]
+<PPGR> Well I mean the skills you learn cracking, couldn't you use that at work to defeat future pirates?
+<DaJackal> theres one thing for certain in this life, if it's coded, it cant be uncoded
+<DaJackal> nothing is impossible to crack, you can only make the cracks harder
+<DaJackal> so spending alot of time and alot of money working on a cd protection in my eyes is a waste of time
+<DaJackal> all your doing it putting the time its released on the scene back a day or 2
+<DaJackal> more should be done to stop the betas etc etc hitting the scene when they shouldn't
+<PPGR> You mean like Macrovision's SafeCast ?
+<DaJackal> SafeCast???
+<PPGR> Heh, guess you haven't heard about it, it recently hit the market.
+<PPGR> I'll get the press release.
+<PPGR> It's iso protection for betas :P
+<DaJackal> ahh hehe :)
+* DaJackal shows his total ignorance
+<PPGR> Ah nevermind, if you wanna read it, its on the web.. no use spamming ..
+<PPGR> What tools do you typically use when cracking?
+<DaJackal> softice, a hex editor, and some custom tools. The basic crackers tool kit
+<PPGR> Do game companies ever get on your case?
+<DaJackal> not that i know of
+<DaJackal> btw, i would just like to point out that i'm not the only cracker on the scene that has not heard about SafeCast :)
+<PPGR> Heh, what, you ask in Union?
+<DaJackal> maybe, maybe not, the one thing i want to do is fuel any fires about my ability or lack of
+<DaJackal> maybe, maybe not, the one thing i don't want to do is fuel any fires about my ability or lack of
+<PPGR> Does having a high speed connection help you tremendously?
+<DaJackal> erm no, not really, i prefer leeching stuff on my 22.8
+<DaJackal> :P
+<PPGR> What happens when a game is in, and your not in? Do the leaders send smoke signals to you to get your ass home? :P
+<DaJackal> carrier piegeon is the best method we found :P
+<PPGR> Do you feel you have to prove yourself to other crackers constantly?
+<DaJackal> i don't feel i have to
+<DaJackal> but with certain comments flying about somethings you need to do something to shut em up
+<DaJackal> sometimes even
+<PPGR> Okay, what irates you the most when you're working on a crack?
+<DaJackal> i don't really get irrated
+<PPGR> Do you write for your self or others in the group tools to make cracking easier?
+<DaJackal> of course, every cracker got some tools for themselves and some tools for the group. It's stupid not too. Imagine trying to reindex a 500meg file by hand, thats crazy. Code and util for it and you never have to do that type of reindex again by hand.
+<DaJackal> and you gotta try and do whats best for the group, and keeping everything to yourself is greedy.
+<DaJackal> why reinvent the wheel every time? :)
+<PPGR> Do you also use tools available on the web at times?
+<DaJackal> like i say, why reinvent the wheel :)
+<DaJackal> if it there and free use it
+<DaJackal> thats why its out there :)
+<PPGR> If you lose on a game, and you're still working on a crack, do you keep continuing?
+<DaJackal> yep
+<PPGR> Do you ever notice a pattern, like that some companies use the same protection in all the games they put out?
+<DaJackal> of course, once a company has spent money of a form of protection it'll be stupid not to use it, not matter how weak or strong it is
+<PPGR> Doesn't that make things easy for you?
+<DaJackal> nope, cos once you get used to a protection you may just think thats all there is and miss some more checks or whatever
+<DaJackal> i kinda look at all protections as new
+<PPGR> So you take every game with a grain of salt?
+<DaJackal> yeah, you can never be to sure what new tricks they've added
+<PPGR> Why do people even put out generic cracks if once companies discover they're out, they just change the protection? Are they put out as a way to taunt the company?
+<DaJackal> i think so
+<DaJackal> if you look in the nfo the one of the securom cracks they put a list of things for sony to do to stop them from cracking it
+<PPGR> But doesn't it make it harder for you since you gotta start all over to crack the code?
+<DaJackal> in a way yes
+<PPGR> Do you have originals with ISO protection so you study and learn their methods of protection? Do suppliers ever send you the CDs so you can learn?
+<DaJackal> i buy the originals of the game i enjoy and play alot, you gotta support the good game developers somehow. If they have iso protection then its a bonus
+<PPGR> do you ever have hard feelings toward razor?
+<DaJackal> not really, i believe you should never hate a group because of the actions of one or two people
+<PPGR> what made you leave rzr by the way?
+<DaJackal> i left razor for my own reasons that are known to me and me alone, i'll let everyone else speculate why :)
+<PPGR> Speculation, you think that is something that is prevalent and maybe rampant in the scene at the moment?
+<DaJackal> yep
+<PPGR> Do people come to you making false claims toward you, believing its the truth, just because its based on hearsay ?
+<DaJackal> sometimes
+<PPGR> Do crackers usually have a lot of group pride for the group that crack for?
+<DaJackal> thats a weird question
+<PPGR> er mean
+<PPGR> Do crackers usually have a lot of group pride for the group they crack for?
+<DaJackal> i would assume so, i can only speak for myself on that point
+<PPGR> What's your feelings on OGN this moment? Hybrid, part 2? Or world domination potentials? Or something else..
+<DaJackal> i'm not gonnu speculate on how the groups gonna end up, i'm gonna let the releases speak for themselves
+<PPGR> Okay, well thanks a lot for your time. Anything I didn't mention you want to leave with, or any other last words?
+<DaJackal> hmmm, last words..... Never judge a book by its cover, it may look like a softcore porno mag but it may have picture of ya mates sister in it
+<DaJackal> :)
+--
+To finish off the report, I had a small chat with Grudge with Class about cracking, and ISO protection. This cracker has unofficially reached legendary status, but is still trying his hardest to keep up with the competition:
+<PPGR> I want to thank you for letting me interview you with PPGR in advance, and this is the same question I ask everyone first because it's an icebreaker: How did you get involved with Class? Tell us your warez career, where your started, who got you into it, etc..
+<Grudge> ok.. well it's a long history, so I'll try and be brief. Basically I first got involved in the scene through boxing and calling a lot of euro boards. I started making trainers and then moved to the net where I joined a few groups, one of which was Prestige. A few people from this group split and became Class, so that's where I am today
+<Grudge> as for who got me in to it... there are too many people to mention, I guess you just make friends and before you know it you're in a group
+<PPGR> Some have considered you in the past one of the top & best crackers on the net, almost a "cracking god". Do you feel you were one, and do think you are one now?
+<Grudge> well, it's hard to acknowledge that, but I've certainly done my fair share of protections. I think to be a top cracker you need a lot of skill as well as be pretty active. Unfortunately I don't have much time any more which means I've slipped a bit in the ranks! Still, it's been a lot of fun breaking protections in new ways, and helping others to get to the same point
+<PPGR> Do you feel some crackers in Class or other rival crackers have risen above you?
+<Grudge> in terms of skill I doubt it. I think there is a point a cracker reaches where you can crack anything given time. There are a few who have reached it, and I'm pleased to see some are still active today. Basically it requires an excellent understanding of windows, and ability to code your own utils and lots of experience. However all the skill in the world will not help you if you don't spend the time on new protection methods as other groups who are defeating the new protections as they come out. It's certainly a lot more crowded at the top nowadays
+<PPGR> Has ISO protection and other new protection schemes made it a lot harder for you and the rest of the cracking field?
+<Grudge> well, iso protection certainly came as a bit of a shock to those that were accustomed to very simple cd checks in games, and things were certainly easier a year ago than today. However, that said ISO protections do have a major weakness and this is that they are generic. So basically once you crack one you can crack all other games implementing the same protection. As for network protection (games authenticating across the Internet) this will be a lot worse in the future
+<PPGR> Is there ever any game you've been proud of cracking?
+<Grudge> sure.. plenty of them. I especially like cracking the net protections as they are reasonably challenging. Cracking diablo on battle.net was a lot of fun. Also subspace was great to get out of the way because the programmer was pretty good with adapting the protection
+<PPGR> What about games you have to re-index, like you did with the original Fallout 1. Aren't those also a challenge? Have you spent weeks/months on a game, and just finally had to give up?
+<Grudge> there are many big titles that were deemed unrippable but we were able to get under the limit. Enemy Nations was one that meant a lot since a lot of groups wanted to increase the limit from 50 to 75 disks at the time. Just as it was declared that 75 disks would be the new limit we put this out at 50 which was a shock for the other groups. Anyway, Fallout and Total Annihilation are other games that I spent about a week each on getting done.
+<Grudge> There is always a good challenge in getting these done, as you often have to write your own utilities to unpack data files and possibly compress/decompress files. Luckily so far I haven't had to give up on a title after a week of work. Generally you can see pretty early if it will fit or not, then it's just a matter of squeezing it till it does
+<PPGR> Do you ever feel you've raped a title ?
+<Grudge> no. never. As soon as you rip a game down to a size that no-one else could do, the other groups quickly cry rape (mainly to save face). However anyone who actually downloads and plays the release quickly sees that the game is fully playable right to the end. You don't spend a week of work to create a rape!
+<Grudge> The guidelines for releasing are a lot more defined these days, and there are certain requirements that must be met. It can make ripping more difficult in some situations however, but I think it is good for the end user
+<PPGR> Does group politics ever make you want to quit or retire? If CLS died (if it ever did), would you move on to another group, or quit? Or would you move on to being a cracker for an ISO group?
+<Grudge> no.. when you've been around as long as I have you realise there's no such thing as politics. Nothing anybody else says will change the way you act on the next title, you'll just continue to try your best to get the title out. As for rag wars and other items that frequent NFO's it offers a good insight into the group. If people act and write irresponsibly then naturally you form an opinion about them that definitely could affect any future if they are around long enough and won't be going anywhere soon. It has such depth that any departures are quickly filled with new replacements and everybody knows exactly what they must do. It's possible that the group may one day die but until that happens I won't be thinking of such things.
+<PPGR> Aren't you one of the few crackers out there who are also suppliers?
+<Grudge> heh, well if you call the one or two games that come out in my country each year worthy of supply, then I guess so ;)
+<PPGR> Does being in .au ever hamper you in cracking a game?
+<Grudge> sure. slow connections, incompatible timezones. Class has lost on many games due to these 2 reasons, however sometimes the different timezone can work in your favour
+<PPGR> How so?
+<Grudge> well, you might get a difficult protection that takes 10 hours of work, and other crackers in rival groups in the US or euro may need to sleep while it's the middle of day for you. Unfortunately there seems to be a bit more determination in crackers these days to stay up till the game is cracked (damn you germans!)
+<PPGR> Heh, so you have, sorry the pun, a grudge against the germans?
+<Grudge> oh no. competition is always great! they're such hard workers though and sometimes you'd like them to back off and be a bit more laid back. It's a lot more fun that way and less stressful (and we win more games hehe)
+<PPGR> Is there any iso protection at this moment that makes you want to pull your hair out?
+<Grudge> not really. Everything is certainly doable, but it often requires a lot more coordination between crackers and suppliers. I think in the coming months though there may be some new versions of the protections that start causing stress. It may require a change in tact
+<PPGR> Since it's so easy now to change the protection scheme of iso, doesn't it make so much harder everytime the protection is changed cuz you have to start over from the beginning?
+<Grudge> I wouldn't say so. I think custom tools are definitely the way to go. The protections change in the anti-debugging they put in, as well as the way they decrypt/encrypt data and code, but there is always a point where the original EXE is in it's virgin form. So it's simply a matter of getting to this point and recreating the original EXE. There are a number of techniques that are proving useful to get to this point as the protection evolves.
+<PPGR> How are people who create ISO protection able to keep tabs on the cracking scene? Is this thanks to websites who post generic cracks? Or people who post how text files on how-to find the protection and destroy it?
+<Grudge> I think you'll find the people who create the protection are in the scene, or at least have strong ties with people in it. I don't think people who post generic cracks or text's pose much of a threat, as it is likely they are doing things very differently to what you are
+<Grudge> after all they're not trying to stop people cracking the software, just trying to stop your everyday user from being able to duplicate it on his cdr with ease
+<PPGR> Do you think its possible to create a protection that's uncrackable, which has been seen as possible in the utils scene?
+<Grudge> nothing's uncrackable until you shift some functionality away from the client. We see this starting to happen with network games where the connection is authenticated by the server and not the client. Naturally it's a little difficult to modify the server code if it's located half a world away!
+<PPGR> What tools do you use when cracking?
+<Grudge> well, I don't use much. My tools mainly consist of SoftIce for tracing through programs, HIEW which is a hex editor with a few added features, and procdump that can be used to gather code and data from a game once they are running. The only other thing I use is Visual C++ when I need to make some custom tools
+<Grudge> the net is also a great aid. Often if you encounter some new file format you can find details about it and tools on the web
+<PPGR> Do other crackers ever give you tips on cracking new protection? Do you help other fellow crackers, in CLS, or in rival groups?
+<Grudge> you find a lot of crackers operate above groups, so often there is a lot of sharing of ideas and tools. You may not give info about something if it affects what you are working on at the time, but certainly after the fact there is no problem. I have spoken with crackers in all the major groups about various aspects of protections and helped out where appropriate. Some are even generous enough to share their tools that they may have use
+<PPGR> Don't crackers ever fear the tools that they made that helped give them an advantage in cracking a game might leak and help others beat you to your own game?
+<Grudge> to be honest I can't think of a single tool I have ever been able to reuse on a new game.. They are useful for addons/downloads for that game, and sometimes can help other crackers who may be working on different language versions of the game.
+<Grudge> but generally you end up writing something new for the new game. This of course does not apply with iso protections which are very generic, and I think this is why there has been reluctance to share tools in this area
+<PPGR> When you put out a game that was deemed uncrackable or unrippable, do crackers msg you saying "Good Job" and other compliments? Or if they're beaten by you on the crack, they ask how you did it? Then in turn, share some tips?
+<Grudge> some might say something, but it's not like you go out of your way to compliment each other (unless of course you are fishing for tips on how to do it!). Ultimately it's the end users who will praise you if the crack stands up
+<PPGR> When you find out that later in the game there was more in-game protection, and you were the one who cracked it initially, do you get angry at yourself? do other crackers get on your case?
+<Grudge> depends how obvious the protection is. I would be angry if you couldn't play past a level, but I usually ensure that the game is tested at least that far. Often I'll make a level skip to test the game right through if the programmers look like they have a clue
+<PPGR> Do you ever get stumped on protection? What do you do if you do get stumped?
+<Grudge> sometimes you do. It just becomes a matter of going through slowly and working out exactly what is going on. I will often burn a dummy cd with the files it is checking for to see if I can get it going
+<PPGR> When CLS is racing on a game, do you hate the feeling of being rushed?
+<Grudge> rushing causes mistakes, so you want to avoid it if possible. However with the groups being so close nowadays it's hard not to be a little rushed. Nothing beats the feeling though of getting the game out first if you know other groups had it
+<PPGR> Sort of a high, eurphoic feeling?
+<Grudge> I wouldn't go that far... it's a better feeling than when you lose though ;)
+<PPGR> Has losing a lot recently due to inability to crack a game fast enough ever discouraged you?
+<Grudge> nah.. there will always be plenty more titles to win on
+<PPGR> When you lose, what do you do to make you don't lose again on another title?
+<Grudge> nothing. So long as everyone did their best there's not much you can change. Other groups will always get lucky from time to time and you just have to face it
+<PPGR> Do you have, or people send you games with iso protection so you can learn the schematics and algorithm of the protection, since it is generally the same in other games?
+<Grudge> yeah. We don't get too many ISO protected games here, so some people donate their games to the cause!
+<PPGR> Currently, what you do think the hardest iso protection is to crack? CDilla/Safedisc? Securom? Or something else?
+<Grudge> cdilla probably has the best reputation at the moment, but all the major groups can handle it in its present incarnation
+<PPGR> What about Securom? I only know 2 crackers who can tackle that 100% at the moment.
+<Grudge> to be honest I haven't looked at the latest version of it, but from what I'm told it is not overly difficult. I think the reason why you have seen fewer crackers do it is because there are fewer games with it
+-----------------------------------------------------------------------------
+(c) PPGR: Prozac's Personal Gaming Report
+This report may not be reproduced with out talking with me on irc first.
+Check out my weekly gaming report in NWR. Most issues in
+#nwr
+on EFNET.
+URL:
+http://ppgr.webjump.com
+- E-mail:ppgr@usa.net
+Share this article
+← previous
+next →
+sending ...
+New to Neperos ? Sign Up for free
+Let's discover also
+Prozac's Personal Gaming Report (February 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (June 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (January 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (May 1999)
+Prozac
+@eZine • 3 years ago
+Prozac's Personal Gaming Report (April 1999)
+Prozac
+@eZine • 3 years ago
+APIS Volume 17, Number 3, March 1999
+APIS
+@eZine • 2 years ago
+Dextrose Chart - Issue 11 - March  1999
+dextrose chart
+@Nintendo64 • 6 years ago
+MAGONIA Monthly Supplement No. 13 March 1999
+Magonia
+@eZine • 1 year ago
+HIR Issue 3: The Joys of The Personal Computer CMOS
+Hackers Information Report
+@eZine • 5 years ago
+Atari Gaming Gazette_Issue 02
+Atari Gaming Gazette
+@eZine • 7 years ago
+Recent Articles
+11. Pius XII: War images
+PIO XII
+@serenella • 12 hours ago
+10. Pascalina, "der gute Engel des Vatikans"
+PIO XII
+@serenella • 12 hours ago
+Durakhapalam, the Indian "machine" for dematerializing and rematerializing the body
+lostworlds
+@lostcivilizations • 12 hours ago
+Tinker newsletter: free checkpoint storage plan, Dimuon optimizer and RL stability
+Thinking Machines Lab
+@eZine • 13 hours ago
+Dimuon: a new optimizer for LoRA fine-tuning
+Thinking Machines Lab
+@eZine • 14 hours ago
+Price drops and new models for long-context work
+Thinking Machines Lab
+@eZine • 14 hours ago
+The Young Hackers of Spain #2
+The Young Hackers of Spain
+@eZine • 14 hours ago
+The Young Hackers of Spain #1
+The Young Hackers of Spain
+@eZine • 14 hours ago
+GLM-5.3 on Tinker
+Thinking Machines Lab
+@eZine • 14 hours ago
+The Legend of the Seven Cities of Gold of Cibola
+lostworlds
+@lostcivilizations • 1 day ago
+Recent Comments
+@guest
+8 Nov 2026
+Особенности стоматологического кабинета
+
+Главные отличия стоматологического кабинета и клиники
+
+В этой статье разберемся в форматах частных стоматологий, выявим ...
+@guest
+7 Nov 2026
+КАК ПРОИСХОДИТ ЛЕЧЕНИЕ В COSMODENT?
+Lost Civilizations (@lostcivilizations)
+6 Nov 2026
+The idea of a hollow space inside our planet dates back to ancient times, when concepts like the Greek Hades or the Christian Hell first emerged. Numerous scholars later argued that there were two ope ...
+@guest
+6 Nov 2026
+Interesting post! A little visionary, but nice.
+@guest
+6 Nov 2026
+Legends of underground kingdoms can be found in many cultures around the world. Traditionally, the Underworld has been associated with the dead, since people were buried in the earth, leading ancient  ...
+@guest
+4 Nov 2026
+video molto interessante
+@guest
+2 Nov 2026
+60
+
+260
+
+- ускорить процесс монтажных и полировочных работ;
+
+прежде чем приступить к работе, нужно удостовериться в надежности фиксации насадки на оси инструмента;
+37,2
+
+38,2 ...
+@guest
+2 Nov 2026
+very interesting. Thanks for sharing!
+@guest
+31 Oct 2026
+Zahi Hawass is a criminal liar
+@guest
+30 Oct 2026
+Преимущества и недостатки бухгалтерского сопровождения
+
+Преимущества и недостатки аутсорсинга бухгалтерии
+a Francesco Arca production 2016 - 2026
+Terms of Service
+-
+Privacy Policy
+This website uses cookies to store your preferences and improve the service. Cookies authorization will allow me and / or my partners to process personal data such as browsing behaviour.
+By pressing
+OK
+you agree to the
+Terms of Service
+and acknowledge the
+Privacy Policy
+By pressing
+REJECT
+you will be able to continue to use Neperos (like read articles or write comments) but some important cookies will not be set. This may affect certain features and functions of the platform.
+OK
+REJECT

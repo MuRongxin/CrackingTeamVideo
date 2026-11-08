@@ -1,0 +1,891 @@
+{
+  "links": [
+    {
+      "text": "Deutsch",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html?lang=de_DE"
+    },
+    {
+      "text": "English",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html?lang=en_US"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "API",
+      "url": "https://www.xrel.to/wiki/1681/API.html"
+    },
+    {
+      "text": "Status",
+      "url": "https://www.xrel.to/wiki/7106/statuspage.html"
+    },
+    {
+      "text": "Hilfe",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Kontakt",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/movie/46260/Red-Sonja-2025.html"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Scene-Releases",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "P2P-Releases",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Suche",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Aktuell beliebt",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "Top-Filme",
+      "url": "https://www.xrel.to/movie-topmovie-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/movie-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/movie-uhd-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/movie-retail-release-list.html"
+    },
+    {
+      "text": "3D",
+      "url": "https://www.xrel.to/movie-3d-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/movie-english-release-list.html"
+    },
+    {
+      "text": "Musik-DVDs",
+      "url": "https://www.xrel.to/movie-mdvdr-release-list.html"
+    },
+    {
+      "text": "x264",
+      "url": "https://www.xrel.to/movie-x264-release-list.html"
+    },
+    {
+      "text": "x265",
+      "url": "https://www.xrel.to/movie-x265-release-list.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/movie-dvdr-release-list.html"
+    },
+    {
+      "text": "DivX/XviD",
+      "url": "https://www.xrel.to/movie-xvid-release-list.html"
+    },
+    {
+      "text": "(S)VCD",
+      "url": "https://www.xrel.to/movie-vcd-release-list.html"
+    },
+    {
+      "text": "XXX-Filme",
+      "url": "https://www.xrel.to/xxx-xxx-release-list.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/game-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/game-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/game-linux-release-list.html"
+    },
+    {
+      "text": "Updates",
+      "url": "https://www.xrel.to/game-update-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "ISO",
+      "url": "https://www.xrel.to/software-iso-release-list.html"
+    },
+    {
+      "text": "E-Learning",
+      "url": "https://www.xrel.to/software-elearning-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/software-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/software-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/software-linux-release-list.html"
+    },
+    {
+      "text": "Software Add-Ons",
+      "url": "https://www.xrel.to/software-softaddon-release-list.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "PlayStation 4",
+      "url": "https://www.xrel.to/console-ps4-release-list.html"
+    },
+    {
+      "text": "PlayStation 5",
+      "url": "https://www.xrel.to/console-ps5-release-list.html"
+    },
+    {
+      "text": "Xbox One",
+      "url": "https://www.xrel.to/console-xboxone-release-list.html"
+    },
+    {
+      "text": "Xbox Series X|S",
+      "url": "https://www.xrel.to/console-xboxseriesx-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/console-nsw-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch 2",
+      "url": "https://www.xrel.to/console-nsw2-release-list.html"
+    },
+    {
+      "text": "PlayStation 1",
+      "url": "https://www.xrel.to/console-ps1-release-list.html"
+    },
+    {
+      "text": "PlayStation 2",
+      "url": "https://www.xrel.to/console-ps2-release-list.html"
+    },
+    {
+      "text": "PlayStation 3",
+      "url": "https://www.xrel.to/console-ps3-release-list.html"
+    },
+    {
+      "text": "Xbox 360-DLC",
+      "url": "https://www.xrel.to/console-x360dlc-release-list.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/console-xbox360-release-list.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/console-wii-release-list.html"
+    },
+    {
+      "text": "WiiWare / VC / Emu",
+      "url": "https://www.xrel.to/console-wiidl-release-list.html"
+    },
+    {
+      "text": "PlayStation Portable",
+      "url": "https://www.xrel.to/console-psp-release-list.html"
+    },
+    {
+      "text": "Nintendo DS/3DS",
+      "url": "https://www.xrel.to/console-nds-release-list.html"
+    },
+    {
+      "text": "Xbox",
+      "url": "https://www.xrel.to/console-xbox-release-list.html"
+    },
+    {
+      "text": "GameCube",
+      "url": "https://www.xrel.to/console-gamecube-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/tv-tvseries-release-list.html"
+    },
+    {
+      "text": "Dokumentationen",
+      "url": "https://www.xrel.to/tv-tvdoc-release-list.html"
+    },
+    {
+      "text": "Fernsehshows",
+      "url": "https://www.xrel.to/tv-tvshow-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/tv-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/tv-uhd-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/tv-english-release-list.html"
+    },
+    {
+      "text": "TV-Sport",
+      "url": "https://www.xrel.to/tv-tvsport-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/tv-retail-release-list.html"
+    },
+    {
+      "text": "Custom Subbed (OmU)",
+      "url": "https://www.xrel.to/tv-tvsubbed-release-list.html"
+    },
+    {
+      "text": "Spezial",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/uhd-release-list.html"
+    },
+    {
+      "text": "iNTERNAL",
+      "url": "https://www.xrel.to/internal-release-list.html"
+    },
+    {
+      "text": "Anime",
+      "url": "https://www.xrel.to/anime-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/retail-release-list.html"
+    },
+    {
+      "text": "Aktuell beliebt",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/p2p/15-movie/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/6-movie-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/5-movie-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/13-movie-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/18-movie-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/1-movie-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/2-movie-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/25-movie-hd-2160p/releases.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/p2p/12-software/releases.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/p2p/10-console/releases.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/p2p/-console-xbox360/releases.html"
+    },
+    {
+      "text": "PlayStation",
+      "url": "https://www.xrel.to/p2p/21-console-playstation/releases.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/p2p/22-console-wii/releases.html"
+    },
+    {
+      "text": "PlayStation Portable",
+      "url": "https://www.xrel.to/p2p/23-console-psp/releases.html"
+    },
+    {
+      "text": "Nintendo DS/3DS",
+      "url": "https://www.xrel.to/p2p/24-console-nds/releases.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/p2p/27-console-nsw/releases.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/p2p/16-tv/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/8-tv-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/7-tv-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/14-tv-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/19-tv-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/3-tv-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/4-tv-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/26-tv-hd-2160p/releases.html"
+    },
+    {
+      "text": "NFO posten",
+      "url": "https://www.xrel.to/p2p/addrls.html"
+    },
+    {
+      "text": "Übersicht",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "xREL-Top-100",
+      "url": "https://www.xrel.to/entertainment-top.html"
+    },
+    {
+      "text": "Heiß Erwartet",
+      "url": "https://www.xrel.to/entertainment-awaited.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Trailer",
+      "url": "https://www.xrel.to/entertainment-trailers.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Einloggen",
+      "url": "https://www.xrel.to/login.html"
+    },
+    {
+      "text": "Noch keinen Account?",
+      "url": "https://www.xrel.to/signup.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Football Manager 27",
+      "url": "https://www.xrel.to/title/187914/Football-Manager-27.html"
+    },
+    {
+      "text": "Football.Manager.27.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/464553-Football-Manager-27-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/464553-Football-Manager-27-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Crimson Desert",
+      "url": "https://www.xrel.to/title/222200/Crimson-Desert.html"
+    },
+    {
+      "text": "Crimson.Desert.Enhanced.Charting.the.Unknown.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/463939-Crimson-Desert-Enhanced-Charting-the-Unknown-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/463939-Crimson-Desert-Enhanced-Charting-the-Unknown-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Phantom Blade Zero",
+      "url": "https://www.xrel.to/title/234485/Phantom-Blade-Zero.html"
+    },
+    {
+      "text": "Phantom.Blade.Zero.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/463626-Phantom-Blade-Zero-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/463626-Phantom-Blade-Zero-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "Kommentare (3)",
+      "url": "https://www.xrel.to/p2p/463626-Phantom-Blade-Zero-Crack-Only-ARTIFACT/comments.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Planet Zoo 2",
+      "url": "https://www.xrel.to/title/13563/Planet-Zoo-2.html"
+    },
+    {
+      "text": "Planet.Zoo.2.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/463625-Planet-Zoo-2-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/463625-Planet-Zoo-2-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Star Wars: Galactic Racer",
+      "url": "https://www.xrel.to/title/239493/Star-Wars-Galactic-Racer.html"
+    },
+    {
+      "text": "STAR.WARS.Galactic.Racer.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/463624-STAR-WARS-Galactic-Racer-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/463624-STAR-WARS-Galactic-Racer-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Final Fantasy Resonance",
+      "url": "https://www.xrel.to/title/133551/Final-Fantasy-Resonance.html"
+    },
+    {
+      "text": "FINAL.FANTASY.RESONANCE.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/462822-FINAL-FANTASY-RESONANCE-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/462822-FINAL-FANTASY-RESONANCE-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Ace Combat 8: Wings of Theve",
+      "url": "https://www.xrel.to/title/239496/Ace-Combat-8-Wings-of-Theve.html"
+    },
+    {
+      "text": "ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/459177-ACE-COMBAT-8-WINGS-OF-THEVE-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/459177-ACE-COMBAT-8-WINGS-OF-THEVE-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "PC-Spiel",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "EA Sports FC 27",
+      "url": "https://www.xrel.to/title/43623/EA-Sports-FC-27.html"
+    },
+    {
+      "text": "EA.SPORTS.FC.27.Crack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/p2p/459176-EA-SPORTS-FC-27-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/p2p/459176-EA-SPORTS-FC-27-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "ARTIFACT",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "28. Sept. 2026",
+      "url": "https://www.xrel.to/p2p/459176-EA-SPORTS-FC-27-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "3. Nov. 2026",
+      "url": "https://www.xrel.to/p2p/464553-Football-Manager-27-Crack-Only-ARTIFACT/nfo.html"
+    },
+    {
+      "text": "Phantom...ack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/comments-goto.html?id=475710"
+    },
+    {
+      "text": "Phantom...ack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/comments-goto.html?id=475706"
+    },
+    {
+      "text": "Phantom...ack.Only-ARTIFACT",
+      "url": "https://www.xrel.to/comments-goto.html?id=475703"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Suche",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "Hilfe",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Kontakt",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Übersicht",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Ja!",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "Nein!",
+      "url": "https://www.google.de/"
+    },
+    {
+      "text": "Yes!",
+      "url": "https://www.xrel.to/p2p/group-6496-artifact/releases.html"
+    },
+    {
+      "text": "No!",
+      "url": "https://www.google.com/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/de_DE.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/en_US.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/de_DE.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/arrow_down.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/bg/search_autocomplete_arrow.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/toolbar_search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Laden...",
+      "url": "https://www.xrel.to/static/img/icons/ajax_loader.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/mini_p2p.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/xrel_logo3.png",
+      "srcset": ""
+    }
+  ]
+}

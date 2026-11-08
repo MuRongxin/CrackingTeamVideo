@@ -1,0 +1,804 @@
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+			<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1"></meta>
+			<title>NFOHump</title>
+			<link rel="shortcut icon" href="inc/images/favicon.ico"/>
+			<link rel="stylesheet" href="inc/images/nforce8.css" type="text/css"/><style type="text/css">#nfoHeader {
+	margin: 2px 0px 10px 0px;
+	text-align: center;
+	}
+
+#nfoSearchBox
+{
+	width: 60%;
+	text-align: center;
+	margin: 0px auto;
+	padding: 8px 0px 16px 0px;
+}
+
+#nfoSearchLine
+{
+	width: 99%;
+	clear: both;
+	color: #ccc;
+	margin: 0px 0px 4px 0px;
+}
+
+#nfoSearchLineLeft
+{
+	float: left;
+	clear: left;
+	width: 40%;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: left;
+	padding: 5px 0px 0px 0px;
+	border-bottom: 1px dashed #7484A0;
+}
+
+#nfoSearchLineRight
+{
+	float: left;
+	clear: right;
+	height: 17px;
+	text-align: left;
+	border-bottom: 1px dashed #7484A0;
+}
+
+#nfoSearchLineRightFixed
+{
+	float: left;
+	clear: right;
+	width: 125px;
+	height: 17px;
+	text-align: left;
+	border-bottom: 1px dashed #7484A0;
+}
+
+#nfoSearchErrorBox
+{
+	width: 99%;
+	color: #ccc;
+	border: 2px solid #7484A0;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	padding: 4px 2px;
+	margin: 0px 0px 16px 0px;
+}
+
+#nfoRegularTitle
+{
+	width: 99%;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	margin: 0px 0px 8px 0px;
+}
+
+#nfoRegularText
+{
+	width: 99%;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 11px;
+}
+
+#nfoRegularText a
+{
+	font-weight: bold;
+	color: white;
+}
+
+#nfoRegularText a:hover
+{
+	color: gold;
+}
+
+#nfoDelimiterLine
+{
+	width: 99%;
+	line-height: 1px;
+	border-bottom: 1px solid #7484A0;
+}
+
+#nfoDisplayContainer {
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	border: 1px dashed #7484A0;
+	clear: both;
+	}
+
+#nfoDisplayPost {
+	margin: 0px 0px 0px 0px;
+	padding: 5px 5px 5px 5px;
+	font-size: 11px;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	text-align: center;
+	}
+
+#nfoDisplayTitle {
+	width: 100%;
+	font-weight: bold;
+	color: #FFFFFF;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	border-bottom: 1px solid #7484A0;
+	text-align: center;
+	}
+
+#nfoDisplaySaveContainer {
+	clear: both;
+	font-weight: bold;
+	color: #FFFFFF;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	border-top: 1px solid #7484A0;
+	text-align: center;
+	}
+
+#nfoDisplaySaveContainer a {
+	padding: 1px 7px 1px 7px;
+	border: 1px solid #7484A0;
+	background-color: #384D70;
+	color: #FFFFFF;
+	}
+
+#nfoDisplaySaveContainer a:link, #DisplaySaveContainer a:visited {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	}
+
+#nfoDisplaySaveContainer a:hover {
+	background-color: #4E6284;
+	border: 1px solid #9DA7B8;
+	color: gold;
+	}
+
+#nfoDisplayLeft {
+	float: left;
+	width: 45%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 15px 0px;
+	}
+
+#nfoDisplayLeftInner {
+	padding: 0px 10px 0px 0px;
+	text-align: justify;
+	}
+
+#nfoDisplayRight {
+	float: right;
+	width: 45%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 15px 0px;
+	}
+
+#nfoDisplayRightInner {
+	padding: 0px 0px 0px 10px;
+	text-align: justify;
+	}
+
+#nfoDisplayContents {
+	float: left;
+	width: 32%;
+	text-align: left;
+	padding: 5px 5px 5px 3px;
+	}
+
+#nfoDisplayContentsBold {
+	float: right;
+	margin: -13px 0px 0px 0px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding: 0px 0px 0px 0px;
+	}
+
+#nfoDisplayNFO {
+	overflow: hidden;
+	padding: 20px 0px 0px 0px;
+	}
+
+#nfoSectionName {
+	float: left;
+	font-weight: bold;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	padding: 4px 5px 4px 5px;
+	border: 1px solid #7484A0;
+	width: auto;
+	text-align: left;
+	}
+
+#nfoSelector {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+
+#nfoSelectorList {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 5px 0px;
+	}
+
+#nfoSelectorList ul {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	white-space: nowrap;
+	}
+
+#nfoSelectorList li {
+	display: inline;
+	list-style-type: none;
+	}
+
+#nfoSelectorList a {
+	padding: 5px 5px 5px 5px;
+	border: 1px solid #7484A0;
+	}
+
+#nfoSelectorList a:link, #nfoSelectorList a:visited {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	}
+
+#nfoSelectorList a:hover {
+	background-color: #4E6284;
+	border: 1px solid #9DA7B8;
+	color: gold;
+	}
+
+#nfoOptions {
+	border: 1px solid #7484A0;
+	float: right;
+	width: auto;
+	text-align: right;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	height: 21px;
+	padding: 0px 2px 0px 0px;
+	}
+
+#nfoSortedTableContainer
+{
+	width: 100%;
+	clear: both;
+	padding: 4px 0px 0px 0px;
+}
+
+#nfoSortedContainer
+{
+	width: 100%;
+	clear: both;
+	margin: 16px 0px 16px 0px;
+}
+
+html>body #nfoOptions {
+	height: 20px;
+	padding: 1px 2px 0px 0px;
+	}
+
+
+.nfoTableHeader {
+	font-weight: bold;
+	font-size: 9px;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px solid #7484A0;
+	padding: 1px 0px 1px 1px;
+	}
+
+.nfoLineDate {
+	width: 8%;
+	font-size: 9px;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px dashed #7484A0;
+	padding: 1px 3px 1px 1px;
+	vertical-align: text-top;
+	}
+
+.nfoLineSection {
+	width: 13%;
+	font-weight: bold;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px dashed #7484A0;
+	padding: 1px 3px 1px 6px;
+	vertical-align: text-top;
+	text-align: left;
+	}
+
+.nfoLineSection a {
+	font-weight: bold;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 9px;
+	color: #ffffff;
+	}
+
+.nfoLineSection a:hover {
+	color: gold;
+	}
+
+.nfoLineRelease {
+	border-bottom: 1px dashed #7484A0;
+	padding: 1px 1px 1px 1px;
+	vertical-align: text-top;
+	text-align: left;
+	}
+
+.nfoLineRelease a {
+	font-weight: bold;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 9px;
+	color: #fefefe;
+	}
+
+.nfoLineRelease a:hover {
+	color: gold;
+	}
+
+.nfoLineGroup {
+	width: 8%;
+	font-weight: bold;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px dashed #7484A0;
+	padding: 1px 3px 1px 1px;
+	vertical-align: text-top;
+	text-align: left;
+	}
+
+.nfoLineSize {
+	width: 8%;
+	font-size: 9px;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px dashed #7484A0;
+	padding: 1px 3px 1px 1px;
+	vertical-align: text-top;
+	}
+
+.nfoLineHits {
+	width: 5%;
+	font-weight: bold;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px dashed #7484A0;
+	padding: 1px 1px 1px 1px;
+	vertical-align: text-top;
+	text-align: center;
+	}
+
+.nfoLineHits a {
+	font-weight: bold;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 9px;
+	color: #fefefe;
+	}
+
+.nfoLineHits a:hover {
+	color: gold;
+	}
+
+.nfoLineOptions {
+	width: 65px;
+	font-size: 9px;
+	color: #ccc;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px dashed #7484A0;
+	padding: 1px 1px 1px 1px;
+	text-align: right;
+	vertical-align: top;
+	}
+
+#nfoReviewHeader {
+	margin: 0px 0px 10px 0px;
+	padding: 10px 10px 10px 0px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	border-bottom: 1px solid #7484A0;
+	text-align: left;
+	}
+
+#nfoReviewUser {
+	background-image: url(menunav_bg_gradient.gif);
+	background-repeat: repeat-x;
+	padding: 0px 0px 0px 10px;
+	margin: 0px 0px 0px 11px;
+	width: 118px;
+	}
+	
+#nfoViewBox
+{
+	width: 95%;
+	margin: 8px auto 32px auto;
+	border: 1px solid #7484A0;
+	padding: 8px 4px 10px 4px;
+}
+
+#nfoViewTitle
+{
+	width: 100%;
+	margin: 0px auto 8px auto;
+	border-bottom: 1px solid #7484A0;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	padding: 0px 0px 4px 0px;
+}
+
+#nfoViewLine
+{
+	width: 100%;
+	color: white;
+	font-size: 12px;
+	margin-top: 8px;
+	border-bottom: 1px dashed #7484A0;
+}
+
+#nfoViewLine a
+{
+	font-weight: bold;
+	color: white;
+}
+
+#nfoViewLine a:hover
+{
+	color: gold;
+}
+
+#nfoViewLineLeft
+{
+	float: left;
+	width: 40%;
+	font-weight: bold;
+}
+
+#nfoViewLineRight
+{
+	float: right;
+}
+
+
+.searchFromTo {
+	width: 55px;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 10px;
+	text-align: center;
+	color: #ccc;
+	background-color: #293C5E;
+	border: 1px solid #7484A0;
+	padding: 1px 2px 1px 2px;
+	}
+
+.searchDropBox {
+	width: 125px;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 9px;
+	color: #ccc;
+	background-color: #293C5E;
+	border: 1px solid #7484A0;
+	padding: 1px 2px 1px 2px;
+	}
+
+.searchText {
+	width: 120px;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 10px;
+	color: #ccc;
+	background-color: #293C5E;
+	border: 1px solid #7484A0;
+	padding: 1px 2px 1px 2px;
+	}
+
+.searchButton {
+	width: 50px;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 10px;
+	color: #ccc;
+	background-color: #293C5E;
+	border: 1px solid #7484A0;
+	}
+
+.spanHlite
+{
+	color: red;
+	text-decoration: underline;
+}
+
+
+.viewID {
+	width: 40px;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 10px;
+	color: #ccc;
+	background-color: #293C5E;
+	border: 1px solid #7484A0;
+	padding: 1px 2px 1px 2px;
+	}
+
+.viewButton {
+	width: 50px;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 10px;
+	color: #ccc;
+	background-color: #293C5E;
+	border: 1px solid #7484A0;
+	}
+
+.saveButton {
+	width: 100px;
+	font-family: tahoma, verdana, helvetica, sans-serif;
+	font-size: 10px;
+	color: #ccc;
+	background-color: #293C5E;
+	border: 1px solid #7484A0;
+	}</style>		<!--<script src="inc/images/minmax.js" type="text/javascript"></script>-->
+		<script language="javascript">
+			var showMode = 'table-cell';
+
+				if(document.all)
+				showMode = 'block';
+
+			function toggleVis(btn)
+			{
+					if(!btn)
+					return false;
+
+				var cells = document.getElementsByName('t' + btn.name);
+				var mode  = btn.checked ? showMode : 'none';
+
+					for(j = 0; j < cells.length; j++)
+					cells[j].style.display = mode;
+
+
+				var form         = document.forms['tcol'].elements;
+				var cookie_value = 0;
+
+					for(var i = 0; i < form.length; i++)
+						if(form[i].type.toLowerCase() == "checkbox")
+						{
+							if(form[i].checked)
+							cookie_value = (cookie_value | (1 <<i));
+						}
+
+
+					if(document.cookie)
+					{
+						document.cookie = "nfocolumns=" + escape(cookie_value);
+					}
+
+				return true;
+			}
+		</script>
+	</head>
+
+	<body>
+		<table border="0" cellspacing="0" cellpadding="0" width="100%" align="left" hspace="0">
+			<tr><td class="wrapper">			<div id="header">
+				
+			<div id="cpanel">
+				<form method="post" action="/index.php" name="loginbox" id="loginbox">
+					<input class="login" type="text" maxlength="50" name="username" value="" onclick="value=''"/>
+					<input class="login" type="password" maxlength="50" name="password" value="" onclick="value=''"/>
+					<input class="loginbutt" type="submit" name="loginbutton" value="Go"/>
+					<div style="line-height: 4px; visibility: hidden;">&nbsp;</div>
+					<span class="spanBold">No Account?</span>
+					<br />
+					<a href="/index.php?switchto=register">Click Here to Register!</a>
+					<br />
+					<a href="/index.php?switchto=register&action=forgot">Forgot Password</a>
+				</form>
+			</div>
+			
+					<div id="headerlogonav_hump">
+						<div id="navcontainer">
+							<ul id="navlist">
+								<li id="inactive"><a href="/forum">Forum</a></li>
+<!--								<li id="active"><a href="/index.php?switchto=nfos">NFO's</a></li>
+								<li id="inactive"><a href="/index.php?switchto=reviews">Reviews</a></li>
+-->
+							</ul>
+						</div>
+					</div>
+
+					<div id="headerright">
+						<div id="headeradgaming">
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="468" height="84" id="nforce-gaming" align="middle">
+		<param name="movie" value="/inc/images/nforce-gaming4.swf" />
+		<param name="quality" value="high" />
+		<param name="bgcolor" value="#ffffff" />
+		<param name="play" value="true" />
+		<param name="loop" value="true" />
+		<param name="wmode" value="window" />
+		<param name="scale" value="showall" />
+		<param name="menu" value="true" />
+		<param name="devicefont" value="false" />
+		<param name="salign" value="" />
+		<param name="allowScriptAccess" value="sameDomain" />
+		<!--[if !IE]>-->
+		<object type="application/x-shockwave-flash" data="/inc/images/nforce-gaming4.swf" width="468" height="84">
+			<param name="movie" value="nforce-gaming.swf" />
+			<param name="quality" value="high" />
+			<param name="bgcolor" value="#ffffff" />
+			<param name="play" value="true" />
+			<param name="loop" value="true" />
+			<param name="wmode" value="window" />
+			<param name="scale" value="showall" />
+			<param name="menu" value="true" />
+			<param name="devicefont" value="false" />
+			<param name="salign" value="" />
+			<param name="allowScriptAccess" value="sameDomain" />
+		<!--<![endif]-->
+			<a href="http://www.adobe.com/go/getflash">
+				<img src="https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+			</a>
+		<!--[if !IE]>-->
+		</object>
+		<!--<![endif]-->
+	</object>
+</div>
+					</div>			</div>
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" align="left" hspace="0">
+		<tr>
+			<td class="left">
+
+<div id="leftdiv">
+ <br />
+ <div id="menuLeftHeader1">&nbsp;</div>
+ <div class="menuLeftContainer">
+   <ul class="menuLeftList">
+    <li id="inactive"><a href="/index.php?switchto=nfos&menu=quicknav&item=mixed">Mixed</a></li>
+    <li id="inactive"><a href="/index.php?switchto=nfos&menu=quicknav&item=sorted">Sorted</a></li>
+    <li id="inactive"><a href="/index.php?switchto=nfos&menu=quicknav&item=search">Search</a></li>
+    <li id="inactive"><a href="/index.php?switchto=nfos&menu=quicknav&item=perseus">Get Perseus</a></li>
+    <li><a href="/index.php?switchto=reviews&menu=submit">Write a Review</a></li>
+   </ul>
+ </div>
+ <div class="menuLeftFooter">&nbsp;</div>
+ <br />
+ <div id="menuLeftHeader2">&nbsp;</div>
+ <div class="menuLeftContainer">
+  <ul class="menuLeftList">
+  <li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=1">PC Game Rips</a></li><div id="menuLeftListSpacer">&nbsp;</div><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=2">PC Game ISOs</a></li><div id="menuLeftListSpacer">&nbsp;</div><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=4">PC Game Rip Patches</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=5">PC Game Dox</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=3">PC Game Addons</a></li><div id="menuLeftListSpacer">&nbsp;</div><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=6">PC App ISOs</a></li><div id="menuLeftListSpacer">&nbsp;</div><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=7">DreamCast</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=8">PlayStation</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=9">PlayStation 2</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=23">PlayStation 3</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=10">GameBoy Advance</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=11">Xbox</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=22">Xbox 360</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=24">Wii</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=20">GameCube</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=21">PSP</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=27">Nintendo DS</a></li><div id="menuLeftListSpacer">&nbsp;</div><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=12">DivX</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=13">XviD</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=14">VCD</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=15">SVCD</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=16">Anime</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=17">XXX</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=19">TV-Rips</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=26">TV-Rips (x264)</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=18">DVD-R</a></li><li id="inactive"><a href="/index.php?switchto=nfos&menu=sections&sectionid=25">Blu-Ray</a></li>
+  </ul>
+ </div>
+ <div class="menuLeftFooter">&nbsp;</div>
+  
+ <br />
+ <div id="menuLeftHeader2">&nbsp;</div>
+ <div class="menuLeftContainer">
+  <ul class="menuLeftList">
+   <li><a target="_NEW" href="http://www.0daykingz.org/">0DAY (external/new)</a></li>
+   <li><a target="_NEW" href="http://www.mp3kingz.org/">MP3 (external/new)</a></li>
+   <li><a target="_NEW" href="http://www.nfodb.com/section_1_0-day_nfo.html">0DAY (external/alt)</a></li>
+   <li><a target="_NEW" href="http://www.nfodb.com/section_5_pda_nfo.html">PDA (external)</a></li>
+  </ul>
+ </div>
+ <div class="menuLeftFooter">&nbsp;</div>
+ 
+ <br />
+ <div id="menuLeftHeader3">&nbsp;</div>
+ <div class="menuLeftContainer">
+  <ul class="menuLeftList">
+   <li id="inactive"><a href="/index.php?menu=options&item=rssfeeds">RSS Feeds</a></li>
+   <li id="inactive"><a href="/index.php?menu=options&item=botsbackend">Bots Back-End</a></li>
+  </ul>
+ </div>
+ <div class="menuLeftFooter">&nbsp;</div>
+ <br/>
+</div>
+
+			</td>
+		<!-- Center side -->
+			<td class="centerpad">
+				<table border="0" cellspacing="0" cellpadding="0" hspace="0" vspace="0" width="100%" align="left">
+					<tr><td colspan="4"><img src="inc/images/spacer.gif" border="0" alt="" height="0" width="590" /></td></tr>
+				</table>
+				<div id="revBreakerBoth">&nbsp;</div>
+			<div id="nfoViewBox">
+				<div id="nfoViewTitle">Splinter Cell Chaos Theory (c) Ubisoft</div>
+				<div style="float: left; width: 48%; padding-left: 8px;">
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Date</div>
+						<div id="nfoViewLineRight">2006-05-26</div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Group</div>
+						<div id="nfoViewLineRight"><a href="/index.php?switchto=nfos&menu=quicknav&item=search&search=yes&group=RELOADED">RELOADED</a></div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Section</div>
+						<div id="nfoViewLineRight"><a href="/index.php?switchto=nfos&menu=sections&sectionid=2">PC Game ISOs</a></div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Nuked</div>
+						<div id="nfoViewLineRight">no</div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="revBreakerBoth">&nbsp;</div>
+				</div>
+				<div style="float: right; width: 48%; padding-right: 8px;">
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Official Site</div>
+						<div id="nfoViewLineRight">none</div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Review</div>
+						<div id="nfoViewLineRight">none</div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Save NFO</div>
+						<div id="nfoViewLineRight"><a href="/savenfo.php?id=104992">click here</a></div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="nfoViewLine">
+						<div id="nfoViewLineLeft">Hits</div>
+						<div id="nfoViewLineRight">61044117</div>
+						<div id="revBreakerBoth">&nbsp;</div>
+					</div>
+					<div id="revBreakerBoth">&nbsp;</div>
+				</div>
+				<div id="revBreakerBoth">&nbsp;</div>
+			</div><div style="width: 100%; text-align: center;"><img id="nfoimage" src="/nfos/png-white/104992.png" border="0" alt="" /></div>
+			</td>
+			<td class="right">
+			<div id="rightdiv">
+			<br><br><br><br><br>
+				
+			</div>
+			</td>
+			<td><img src="inc/images/spacer.gif" border="0" alt="" height="1000" width="0" /></td>
+		</tr>
+	</table>
+			</div>
+			<div id="footer">
+		  	<div id="footer_icons"><img src="inc/images/xhtml.gif" width="80" height="15" border="0" alt="Valid XHTML" /> <img src="inc/images/validcss.gif" width="80" height="15" border="0" alt="Valid CSS" /> <a href="http://www.getfirefox.com/" title="Get Firefox - The Browser, Reloaded."><img src="inc/images/firefox_80x15.png" width="80" height="15" border="0" alt="Get Firefox" /></a> </div>
+		  	<div id="footer_text">Copyright (c) 1995 - 2018&nbsp;&nbsp;&nbsp;NFOrce Entertainment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/?switchto=tos">Terms of Service &amp; Privacy Policy</a></div>
+			</div>
+			</td></tr>
+		</table>
+		
+		<!-- the Majestic iPhone4 humble fixes, thank ye W. -->
+		
+		<script type="text/javascript">
+			(function(doc) {
+			var addEvent = 'addEventListener',
+			type = 'gesturestart',
+			qsa = 'querySelectorAll',
+			scales = [1, 1],
+			meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+			function fix() {
+			meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+			doc.removeEventListener(type, fix, true);
+			}
+
+			if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+			fix();
+			scales = [.25, 1.6];
+			doc[addEvent](type, fix, true);
+			}
+			}(document));
+		</script>
+		
+		<!-- feel the stretch! -->
+		
+	</body>
+</html>
+
+

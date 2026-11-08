@@ -1,0 +1,14 @@
+{
+  "id": "G01",
+  "source_url": "https://csdb.dk/group/?id=20",
+  "retrieved_at": "2026-11-08T04:39:08.007480+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://csdb.dk/group/?id=20",
+  "content_type": "text/html; charset=UTF-8",
+  "path": "media/01_sources/G01/original.html",
+  "bytes": 811181,
+  "sha256": "1930aa35282c75009bf87bae3a8d122438427a003a9cb3951c2e9ba749405548",
+  "title": "[CSDb] - Fairlight (Sweden)"
+}

@@ -1,0 +1,258 @@
+Like.a.Dragon.Infinite.Wealth.Hypervisor.Test.For.AMD-Andreh -  NFO-Datei - xREL.v3 - Release & NFO Source #1
+xREL.v3
+Like.a.Dragon.Infinite.Wealth.Hypervisor.Test.For.AMD-Andreh -  NFO-Datei
+Deutsch
+English
+Sprache wählen
+Board
+RSS
+API
+Status
+Hilfe
+Kontakt
+Startseite
+Scene-Releases
+P2P-Releases
+Entertainment
+Startseite
+Blogs
+Film & TV-Blog
+Hardware-Blog
+MP3-Blog
+Off Topic
+Software-Blog
+Spiele-Blog
+Szene-News
+xREL News
+Board
+Suche
+Release-Übersicht
+Aktuell beliebt
+Filme
+Top-Filme
+High Definition
+Ultra HD
+Retail
+3D
+US-Releases
+Musik-DVDs
+x264
+x265
+DVD-R
+DivX/XviD
+(S)VCD
+XXX-Filme
+PC-Spiele
+Windows
+Mac OS
+Linux
+Updates
+Software
+ISO
+E-Learning
+Windows
+Mac OS
+Linux
+Software Add-Ons
+Konsole
+PlayStation 4
+PlayStation 5
+Xbox One
+Xbox Series X|S
+Nintendo Switch
+Nintendo Switch 2
+PlayStation 1
+PlayStation 2
+PlayStation 3
+Xbox 360-DLC
+Xbox 360
+Nintendo Wii
+WiiWare / VC / Emu
+PlayStation Portable
+Nintendo DS/3DS
+Xbox
+GameCube
+TV
+TV-Serien
+Dokumentationen
+Fernsehshows
+High Definition
+Ultra HD
+US-Releases
+TV-Sport
+Retail
+Custom Subbed (OmU)
+Spezial
+US-Releases
+High Definition
+Ultra HD
+iNTERNAL
+Anime
+Retail
+Aktuell beliebt
+Release-Übersicht
+Filme
+XviD
+DVD-R
+SD-x264
+SD-x265
+HD-720p
+HD-1080p
+HD-2160p
+PC-Spiele
+Software
+Konsole
+Xbox 360
+PlayStation
+Nintendo Wii
+PlayStation Portable
+Nintendo DS/3DS
+Nintendo Switch
+TV
+XviD
+DVD-R
+SD-x264
+SD-x265
+HD-720p
+HD-1080p
+HD-2160p
+NFO posten
+Übersicht
+xREL-Top-100
+Heiß Erwartet
+TV-Serien
+Trailer
+Blogs
+Film & TV-Blog
+Hardware-Blog
+MP3-Blog
+Off Topic
+Software-Blog
+Spiele-Blog
+Szene-News
+xREL News
+Guten Morgen,
+Gast
+!
+Du bist ausgeloggt.
+Einloggen
+Noch keinen Account?
+NFO-Datei:
+Like.a.Dragon.Infinite.Wealth.Hypervisor.Test.For.AMD-Andreh
+Anzeige:
+Als Bild
+Nur Text
+This uses a newer driver provided by @SpecialFor
+Many thanks to @sagerao too for the help
+
+Note: AMD only
+
+Instructions
+Enable SVM mode in bios settings
+Kernel anticheats will be problematic, make sure they are off before performing the rest of the steps.
+
+Enable test signing mode via bcdedit (bcdedit /set testsigning on)
+For users with Hyper-V windows feature enabled, it's required to keep its hypervisor off with the following command:
+bcdedit /set hypervisorlaunchtype off
+
+Keep Secure Boot disabled
+Keep Windows Defender memory integrity and credential guard off (VBS and HVCI)
+Keep "Windows Hypervisor Platform" off in Windows features
+
+Usage:
+
+In a cmd or powershell with admin rights, after meeting the requirements:
+
+sc create denuvo type=kernel start=demand binPath=C:\Drivers\SimpleSvm.sys (your full path for SimpleSvm.sys)
+sc start denuvo
+
+After you close the game, you can stop the hypervisor service with
+
+sc stop denuvo
+Registrierte Benutzer können Text-, Hintergrund- und ANSI-Art-Farbe individuell anpassen!
+Plot - Like a Dragon: Infinite Wealth
+Das Schicksal führt zwei legendäre Helden zusammen, oder ist es doch eine unheilvollere Macht ...? Tobe dich in Japan aus und erkunde Hawaii oder umgekehrt, denn in diesem gewaltigen Abenteuer überqu...
+weiter...
+Release-Optionen
+Gewähltes Release:
+Like.a.Dra...st.For.AMD-Andreh
+NFO ansehen
+Produktinformationen
+Ähnliche Releases (4)
+Rezensionen (0)
+Kommentare (1)
+Release-Info
+Zeit:
+1. Feb. 2026, 22:25 Uhr
+Eingetragen:
+1. Feb. 2026, 22:25 Uhr
+Release-Group:
+Andreh
+Release-Größe:
+143 MB
+NFO-Größe:
+1,26 KB
+Kategorie:
+NFO-Anzeige
+LuCoP
+LuCoP (stretched)
+Pablo 8x16
+Terminal
+MSI Console
+F-Code
+IBMPC
+EGA Style
+Pot-Noodle (AMIGA)
+Standard (Schwarz auf Weiß)
+Weiß auf Schwarz
+Crimson Art
+Neon Art
+Blue '08
+© 2004-2026 by xREL. Alle Rechte vorbehalten.
+Version: 6469463f3407207f3ef0c8763bff62413df4d974 [20261030-542]
+Besucher online: 1.460
+Mitglieder online: 35
+Startseite
+Startseite
+Blogs
+Board
+Suche
+RSS
+Hilfe
+Kontakt
+Scene-Releases
+Release-Übersicht
+Filme
+PC-Spiele
+Software
+Konsole
+TV
+US-Releases
+P2P-Releases
+Release-Übersicht
+Entertainment
+Übersicht
+TV-Serien
+Blogs
+xREL ist eine reine Informations-Seite.
+Es gibt hier keine Downloads, Links zu Downloads, Torrents, Magnet-Links, NZB-Dateien oder ähnliches.
+Wir bieten nur Informationen über die Existenz eines Releases, seine Größe sowie die beiliegende NFO-Datei an. Wir unterstützen Benutzer in keiner Form dabei, dieser Releases habhaft zu werden.
+Sämtliche Verweise auf Angebote zu illegalen Kopien sind auch in Kommentaren sowie in unserem Forum verboten, was von unserem engagierten Moderatoren-Team ständig überprüft wird.
+Bei weiteren Fragen kann man uns per E-Mail an
+xrel *at* xrel *punkt* to
+kontaktieren.
+Hast du das verstanden?
+Ja!
+|
+Nein!
+xREL is solely an informational web site.
+There are absolutely NO downloads of copyright-protected works, hyperlinks to downloads, torrent files, magnet links, nzb files or similar content on any part of this web site.
+What we offer is information about the existence of a release, its size, and the corresponding NFO file. We do NOT help or encourage users to download or otherwise obtain any of the listed releases.
+Links to pages containing illicit copies of copyrighted works are strictly prohibited in user-generated content as well. This is constantly being monitored and enforced by our committed team of moderators.
+For any further questions, please do not hesitate to contact us by sending an e-mail to
+xrel *at* xrel *dot* to
+.
+Is that clear?
+Yes!
+|
+No!

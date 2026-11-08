@@ -1,0 +1,336 @@
+Megademo 3 by Northstar & Fairlight :: pouët.net
+pouët.net
+logo done by
+farfar
+:: pouët.net is brought to you by
+mandarine
+Log in
+Prods
+Groups
+Parties
+Users
+Boards
+Lists
+Search
+BBS
+FAQ
+Submit
+Megademo 3
+by
+Northstar
+&
+Fairlight
+[
+web
+]
+platform :
+Amiga OCS/ECS
+Amiga OCS/ECS
+type :
+demo
+demo
+release date :
+january 1989
+24
+5
+0
+popularity : 67%
+67%
+0.83
+1
+alltime top: #4953
+[
+download
+]
+[
+demozoo
+]
+[
+disk2
+]
+[
+WHDLoad Patch
+]
+[
+embed
+] [
+youtube
+]
+[
+mirrors...
+]
+Pex Mahoney Tufv
+[Code, Graphics, Music, Text]
+Celebrandil
+[Code, Graphics, Text]
+exolon1988
+[Code, Graphics, Text]
+added on the 2003-03-20 14:10:06 by
+Steel
+popularity helper
+increase the popularity of this prod by spreading this URL:
+or via:
+facebook
+twitter
+pinterest
+tumblr
+bluesky
+threads
+comments
+You forgot:
+Part 1B
+2A
+2B
+added on the
+2003-03-20 17:17:17
+by
+front243
+Well spotted there, front243  ;-]
+rulez
+added on the
+2003-03-20 18:05:44
+by
+Steel
+Yeah!!! This brings back some ole' memories !
+BUT can anyone tell me how to get it going
+on WINUAE ?
+I have tried ROM12 & 13, NO-DF1: and basic
+RAM but no go !
+I seem to remember that it was a BITCH to
+get booted on a REAL Amiga !!
+rulez
+added on the
+2003-08-18 15:11:42
+by
+MASS
+MASS: It works like a dream on a regular 1.3 config. 512k chip, 512k fast, full ecs, more compatible 68000, match a500 speed, df1 enabled. A couple of parts seemed to appreciate the cycle exact mode though.
+As for the demo, what can I say? Yet another classic. One of the best demo soundtracks from those times too, by Uncle Tom in Atom Demo IV.
+rulez
+added on the
+2003-08-19 12:10:11
+by
+break
+great!
+rulez
+added on the
+2004-10-17 19:45:13
+by
+hollowman
+I got only disc one at the time. Great megademo <3
+rulez
+added on the
+2004-10-17 20:40:21
+by
+Buckethead
+Classic!
+rulez
+added on the
+2005-09-05 02:00:11
+by
+ALiEN^bf
+brilliant, always loved the music from the various parts aswell :)
+rulez
+cdc
+added on the
+2005-10-11 05:27:49
+by
+keito
+Great classic and Uncle Titan's tunes rule, as always!
+rulez
+added on the
+2005-12-22 07:27:59
+by
+serp
+énorme !
+rulez
+added on the
+2006-01-03 19:47:03
+by
+esion
+Classic indeed!
+rulez
+added on the
+2006-01-03 19:51:30
+by
+StingRay
+@Steel: On real Amiga some parts require the old 8371 Agnus to work.
+rulez
+added on the
+2007-01-31 19:51:07
+by
+Zonkham
+One of my favourite Megademos ever!!
+rulez
+added on the
+2007-05-11 23:09:45
+by
+gentleman
+to make it easier on winuae people..
+adf disk 1
+adf disk 2
+added on the
+2007-05-12 00:29:51
+by
+phoenix
+Very nice. It was my first Amiga Demo, I got.
+rulez
+added on the
+2007-09-21 22:52:09
+by
+bodo^rab
+should be a CDC one day
+rulez
+added on the
+2007-09-22 04:53:39
+by
+elkmoose
+Classic :)
+rulez
+added on the
+2009-08-16 02:50:51
+by
+Queen_Luna
+Classic!
+rulez
+added on the
+2010-03-19 14:17:28
+by
+micdune
+Classic! (and massive)
+rulez
+added on the
+2012-02-01 01:33:23
+by
+rez
+I have a massive essay of things to say about this classic, but I'll try and keep it short as possible. :)
+Apparantly, this was the very, very first demo that ever got passed my 3 and a half year old retinas, back in Easter of 1990!  Me and my sister were just completely awestruck with what we were seeing on our father's TV screen, with all them scrollers, bobs, coppers and other unusual stuff you don't see in the games of those days!... not to forget the great tunes!   After watching this, along with a lot of old C64 demos a few years later, I had a huge crush on the older computers that I still love today.   I would have never been interested in the demoscene at all if it wasn't for these demos.
+I recently had another watch of this classic (thanks Motion/GMI for helping me set up WinUAE etc)...   it still amazes me today, where the Commodore/Amiga scene initially started from, and how much amazing stuff has come out since!   In particular, I find it amazing that someone like Mahoney, went from that attractive "Blue" part in this demo, all the way to the exceptionally amazing stuff he's brought out on the C64 recently, like Cubase64 and Storebror for example.  I'm not spiritualist, but hell he's still got the fucking spirit in him!!!
+I was also saddened over hearing about the death of Atom.  That guy made some really great parts in this demo too.
+I can go on and on, but as I want to keep this comment short... I'll just finish it off with a MEGA THUMB UP to this MILESTONE CLASSIC  !    Thank you North Star and Fairlight for the great memories!
+rulez
+added on the
+2012-06-02 10:06:30
+by
+conrad
+<3
+youtube
+added on the
+2013-09-11 05:54:20
+by
+Buckethead
+One of my first megademos on the A500. Yeah, the music was extremely good and I often listened to the tunes and recorded them on tape in those days. Anyway every part has it's own kind of atmosphere.
+rulez
+added on the
+2015-07-17 22:55:59
+by
+dissident
+In my top 5 amiga demos of all time. The last 2 demos need kickstart 1.2 or it ends shortly.
+added on the
+2015-08-26 22:26:38
+by
+Cyberload
+hmm....
+added on the
+2016-08-24 12:40:27
+by
+mostly inactive
+huh how did i miss this one. bad suppliers!
+rulez
+added on the
+2019-05-17 19:30:19
+by
+wertstahl
+haha at least i had disk 1, arrrg! It still work on me, awesome megademo...
+added on the
+2019-05-17 20:07:35
+by
+Buckethead
+I have finally finished the
+WHDLoad patch
+for this classic.
+added on the
+2020-05-06 20:28:13
+by
+StingRay
+Quote:
+hmm....
+The same here...
+added on the
+2020-05-08 22:25:46
+by
+sim
+Megademo 3 was a bigger and more badass production ensuring the rise to the fame of Northstar and Fairlight, with new metallic gfx of the time, more edgy, cooler tracks from Titan (Uncle Tom), and more interesting with the variety provided by the wacky parts from Mahoney & Kaktus. Watched and rewatched many times. :)
+rulez
+added on the
+2021-02-13 20:41:19
+by
+Photon
+I'm weak, I like those old megademos
+rulez
+added on the
+2022-11-29 21:25:05
+by
+keops
+I watched this quite a few times :D
+rulez
+added on the
+2022-11-29 22:53:17
+by
+mr_spiv
+Charming!
+rulez
+added on the
+2025-03-16 11:40:46
+by
+Olympian
+lists containing this prod
+Buckethead's list - Amiga
+Buckethead
+Megademo Amiga
+Buckethead
+submit changes
+if this prod is a fake, some info is false or the download link is broken,
+do not post about it in the comments, it will get lost.
+instead,
+click here
+!
+[
+previous edits
+]
+add a comment
+login via SceneID
+log in
+::
+register
+Log in
+Prods
+Groups
+Parties
+Users
+Boards
+Lists
+Search
+BBS
+FAQ
+Submit
+switch to mobile version
+pouët.net
+v
+1.0-9a5797a
+© 2000-2026
+mandarine
+- hosted on
+scene.org
+- follow us on
+twitter
+and
+facebook
+- join us on
+discord
+and
+irc
+send comments and bug reports to
+webmaster@pouet.net
+or
+github
+page created in 0.215231 seconds.

@@ -1,0 +1,189 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 2,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "48636734": {
+        "pageid": 48636734,
+        "ns": 6,
+        "title": "File:Fairlight CMI-IIx.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fairlight_CMI-IIx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fairlight_CMI-IIx.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48636734",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-05-08 09:32:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fairlight CMI-IIx",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Waveform monitors|Fairlight CMI|Unidentified keyboard instruments",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fairlight CMI IIx system in action.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-05-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Peter Wielk <a rel=\"nofollow\" class=\"external free\" href=\"http://www.horizontalproductions.com.au\">http://www.horizontalproductions.com.au</a>. Permission to use has kindly been given on 8 may 2016 via email.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Peter Wielk",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "17693858": {
+        "pageid": 17693858,
+        "ns": 6,
+        "title": "File:Fairlight CMI rear connectors.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Fairlight_CMI_rear_connectors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fairlight_CMI_rear_connectors.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17693858",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-12-16 15:09:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fairlight CMI rear connectors",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Digital audio workstations|Fairlight CMI|Flickr images reviewed by File Upload Bot (Magnus Manske)|Uploaded by user Clusternote|Mustudio by Jean-Bernard Emond|Files from akorbeti Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DSC02492f",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-04-06 22:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/akorbeti/4521402312/\">DSC02492f</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Clusternote\" title=\"User:Clusternote\">clusternote</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/28697268@N07\">akorbeti</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

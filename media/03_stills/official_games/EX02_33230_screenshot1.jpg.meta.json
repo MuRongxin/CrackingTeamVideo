@@ -1,0 +1,20 @@
+{
+  "id": "EX02_STEAM_33230_screenshot1",
+  "task": "EX02",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_dd6a4d319cda32c24a4e16a0a62908e82673f458.1920x1080.jpg?t=1786611094",
+  "path": "media/03_stills/official_games/EX02_33230_screenshot1.jpg",
+  "source_page": "https://store.steampowered.com/app/33230/",
+  "title": "Assassin's Creed 2",
+  "author": "Ubisoft Montreal",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:47.058749+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_dd6a4d319cda32c24a4e16a0a62908e82673f458.1920x1080.jpg?t=1786611094",
+  "width": 1280,
+  "height": 720,
+  "format": "JPEG",
+  "bytes": 649775,
+  "sha256": "7111ce96f6b6a80859ad574fcb7784bea777e7c010e932b40897274c53ec394b"
+}

@@ -1,0 +1,142 @@
+Is This The End Of Hypervisor Cracks? DenuvOwO Reportedly Disbands
+Try our new beta website for a better experience!
+CRACKWATCH 2.0
+News
+All Games
+Upcoming Games
+Hypervisor
+Denuvo
+New
+Protections
+Groups
+voices38
+RUNE
+TENOKE
+EMPRESS
+Hypervisor
+Search site
+News
+All Games
+Upcoming Games
+Hypervisor
+Denuvo
+New
+Protections
+Groups
+voices38
+RUNE
+TENOKE
+EMPRESS
+Hypervisor
+Reminder: CrackWatch only tracks crack status and offers no download, torrent, or repack.
+See terms
+Search
+News
+All Games
+Upcoming Games
+Denuvo
+New
+Protections
+Groups
+voices38
+RUNE
+TENOKE
+EMPRESS
+Hypervisor
+Follow US
+- Advertisement -
+Is This The End Of Hypervisor Cracks? DenuvOwO Reportedly Disbands
+DenuvOwO is reportedly gone after the voices38 lawsuit, but its Hypervisor work may be much harder to kill than the group itself.
+CrackWatch
+1 month ago
+Share
+DenuvOwO
+, the group behind the Hypervisor-based
+Denuvo bypasses
+that changed the crack scene throughout 2026, has reportedly disbanded.
+ADVERTISEMENT
+The confirmation appears to come from a CS.RIN discussion sharing screenshots from a private server. According to the post, a community member asked
+Mojtaba
+, one of the names closely associated with the project, whether DenuvOwO had stopped. His answer was reportedly yes.
+More importantly, when another user suggested the recent voices38 lawsuit was probably the reason, Mojtaba replied:
+“Yeah exactly.”
+If accurate, this would make DenuvOwO one of the first visible casualties of the legal pressure that followed Denuvo’s case against voices38.
+The voices38 Lawsuit May Have Changed The Risk Completely
+DenuvOwO itself was not the named defendant in Denuvo’s lawsuit, but that may not matter much from the group’s perspective.
+Earlier this month, Denuvo filed a major DMCA anti-circumvention case against voices38, accusing the cracker of bypassing its Anti-Tamper technology across more than two dozen games. We covered the full filing in our report on the
+Denuvo lawsuit against voices38
+.
+ADVERTISEMENT
+That lawsuit changed the atmosphere almost overnight.
+Before the case, cracking and bypass groups were mostly fighting Denuvo on the technical side. Now there is a second threat: identification through courts, subpoenas, platform records, Discord accounts, Reddit history, Steam profiles, and anything else that could eventually connect an anonymous alias to a real person.
+For a group maintaining a public Hypervisor project, that risk is very different from simply wondering whether Denuvo will patch the next bypass.
+DenuvOwO May Be Gone, But Hypervisor Is Not Necessarily Dead
+This is where the story becomes more complicated.
+In the screenshots shared from the private discussion, another user asks whether someone could simply pick the project back up because parts of it are open source.
+Mojtaba’s response is surprisingly optimistic:
+“There are probably a lot of people who can pick it back up. Don’t worry.”
+That may be the most important sentence in the entire story.
+DenuvOwO can disband as a group without the underlying idea disappearing. The Hypervisor approach is already understood far more widely than it was at the beginning of 2026, and parts of the ecosystem have been publicly documented, studied, ported to Linux, and modified by other developers.
+So calling this “the end of Hypervisor cracks” would be premature.
+What may be ending is the era where
+DenuvOwO itself
+was the trusted name releasing them.
+That difference matters.
+The Scene Is Already Moving Beyond One Group
+The timing is also interesting because DenuvOwO is disappearing at the same moment another old scene name has suddenly returned to the Denuvo conversation.
+RUNE recently published a proof of concept for Assassin’s Creed Mirage that reportedly went much further than a Hypervisor bypass. Instead of creating an environment around Denuvo, the project claims to have
+removed Denuvo and VMProtect from the executable itself
+.
+We covered that separately in
+RUNE Fully Removes Denuvo And VMProtect From Assassin’s Creed Mirage
+.
+That release is important here because it shows why DenuvOwO disappearing does not automatically mean Denuvo has won.
+The methods are changing.
+Hypervisor bypasses became one path. voices38 brought proper cracks back into the conversation. RUNE has now demonstrated a completely different proof-of-concept approach based around stripping protection from the executable.
+The scene is fragmented, but it is not standing still.
+So, Is Hypervisor Dead?
+Probably not.
+DenuvOwO reportedly disbanding is still a major blow because it removes the most recognizable and trusted group behind the current Hypervisor releases. New developers may not have the same testing network, experience, or reputation, and users should be especially cautious about unknown groups suddenly distributing low-level software under the promise of “continuing DenuvOwO.”
+But technically, the idea is already out there.
+The real effect of the voices38 lawsuit may therefore be less about killing Denuvo cracking and more about forcing the scene back underground. Groups may become smaller. Communication may become less public. Releases may take longer. Developers may stop attaching recognizable names to their work.
+That could slow things down significantly.
+But between the Hypervisor knowledge already circulating, voices38’s recent run, and RUNE experimenting with full Denuvo removal, it is difficult to call this the end.
+DenuvOwO may be finished.
+The Hypervisor story probably is not.
+Advertisement
+UPCOMING RELEASES
+Gears of War: E-Day
+CRACKED
+D+0
+Call of Duty: Modern Warfare 4
+UNCRACKED
+D+15
+Silent Hill: Townfall
+CRACKED
+D-2
+EA SPORTS FC 27
+UNCRACKED
+D+44
+ACE COMBAT 8: WINGS OF THEVE
+UNCRACKED
+D+37
+You Might Also Like
+OptiFine 1.21.10 — How to Download and Install?
+Will Ninja Gaiden 4 Have Denuvo? What We Know So Far
+Sega trademarks Arcade Paradise ahead of TGS
+Ghost of Yōtei keeps Tsushima‑level budget
+Show More
+by Gamers for Gamers ♥
+CrackWatch is an informational website that reports on the crack status of PC games. You can follow upcoming titles and see live updates when their status changes. Our community also discusses topics like DRM protections (DENUVO, STEAM, VMProtect...), cracking scene groups (DODI REPACKS, SKIDROW, CPY, STEAMPUNKS, CODEX...), digital game marketplaces (Instant Gaming, G2A, Gamivo...), and video games in general. Legal notice: CrackRelease.com does not host pirated or illegal content, does not provide links to torrents or files, and is not associated with any scene group. CrackRelease only provides crack status information, which is legally accessible public data. Screenshots or pictures may appear under fair use (news reporting and research). All copyrights remain with their respective creators and can be removed upon request. CrackRelease is purely an informational service inspired by the classic CrackWatch concept. We encourage players to purchase games legally, with marketplace price comparisons and purchase links displayed on each game page.
+© 2026 CrackRelease.com. All Rights Reserved.
+DMCA
+Terms And Conditions
+Privacy Policy
+Transparency
+Contact Us
+Welcome Back!
+Sign in to your account
+Username or Email Address
+Password
+Remember me
+Lost your password?

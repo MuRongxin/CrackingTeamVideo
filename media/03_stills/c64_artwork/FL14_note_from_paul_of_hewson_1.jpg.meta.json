@@ -1,0 +1,19 @@
+{
+  "id": "FL14_note_from_paul_of_hewson_1",
+  "task": "FL14",
+  "kind": "image",
+  "url": "http://www.c64.com/pictures/rubicon_sketches/images/note_from_paul_of_hewson.jpg",
+  "path": "media/03_stills/c64_artwork/FL14_note_from_paul_of_hewson_1.jpg",
+  "source_page": "http://www.c64.com/pictures/rubicon_sketches/note_from_paul_of_hewson.html",
+  "author": "The Sarge / Fredrik Kahl / Hewson，逐图参照标题",
+  "rights": "作者手稿及开发资料；公开使用许可待确认",
+  "retrieved_at": "2026-11-08T04:46:57.684972+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "http://www.c64.com/pictures/rubicon_sketches/images/note_from_paul_of_hewson.jpg",
+  "width": 800,
+  "height": 352,
+  "format": "JPEG",
+  "bytes": 115050,
+  "sha256": "21d5048edfa01506ef0b7839aa46fd48f31ff9525ff15e02ae927a40bbbcb997"
+}

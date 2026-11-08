@@ -1,0 +1,11 @@
+{
+  "id": "G18",
+  "source_url": "https://demozoo.org/groups/131381/",
+  "retrieved_at": "2026-11-08T04:39:14.295214+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "http_status": 403,
+  "final_url": "https://demozoo.org/groups/131381/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": "403 Client Error: Forbidden for url: https://demozoo.org/groups/131381/"
+}

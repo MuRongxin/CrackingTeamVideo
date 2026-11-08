@@ -1,0 +1,20 @@
+{
+  "id": "EX14_STEAM_1086940_screenshot2",
+  "task": "EX14",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg?t=1777363040",
+  "path": "media/03_stills/official_games/EX14_1086940_screenshot2.jpg",
+  "source_page": "https://store.steampowered.com/app/1086940/",
+  "title": "Baldur's Gate 3",
+  "author": "Larian Studios",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:48.738644+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg?t=1777363040",
+  "width": 1920,
+  "height": 1080,
+  "format": "JPEG",
+  "bytes": 243033,
+  "sha256": "fd8c5baa8cdeb7a46ff110d335ff5c2461242cfc36c804a439149f81d68bbcdd"
+}

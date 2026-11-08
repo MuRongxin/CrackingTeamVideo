@@ -1,0 +1,2080 @@
+{
+  "links": [
+    {
+      "text": "Deutsch",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html?lang=de_DE"
+    },
+    {
+      "text": "English",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html?lang=en_US"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "API",
+      "url": "https://www.xrel.to/wiki/1681/API.html"
+    },
+    {
+      "text": "Status",
+      "url": "https://www.xrel.to/wiki/7106/statuspage.html"
+    },
+    {
+      "text": "Hilfe",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Kontakt",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/movie/46260/Red-Sonja-2025.html"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Scene-Releases",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "P2P-Releases",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Suche",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Aktuell beliebt",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "Top-Filme",
+      "url": "https://www.xrel.to/movie-topmovie-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/movie-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/movie-uhd-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/movie-retail-release-list.html"
+    },
+    {
+      "text": "3D",
+      "url": "https://www.xrel.to/movie-3d-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/movie-english-release-list.html"
+    },
+    {
+      "text": "Musik-DVDs",
+      "url": "https://www.xrel.to/movie-mdvdr-release-list.html"
+    },
+    {
+      "text": "x264",
+      "url": "https://www.xrel.to/movie-x264-release-list.html"
+    },
+    {
+      "text": "x265",
+      "url": "https://www.xrel.to/movie-x265-release-list.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/movie-dvdr-release-list.html"
+    },
+    {
+      "text": "DivX/XviD",
+      "url": "https://www.xrel.to/movie-xvid-release-list.html"
+    },
+    {
+      "text": "(S)VCD",
+      "url": "https://www.xrel.to/movie-vcd-release-list.html"
+    },
+    {
+      "text": "XXX-Filme",
+      "url": "https://www.xrel.to/xxx-xxx-release-list.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/game-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/game-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/game-linux-release-list.html"
+    },
+    {
+      "text": "Updates",
+      "url": "https://www.xrel.to/game-update-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "ISO",
+      "url": "https://www.xrel.to/software-iso-release-list.html"
+    },
+    {
+      "text": "E-Learning",
+      "url": "https://www.xrel.to/software-elearning-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/software-windows-release-list.html"
+    },
+    {
+      "text": "Mac OS",
+      "url": "https://www.xrel.to/software-macos-release-list.html"
+    },
+    {
+      "text": "Linux",
+      "url": "https://www.xrel.to/software-linux-release-list.html"
+    },
+    {
+      "text": "Software Add-Ons",
+      "url": "https://www.xrel.to/software-softaddon-release-list.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "PlayStation 4",
+      "url": "https://www.xrel.to/console-ps4-release-list.html"
+    },
+    {
+      "text": "PlayStation 5",
+      "url": "https://www.xrel.to/console-ps5-release-list.html"
+    },
+    {
+      "text": "Xbox One",
+      "url": "https://www.xrel.to/console-xboxone-release-list.html"
+    },
+    {
+      "text": "Xbox Series X|S",
+      "url": "https://www.xrel.to/console-xboxseriesx-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/console-nsw-release-list.html"
+    },
+    {
+      "text": "Nintendo Switch 2",
+      "url": "https://www.xrel.to/console-nsw2-release-list.html"
+    },
+    {
+      "text": "PlayStation 1",
+      "url": "https://www.xrel.to/console-ps1-release-list.html"
+    },
+    {
+      "text": "PlayStation 2",
+      "url": "https://www.xrel.to/console-ps2-release-list.html"
+    },
+    {
+      "text": "PlayStation 3",
+      "url": "https://www.xrel.to/console-ps3-release-list.html"
+    },
+    {
+      "text": "Xbox 360-DLC",
+      "url": "https://www.xrel.to/console-x360dlc-release-list.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/console-xbox360-release-list.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/console-wii-release-list.html"
+    },
+    {
+      "text": "WiiWare / VC / Emu",
+      "url": "https://www.xrel.to/console-wiidl-release-list.html"
+    },
+    {
+      "text": "PlayStation Portable",
+      "url": "https://www.xrel.to/console-psp-release-list.html"
+    },
+    {
+      "text": "Nintendo DS/3DS",
+      "url": "https://www.xrel.to/console-nds-release-list.html"
+    },
+    {
+      "text": "Xbox",
+      "url": "https://www.xrel.to/console-xbox-release-list.html"
+    },
+    {
+      "text": "GameCube",
+      "url": "https://www.xrel.to/console-gamecube-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/tv-tvseries-release-list.html"
+    },
+    {
+      "text": "Dokumentationen",
+      "url": "https://www.xrel.to/tv-tvdoc-release-list.html"
+    },
+    {
+      "text": "Fernsehshows",
+      "url": "https://www.xrel.to/tv-tvshow-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/tv-hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/tv-uhd-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/tv-english-release-list.html"
+    },
+    {
+      "text": "TV-Sport",
+      "url": "https://www.xrel.to/tv-tvsport-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/tv-retail-release-list.html"
+    },
+    {
+      "text": "Custom Subbed (OmU)",
+      "url": "https://www.xrel.to/tv-tvsubbed-release-list.html"
+    },
+    {
+      "text": "Spezial",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "High Definition",
+      "url": "https://www.xrel.to/hdtv-release-list.html"
+    },
+    {
+      "text": "Ultra HD",
+      "url": "https://www.xrel.to/uhd-release-list.html"
+    },
+    {
+      "text": "iNTERNAL",
+      "url": "https://www.xrel.to/internal-release-list.html"
+    },
+    {
+      "text": "Anime",
+      "url": "https://www.xrel.to/anime-release-list.html"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.xrel.to/retail-release-list.html"
+    },
+    {
+      "text": "Aktuell beliebt",
+      "url": "https://www.xrel.to/hotstuff-release-list.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/p2p/15-movie/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/6-movie-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/5-movie-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/13-movie-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/18-movie-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/1-movie-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/2-movie-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/25-movie-hd-2160p/releases.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/p2p/9-game/releases.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/p2p/12-software/releases.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/p2p/10-console/releases.html"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.xrel.to/p2p/-console-xbox360/releases.html"
+    },
+    {
+      "text": "PlayStation",
+      "url": "https://www.xrel.to/p2p/21-console-playstation/releases.html"
+    },
+    {
+      "text": "Nintendo Wii",
+      "url": "https://www.xrel.to/p2p/22-console-wii/releases.html"
+    },
+    {
+      "text": "PlayStation Portable",
+      "url": "https://www.xrel.to/p2p/23-console-psp/releases.html"
+    },
+    {
+      "text": "Nintendo DS/3DS",
+      "url": "https://www.xrel.to/p2p/24-console-nds/releases.html"
+    },
+    {
+      "text": "Nintendo Switch",
+      "url": "https://www.xrel.to/p2p/27-console-nsw/releases.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/p2p/16-tv/releases.html"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.xrel.to/p2p/8-tv-xvid/releases.html"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.xrel.to/p2p/7-tv-dvd-r/releases.html"
+    },
+    {
+      "text": "SD-x264",
+      "url": "https://www.xrel.to/p2p/14-tv-x264-sd/releases.html"
+    },
+    {
+      "text": "SD-x265",
+      "url": "https://www.xrel.to/p2p/19-tv-x265-sd/releases.html"
+    },
+    {
+      "text": "HD-720p",
+      "url": "https://www.xrel.to/p2p/3-tv-hd-720p/releases.html"
+    },
+    {
+      "text": "HD-1080p",
+      "url": "https://www.xrel.to/p2p/4-tv-hd-1080p/releases.html"
+    },
+    {
+      "text": "HD-2160p",
+      "url": "https://www.xrel.to/p2p/26-tv-hd-2160p/releases.html"
+    },
+    {
+      "text": "NFO posten",
+      "url": "https://www.xrel.to/p2p/addrls.html"
+    },
+    {
+      "text": "Übersicht",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "xREL-Top-100",
+      "url": "https://www.xrel.to/entertainment-top.html"
+    },
+    {
+      "text": "Heiß Erwartet",
+      "url": "https://www.xrel.to/entertainment-awaited.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Trailer",
+      "url": "https://www.xrel.to/entertainment-trailers.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Film & TV-Blog",
+      "url": "https://www.xrel.to/blogs/34/Film-TV-Blog.html"
+    },
+    {
+      "text": "Hardware-Blog",
+      "url": "https://www.xrel.to/blogs/49/Hardware-Blog.html"
+    },
+    {
+      "text": "MP3-Blog",
+      "url": "https://www.xrel.to/blogs/29/MP3-Blog.html"
+    },
+    {
+      "text": "Off Topic",
+      "url": "https://www.xrel.to/blogs/50/Off-Topic.html"
+    },
+    {
+      "text": "Software-Blog",
+      "url": "https://www.xrel.to/blogs/56/Software-Blog.html"
+    },
+    {
+      "text": "Spiele-Blog",
+      "url": "https://www.xrel.to/blogs/35/Spiele-Blog.html"
+    },
+    {
+      "text": "Szene-News",
+      "url": "https://www.xrel.to/blogs/33/Szene-News.html"
+    },
+    {
+      "text": "xREL News",
+      "url": "https://www.xrel.to/blogs/14/xREL-News.html"
+    },
+    {
+      "text": "Einloggen",
+      "url": "https://www.xrel.to/login.html"
+    },
+    {
+      "text": "Noch keinen Account?",
+      "url": "https://www.xrel.to/signup.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Saloon Simulator",
+      "url": "https://www.xrel.to/title/238068/Saloon-Simulator.html"
+    },
+    {
+      "text": "Saloon.Simulator-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3627272/Saloon-Simulator-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627272/Saloon-Simulator-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Motorcycle.Ride.Infinity-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3627273/Motorcycle-Ride-Infinity-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627273/Motorcycle-Ride-Infinity-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Mirthwood",
+      "url": "https://www.xrel.to/title/234309/Mirthwood.html"
+    },
+    {
+      "text": "Mirthwood.Update.v1.1.9-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3627274/Mirthwood-Update-v1-1-9-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627274/Mirthwood-Update-v1-1-9-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Leaf it Alone",
+      "url": "https://www.xrel.to/title/146233/Leaf-it-Alone.html"
+    },
+    {
+      "text": "Leaf.it.Alone.Update.v1.1.7-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3627275/Leaf-it-Alone-Update-v1-1-7-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627275/Leaf-it-Alone-Update-v1-1-7-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "HellSlave II: Judgment of the Archon",
+      "url": "https://www.xrel.to/title/186486/HellSlave-II-Judgment-of-the-Archon.html"
+    },
+    {
+      "text": "HellSlave....ent.of.the.Archon.Update.v1.15.5-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3627276/HellSlave-II-Judgment-of-the-Archon-Update-v1-15-5-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627276/HellSlave-II-Judgment-of-the-Archon-Update-v1-15-5-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Cheap Car Repair",
+      "url": "https://www.xrel.to/title/162379/Cheap-Car-Repair.html"
+    },
+    {
+      "text": "Cheap.Car.Repair.Update.v1.4.0040.incl.DLC-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3627277/Cheap-Car-Repair-Update-v1-4-0040-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627277/Cheap-Car-Repair-Update-v1-4-0040-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Becastled",
+      "url": "https://www.xrel.to/title/238307/Becastled.html"
+    },
+    {
+      "text": "Becastled.Update.v1.1.incl.DLC-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3627278/Becastled-Update-v1-1-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3627278/Becastled-Update-v1-1-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Psycho-Sleuth",
+      "url": "https://www.xrel.to/title/3760/Psycho-Sleuth.html"
+    },
+    {
+      "text": "Psycho-Sleuth-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626620/Psycho-Sleuth-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626620/Psycho-Sleuth-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Playrooms-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626621/Playrooms-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626621/Playrooms-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Cozy.Game.Restoration-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626622/Cozy-Game-Restoration-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626622/Cozy-Game-Restoration-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Welcome to Elderfield",
+      "url": "https://www.xrel.to/title/19989/Welcome-to-Elderfield.html"
+    },
+    {
+      "text": "Welcome.to.Elderfield.Update.v1.04b-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626623/Welcome-to-Elderfield-Update-v1-04b-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626623/Welcome-to-Elderfield-Update-v1-04b-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Prime Monster",
+      "url": "https://www.xrel.to/title/192508/Prime-Monster.html"
+    },
+    {
+      "text": "Prime.Monster.Update.v1.5-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626624/Prime-Monster-Update-v1-5-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626624/Prime-Monster-Update-v1-5-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Eldara",
+      "url": "https://www.xrel.to/title/19990/Eldara.html"
+    },
+    {
+      "text": "Eldara.Update.v20261031-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626625/Eldara-Update-v20261031-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626625/Eldara-Update-v20261031-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Cellar Keeper",
+      "url": "https://www.xrel.to/title/48095/Cellar-Keeper.html"
+    },
+    {
+      "text": "Cellar.Keeper.Update.v20261104-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626626/Cellar-Keeper-Update-v20261104-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626626/Cellar-Keeper-Update-v20261104-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Arcane Merchant",
+      "url": "https://www.xrel.to/title/203829/Arcane-Merchant.html"
+    },
+    {
+      "text": "Arcane.Merchant.Update.v20261029-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3626941/Arcane-Merchant-Update-v20261029-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3626941/Arcane-Merchant-Update-v20261029-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Theos: Cities Of Myth",
+      "url": "https://www.xrel.to/title/14110/Theos-Cities-Of-Myth.html"
+    },
+    {
+      "text": "Theos.Cities.Of.Myth-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625956/Theos-Cities-Of-Myth-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625956/Theos-Cities-Of-Myth-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Snow.Resort.Simulator-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625957/Snow-Resort-Simulator-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625957/Snow-Resort-Simulator-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "IRON.SOL-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625958/IRON-SOL-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625958/IRON-SOL-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Horses.of.Hoofprint.Bay-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625959/Horses-of-Hoofprint-Bay-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625959/Horses-of-Hoofprint-Bay-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Eternal.Palace.Sakura-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625960/Eternal-Palace-Sakura-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625960/Eternal-Palace-Sakura-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Tiny Eden",
+      "url": "https://www.xrel.to/title/23005/Tiny-Eden.html"
+    },
+    {
+      "text": "Tiny.Eden.Update.v0.15.0.1871-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625961/Tiny-Eden-Update-v0-15-0-1871-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625961/Tiny-Eden-Update-v0-15-0-1871-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "My Dream Setup",
+      "url": "https://www.xrel.to/title/229076/My-Dream-Setup.html"
+    },
+    {
+      "text": "My.Dream.Setup.Shopping.Update.v20261102-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625962/My-Dream-Setup-Shopping-Update-v20261102-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625962/My-Dream-Setup-Shopping-Update-v20261102-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Card Cultivation",
+      "url": "https://www.xrel.to/title/197246/Card-Cultivation.html"
+    },
+    {
+      "text": "Card.Cultivation.Update.v2.3.0.15-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625963/Card-Cultivation-Update-v2-3-0-15-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625963/Card-Cultivation-Update-v2-3-0-15-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Blossom: The Seed of Life",
+      "url": "https://www.xrel.to/title/219989/Blossom-The-Seed-of-Life.html"
+    },
+    {
+      "text": "Blossom.The.Seed.of.Life.Update.v2.1.0-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625964/Blossom-The-Seed-of-Life-Update-v2-1-0-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625964/Blossom-The-Seed-of-Life-Update-v2-1-0-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Anime Shop Simulator",
+      "url": "https://www.xrel.to/title/137947/Anime-Shop-Simulator.html"
+    },
+    {
+      "text": "Anime.Shop.Simulator.Update.v1.1.0-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625965/Anime-Shop-Simulator-Update-v1-1-0-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625965/Anime-Shop-Simulator-Update-v1-1-0-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Potato.Please-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625362/Potato-Please-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625362/Potato-Please-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Goldilock.One.The.Mists.of.Jakaira-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625363/Goldilock-One-The-Mists-of-Jakaira-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625363/Goldilock-One-The-Mists-of-Jakaira-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Death.at.Fleming.Manor-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625364/Death-at-Fleming-Manor-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625364/Death-at-Fleming-Manor-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Brotato",
+      "url": "https://www.xrel.to/title/235248/Brotato.html"
+    },
+    {
+      "text": "Brotato.Primal.Dread-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625365/Brotato-Primal-Dread-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625365/Brotato-Primal-Dread-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Sineus Arena Survivors",
+      "url": "https://www.xrel.to/title/162311/Sineus-Arena-Survivors.html"
+    },
+    {
+      "text": "Sineus.Arena.Survivors.Update.v1.6-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625366/Sineus-Arena-Survivors-Update-v1-6-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625366/Sineus-Arena-Survivors-Update-v1-6-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Rail Route",
+      "url": "https://www.xrel.to/title/232587/Rail-Route.html"
+    },
+    {
+      "text": "Rail.Route.Expect.Delays.Update.v3.0.19-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625367/Rail-Route-Expect-Delays-Update-v3-0-19-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625367/Rail-Route-Expect-Delays-Update-v3-0-19-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Little Rocket Lab",
+      "url": "https://www.xrel.to/title/239320/Little-Rocket-Lab.html"
+    },
+    {
+      "text": "Little.Rocket.Lab.Update.v1.0.14-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625368/Little-Rocket-Lab-Update-v1-0-14-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625368/Little-Rocket-Lab-Update-v1-0-14-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Hitler is my crush",
+      "url": "https://www.xrel.to/title/233355/Hitler-is-my-crush.html"
+    },
+    {
+      "text": "Hitler.is.my.crush.Update.v20261102-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625369/Hitler-is-my-crush-Update-v20261102-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625369/Hitler-is-my-crush-Update-v20261102-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Easy Red 2",
+      "url": "https://www.xrel.to/title/226806/Easy-Red-2.html"
+    },
+    {
+      "text": "Easy.Red.2.Blood.on.the.Danube.Update.v2.1.1-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3625370/Easy-Red-2-Blood-on-the-Danube-Update-v2-1-1-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3625370/Easy-Red-2-Blood-on-the-Danube-Update-v2-1-1-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Unbroken.The.Awakening-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3624805/Unbroken-The-Awakening-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624805/Unbroken-The-Awakening-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Replay.Value.Second.Hand.Games-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3624806/Replay-Value-Second-Hand-Games-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624806/Replay-Value-Second-Hand-Games-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Legend.of.Defenders-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3624807/Legend-of-Defenders-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624807/Legend-of-Defenders-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Laceys.Flash.Games-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3624808/Laceys-Flash-Games-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3624808/Laceys-Flash-Games-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Welcome to the Game",
+      "url": "https://www.xrel.to/title/166585/Welcome-to-the-Game.html"
+    },
+    {
+      "text": "Welcome.to.the.Game.III.Update.v1.1.0-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623697/Welcome-to-the-Game-III-Update-v1-1-0-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623697/Welcome-to-the-Game-III-Update-v1-1-0-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Retail Hell",
+      "url": "https://www.xrel.to/title/164022/Retail-Hell.html"
+    },
+    {
+      "text": "Retail.Hell.Update.v1.4-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623698/Retail-Hell-Update-v1-4-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623698/Retail-Hell-Update-v1-4-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Gold Gold Adventure Gold",
+      "url": "https://www.xrel.to/title/181731/Gold-Gold-Adventure-Gold.html"
+    },
+    {
+      "text": "Gold.Gold.Adventure.Gold.Update.v1.5-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623699/Gold-Gold-Adventure-Gold-Update-v1-5-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623699/Gold-Gold-Adventure-Gold-Update-v1-5-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Flashing Lights - Polizei, Feuerwehr, Rettu...",
+      "url": "https://www.xrel.to/title/194543/Flashing-Lights-Polizei-Feuerwehr-Rettungsdienst-Simulator.html"
+    },
+    {
+      "text": "Flashing.Ligh...tion.Update.v20261031.incl.DLC-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623700/Flashing-Lights-Department-of-Transportation-Update-v20261031-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623700/Flashing-Lights-Department-of-Transportation-Update-v20261031-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "A Game About Chopping Trees",
+      "url": "https://www.xrel.to/title/196934/A-Game-About-Chopping-Trees.html"
+    },
+    {
+      "text": "A.Game.About.Chopping.Trees.Update.v20261029-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623701/A-Game-About-Chopping-Trees-Update-v20261029-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623701/A-Game-About-Chopping-Trees-Update-v20261029-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Rip.It.Card.Collector-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623417/Rip-It-Card-Collector-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623417/Rip-It-Card-Collector-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Queens.Domain-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623419/Queens-Domain-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623419/Queens-Domain-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Indie-Spiele",
+      "url": "https://www.xrel.to/title/218433/Indie-Spiele.html"
+    },
+    {
+      "text": "Animaly.Bar.NO.HUMANITY-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623420/Animaly-Bar-NO-HUMANITY-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623420/Animaly-Bar-NO-HUMANITY-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Touhou",
+      "url": "https://www.xrel.to/title/200244/Touhou.html"
+    },
+    {
+      "text": "Touhou.Danma...ia.Lost.Update.v1.17.1.incl.DLC-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623421/Touhou-Danmaku-Kagura-Phantasia-Lost-Update-v1-17-1-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623421/Touhou-Danmaku-Kagura-Phantasia-Lost-Update-v1-17-1-incl-DLC-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Sort Them Ducks",
+      "url": "https://www.xrel.to/title/204816/Sort-Them-Ducks.html"
+    },
+    {
+      "text": "Sort.Them.Ducks.Update.v20261028-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623422/Sort-Them-Ducks-Update-v20261028-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623422/Sort-Them-Ducks-Update-v20261028-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Dream of Corpse Lady",
+      "url": "https://www.xrel.to/title/84782/Dream-of-Corpse-Lady.html"
+    },
+    {
+      "text": "Dream.of.C...y.Deitys.Three.Egos.Update.v1.340-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623423/Dream-of-Corpse-Lady-Deitys-Three-Egos-Update-v1-340-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623423/Dream-of-Corpse-Lady-Deitys-Three-Egos-Update-v1-340-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Windows",
+      "url": "https://www.xrel.to/windows-release-list.html"
+    },
+    {
+      "text": "Crushed In Time",
+      "url": "https://www.xrel.to/title/197451/Crushed-In-Time.html"
+    },
+    {
+      "text": "Crushed.In.Time.Update.v1.0.6323-TENOKE",
+      "url": "https://www.xrel.to/game-nfo/3623424/Crushed-In-Time-Update-v1-0-6323-TENOKE.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.xrel.to/game-nfo/3623424/Crushed-In-Time-Update-v1-0-6323-TENOKE.html"
+    },
+    {
+      "text": "TENOKE",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "02",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html?page=2"
+    },
+    {
+      "text": "03",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html?page=3"
+    },
+    {
+      "text": "04",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html?page=4"
+    },
+    {
+      "text": "286",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html?page=286"
+    },
+    {
+      "text": "vorwärts",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html?page=2"
+    },
+    {
+      "text": "9. Dez. 2022",
+      "url": "https://www.xrel.to/game-nfo/2736132/SAMURAI-MAIDEN-REPACK-TENOKE.html"
+    },
+    {
+      "text": "7. Nov. 2026",
+      "url": "https://www.xrel.to/game-nfo/3627272/Saloon-Simulator-TENOKE.html"
+    },
+    {
+      "text": "Welco...the.Game.III-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=473259"
+    },
+    {
+      "text": "Dying.Lig....Edition-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=470636"
+    },
+    {
+      "text": "RATSH...at-Chan.Pack-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=470569"
+    },
+    {
+      "text": "Nioh.3-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=469496"
+    },
+    {
+      "text": "Dying.L...ate.v1.5.0-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=468423"
+    },
+    {
+      "text": "Rune.Factor...cl.DLC-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=467585"
+    },
+    {
+      "text": "Dying.L...ate.v1.3.0-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=467198"
+    },
+    {
+      "text": "Dying.L...ate.v1.2.1-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=466620"
+    },
+    {
+      "text": "Dying.L...ate.v1.2.1-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=466618"
+    },
+    {
+      "text": "Dying.L...ate.v1.2.1-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=466358"
+    },
+    {
+      "text": "Dying.Li...v20150919-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=466237"
+    },
+    {
+      "text": "Dying...ht.The.Beast-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=466224"
+    },
+    {
+      "text": "Dead.R...xe.Remaster-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=465948"
+    },
+    {
+      "text": "Dead.R...xe.Remaster-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=465836"
+    },
+    {
+      "text": "Dead.R...xe.Remaster-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=465831"
+    },
+    {
+      "text": "ONE.PIE...date.v2.01-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=465539"
+    },
+    {
+      "text": "Lords....len.v2.0.19-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=463789"
+    },
+    {
+      "text": "Lords....len.v2.0.19-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=463785"
+    },
+    {
+      "text": "3D.Esca...tive.Story-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=461516"
+    },
+    {
+      "text": "3D.Esca...tive.Story-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=461506"
+    },
+    {
+      "text": "Yu-Gi-O...COLLECTION-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=461179"
+    },
+    {
+      "text": "Indiana...eat.Circle-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=458132"
+    },
+    {
+      "text": "Russia...e.Simulator-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=456956"
+    },
+    {
+      "text": "Russia...e.Simulator-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=456955"
+    },
+    {
+      "text": "Russia...e.Simulator-TENOKE",
+      "url": "https://www.xrel.to/comments-goto.html?id=456954"
+    },
+    {
+      "text": "Startseite",
+      "url": "https://www.xrel.to/home.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Board",
+      "url": "https://www.xrel.to/forum-board.html"
+    },
+    {
+      "text": "Suche",
+      "url": "https://www.xrel.to/search.html"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.xrel.to/wiki/24/RSS.html"
+    },
+    {
+      "text": "Hilfe",
+      "url": "https://www.xrel.to/wiki/25/Help.html"
+    },
+    {
+      "text": "Kontakt",
+      "url": "https://www.xrel.to/wiki/54/Contact.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/releases.html"
+    },
+    {
+      "text": "Filme",
+      "url": "https://www.xrel.to/movies-release-list.html"
+    },
+    {
+      "text": "PC-Spiele",
+      "url": "https://www.xrel.to/games-release-list.html"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.xrel.to/apps-release-list.html"
+    },
+    {
+      "text": "Konsole",
+      "url": "https://www.xrel.to/console-release-list.html"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.xrel.to/tv-release-list.html"
+    },
+    {
+      "text": "US-Releases",
+      "url": "https://www.xrel.to/english-release-list.html"
+    },
+    {
+      "text": "Release-Übersicht",
+      "url": "https://www.xrel.to/p2p/releases.html"
+    },
+    {
+      "text": "Übersicht",
+      "url": "https://www.xrel.to/entertainment.html"
+    },
+    {
+      "text": "TV-Serien",
+      "url": "https://www.xrel.to/entertainment-series.html"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.xrel.to/blogs.html"
+    },
+    {
+      "text": "Ja!",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "Nein!",
+      "url": "https://www.google.de/"
+    },
+    {
+      "text": "Yes!",
+      "url": "https://www.xrel.to/group-TENOKE-release-list.html"
+    },
+    {
+      "text": "No!",
+      "url": "https://www.google.com/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/de_DE.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/en_US.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/flags/de_DE.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/arrow_down.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/bg/search_autocomplete_arrow.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/toolbar_search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Laden...",
+      "url": "https://www.xrel.to/static/img/icons/ajax_loader.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/release_state/new.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/search.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/mini_scene.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.xrel.to/static/img/icons/xrel_logo3.png",
+      "srcset": ""
+    }
+  ]
+}

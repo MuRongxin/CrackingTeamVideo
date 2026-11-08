@@ -1,0 +1,11 @@
+{
+  "id": "G23",
+  "source_url": "https://nasus1.stegosaurus-cloud.ts.net/SubcultureBook_V3.pdf",
+  "retrieved_at": "2026-11-08T04:39:15.052961+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "http_status": 200,
+  "final_url": "https://nasus1.stegosaurus-cloud.ts.net/SubcultureBook_V3.pdf",
+  "content_type": "application/pdf",
+  "error": "HTTPSConnectionPool(host='nasus1.stegosaurus-cloud.ts.net', port=443): Read timed out."
+}

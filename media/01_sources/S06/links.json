@@ -1,0 +1,195 @@
+{
+  "links": [
+    {
+      "text": "",
+      "url": "https://www.pouet.net/index.php"
+    },
+    {
+      "text": "Zafio",
+      "url": "https://www.pouet.net/user.php?who=1207"
+    },
+    {
+      "text": "vote",
+      "url": "https://www.pouet.net/logo_vote.php"
+    },
+    {
+      "text": "Log in",
+      "url": "https://www.pouet.net/login.php?return=prod_nfo.php?font=3&which=105954"
+    },
+    {
+      "text": "Prods",
+      "url": "https://www.pouet.net/prodlist.php"
+    },
+    {
+      "text": "Groups",
+      "url": "https://www.pouet.net/groups.php"
+    },
+    {
+      "text": "Parties",
+      "url": "https://www.pouet.net/parties.php"
+    },
+    {
+      "text": "Users",
+      "url": "https://www.pouet.net/userlist.php"
+    },
+    {
+      "text": "Boards",
+      "url": "https://www.pouet.net/boards.php"
+    },
+    {
+      "text": "Lists",
+      "url": "https://www.pouet.net/lists.php"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.pouet.net/search.php"
+    },
+    {
+      "text": "BBS",
+      "url": "https://www.pouet.net/bbs.php"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.pouet.net/faq.php"
+    },
+    {
+      "text": "Submit",
+      "url": "https://www.pouet.net/submit.php"
+    },
+    {
+      "text": "Razor1911",
+      "url": "https://www.pouet.net/prod.php?which=105954"
+    },
+    {
+      "text": "Razor 1911",
+      "url": "https://www.pouet.net/groups.php?which=158"
+    },
+    {
+      "text": "web",
+      "url": "http://www.razor1911.com/"
+    },
+    {
+      "text": "html",
+      "url": "https://www.pouet.net/prod_nfo.php?font=none&which=105954"
+    },
+    {
+      "text": "dos 80*25",
+      "url": "https://www.pouet.net/prod_nfo.php?font=1&which=105954"
+    },
+    {
+      "text": "dos 80*50",
+      "url": "https://www.pouet.net/prod_nfo.php?font=2&which=105954"
+    },
+    {
+      "text": "rez's ascii",
+      "url": "https://www.pouet.net/prod_nfo.php?font=3&which=105954"
+    },
+    {
+      "text": "amiga medres",
+      "url": "https://www.pouet.net/prod_nfo.php?font=4&which=105954"
+    },
+    {
+      "text": "amiga hires",
+      "url": "https://www.pouet.net/prod_nfo.php?font=5&which=105954"
+    },
+    {
+      "text": "back to the prod",
+      "url": "https://www.pouet.net/prod.php?which=105954"
+    },
+    {
+      "text": "Log in",
+      "url": "https://www.pouet.net/login.php?return=prod_nfo.php?font=3&which=105954"
+    },
+    {
+      "text": "Prods",
+      "url": "https://www.pouet.net/prodlist.php"
+    },
+    {
+      "text": "Groups",
+      "url": "https://www.pouet.net/groups.php"
+    },
+    {
+      "text": "Parties",
+      "url": "https://www.pouet.net/parties.php"
+    },
+    {
+      "text": "Users",
+      "url": "https://www.pouet.net/userlist.php"
+    },
+    {
+      "text": "Boards",
+      "url": "https://www.pouet.net/boards.php"
+    },
+    {
+      "text": "Lists",
+      "url": "https://www.pouet.net/lists.php"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.pouet.net/search.php"
+    },
+    {
+      "text": "BBS",
+      "url": "https://www.pouet.net/bbs.php"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.pouet.net/faq.php"
+    },
+    {
+      "text": "Submit",
+      "url": "https://www.pouet.net/submit.php"
+    },
+    {
+      "text": "switch to mobile version",
+      "url": "https://m.pouet.net/prod_nfo.php?font=3&which=105954"
+    },
+    {
+      "text": "pouët.net",
+      "url": "https://www.pouet.net/index.php"
+    },
+    {
+      "text": "1.0-9a5797a",
+      "url": "https://github.com/pouetnet/pouet-www"
+    },
+    {
+      "text": "mandarine",
+      "url": "https://www.pouet.net/groups.php?which=5"
+    },
+    {
+      "text": "scene.org",
+      "url": "http://www.scene.org/"
+    },
+    {
+      "text": "twitter",
+      "url": "https://twitter.com/pouetdotnet"
+    },
+    {
+      "text": "facebook",
+      "url": "https://www.facebook.com/pouet.dot.net"
+    },
+    {
+      "text": "discord",
+      "url": "https://discord.gg/MCDXrrB"
+    },
+    {
+      "text": "irc",
+      "url": "https://webchat.ircnet.net/?channels=%23pouet.net&uio=OT10cnVlde"
+    },
+    {
+      "text": "webmaster@pouet.net",
+      "url": "mailto:webmaster@pouet.net"
+    },
+    {
+      "text": "github",
+      "url": "https://github.com/pouetnet/pouet-www"
+    }
+  ],
+  "images": [
+    {
+      "alt": "logo",
+      "url": "https://content.pouet.net/logos/jull2.gif",
+      "srcset": ""
+    }
+  ]
+}

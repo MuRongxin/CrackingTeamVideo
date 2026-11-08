@@ -1,0 +1,29 @@
+{
+  "links": [
+    {
+      "text": "scene.cat",
+      "url": "https://scene.cat/"
+    },
+    {
+      "text": "News",
+      "url": "https://scene.cat/news"
+    },
+    {
+      "text": "Processing Queue",
+      "url": "https://scene.cat/queue"
+    },
+    {
+      "text": "Download NFO",
+      "url": "https://scene.cat/nfo/2506/download"
+    },
+    {
+      "text": "Back",
+      "url": "https://scene.cat/"
+    },
+    {
+      "text": "DMCA Takedown Request",
+      "url": "https://scene.cat/dmca"
+    }
+  ],
+  "images": []
+}

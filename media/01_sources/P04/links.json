@@ -1,0 +1,229 @@
+{
+  "links": [
+    {
+      "text": "Click Here to Register!",
+      "url": "https://www.nfohump.com/index.php?switchto=register"
+    },
+    {
+      "text": "Forgot Password",
+      "url": "https://www.nfohump.com/index.php?switchto=register&action=forgot"
+    },
+    {
+      "text": "Forum",
+      "url": "https://www.nfohump.com/forum"
+    },
+    {
+      "text": "",
+      "url": "http://www.adobe.com/go/getflash"
+    },
+    {
+      "text": "Mixed",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=quicknav&item=mixed"
+    },
+    {
+      "text": "Sorted",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=quicknav&item=sorted"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=quicknav&item=search"
+    },
+    {
+      "text": "Get Perseus",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=quicknav&item=perseus"
+    },
+    {
+      "text": "Write a Review",
+      "url": "https://www.nfohump.com/index.php?switchto=reviews&menu=submit"
+    },
+    {
+      "text": "PC Game Rips",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=1"
+    },
+    {
+      "text": "PC Game ISOs",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=2"
+    },
+    {
+      "text": "PC Game Rip Patches",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=4"
+    },
+    {
+      "text": "PC Game Dox",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=5"
+    },
+    {
+      "text": "PC Game Addons",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=3"
+    },
+    {
+      "text": "PC App ISOs",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=6"
+    },
+    {
+      "text": "DreamCast",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=7"
+    },
+    {
+      "text": "PlayStation",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=8"
+    },
+    {
+      "text": "PlayStation 2",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=9"
+    },
+    {
+      "text": "PlayStation 3",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=23"
+    },
+    {
+      "text": "GameBoy Advance",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=10"
+    },
+    {
+      "text": "Xbox",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=11"
+    },
+    {
+      "text": "Xbox 360",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=22"
+    },
+    {
+      "text": "Wii",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=24"
+    },
+    {
+      "text": "GameCube",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=20"
+    },
+    {
+      "text": "PSP",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=21"
+    },
+    {
+      "text": "Nintendo DS",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=27"
+    },
+    {
+      "text": "DivX",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=12"
+    },
+    {
+      "text": "XviD",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=13"
+    },
+    {
+      "text": "VCD",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=14"
+    },
+    {
+      "text": "SVCD",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=15"
+    },
+    {
+      "text": "Anime",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=16"
+    },
+    {
+      "text": "XXX",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=17"
+    },
+    {
+      "text": "TV-Rips",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=19"
+    },
+    {
+      "text": "TV-Rips (x264)",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=26"
+    },
+    {
+      "text": "DVD-R",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=18"
+    },
+    {
+      "text": "Blu-Ray",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=25"
+    },
+    {
+      "text": "0DAY (external/new)",
+      "url": "http://www.0daykingz.org/"
+    },
+    {
+      "text": "MP3 (external/new)",
+      "url": "http://www.mp3kingz.org/"
+    },
+    {
+      "text": "0DAY (external/alt)",
+      "url": "http://www.nfodb.com/section_1_0-day_nfo.html"
+    },
+    {
+      "text": "PDA (external)",
+      "url": "http://www.nfodb.com/section_5_pda_nfo.html"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "https://www.nfohump.com/index.php?menu=options&item=rssfeeds"
+    },
+    {
+      "text": "Bots Back-End",
+      "url": "https://www.nfohump.com/index.php?menu=options&item=botsbackend"
+    },
+    {
+      "text": "RELOADED",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=quicknav&item=search&search=yes&group=RELOADED"
+    },
+    {
+      "text": "PC Game ISOs",
+      "url": "https://www.nfohump.com/index.php?switchto=nfos&menu=sections§ionid=2"
+    },
+    {
+      "text": "click here",
+      "url": "https://www.nfohump.com/savenfo.php?id=104992"
+    },
+    {
+      "text": "",
+      "url": "http://www.getfirefox.com/"
+    },
+    {
+      "text": "Terms of Service & Privacy Policy",
+      "url": "https://www.nfohump.com/?switchto=tos"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Get Adobe Flash player",
+      "url": "https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.nfohump.com/inc/images/spacer.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.nfohump.com/nfos/png-white/104992.png",
+      "srcset": ""
+    },
+    {
+      "alt": "",
+      "url": "https://www.nfohump.com/inc/images/spacer.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "Valid XHTML",
+      "url": "https://www.nfohump.com/inc/images/xhtml.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "Valid CSS",
+      "url": "https://www.nfohump.com/inc/images/validcss.gif",
+      "srcset": ""
+    },
+    {
+      "alt": "Get Firefox",
+      "url": "https://www.nfohump.com/inc/images/firefox_80x15.png",
+      "srcset": ""
+    }
+  ]
+}

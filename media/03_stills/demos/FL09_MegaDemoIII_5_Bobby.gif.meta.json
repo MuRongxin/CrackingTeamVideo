@@ -1,0 +1,19 @@
+{
+  "id": "FL09_Mahoney_03",
+  "task": "FL09",
+  "kind": "image",
+  "url": "https://livet.se/mahoney/images/amiga-graphics/MegaDemoIII_5_Bobby.gif",
+  "path": "media/03_stills/demos/FL09_MegaDemoIII_5_Bobby.gif",
+  "source_page": "https://livet.se/mahoney/timeline.php",
+  "author": "Mahoney / North Star + FairLight，见作者时间线",
+  "rights": "作者公开发布截图；视频使用许可待确认",
+  "retrieved_at": "2026-11-08T04:47:46.030069+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://livet.se/mahoney/images/amiga-graphics/MegaDemoIII_5_Bobby.gif",
+  "width": 323,
+  "height": 280,
+  "format": "GIF",
+  "bytes": 10092,
+  "sha256": "43f8771d47f68af6558035245ae214c20d84443a8f4779c47c06d62a75859c6a"
+}

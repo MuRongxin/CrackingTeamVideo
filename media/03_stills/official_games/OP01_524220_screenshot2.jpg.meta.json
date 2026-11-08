@@ -1,0 +1,20 @@
+{
+  "id": "OP01_STEAM_524220_screenshot2",
+  "task": "OP01",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/ss_8b29f7e1ce9a8b9313dc3eb50dbe76a4cf94eef9.1920x1080.jpg?t=1793890935",
+  "path": "media/03_stills/official_games/OP01_524220_screenshot2.jpg",
+  "source_page": "https://store.steampowered.com/app/524220/",
+  "title": "NieR:Automata™",
+  "author": "Square Enix, PlatinumGames Inc.",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:45.004906+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/ss_8b29f7e1ce9a8b9313dc3eb50dbe76a4cf94eef9.1920x1080.jpg?t=1793890935",
+  "width": 1920,
+  "height": 1080,
+  "format": "JPEG",
+  "bytes": 544731,
+  "sha256": "01d322716ce8c67704bef44f1b63f05bc76d287e41a7f80a0fd147746afefb16"
+}

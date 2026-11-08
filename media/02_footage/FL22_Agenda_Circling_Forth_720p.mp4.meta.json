@@ -1,0 +1,16 @@
+{
+  "id": "FL22_Agenda_720p",
+  "task": "FL22",
+  "kind": "video",
+  "url": "https://archive.org/download/CncdVsFairlightAgendaCirclingForth/agenda.720p.mp4",
+  "path": "media/02_footage/FL22_Agenda_Circling_Forth_720p.mp4",
+  "source_page": "https://archive.org/details/CncdVsFairlightAgendaCirclingForth",
+  "author": "作品 CNCD + FairLight；录像上传者 nebadon2025，见存档元数据",
+  "rights": "第三方保存录像；作品及音乐许可待确认",
+  "limit": 188743680,
+  "retrieved_at": "2026-11-08T04:43:49.349646+00:00",
+  "status": "failed",
+  "http_status": 401,
+  "final_url": "https://dn711107.ca.archive.org/0/items/CncdVsFairlightAgendaCirclingForth/agenda.720p.mp4",
+  "error": "401 Client Error: Unauthorized for url: https://dn711107.ca.archive.org/0/items/CncdVsFairlightAgendaCirclingForth/agenda.720p.mp4"
+}

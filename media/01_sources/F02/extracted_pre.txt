@@ -1,0 +1,27 @@
+This uses a newer driver provided by @SpecialFor
+Many thanks to @sagerao too for the help
+
+Note: AMD only
+
+Instructions
+Enable SVM mode in bios settings
+Kernel anticheats will be problematic, make sure they are off before performing the rest of the steps.
+
+Enable test signing mode via bcdedit (bcdedit /set testsigning on)
+For users with Hyper-V windows feature enabled, it's required to keep its hypervisor off with the following command:
+bcdedit /set hypervisorlaunchtype off
+
+Keep Secure Boot disabled
+Keep Windows Defender memory integrity and credential guard off (VBS and HVCI)
+Keep "Windows Hypervisor Platform" off in Windows features
+
+Usage:
+
+In a cmd or powershell with admin rights, after meeting the requirements:
+
+sc create denuvo type=kernel start=demand binPath=C:\Drivers\SimpleSvm.sys (your full path for SimpleSvm.sys)
+sc start denuvo
+
+After you close the game, you can stop the hypervisor service with
+
+sc stop denuvo

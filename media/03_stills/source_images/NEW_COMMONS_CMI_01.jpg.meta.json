@@ -1,0 +1,20 @@
+{
+  "id": "NEW_COMMONS_CMI_img01",
+  "kind": "image",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Fairlight_CMI.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+  "path": "media/03_stills/source_images/NEW_COMMONS_CMI_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_Fairlight_CMI.jpg",
+  "source_code": "NEW_COMMONS_CMI",
+  "rights": "CC BY 4.0",
+  "author": "National Film and Sound Archive",
+  "retrieved_at": "2026-11-08T04:43:41.117799+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Fairlight_CMI.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+  "width": 738,
+  "height": 985,
+  "format": "JPEG",
+  "bytes": 78542,
+  "sha256": "ace5a617a95c6ac8f9d99fbbe79857c5063b7507bc2210724a5688323faaa14b",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/"
+}

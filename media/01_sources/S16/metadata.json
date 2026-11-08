@@ -1,0 +1,11 @@
+{
+  "id": "S16",
+  "source_url": "https://arstechnica.com/gaming/2010/03/ubisoft-on-drm-snafu-servers-attacked-pirates-locked-out/",
+  "retrieved_at": "2026-11-08T04:39:49.757888+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "http_status": 405,
+  "final_url": "https://arstechnica.com/gaming/2010/03/ubisoft-on-drm-snafu-servers-attacked-pirates-locked-out/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": "405 Client Error: Not Allowed for url: https://arstechnica.com/gaming/2010/03/ubisoft-on-drm-snafu-servers-attacked-pirates-locked-out/"
+}

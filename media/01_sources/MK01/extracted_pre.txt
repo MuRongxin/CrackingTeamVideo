@@ -1,0 +1,53 @@
+Thanks to MKDEV, SPECIAL FOR , TOXIC , DISCORD ADMINS , FRIENDS WHO TESTED, PLAYED AND OTHERS FORGOTTEN
+
+ENJOY
+POZDRAV
+
+MKDEV TEAM
+
+Group Notes
+
+The crack has been tested extensively and is now stable.
+And thus, our adventure comes to an end. Atleast we got the good ending!
+
+Information on Denuvo
+
+While more extensive information will be provided later at some point, currently we include only a
+summary as to not delay the release.
+Denuvo works by replacing the original instructions in game functions, morphing them in VM so the
+same instructions are executed in the end but on a "different form".
+And it makes a single value on "one" of the instructions in each function "calculation" dependent,
+basicly encrypting a single value on one of the original instructions in the function.
+Calculation will only provide the correct value in each VM if the runtime hardware/OS environment
+checks "match" the values written to dwords in .exe before OEP.
+These dwords combine bytes both from the license and from hardware/environment checks run before OEP.
+
+All 3 variables (License bytes, hw/env check results before OEP, Runtime hw/env checks that is
+executed on runtime in each VM with a "protected" function.) must be correct for the calculations to
+give the correct result in each vm.
+However, obviously there is still only one single correct calculation result as the original game
+instruction has to be executed before exiting the VM.
+These values for the original instructions can be obtained by having a valid license for the game and monitoring the VM.
+And every single denuvo game can be cracked by hardcoding such values in the VM, thus executing the
+original instructions no matter the results of the hardware/env checks.
+Our method does exactly this instead of patching HW/Env checks.
+
+FIFA 23 Origin version 1.0.82.43747
+
+Protection: Denuvo + Origin
+
+Cracked by: Special For
+
+Release Notes
+
+-Thanks to anadius for the Origin emu.
+-Thanks to xAranaktu for the Live Editor.
+-Game version is 1.0.82.43747
+-Start the game from Launcher.exe
+-First launch of the game takes a bit of time depending on your system, this is not related to the crack.
+
+Troubleshooting
+
+-Game requires AVX and DirectX feature level 12.1
+-On some slow systems Live Editor engine takes a bit of time to initialize, rushing into matches
+before it is initialized can cause issues in game.

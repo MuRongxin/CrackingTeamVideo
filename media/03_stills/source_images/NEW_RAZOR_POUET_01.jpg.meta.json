@@ -1,0 +1,19 @@
+{
+  "id": "NEW_RAZOR_POUET_img01",
+  "kind": "image",
+  "url": "https://content.pouet.net/files/screenshots/00105/00105954.jpg",
+  "path": "media/03_stills/source_images/NEW_RAZOR_POUET_01.jpg",
+  "source_page": "https://www.pouet.net/prod.php?which=105954",
+  "source_code": "NEW_RAZOR_POUET",
+  "rights": "待确认；作品／NFO／游戏图像，仅作为研究与剪辑候选",
+  "author": "见来源页，待核署名",
+  "retrieved_at": "2026-11-08T04:43:42.347372+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://content.pouet.net/files/screenshots/00105/00105954.jpg",
+  "width": 400,
+  "height": 225,
+  "format": "JPEG",
+  "bytes": 60984,
+  "sha256": "75f1f05c7fabe51620b33e37cee096b55b2ca565301a6ac267cba9dacbde9206"
+}

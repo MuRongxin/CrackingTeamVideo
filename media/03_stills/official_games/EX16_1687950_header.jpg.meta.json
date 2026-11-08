@@ -1,0 +1,20 @@
+{
+  "id": "EX16_STEAM_1687950_header",
+  "task": "EX16",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+  "path": "media/03_stills/official_games/EX16_1687950_header.jpg",
+  "source_page": "https://store.steampowered.com/app/1687950/",
+  "title": "Persona 5 Royal",
+  "author": "ATLUS",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:47.561241+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+  "width": 460,
+  "height": 215,
+  "format": "JPEG",
+  "bytes": 57228,
+  "sha256": "d9ec3a9814a67b255033d0b21a7d1431f19183c0d4ee65354a7e4cd7a6533451"
+}

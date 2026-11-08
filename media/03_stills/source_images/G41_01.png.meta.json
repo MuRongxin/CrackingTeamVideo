@@ -1,0 +1,19 @@
+{
+  "id": "G41_img01",
+  "kind": "image",
+  "url": "https://files.hiddenpalace.org/5/51/Alien3_FAIRLIGHT_title.png",
+  "path": "media/03_stills/source_images/G41_01.png",
+  "source_page": "https://hiddenpalace.org/Alien_3_%28FAIRLIGHT_prototype%29",
+  "source_code": "G41",
+  "rights": "待确认；作品／NFO／游戏图像，仅作为研究与剪辑候选",
+  "author": "见来源页，待核署名",
+  "retrieved_at": "2026-11-08T04:43:43.402948+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://files.hiddenpalace.org/5/51/Alien3_FAIRLIGHT_title.png",
+  "width": 256,
+  "height": 224,
+  "format": "PNG",
+  "bytes": 4149,
+  "sha256": "94cbc1b8bdc9accc053c2c83426af6b688020ce1719d1d9461d5dd171a301454"
+}

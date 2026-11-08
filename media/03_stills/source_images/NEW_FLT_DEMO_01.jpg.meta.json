@@ -1,0 +1,19 @@
+{
+  "id": "NEW_FLT_DEMO_img01",
+  "kind": "image",
+  "url": "https://content.pouet.net/files/screenshots/00054/00054603.jpg",
+  "path": "media/03_stills/source_images/NEW_FLT_DEMO_01.jpg",
+  "source_page": "https://www.pouet.net/prod.php?which=54603",
+  "source_code": "NEW_FLT_DEMO",
+  "rights": "待确认；作品／NFO／游戏图像，仅作为研究与剪辑候选",
+  "author": "见来源页，待核署名",
+  "retrieved_at": "2026-11-08T04:43:39.924821+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://content.pouet.net/files/screenshots/00054/00054603.jpg",
+  "width": 400,
+  "height": 225,
+  "format": "JPEG",
+  "bytes": 36894,
+  "sha256": "2f002df2ef86f7749b8a4e9f32e346d7dcde4b479eccb8d5627bfca354f9643f"
+}

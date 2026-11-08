@@ -1,0 +1,20 @@
+{
+  "id": "EX08_STEAM_13570_screenshot2",
+  "task": "EX08",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/0000003893.1920x1080.jpg?t=1764776065",
+  "path": "media/03_stills/official_games/EX08_13570_screenshot2.jpg",
+  "source_page": "https://store.steampowered.com/app/13570/",
+  "title": "Tom Clancy's Splinter Cell Chaos Theory®",
+  "author": "Ubisoft Montreal",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:50.173732+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/0000003893.1920x1080.jpg?t=1764776065",
+  "width": 1024,
+  "height": 768,
+  "format": "JPEG",
+  "bytes": 101007,
+  "sha256": "aa570f22ba81f3b9af20bff86fc35eebbcb1b58ea098dc5b27bddccc97b10143"
+}

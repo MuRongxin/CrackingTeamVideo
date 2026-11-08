@@ -1,0 +1,191 @@
+C64.COM - For the best in C64 nostalgia
+The early days
+I was born in 1970 and I've been painting as long as I 
+                        can remember. Probably the first thing my parents did 
+                        was to put a pencil in my hand. In 1983, I got a Texas 
+                        TI-99/4A as a christmas gift, and after testing what it 
+                        could do, I tried to draw a picture on it. This was done 
+                        by desperately typing in numbers in Basic. Most of the 
+                        time, it didn't look like it should; strange pixels and 
+                        patterns appeared all over the screen, and hardly any 
+                        colours were displayed. After trying a hundred times to 
+                        get the picture together, I got tired of it and I started 
+                        to dream about a Commodore 64. I remember my cousin had 
+                        one, and I was impressed by how good everything looked. 
+                        After what seemed like an eternity, my parents gave me 
+                        my own C64. It took a while before I tried to do anything 
+                        creative with it. I guess I was hooked on all those fantastic 
+                        games. But after approximately two years, I started to 
+                        draw.
+My father and I put an ad in Commodore User because we 
+                        wanted to swap games and utilities. We got a lot of replies 
+                        and one of them was from a guy called The Beast. He was 
+                        the leader of a group called Mutants 2001 and after seeing 
+                        some pictures I'd done, he wanted me to join. I joined 
+                        the group and thought: "Cool! I'm in the scene and 
+                        I'm going to get my pictures spread!".
+JOL becomes The Sarge
+JOL is short for
+JO
+achim
+L
+junggren. I had those initials 
+                        in school, so it was kind of a natural choice when I started 
+                        out on the C64. But after a while, me and The Beast both 
+                        thought the name was a bit lame. Other people in the scene 
+                        took their names from gods and warriors, and that was 
+                        much cooler. One day I was looking through Commodore User 
+                        and found a review of Combat School. The caption read 
+                        something like: "The sarge is drilling his boys". 
+                        I liked "The sarge" a lot, and so it became 
+                        my new name. I made that first red logo almost instantly! 
+                        A little later on, I designed the big grey one and lots 
+                        of people thought I was a punk rocker because I used the 
+                        anarchy symbol in it. I was, and still are, in to synth 
+                        and industrial music. And it was not a political statement 
+                        or anything, it just looked good. After a couple of years 
+                        I got fed up with "The" in The Sarge, so I considered 
+                        changing my name again. I choose Taito, and I went as 
+                        far as putting it in a logo I drew, but it was never released.
+From Mutants 2001 to Triad
+I had only been a member of Mutants 2001 for a few weeks 
+                        when another group called Front contacted me and asked 
+                        if I wanted to join. They were quite big and so I accepted. 
+                        Things really started to take off and I was doing lots 
+                        of work for the demos we released. We had fun and there 
+                        were many cool guys in Front. Saruman and Getafix were 
+                        in fact among the nicest people I ever talked to during 
+                        my C64 days.
+I stayed in Front until Ixion offered me to join Triad. 
+                        I was a bit reluctant and started to think that this was 
+                        getting a bit too big for me, but I accepted after a couple 
+                        of days of thinking. I was really nervous! How could I 
+                        make these famous guys happy? One thing was sure: I had 
+                        to do much better than what I'd done the last couple of 
+                        months. I started to paint like a madman and as soon as 
+                        a picture was done, I sent it to Ixion. The whole group 
+                        loved them!
+I made many demos with 801 DC of Triad and we became good 
+                        friends. We never met but talked a lot on the phone. It 
+                        was 801 DC and me who made those Xecution demos. We were 
+                        tired of all those lamers that were calling us asking 
+                        for games. Our egos had also grown too big because we 
+                        were members of the greatest group in the world. So we 
+                        began to write demos with weird scrolltexts and stupid 
+                        pictures of ourselves slaughtering people. 801 DC also 
+                        made the packaging of a couple of my SEUCK (Shoot'em up 
+                        Construction Kit) games. And talking about SEUCK: I remember 
+                        the funny intro that Pär Winzell (Janitor of Triad) 
+                        made for Tiger Hell with that little pink elephant squashing 
+                        a Fairlight logo. That was just a part of the friendly 
+                        war between the two groups.
+I never went to a single copy-party and that's something 
+                        I regret. I was very close to go to the Alvesta party 
+                        one year. I remember that 801 DC was calling me about 
+                        five times that day telling me to jump on the bike and 
+                        get over there. But I didn't go. I guess I was too shy 
+                        to show up.
+How I worked on the C64
+I've always had tough demands on myself. Back then, I 
+                        thought that I had to create something the very same day 
+                        I came up with an idea, or else I'd spoiled it. I was 
+                        always searching for motives to paint while watching movies, 
+                        reading magazines etc. If I couldn't find anything to 
+                        paint, I got really upset. But when I found something 
+                        that I thought was cool, I drew it on a piece of paper 
+                        before transfering it to the C64. And when I think about 
+                        it... Where are all these drawings? Probably gone forever.
+Because I was using a 14 inch TV with my C64 set and A4 
+                        paper when I was drawing, I had a big advantage. They 
+                        matched each other in size, so I put a clear celophane 
+                        plastic on top of the paper-drawing and traced the outlines 
+                        with a waterproof pen. I then put the plastic on the TV 
+                        screen, drew the outlines with Koala Painter and when 
+                        done, removed the plastic to find the outlines ready to 
+                        be coloured and detailed. This process helped me a lot, 
+                        because copying, pasting and nudging something in Koala 
+                        Painter was almost impossible.
+It was very important to try to get the contoures on separate 
+                        characters (one character in multi colour mode had 4x8 
+                        pixels) because each character could only hold three colours 
+                        plus the background. If I used three colours to paint 
+                        a face and three other colours for a sky in the background, 
+                        I had quite a few things to think about while I was drawing. 
+                        Careful planning of where to place the objects was absolutely 
+                        necessary.
+The pictures were often made in one day. I sat nonstop 
+                        those days and I don't think I even saved before the picture 
+                        was finished. But I was pretty safe anyways. I can't remember 
+                        Koala Painter ever crashing. :) I tried a program called 
+                        Doodle a couple of times but it couldn't do multi colour, 
+                        and single colour wasn't my cup of tea. I also tried a 
+                        trackball, but I had always used a joystick when I painted 
+                        before, and was rather pleased with it.
+No Mercy and Rubicon
+I decided to quit Triad and join Fairlight because me 
+                        and Fredrik Kahl (Gollum of Fairlight) were working together 
+                        on a game called No Mercy. A german games company called 
+                        Digital Marketing published it, but we hardly got any 
+                        money for it. What we did get though, was a taste of the 
+                        game making industry and that inspired us to start work 
+                        on a new game called Rubicon for Hewson Consulants. Fredrik 
+                        did some stunning programming for it, and especially the 
+                        revolutionary technique that made it possible to have 
+                        huge monsters on the screen. I drew those monsters in 
+                        a program called Sprite Machine, which was a pain because 
+                        this utility could only show one sprite at a time. So 
+                        I had to paint the monsters and characters on a paper 
+                        matrix first and then in the editor. We worked hard for 
+                        more than a year and when the game finally was released, 
+                        it got rave reviews in Zzap!64. This was a dream come 
+                        true for us!
+Totally, I made six games on the C64: Tiger Hell, Twin 
+                        Cobra, Ikari Warriors 2, Di-Art, No Mercy and Rubicon.
+After Rubicon, we thought we should try to do a game on 
+                        the Amiga. It didn't turn in to anything, just a couple 
+                        of programming tests by Fredrik and a some maps and sprites 
+                        by me. At the time, Fredrik was studying hard and part 
+                        time working as a programmer, and I was working in a factory. 
+                        The time to finish a new game just wasn't there. I was 
+                        still doing some pictures for Fairlight, but it was nothing 
+                        like the C64 days. It was too easy now. I had 4096 colours 
+                        and I could use all of them at the same time if I wanted 
+                        to. When I reflect over this today, I don't understand 
+                        why I was thinking like that. I should have been glad! 
+                        Creative freedom is what everyone strives for, right?
+Just when I was moving on to the Amiga, the FLI (Flexible 
+                        Line Interpretation) technique came out. I remember thinking 
+                        that this was cheating because all the hard work with 
+                        getting the colours right was now gone. I tried it a couple 
+                        of times but the C64 days were over for me, so nothing 
+                        came out of it. When I look at those FLI pictures today, 
+                        I just can't believe that they were done on the C64! They 
+                        look so much better than mine ever did.
+Where 
+                        I'm at today
+I never thought that I could make a living out of doing 
+                        graphics, but one day in the beginning of the 1990's, 
+                        I quit my job at the factory and bought a 486 PC with 
+                        an amazing 4 Mb RAM! I discovered Photoshop and practiced 
+                        hard and I was studying even harder to get somewhere. 
+                        About one year later it paid off: I got a job at TV4 Halland. 
+                        I moved on to MTV Produktion, producing ID's and graphics 
+                        for Scandinavian TV-stations. That's where I am today, 
+                        doing more or less the same thing I've always done. If 
+                        you're interested to see what I've done the last couple 
+                        of years, head over to my
+website
+. 
+                        Thanks for reading!
+»
+His 
+                              work
+- shots and comments on his legendary pics.
+»
+Story
+- Joachim tell us about those glorious days.
+»
+Download
+- the C64 files plus his Amiga and PC work.
+»
+Pictures

@@ -1,0 +1,13 @@
+WARNING: Your yt-dlp version (2026.03.17) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+         Run "yt-dlp --update" or "yt-dlp -U" to update.
+         To suppress this warning, add --no-update to your command/config.
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2AnbYNudAyM
+[youtube] 2AnbYNudAyM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] 2AnbYNudAyM: Downloading android vr player API JSON
+[info] 2AnbYNudAyM: Downloading 1 format(s): 18
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: media/02_footage/EX01_2AnbYNudAyM.webp
+[info] Writing video metadata as JSON to: media/02_footage/EX01_2AnbYNudAyM.info.json
+ERROR: unable to download video data: HTTP Error 403: Forbidden

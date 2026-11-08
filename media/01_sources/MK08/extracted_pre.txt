@@ -1,0 +1,30 @@
+P  R  E  S  E  N  T  S
+
+GAME           : Two Point Museum
+PUBLISHER      : SEGA
+RELEASE DATE   : 2026/07
+PROTECTION     : Denuvo + Steam
+
+GAME NOTES
+
+Curate and manage incredible museums! Explore to discover amazing artifacts. Design and
+refine the layout, keep staff happy, guests entertained, donations plentiful  and
+children off the exhibits.
+
+RELEASE NOTES
+
+This release is based on build 23903345, version 10.0.227751 and includes all DLCs.
+
+Thanks to Mr Goldberg for the Steam emulator.
+
+Copy the contents of the DenuvOwO folder to the game folder.
+
+Hypervisor releases require specific system features to be disabled.
+To prepare your system, run VBS.cmd and follow its instructions.
+
+Launch the game from its executable after proceeding with VBS.cmd.
+Once you are done playing, it is recommended to revert the changes.
+
+SPECIAL THANKS
+
+Special For, 0xZeOn, Andreh, Mojtaba, sagerao, testers and friends :)

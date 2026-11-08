@@ -1,0 +1,23 @@
+{
+  "id": "HARDWARE_C64_01",
+  "task": "OP03",
+  "kind": "image",
+  "title": "File:Commodore-64-Computer-BL.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Commodore-64-Computer-BL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "path": "media/03_stills/hardware/HARDWARE_C64_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Commodore-64-Computer-BL.jpg",
+  "author": "Evan-Amos",
+  "rights": "Public domain",
+  "license_url": "",
+  "attribution": "",
+  "description": "A Commodore 64, an 8-bit home computer introduced in 1982 by Commodore International. Its low retail price and easy availability led to the system becoming the market leader for three years. It remains the best-selling single personal computer model of all time.",
+  "retrieved_at": "2026-11-08T04:45:09.218351+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Commodore-64-Computer-BL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4600,
+  "height": 2600,
+  "format": "JPEG",
+  "bytes": 2782184,
+  "sha256": "3e5dbbc84022f7345efd8218fc2f6e062d2ddd28946686079dd2122b2b8e7e2f"
+}

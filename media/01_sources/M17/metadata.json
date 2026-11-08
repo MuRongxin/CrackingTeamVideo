@@ -1,0 +1,14 @@
+{
+  "id": "M17",
+  "source_url": "https://opentrackers.org/scenerules.org/html/srr_rules.html",
+  "retrieved_at": "2026-11-08T04:39:59.073426+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://opentrackers.org/scenerules.org/html/srr_rules.html",
+  "content_type": "text/html",
+  "path": "media/01_sources/M17/original.html",
+  "bytes": 21591,
+  "sha256": "8cc10636d2bedcab0fb84313ef49cc52a1665bd4de6164a5a0d7d899b90ce699",
+  "title": "srr_rules.nfo"
+}

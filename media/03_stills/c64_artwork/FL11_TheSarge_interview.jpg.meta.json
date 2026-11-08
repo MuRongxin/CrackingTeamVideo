@@ -1,0 +1,19 @@
+{
+  "id": "FL11_TheSarge_interview",
+  "task": "FL11",
+  "kind": "image",
+  "url": "http://www.c64.com/interviews/images/scene_interviews_sarge_the.jpg",
+  "path": "media/03_stills/c64_artwork/FL11_TheSarge_interview.jpg",
+  "source_page": "http://www.c64.com/scene_display_interview.php?interview=84",
+  "author": "摄影者见 C64.com 原页，待确认",
+  "rights": "公开人物照片；许可待确认",
+  "retrieved_at": "2026-11-08T04:45:23.201534+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "http://www.c64.com/interviews/images/scene_interviews_sarge_the.jpg",
+  "width": 124,
+  "height": 150,
+  "format": "JPEG",
+  "bytes": 7401,
+  "sha256": "16724b13c02b83020009d0403c0a1de1d4f1590416fbf9ffd33298a597db947c"
+}

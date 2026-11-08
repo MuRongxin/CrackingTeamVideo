@@ -1,0 +1,261 @@
+Persona.5.Royal.HypervisorTest.READNFO-MKDEV -  NFO-Datei - xREL.v3 - Release & NFO Source #1
+xREL.v3
+Persona.5.Royal.HypervisorTest.READNFO-MKDEV -  NFO-Datei
+Deutsch
+English
+Sprache wählen
+Board
+RSS
+API
+Status
+Hilfe
+Kontakt
+Startseite
+Scene-Releases
+P2P-Releases
+Entertainment
+Startseite
+Blogs
+Film & TV-Blog
+Hardware-Blog
+MP3-Blog
+Off Topic
+Software-Blog
+Spiele-Blog
+Szene-News
+xREL News
+Board
+Suche
+Release-Übersicht
+Aktuell beliebt
+Filme
+Top-Filme
+High Definition
+Ultra HD
+Retail
+3D
+US-Releases
+Musik-DVDs
+x264
+x265
+DVD-R
+DivX/XviD
+(S)VCD
+XXX-Filme
+PC-Spiele
+Windows
+Mac OS
+Linux
+Updates
+Software
+ISO
+E-Learning
+Windows
+Mac OS
+Linux
+Software Add-Ons
+Konsole
+PlayStation 4
+PlayStation 5
+Xbox One
+Xbox Series X|S
+Nintendo Switch
+Nintendo Switch 2
+PlayStation 1
+PlayStation 2
+PlayStation 3
+Xbox 360-DLC
+Xbox 360
+Nintendo Wii
+WiiWare / VC / Emu
+PlayStation Portable
+Nintendo DS/3DS
+Xbox
+GameCube
+TV
+TV-Serien
+Dokumentationen
+Fernsehshows
+High Definition
+Ultra HD
+US-Releases
+TV-Sport
+Retail
+Custom Subbed (OmU)
+Spezial
+US-Releases
+High Definition
+Ultra HD
+iNTERNAL
+Anime
+Retail
+Aktuell beliebt
+Release-Übersicht
+Filme
+XviD
+DVD-R
+SD-x264
+SD-x265
+HD-720p
+HD-1080p
+HD-2160p
+PC-Spiele
+Software
+Konsole
+Xbox 360
+PlayStation
+Nintendo Wii
+PlayStation Portable
+Nintendo DS/3DS
+Nintendo Switch
+TV
+XviD
+DVD-R
+SD-x264
+SD-x265
+HD-720p
+HD-1080p
+HD-2160p
+NFO posten
+Übersicht
+xREL-Top-100
+Heiß Erwartet
+TV-Serien
+Trailer
+Blogs
+Film & TV-Blog
+Hardware-Blog
+MP3-Blog
+Off Topic
+Software-Blog
+Spiele-Blog
+Szene-News
+xREL News
+Guten Morgen,
+Gast
+!
+Du bist ausgeloggt.
+Einloggen
+Noch keinen Account?
+NFO-Datei:
+Persona.5.Royal.HypervisorTest.READNFO-MKDEV
+Anzeige:
+Als Bild
+Nur Text
+Thanks to MKDEV, SPECIAL FOR , TOXIC , DISCORD ADMINS , FRIENDS WHO TESTED, PLAYED AND OTHERS FORGOTTEN
+
+ENJOY
+POZDRAV
+
+MKDEV TEAM
+
+Group Notes
+
+This is only a test version of the hypervisor method! More instructions to load the included
+SimpleSvm.sys hypervisor driver may be included later, trying to get this out ASAP just in case
+
+Testing steps:
+
+1 - Load the hypervisor .sys file
+2 - Copy and paste everything else apart from the "HypervisorSource" folder to the main game directory
+3 - Launch P5R.exe
+
+Disclaimer: Kernel drivers are able to cause blue screens when there are mistakes in the code, this
+has not yet been tested for long term stability.
+
+Persona 5 Royal
+
+Protection: Denuvo + Steam
+
+Release Notes
+
+-Thanks to sagerao for helping with the KUSER spoofing code and patching environment checks!
+-Thanks to Mr Goldberg for the Steam emu.
+-Game version is 1.04.
+Registrierte Benutzer können Text-, Hintergrund- und ANSI-Art-Farbe individuell anpassen!
+Plot - Persona 5 Royal
+Bereiten Sie sich auf ein brandneues RPG-Erlebnis im preisgekrönten Persona Universum vor, mit Persona 5 Royal! In Persona 5 Royal geht es um die inneren und äußeren Konflikte einer Gruppe von außerg...
+weiter...
+Release-Optionen
+Gewähltes Release:
+Persona....rTest.READNFO-MKDEV
+NFO ansehen
+Produktinformationen
+Ähnliche Releases (8)
+Rezensionen (0)
+Kommentare (1)
+Release-Info
+Zeit:
+19. Dez. 2025, 17:28 Uhr
+Eingetragen:
+19. Dez. 2025, 17:28 Uhr
+Release-Group:
+MKDEV
+Release-Größe:
+196 MB
+NFO-Größe:
+7,23 KB
+Kategorie:
+NFO-Anzeige
+LuCoP
+LuCoP (stretched)
+Pablo 8x16
+Terminal
+MSI Console
+F-Code
+IBMPC
+EGA Style
+Pot-Noodle (AMIGA)
+Standard (Schwarz auf Weiß)
+Weiß auf Schwarz
+Crimson Art
+Neon Art
+Blue '08
+© 2004-2026 by xREL. Alle Rechte vorbehalten.
+Version: 6469463f3407207f3ef0c8763bff62413df4d974 [20261030-542]
+Besucher online: 1.442
+Mitglieder online: 34
+Startseite
+Startseite
+Blogs
+Board
+Suche
+RSS
+Hilfe
+Kontakt
+Scene-Releases
+Release-Übersicht
+Filme
+PC-Spiele
+Software
+Konsole
+TV
+US-Releases
+P2P-Releases
+Release-Übersicht
+Entertainment
+Übersicht
+TV-Serien
+Blogs
+xREL ist eine reine Informations-Seite.
+Es gibt hier keine Downloads, Links zu Downloads, Torrents, Magnet-Links, NZB-Dateien oder ähnliches.
+Wir bieten nur Informationen über die Existenz eines Releases, seine Größe sowie die beiliegende NFO-Datei an. Wir unterstützen Benutzer in keiner Form dabei, dieser Releases habhaft zu werden.
+Sämtliche Verweise auf Angebote zu illegalen Kopien sind auch in Kommentaren sowie in unserem Forum verboten, was von unserem engagierten Moderatoren-Team ständig überprüft wird.
+Bei weiteren Fragen kann man uns per E-Mail an
+xrel *at* xrel *punkt* to
+kontaktieren.
+Hast du das verstanden?
+Ja!
+|
+Nein!
+xREL is solely an informational web site.
+There are absolutely NO downloads of copyright-protected works, hyperlinks to downloads, torrent files, magnet links, nzb files or similar content on any part of this web site.
+What we offer is information about the existence of a release, its size, and the corresponding NFO file. We do NOT help or encourage users to download or otherwise obtain any of the listed releases.
+Links to pages containing illicit copies of copyrighted works are strictly prohibited in user-generated content as well. This is constantly being monitored and enforced by our committed team of moderators.
+For any further questions, please do not hesitate to contact us by sending an e-mail to
+xrel *at* xrel *dot* to
+.
+Is that clear?
+Yes!
+|
+No!

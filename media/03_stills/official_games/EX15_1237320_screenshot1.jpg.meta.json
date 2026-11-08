@@ -1,0 +1,20 @@
+{
+  "id": "EX15_STEAM_1237320_screenshot1",
+  "task": "EX15",
+  "kind": "image",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_8ac5bfdc998b20e4a54ee27b68ef175f7cd9f1a9.1920x1080.jpg?t=1783493175",
+  "path": "media/03_stills/official_games/EX15_1237320_screenshot1.jpg",
+  "source_page": "https://store.steampowered.com/app/1237320/",
+  "title": "Sonic Frontiers",
+  "author": "Sonic Team",
+  "rights": "官方商店宣传素材；公开视频使用条件待确认",
+  "retrieved_at": "2026-11-08T04:43:49.332611+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_8ac5bfdc998b20e4a54ee27b68ef175f7cd9f1a9.1920x1080.jpg?t=1783493175",
+  "width": 1920,
+  "height": 1080,
+  "format": "JPEG",
+  "bytes": 694580,
+  "sha256": "0e189b6453ecd777ddf3da58ae76f91b1ede39e21906b004f367ea7418b4bd9c"
+}

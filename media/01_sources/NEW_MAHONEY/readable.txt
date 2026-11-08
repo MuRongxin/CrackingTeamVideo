@@ -1,0 +1,972 @@
+Pex "Mahoney" Tufvesson's homepage
+Last updated on 14 September 2026. Enjoy!
+Timeline
+2024
+April 2024: I was honoured the demoscene Oscars for Best Oldschool Production 2024 this weekend, together with my friends in Performers. We won the Meteoriks award - by taking an unmodified 42 year old home computer to the Next Level for making entertainment. I made a short remote speech, and it's not even the 1st of April today!
+10th of February 2024: I spent the weekend playing vintage computer music on a grand piano together with Linus "LFT" Åkesson doing the lead melodies on an unmodified Commodore 64 computer from 1982. Strange, and fun! Here's the video:
+2023
+June 2023: We won the X-party demo competition with the demo Next Level. In the video, my parts start at time 04:27:
+2021
+Released a keyboard macro tool for the Commodore 64 to record and replay keyboard sequences using the function keys. "Keyboard Macro Tool V1.0".
+2020
+Released a Commodore 64 SID song with the title "Wrong Kind of Young" at the Gubbdata party.
+2019
+29th of June 2019: I won the Wild demo competition at Gubbdata in Lund, Sweden, with the Commodore 64 tool "Nyheter" that can read online news from the internet from the four newspapers Aftonbladet, Svenska Dagbladet, VG and Aftenposten. Full articles with images. A description with full source code can be found here:
+Nyheter by Pex Mahoney Tufvesson
+.
+February 2019: Released the "
+They say so much
+" demo on the Commodore 64 platform at the Fjälldata 2019 party.
+2018
+3rd of November 2018: Made a tribute demo "C=bit 18" to the CeBit-99 Amiga demo together with my German friends in the demo group Performers.
+This demo got the third place at the bi-annual Olympic Games of Vintage Computer programming at X'2018 in the Netherlands. Read more about it at
+csdb.dk
+!
+3rd of August 2018: Held a 45-minute talk about Sounds of Gnome and His Master's Noise, two music disks I made together with friends in 1989 and 1991.
+2017
+2nd of September: Interviewed computer music legend Chris Hülsbeck on stage in Gothenburg. We had loads of fun while talking about his music.
+1st of September: Came second place in the Wild music competition at Datastorm. Made a tune with the Atari ST computer, the first Atari music I've ever made! The Atari ST uses the Yamaha YM2149F audio chip. The binary download you can use with the maxYMizer v1.33 is here:
+DATAUPP.SND
+, but if you want to listen to it with a little less vintage hassle, here's the mp3 version:
+Mahoney_-_Data_upp_och_data_ner.mp3
+11th of February 2017: Won the 4K Intro competition at Datastorm 2017 with my Commodore 64 intro "
+Belong
+".
+10th of February 2017: I held a 30-minute presentation about the Story of NoiseTracker at Datastorm 2017.
+2016
+30th of October 2016: Made the demo "Concert" together with a couple of friends, calling ourselves "Performers". We got the 4th place in the official world championship of Vintage programming among 21 entries. Get the demo
+here
+. Watch a nice capture from real 30-year-old Commodore 64 hardware here:
+And here's the live version, which I personally prefer, complete with audience reactions at the X'2016 party in Someren, the Netherlands:
+4th of September 2016: I made the Commodore 64 demo announcing Klas "Prowler" Benjaminsson's successful Kickstarter campaign for his coffe table book
+The masters of pixel art volume 2
+. It got funded with SEK 266,305 pledged of a SEK 130,000 goal. The demo can be found
+here
+.
+27th of March 2016: We are demo - winner in the oldskool demo compo at Revision 2016. In the video below, the demo starts at 26:13!
+Last part on the first disc is my sample part that uses 6.5-bit samples with an update frequency of 63kHz. With badlines and moving sprites. These samples are linearly interpolated with a compression factor of 5x, consuming 13kB per second. It's all 12 short samples, sequenced for a 30 second song. To achieve this, the 6510 cpu and VIC-II needs to be in perfect timed sync during more than 230000 clock cycles (12 frames at a time). The only "major updates" to the screen (switching sprite graphics and lighting the WE ARE DEMO-letters) is done during the very short silence right before a new sound is played. More details at
+CSDB
+.
+2015
+29th of March 2015 - Stereophonik, a 44.1kHz stereo sample song on Commodore 64. By retrofitting a second SID sound chip into the Commodore 64, it can play stereo sounds. And, it happens to be able to play 44.1kHz stereo samples as well! It's a world's first doing stereo samples on Commodore 64. More info at
+CSDB
+.
+28th of March 2015 - eat it - A 3-channel sample module composed and created for the Commodore 64. Find it at
+CSDB
+.
+28th of March 2015 - eat it - Amiga Noisetracker module. Exactly the same song was also part of the Amiga music competition.
+2014
+25th of October 2014: Released the full disk Commodore 64 demo "Bee Together" at X'2014.
+With this demo the SID 6581 version is preferred. SID 8580 works as well, but the vocoder parts will have lower volume due to technical reasons. The song in the demo is an original composition by me, and I hope you all feel bad about it, because you should! It features a 26kHz three-channel vocoder. It uses my self-invented d418+filter sample playing routine. It was implemented during 7 months, but with just some 50-60 hours coding time in total. More info can be found at
+CSDB
+.
+12th of April 2014: Released a Commodore 64 SID 8580 song called smold - Get it at
+csdb.dk
+.
+12th of April: Released a demo for the Vectrex game console, which won the demo competition at "Gubbahelg i Lund II". This beauty has a 9-inch vector display much like an oscilloscope, and was manufactured in 1982.
+If you're the happy owner of the real thing, download the demo binary here:
+very_vectight_by_Pex_Mahoney_Tufvesson
+(10kB).
+26th of February: I've gotten quite a few requests for the details on how to play 8-bit samples the way I do it in the Musik Run/Stop demo below. So, here's a paper on the technical details. I'll fix you a bunch of files to make it easier for you to do it yourself, but - patience, my friend! Here's the document, at least:
+Musik_RunStop_Technical_Details_by_Pex_Mahoney_Tufvesson_v2.pdf
+. If you want the full monty, here's a huge bunch of measurement files, the c64 measurement program with source code and the volume table building script written in Matlab. And loads of pre-made volume tables that you're free to use for anything. It's a 100MB download:
+Musik_RunStop_8-bit_sample_measurements_by_Pex_Mahoney_Tufvesson.zip
+. Do note that the 44.1kHz samples in the Musik Run/Stop demo were
+not
+quantized to 8-bits before quantizing them
+again
+to the available levels using this technique - it can be done smarter than that. For now, I'll leave out that part as an exercise for the interested reader. :)
+15th of February 2014: Released the world's first 44.1kHz 8-bit samples on the 32-year-old Commodore 64 computer. The demo is called "Musik Run/Stop". Here's the live recording from the release party Datastorm in Gothenburg, Sweden:
+As you might know, the Commodore 64 wasn't ment to play any samples at all, and various techniques has been invented to do it anyway. This is my own, brand new, technique which relies on analog imperfections in the filter implementation of the 6581/8580 SID chips, together with clever use of voice 3 enabled/disabled, voice routing and the 4-bit volume register. If you're not impressed yet, I'll tell you that there's CPU time for six assembly instructions to fetch and write the next sample.
+2013
+June 2013: Got interviewed for an upcoming book, and made a short list of some famous musicians that started their careers with my music program Noisetracker: Swedish House Mafia, Röyksopp, Antiloop, 666, Henrik B, Gustaf Grefberg, Holger Lagerfeldt, Bas Bron, Paradox, Aphrodite, Legowelt and Bjørn Lynne - to mention a few!
+February 2013: I won the music competition at the Datastorm party in Gothenburg with my c64 track "Monophono". This is an unmodified Commodore 64 computer playing the song, which contains a whole lot of high-tech that wasn't really invented yet back in the 1980'ies when the computer was manufactured!
+2012
+I made the video "The Illustrated Evolution of 3D graphics shading", an 11 minute long educational video describing the major milestones in 3d computer graphics from 1963 up until today. I've held a number of presentations around this subject, and here's the video:
+February 2012: Released the C64 demo "Fragment". It's a 50 frames-per-second 3d fragment shader running on an unmodified Commodore 64 computer.
+2011
+6th of August 2011: Released the Commodore 64 demo "storebror". This demo contains a cover of an Electric Banana Band song from the 80'ies, complete with singing, a 3-channel real-time vocoder and lyrics. There's a live recording of the releaseparty LCP 2011 at
+YouTube
+. Download the demo and the source code here:
+Storebror_by_Pex_Mahoney_Tufvesson
+.
+16th of February 2011: My demo Cubase64 was nominated "
+Best Technical Achievement 2010
+" for the Scene.org 9th annual awards. This in competition with all computer demos on all platforms released during the last year. This is the closest thing to an Oscar or a Pulitzer Prize a demo programmer can get!
+6th of February 2011: Release the Commodore 64 demo "Princess in the Kingdom of Subpixels" at Datastorm in Gothenburg, Sweden. Download it here:
+Princess in the kingdom of subpixels_- Mahoney
+.
+2010
+2nd of October 2010: Released the
+Cubase64
+demo. Presented at X'2010 in the Netherlands.
+There's a detailed description of this demo at the
+Cubase64 White Paper page
+. These audio effects are used: Time stretch, vocoder, auto-tune, sub bass, equalizer, echo, grungelizer, tube distortion, compressor, dithering and master gain. On a Commodore 64, real-time. Frequency range 20-15000Hz. Source code and demo:
+Cubase64_by_Pex_Mahoney_Tufvesson
+6th of February 2010: It is true, the Commodore 64 CAN SING! The Commodore 64 mp3-decoder is called
+c64mp3
+, and I, Mahoney, made it for the Datastorm event in Gothenburg. The download link contains the full demo and the source code for the encoder and decoder.
+The song chosen is "Tom's Diner" by Suzanne Vega.
+The Commodore 64 c64mp3 replay routine uses all the tricks in the book,
+in order to acheive the best sound quality possible:
+* The sound buffer is calculated in the stack, and it wraps
+* Jitter free sample playback, by using NMI IRQ vector pointing to $dd04
+* 8-bit sample output by using SID test bit for resetting oscillators
+* saving clock cycles by JMP $dd0c when exiting an NMI
+* Pitch tables? Good for module playback, but worthless for human voices
+* Dithering noise, to make quantization smoother
+* Phase-aligned wavetables with extracted formants
+* Full 8-bit interpolation between formants with 16 different volume ratios
+* 16 volume levels for resulting audio output
+* self-modifying code, of course
+* critical code run in Zero Page
+* ...while only ~15 assembly instructions per sample available
+* ...and still cpu-time left for a demo!
+The c64mp3 encoder uses some seriously advanced signal processing as well:
+* sub-sample pitch detection
+* auto-tuning into constant-pitch audio
+* formant extraction, sub-sample phase-alignment and normalization
+* formant cross correlation and selection
+* consonant detection and extraction
+* run-length encoding of data with _minimal_ unpacking overhead
+* requires 4GB of RAM and 500MB of hard drive space
+It is true, the Commodore 64 CAN SING! ...but it took some 28 years for it to learn! ;)
+Download the files here:
+c64mp3_by_Pex_Mahoney_Tufvesson.zip
+6th of February 2010:  Made a cute poetic bootblock called
+Love Data
+, for Amiga 500, and released it on the Datastorm event in Gothenburg.
+2006
+23th of September 2006. Held a concert with Commodore 64 songs, a cappella, in Stadshallen, Lund, Sweden. 350 people in the audience heard me and my a cappella group
+Visa Röster
+sing for instance Formula 1 Simulator, Bomb Jack and International Karate. Success!
+10th of September 2006: Released the C64-Remix "Ground (the fika mix) ". It features Italian Carlo "DHS" Demichelis on vocals. It is a tribute to European languages. Download and listen to it:
+Mahoney - Ground (the fika mix).mp3
+.
+1st of August 2006: I made the music for an advertising for Finnish bank company "Osuuspankki" that was aired on Finnish TV.
+The script and camera action was made by Henrik Tuominen.
+30th of July 2006: Released the C64-Remix "Robocop 3 (Gonna get you mad mix) ". This is a silly remix of an old but really good Commodore 64 song.  Download and listen to it:
+Mahoney - Robocop3 (Gonna make you mad mix).mp3
+.
+20th of July 2006: Corey made a conversion of my Amiga module "Blue Damage" for the Nintendo Entertainment System.
+Screenshot of the music player. You can download the files that can be run in a NES-emulator or with the real thing
+here
+.
+16th of June 2006: I took a photo that appeared in the console game "Hitman 2, Blood money". In the middle of the game, there is a newspaper with the headline "Press Play on Tape rocks, the Commodore 64 revival band gets a major breakthrough in the US".
+3rd of March 2006: Johan Rijpma created the Music Video to my Boulderdash remix. It's a fancy story about a robot, and you can download the video here:
+mahoney.c64.org_-_Boulderdash_video.wmv
+. I just love this video!
+If you only want  the music, grab it here:
+Mahoney - Boulderdash (Commodore 69 mix).mp3
+18th of February 2006: Released the demo "Exit" on the Commodore 64. It's a disk demo that tells a story about life with road signs. Music was done by Peter 'Yodelking' Sandén and UL-Tomten. Download the disk here:
+Exit_by_Mahoney_d64_18feb2006.zip
+, or if you want the full source code grab the 7MB zip file here:
+Exit_by_Mahoney_18feb2006.zip
+.
+The first screen, a little logo.
+The first part of the story.
+Full screen stretching text.
+And a full screen stretching Star Wars scroller!
+Erasing the screen in a novel sideborder way!
+What's life without pleasure?
+A scrolling linedrawing routine.
+And some jumping sine plotters!
+I've always wanted a toy train in the side border. And now I have one!
+More lines, more fun!
+Greetings and end scroller part. I guess I missed some people... sorry for that!
+2005
+5th of November 2005: Visa Röster, the a cappella group that I'm a member of, performed at
+We performed a 40 minute show with loads of great Commodore 64 songs, a cappella. Reviews can be read in the guestbook at
+http://www.livet.se/visa
+.
+5th of November 2005: I've made a new CD. Together with my friends in Visa Röster, the album "READY. Vocally too" is completed.
+This is THE album for you retro music fans. With 18 well-known Commodore 64 game tunes, almost 70 minutes of a cappella and vocal glory. If you've ever played games such as Commando, Bomb Jack, Delta, Rambo, Wizball, M.U.L.E., Thrust, Roland's Rat Race, Caverns of Khafka, Formula 1 Simulator, Fairlight, Zoids, Thanatos or Last Ninja 3 - then this CD is for you.
+With the help of award-winning remixers Makke, Larsec, Sumppi, DHS, O2 and Mahoney, not only the a cappella parts of the album but also the second half with vocals and instruments is candy for your ears.
+The CD is for sale (it's free!) from Visa Röster's web site
+http://www.livet.se/visa
+.
+2004
+15th of December 2004: I've now webified my proverb collection. It's in Swedish,
+  and if you can understand this lovely language, go ahead and  visit Livets
+  ordspråk at
+ordspråk och citat
+.
+30th of September 2004: The CD *** Commodore 64 *** Vocally is now completed,
+  and you can order your copy of it at Visa Röster's homepage
+http://www.livet.se/visa
+.
+  The CD features 13 tracks, including a live version of Spy vs. Spy recorded
+  at BitLive in London, on the 11th of September 2004.
+The songs recorded on *** Commodore 64 *** Vocally are:
+International Karate / Rob Hubbard
+Human Race, subtune 4 / Rob Hubbard
+Think Cross / Markus Schneider
+Mermaid Madness / Fred Gray
+Shamus Case II
+Black Lamp, subtune 3 / Tim Follin
+Think Twice III / Jeroen 'Red' Kimmel
+Armageddon Man / David Whittaker
+Sweet / Johannes Bjerregård
+Comic Bakery / Martin Galway
+Task III / Frank Endler
+Breakdance / Beck-Tech and Tony Ngo
+Spy vs. Spy® (Live! at BitLive 2004 in London)
+Some of these songs can be downloaded for free from the download page at this
+  website - but if you want them in full CD-quality glory, then please order
+  your CD from the
+Visa Röster
+homepage.
+11th of September 2004: I did a 40 minutes performance at BitLive in London.
+  Me and my friends in
+Visa
+  Röster
+sang old Commodore 64 tunes, a cappella in front of 200 people at
+St Luke's in London.
+10th of July 2004: The CD "Vokalmusik på svenska" by Visa Röster
+  is complete. More information about this can be found at
+http://www.livet.se/visa
+9th of March 2004: Made a 1-hour radio show  featuring interviews
+      with Karin Öjehagen and Elsa Persson. It also featured live a cappella
+      music, live jingles and a lot of remixes of computer music. The show was
+    broadcast on Slay Radio on the 9th of March 2004 CET 19:00-20:00. You can
+      download the complete show here:
+SLAY
+      radio - Pex 'Mahoney' - a special show for you.mp3
+2nd of March 2004: I just want to show you those letters that I've received
+  throughout the years. I removed the envelopes and disks, and only saved the
+  letters. Thanks to all of you that have written them, it was a strange feeling
+  being 14 years old and receiving fan mail from all over the world, Australia, South
+  Africa, UK, Germany, France, and a lot of more countries! I'm sorry that I
+  didn't have the time or money to reply to you all...
+1 meter of snail-mail sent to Pex 'Mahoney' Tufvesson during the time 1988-2004.
+Most of the letters were received around 1991.
+17th of February 2004: Released the C64-Remix "Sweet (feat. Elsa & Karin)",
+  which is a full symphony orchestration with narration and choir! Markus Schneider
+  made the orchestration, and I did the voices and the mastering. Download:
+Markus
+  Schneider & Mahoney - Sweet (feat. Elsa & Karin).mp3
+. Read more about the song
+here
+.
+28th of January 2004: Recorded the vocals for a Carsten "O2"-C64Remix
+  of "Comic Bakery". Hanna Kappelin did the singing, and Carsten did
+  the music. Marcel Donné did the mastering of this tune, and you can
+  download it here:
+o2 & Marcel & Mahoney
+  - C64 Comic Bakery (feat. Hanna Kappelin & Morpheus).mp3
+2003
+8th of November 2003: I married Melina Ejeson, in a lovely wedding with a
+  lot of friends as guests! We are now Mr and Mrs Tufvesson! Melina runs www.livet.se,
+  a site about
+Mental
+  Träning
+(in Swedish only).
+22nd of September 2003: Gave an interview for Andreas Wallström at
+http://www.c64hq.com
+. 
+  You can read the interview
+here
+.
+13th of September 2003: Was voted "Breakdancer of the year at Bit Live, Brighton
+  2003". Together with remixer Markus "Makke" Nilsson and Peter "Yodelking" Sandén,
+  we performed an a cappella version of Epyx game "Breakdance". This, to my surprise,
+  was not the winning entry, but Yodelking's and my horrible dance-attempts!
+  The prize? A commodore-64, signed by Martin Galway, Rob Hubbard, Ben Daglish
+  and a few more legends. If you want to see it, give Peter Sandén a call!
+13th of September 2003: Released the "BitLive4-demo", to be shown 
+  in the middle of a rock concert with Press Play On Tape, Rob Hubbard and Ben 
+  Daglish in Brighton, UK. This is a megademo with 13 parts using 62kB of the 
+  64kB memory space of a Commodore 64 computer. This was "programming 80'ies 
+  computers with 21st century tools". Gosh, I wish I had those tools back
+  in 1985! Download the beauty, complete with source code, here:
+Mahoney-BitLive4demo_13sept2003.zip
+. 
+  You'll need an emulator such as WinVice1.12 or CCS64 2.0 to look at it.
+The "loading" screen.
+A multiplexed spritescroller in the border.
+Filling the screen with stretching text.
+Hires graphics filling the screen and the border.
+Press Play On Tape, Ben Daglish and Rob Hubbard.
+This effect was done by changing the background colour of the screen only. No 
+  character, no sprites, nothing else than extreme timing of the processor and 
+  the TV display!
+Hires graphics in the border
+Bouncing sprites in over the whole screen, and in the border as well!
+A picture of me when I was young(er)!
+Wobbling text filling the screen, nice and slow!
+My favourite sticker, "be happy although you're Swedish!".
+More of that stretched text filling the screen!
+The end credits.
+And last but not least, the greetings!
+Recorded the vocals for Rafael Dyll's remix of "Giana Sisters" featured 
+  on the Remix64 vol2 CD. Karin Öjehagen did the singing. You can download 
+  the
+preview-clip
+, 
+  and read more about it
+at 
+  the remix64.com website
+. They want you to buy the CD, of course...!
+29th of May 2003: Released the C64-Remix
+Rauli 
+  & Mahoney - Biggles (fly with your brain propeller).mp3
+. This is a remix 
+  of a tune from the C64-game Biggles. It was done together with Rauli, who I 
+  met in Malmö. Read listeners' reviews
+here
+.
+20th of April 2003: Released the C64-Remix
+Miss 
+  ParkPatrol takes a Break (feat.Elsa Persson).mp3
+. This is a combination 
+  of game tunes from "Breakdance" and "Park Patrol". The vocals 
+  were sung by Elsa Persson, some people say she sings like "Björk", 
+  especially at the very end of the tune! Read listeners' reviews
+here
+.
+February 2003: Started working for a company called "Business Security 
+  AB", making hardware/FPGA/ASIC for internet encryption devices.
+1st of January 2003: Pex "Mahoney" Tufvesson got the title "Remixer 
+  of the year 2002" by the voters at
+www.remix64.com
+. 
+  Which means the best Commodore 64-remixer in the world 2002!
+2002
+5th of December 2002: Released the C64-Remix
+Black 
+  Lamp subtune 1 (codename whistler).mp3
+. Read listeners' reviews
+here
+.
+2nd of November 2002: Released the C64-Remix
+Task 
+  III (Hum along with the task).mp3
+, a remix that I done together with Kent 
+  "Trace" Wallden. Hanna Kappelin, Sofia Åberg and Karin Öjehagen 
+  are doing the female vocals. Read listeners' reviews
+here
+.
+16th of August 2002: Released the C64-Remix
+Armageddon 
+  Man (Vocal Jazz feat. Karin Öjehagen).mp3
+, rated as one of the very best 
+  C64-remixes ever made by the voters at
+www.remix64.com
+. 
+  Read listeners' reviews
+here
+.
+12th of August 2002: Wrote a part of the FAQ at www.remix64.com. The title 
+  is "Recording vocals while still having fun". Read it
+there
+, 
+  or read my local copy of it
+here
+.
+24th of July 2002: Released the C64-Remix
+M.U.L.E 
+  (Aerobics in the jungle mix).mp3
+. Read listeners' reviews
+here
+.
+7th of July 2002: Released the C64-Remix
+Dark 
+  Tower (Oktoberfest mix).mp3
+. Read listeners' reviews
+here
+.
+24th of February 2002: Released the C64-Remix
+Rhaa 
+  Lovely II (Mr Jones at the P-Machinery).mp3
+. This is a remix done in the 
+  style of Howard Jones and Propaganda, together with some singing by the Swedish 
+  Chef from the Muppet Show! Read listeners' reviews
+here
+.
+1st of January 2002: Released the C64-Remix
+Rambo 
+  and Bombo on Impossible Mission (unplugged).mp3
+. Read listeners' reviews
+here
+.
+2001
+31st of December 2001: Released the C64-Remix
+Mahoney 
+  - BoulderDash (Commodore 69 mix).mp3
+. Read listeners' reviews
+here
+.
+14th of November 2001: Released the C64-Remix
+Black 
+  Lamp subtune 3 (Vocal Quartet).mp3
+. The four persons singing live are Matilda 
+  Wade, Sofia Carlsson, Pex Tufvesson and Joakim Nordqvist. Read listeners' reviews
+here
+.
+26th of September 2001: Gave an interview for Remix 64. Read the interview 
+  at
+www.remix64.com
+, 
+  or read my local copy of it
+here
+.
+19th of September 2001: Released the C64-Remix
+Lightforce 
+(Motorhead-mix à la Ollas).mp3
+. Read listeners' reviews
+here
+.
+This is how my recording studio looked like in July 2001:
+24th of July 2001: Released the C64-Remix
+Spellbound 
+  - Swing mix v2.mp3
+. If your feet doesn't stomp, then the problem is you! 
+  Read listeners' reviews
+here
+.
+13th of June 2001: Released the C64-Remix
+Sanxion 
+  (Spandau Ballet mix).mp3
+. Read listeners' reviews
+here
+.
+30th of May 2001: Released the C64-Remix
+Shamus 
+  Case II (a capella mix).mp3
+. It is actually exactly the same song as the 
+  first track on the "Sjönhet" a cappella CD "Får jag 
+  bada i din...". Read listeners' reviews
+here
+.
+2000
+Released the 10-track a cappella CD "Får jag bada i din..." 
+  with the group "Sjönhet". I was the sound engineer, composer 
+  and sang the tenor parts.The website can still be seen at
+http://www.livet.se/sjonhet
+(in Swedish only)
+18th of June 2000: Made the unreleased "Bouncing Man" demo for the 
+  win32-platform. The demo was made on a PentiumIII 500MHz. This should be running 
+  fine on winNT, win98, win2k and winXP. I threw in the source code for you also, 
+  but I doubt that you'll ever want to look at it! Download here:
+Mahoney_win32-bouncing-man-demo_18thJune2000.zip
+(780kB with source code).
+28th of February 2000: Sang with the 32-person Academic Choir of Lund in an 
+  international competition in Rome, Italy. Besides bed-bugs, we also got a nice 
+  "gold" medal!
+16th-20th of January 2000: Attended the RSA-conference in San Jose McEnery 
+  Convention Center, USA. This was all about cryptography and security.
+1999
+Started working for Precise Biometrics AB, developing a stand-alone fingerprint 
+  identification unit measuring 1,5*1,5*0,4cm.
+22nd of June 1999: Formed the vocal group "Sjönhet" and started 
+  recording an a cappella CD called "Får jag bada i din...". Josefin 
+  Hjelm, Maria Henningson, Pex Tufvesson, Andreas Nilsson and Tobias Fjälling 
+  were the members in this group.
+11th of May 1999: Started working for Ericsson Mobile Communications AB in 
+  Lund, doing ASIC development and specification writing for the 3rd generation 
+  mobile phones, the WCDMA, wideband CDMA-phones. Also called UMTS, or just 3G 
+  nowadays.
+5th of May 1999: Moved "back" to Lund, Sweden.
+18th of April 1999: Programmed the Nintendo64, making a video presentation 
+  of "Vokalas", the 12-persons a cappella group that I was singing with. 
+  My role was to sing tenor/percussion, and we were elected "Best Norwegian 
+  Vocal Ensemble 1998-1999" in October 1998. Emulators for the Nintendo64 
+  includes "project64" and "mupen", but none of them are able 
+  to correctly emulate the demo. You'll have to use a "Doctor64jr" cartridge 
+  emulator inserted into the parallell port of the PC and also into a real Nintendo64 
+  game console. Download the demo here:
+Mahoney_Nintendo64-Vokalas_demo_14apr1999.zip
+(740kB)
+This part was shown 20 minutes before the start of the show. Notice the "19:57" 
+  timer countdown! It features photos of all persons in the show, a 3D-scrolling 
+  messages, a stretching Vokalas-logo. One second later after this screenshot 
+  was taken, the Project64-emulator crashes, so unfortunately I could not make 
+  any more screenshots than this one! The colours of the 3D letters are also wrong.
+This was the "show is over - credits" roll, showing on stage after 
+  the show - which songs we sung, and all credits for the show. The funniest thing 
+  about this show was a conversation I overheard in the audience. It was something 
+  about "Is it done with powerpoint?" - "How did they do that?". 
+  I was just smiling!
+Vokalas - "Best Norwegian Vocal Ensemble 1998-1999". I'm the fourth 
+  from the left! The concert was held in the "John Dee Pub" in central 
+  Oslo, where we filled the club two nights in a row, with 400 persons in the 
+  audience!
+1998
+19th of October 1998: Gave an interview for Trevor Lake, Majic Mushroom / Tesko, 
+  www.scentral.demon.co.uk. You can read it
+here
+.
+3rd of October 1998: Recorded the vocal part of "Proud Mary" for 
+  a cover version in my home studio in Oslo. Nice country vibe in that one!
+6th of August 1998: Made the unreleased "Tunnel Demo" for the win32-platform. 
+  The demo was made on a PentiumPro 200MHz. This should be running fine on winNT, 
+  win98, win2k and winXP. I threw in the source code for you also, but I doubt 
+  that you'll ever want to look at it! Download here:
+Mahoney_win32-tunnel-demo_6thAugust1998.zip
+(560kB with source code).
+20th of March 1998: Gave an interview for "In Medias Res". You can 
+  read
+my copy 
+  of it
+, or goto the
+In Medias 
+  Res website
+.
+11th of January 1998: Was accepted as a new member of the Norwegian 12-person 
+  vocal ensemble "Vokalas", as a stand-in for Jarle that moved to India 
+  for half a year. I sang the tenor/percussion parts.
+1997
+10th of November 1997: Moved to Oslo, Norway and started working for Nordic 
+  VLSI ASA as a VLSI chip engineer.
+25th of August 1997: Graduated as Master of Science, Electrical Engineering 
+  from LTH, Sweden.
+6th of May 1997: I was the sound engineer for a live-CD recorded by the LTH 
+  Choir. I also made the booklet design for the CD! Photos by Andreas Nilsson, 
+  a friend of mine!
+The booklet. Yummy!
+The inlay card. Sunset photograph taken by Erik Westesson.
+3rd of March 1997: Started on my Master's Thesis at Ericsson Mobile Communications.
+10th of April 1997: Released the CD "Musik fram till nu", a compilation
+   of music I made during the years 1990-1994 with synthesizers and a Macintosh. You
+   can download the complete CD from the download section!
+The booklet. The bear was drawn by me with four ballpoint pens, red, green, 
+  blue and black!
+The inlay card
+1996
+1st of August 1996: Built a telephone that used a handsfree-kit from an Ericsson 
+  mobile phone. Now I could use handsfree with my normal phone! The ring signal 
+  was the "Hemglass" tune. It was done with a PIC16C84 for controlling 
+  the call, and a special separate PIC16C84 just for flashing with the LEDs!
+1995
+1st of August 1995: Continued on the book "Språkets Kryddor", 
+  which now was a collection of 11000 contemporary Swedish proverbs. The "final" result of the book can be found at these websites about
+ordspr?
+,
+ordtak
+,
+ordsprog
+and
+proverb
+. And, there's a bonus website about
+citat
+.
+8th of July 1995: Was the speaker at a summer-swimming club graduation event.
+12th of June 1995: Built a "look who's calling"-machine that would 
+  identify all my friends when they were calling. This meant that I would only 
+  answer the phone at my parents place when someone I knew rang up!
+19th of May 1995: Built the "Marvin" robot. This was a fun project 
+  with custom built hardware, as part of a course at the Lund Institute of Technology. 
+  Download the source files here:
+PexTufvesson 
+  - Marvin_HC11_robot.zip
+. This was a robot running on the floor at approximately 
+  5cm/second, that would avoid running into walls and furniture, while following 
+  light or darkness. It could also be controlled with a VCR remote control, and 
+  a port of the Commodore 64 game "Dare Devil Dennis" could be played 
+  on a 2*20 character graphical display using the remote control while the robot 
+  is moving by itself!
+9th January 1995 - 1997: Worked as a private mathematics teacher.
+1994
+11th of May 1994: The LTH-choir's first TV appearance at the "Kårhusinvigningen" 
+  in Lund, the official ceremony of a newly built student union house.
+8th of May 1994: Recorded the two songs "Dig jag vill åt" and 
+  "Teknologlåt" in the recording studio "Köket" 
+  in Staffanstorp, Sweden. Anja Morell did the singing, and Annette Kiss and
+  I  did some rapping! The "Teknologlåt" was a song about how
+  lovely  life was at the Lund Institute of Technology, where I got my Master
+  of Science  in Electrical Engineering. You can download the songs here:
+Pex
+  Mahoney Tufvesson - Dig jag vill åt.mp3
+and
+Pex
+  Mahoney Tufvesson - Teknolog.mp3
+20th of March 1994: I was part of forming the LTH-choir.
+1993
+30th of November 1993: Won the Lund University Swimming Championship in the 
+  100 meters breaststroke event. Got the second place on the 50 meters backstroke 
+  event!
+I wrote the book "Språkets Kryddor", filled with 6000 proverbs 
+  in Swedish, as an essay and final exam in school.
+1992
+6th of May 1992: Made the sound effects and was the sound engineer for the 
+  variety show "Hjalmar Kraft" in the Polhemskolan Pex. The actors later 
+  became the Swedish-TV-famous "Varanteatern", also know as "Tyskarna 
+  från Lund". The sound effects were played by an Amiga500 with a custom 
+  made version of NoiseTracker v2.0.
+1991
+11th of November 1991: I sold my Amiga500 and bought a water bed.
+31st of September 1991: Released "His Master's Noise", Musicdisk 
+  5 for Amiga500. This was a collection of over 100 songs, made by 22 composers 
+  on two disks. Download the disk images here:
+Mahoney 
+  & Kaktus - His Masters Noise.zip
+. Download the sourcecode here:
+Mahoney_Amiga500_sourcecode_collection_6thOct2003.zip
+.
+Easter egg #1: Press Help to get a help screen.
+Easter egg #2: Type "train" on the keyboard, and a train will 
+    pass in the bottom part of the screen.
+Easter egg #3: Type "love" on the keyboard, and you can read a 
+    nice poem.
+Easter egg #4: type "fuck", and granny will take care of you.
+Easter egg #5: Type "mahoney", and you'll get a picture of me!
+Easter egg #6: Type "kaktus", and you'll get an extreme close-up 
+    of Kaktus' face. I should say those glasses are rather "old skool"!
+Easter egg #7: There are a lot of birthdays put into the demo, if your expansion 
+    memory has a calendar/clock. Friday the 13th and Christmas is also in there.
+Easter egg #8: At midnight (24:00), granny comes and tells you to go to 
+    bed and beware of nightly creatures!
+If you want to get hold of all
+  of the modules from His Master's Noise then
+you should download these two zip files:
+Mahoney_complete_mod-collection_14thOct2006.zip
+and
+Mahoney_HisMastersNoise_tunes_by_others_15thApril2004.zip
+.
+This is a 12MB download, so have patience!
+Mahoney&Kaktus logotype by UNO/Scoopex
+His Master's Noise logotype by COMA
+Screenshot from the main screen of His Master's Noise.
+One of the silly features of HMV, just press the Help key!
+The reset part, with a rolling "ball".
+10th of May 1991: Finished "His Master's NoiseTracker", the music 
+  program specially made for making music to His Master's Noise, the Mahoney & 
+  Kaktus musicdisk 5. Download the full sourcecode and development floppy disk 
+  here:
+HisMastersNoiseTracker_source.zip
+. 
+  This program was not ment to be spread to the public, and since the only way 
+  to save a song was in my "top secret very special" song-format, this 
+  program was of little use to anything else than His Master's Noise!
+The splash screen.
+Editing "chipsounds", 32 waveforms with fully customizable volume 
+  and waveform selection. These sounds were loopable as well. The other buttons 
+  are some of the hi-tech features of His Master's Noise: From a standard set 
+  of samples, you could calculate filters, pitch shift, fades, mix samples, calculate 
+  chords with samples and mute parts of sample. This is what made all the His 
+  Master's Noise tunes so varied and different from each other! I know that Exolon 
+  of Fairlight got hold of this version of the NoiseTracker and then later implemented 
+  the "calculate chord from single sample" into his StarTrekker.
+Do you want to quit?
+1990
+Summer, 1990: Made the "Lightforce" Amiga module. It is a direct conversion of Rob Hubbard's excellent Commodore 64 song from the game Lightforce. It is part of my complete Mod collection which can be found in the download section.
+7th of April 1990: NoiseTracker v2.0 demo got the 6th place in the demo competition 
+  at the copy party in Gothenburg. Download it together with NoiseTracker v2.0 
+  below!
+The scrolltext features a poetry section! You can control the background by 
+  moving the mouse. Don't miss to look at the "end" of the demo after 
+  you've pressed the left mouse button! Easter egg #1: Type "hallon" 
+  on the keyboard, and you'll get a chemical analysis of a strawberry. Easter 
+  egg #2: Type "muffins" and you'll get instructions how to bake nice 
+  cakes! Easter egg #3: Type "melon" for some trivia about Kaktus' 28th 
+  birthday. Easter egg #4: Type "light" for some physical facts about 
+  light. Easter egg #5: Type "bbs" to get the phone numbers to former 
+  NorthStar BBS'es.
+Here's the tune from the demo:
+4th of April 1990: Released the NoiseTracker v2.0 music program. Download the 
+  disk image here:
+Mahoney 
+  & Kaktus - NoiseTracker_v20.zip
+Easter egg #1: In NoiseTracker v2.0, try typing "hallonsoft" on 
+  the keyboard. You'll get a nice splash-screen with a HallonSoft-logotype. Easter 
+  egg #2: When loading modules with one of these four-byte marks "M&K!", 
+  "glue" or "X:-K", you'll get some black sprites passing 
+  the screen. M&K! will send a train on the screen. Glue will make the lettters 
+  g l u e pass the screen, and "X:-K" is actually "Exolon" 
+  if you twist it a little bit, ":" in swedish is called "Kolon", 
+  and if you subtract the K out of that, you'll get Exolon (of Fairlight), which 
+  is the Handle of Björn Wesén, a friend of mine that later made StarTrekker, 
+  an 8-channel tracker.
+The Easter egg #1, part of screenshot.
+And here's someone I don't know playing a song with Noisetracker 2.0:
+1989
+Released the demo disk "Svårsaltade chips" under the pseudonym 
+  Gommolassmot3.0 of MeGaKLopPaRNa. Download it here:
+MeGAkLoPpaRNa 
+  - SvårsaltadeChips.zip
+These demos were deliberately ugly and weird. Gluemaster 
+  called himself "Myggtasken", and Kaktus used the name "Chrysanthemum". 
+  Here are a few screenshots:
+Glassdemu
+Hajjtesch
+Hjuldemu
+Juldemu
+Zynchkdemu
+Released the demo "Hallonsaft" by Mahoney & Kaktus. The music 
+  is a mix of pouring water, metal hitting metal, accelerating farmer vehicles, 
+  explosions and other noises. There's no melody or bassline in the music. Download 
+  it here:
+Mahoney 
+  & Kaktus - Hallonsaft.zip
+7th of August 1989: Released "NoiseTracker v1.1".
+1st of August 1989: Released "NoiseTracker v1.0". A music program 
+  dedicated to the Art of Noise.
+July 1989: Released "NitroPac" the day before NoiseTracker v1.0. 
+  This intro was made for the NorthStar & Silents disk magazine "Exceller#8 
+  no. 5". Download it here:
+Mahoney 
+  & Kaktus - NitroPac.zip
+(673kB, quite strange since the demo itself is only 
+  117kB, but that's probably something with the adf-format?). A bouncing scroller 
+  with a real fun competition by Kaktus, and exploding pacmans everywhere. Crying 
+  children and explosives - how much more can you handle? There's an included 
+  easter-egg in it: Typing "Hallonsoft" on the keyboard will make a 
+  black smiling face show up in the lower right corner of the screen!
+17th of April 1989: Released "Sounds of Gnome", musicdisk II. A Musicdisk 
+  with a lot of tunes by Mahoney, Kaktus, Gluemaster and Spexhane. Download it
+Mahoney & Kaktus 
+  - SoundsOfGnome.adf
+for emulation with WinUae. This musicdisk took four 
+  months to complete, with a total of six man-month's of work.
+Easter egg #1: Hold right mousebutton while booting, and you'll see the 
+    demo "Funny" - screenshots further down in this text!
+Easter egg #2: Type "address" on the keyboard to see Mahoney's, 
+    Kaktus' and Gluemaster's addresses. They are "rather" obsolete now.
+Easter egg #3: Try clicking on the pacman.
+Easter egg #4: Type "train" on the keyboard, and a black train 
+    will pass in the background.
+Easter egg #5: Press tab on the keyboard and the sidescrolling squares will 
+    switch direction.
+Easter egg #6: There is a black smiley just to the right of the upper waveform 
+    displayer.
+Easter egg #7: Pressing Enter on the numeric keyboard will make the tunelist 
+    bounce.
+Easter egg #8: Type "mahoney" on the keyboard to load a secret 
+    tune "moneybrain", which is a cover of "If I were a rich man".
+Easter egg #9: Type "kaktus" to load another secret tune "Fyren 
+    Elsa", Kaktus' excellent interpretation of Für Elise.
+Easter egg #10: Type "spexhane" on the keyboard to load the last 
+    hidden tune "pimpf", a Depeche Mode cover.
+Easter egg #11: In silence mode (which you get by pressing space), you can 
+    play the boing sound by pressing the keys just to the left of the numeric 
+    keyboard.
+Easter egg #12: Press the two timers and they will flash briefly.
+Easter egg #13: After 20 minutes or so, the green sidescrolling things will 
+    turn yellow.
+Easter egg #14: Type "yankee" on the keyboard, and the thing will 
+    reset.
+The loading part has a pretty face!
+Screenshot of the main part. Note that the red "ball" in the Main 
+  screen above has some garbage underneath it (you'll find it at the very left 
+  edge of the screen). This is an emulation bug. The fact is due to that I use 
+  a wider screen that allowed, cutting of the DMA-access of the sprites, making 
+  this ball only use one colour, compared to the normal 3. Worked like a charm 
+  on the real Amiga 500, but no emulators today handle this "feature" 
+  - features that I constantly used in all demos to maximise the use of the hardware.
+Screenshot of the reset part.
+Released "Funny"
+Screenshot.
+February 1989: Released the "Exceller 8 #2"-intro. This was a disk 
+  magazine by NorthStar, and this was the official intro to it. It features two 
+  looong scrolltexts about the history of Mahoney & Kaktus. Download it here:
+NorthStar 
+  - Exceller8-2.zip
+Released NorthStar & Fairlight MegaDemo III. Download the two disks here:
+NorthStar 
+  & Fairlight - MegaDemoIII_fixed.zip
+The loader part.
+"Blue" was finished 14 days after I bought my Amiga500.
+"Bobby" - featuring a nice disco beat and flashing colours. This part 
+  was finished on the 3rd of October 1988.
+The unofficial intro to "Flummy".
+Scrolly 2. "We interrupt this program to bring you a special news bulletin. 
+  The landing of hundreds of unidentified space crafts has now been officially 
+  confirmed as a full scale invasion of earth by martians". I love this!
+Scrolly 2. The music is a man and a woman screaming in horror.
+Here's a 1-hour long video clip with the whole thing:
+Released the last Mahoney & Kaktus C64-demodisk "Skruv". Download 
+  it here:
+Mahoney & 
+  Kaktus - Skruv.d64
+Double-digi-part, played two samples at a time, drums and voices!
+A slimy scroll!
+A huge wobbling scroll in the sideborder.
+Typewriter mania!
+The very last part, ever. A lot of greetings and double-line scrolling! Easter 
+  egg #1: Press and hold all the keys "mahoney" on your keyboard at 
+  the same time, and you'll hear a "Pump up the volume"-sampling! Easter 
+  egg #2: Press and hold all the keys "kaktus" on your keyboard at the 
+  same time, and you'll hear a "Pump up the volume"-sampling, backwards! 
+  These two easter eggs might not work on you emulator, they are not that good 
+  at emulating keyboard scanning! ;)
+1988
+4th of November 1988: Released Mahoney & Kaktus Musicdisk1. Download it 
+  here:
+Mahoney 
+  & Kaktus - Musicdisk1.zip
+. God, I love these colours, brown, red and yellow. 
+  Style?
+A very long and funny scroller, together with music far beyond normal computer 
+  music. Take "Death & horor", for instance. Or "Ghost", 
+  my very first Ghosts'n Goblins remix!
+Released the Mahoney & Kaktus C64-demodisk "AlvestaSirap 88". 
+  Download it here:
+Mahoney 
+  & Kaktus - AlvestaSirap88.d64
+The first part of AlvestaSirap 88.
+A dycp-variation scroller.
+A scroller going into the mouth and out the nose. Well, nothing wrong with using 
+  animal anathomy for fun as long as you don't hurt them?
+Scrollers everywhere!
+The last part of AlvestaSirap 88.
+4th of May 1988: I never released the music program "Zupermon",
+  but it was a music program that could play 2 samples at a time. I made a few
+  songs with it, but that's all. No fun when absolutely all processing power
+  of the Commodore 64 was locked up for playing music only!
+The loading screen. "Don't spread, etc..."
+The editor. Yes, you might recognize it from somewhere else. I just made the
+  sample-playing part and added that to Chris Hüelsbeck's musicmaster.
+6th of March 1988: Released the demo "Meeting demo -88" for the group Triumph
+  on the Commodore 64. It features some music I've made myself, and a lot of
+  bullshit scrolltexts by the funny guys that were present on that meeting!
+The intro, made with my "intromaker"!
+The demo, simple and nice, if it weren't for all the shit that was written
+  by the other guys at the meeting. Anyway, it's fun reading, but remember to
+  turn off your brain first!
+16th of February 1988: Released the demo "Gnarp!" for the group Triumph 
+  on the Commodore 64.
+The intro.
+A spinning rasterbar.
+A world record! This was the largest scroller in the world on the Commodore
+   64. There isn't a single pixel on the screen that wasn't used on my TV,
+  I had to manually "desync" my television set to inspect the "out-of-screen"
+  pixel rows!. Although I knew nothing about a group called The Supply Team
+  at that time, this scroller is one sprite higher (another 21 pixels) than their
+  scroller in the "no limits"-demo programmed by Kaze in February 1987.
+A scroller with letters spinning around!
+The last part with the greetings!
+Here's a video clip with the whole Gnarp demo:
+24th of January 1988: Released the demo "New Dimension" on the Commodore 
+  64. It featured drums sampled from the Art of Noise and a resizing scroller.
+Mahoney & Kaktus was formed.
+1988: Released the "CP-demo V".
+The intro.
+A scroll, moving in all directions, and music with samples from "Sesame Street".
+Crazy, that's for sure!
+16th of January 1988: Released the "Brain-Burner"-demo.
+1988: Released the demo "Wonderful".
+January 1988: Released the demo "Very Short".
+The music is from the TV-series "Macken" made by Galenskaparna/After-Shave,
+  a song that is called "I ditt bagage".
+1987
+31st of December 1987 23:59: Released the "Last in -87"-demo for 
+  Defiers on the Commodore 64.
+30th of December 1987: Released the "CP-demo IV" for Defiers on the 
+  Commodore 64.
+23rd of December 1987: Released the "Greetings"-demo.
+21st of December 1987: Released the "Gyrobanter"-demo. Nothing special,
+    just a few tech-tech scrollers!
+19th of December 1987: Released the "Incredible!"-demo for Defiers 
+  on the Commodore 64. Kaktus was now a member of Defiers, but still he used his 
+  old handle "TDO", the dark overlord.
+12th of December 1987: Released the "Zoolook" demo:
+The first part, with a lot of plotted dots and a zooming square.
+The second part, with digitized sounds (Jean Michelle Jarre's Zoolook), and a
+lot of scrollers!
+1987: Released "Just a mix", with music that I did together with Jesper "Spexhane"
+  Johansson.
+Two scrollers, bouncing and overlapping.
+1987: Released the demo "Quite Usual". Yes, it did have something to do with
+  "Quite unusual", a tune I listened to a lot those days!
+1987: Released the demo "My scrolls".
+13th of November 1987: Released the demo "Just a laugh", with some music I
+  made myself.
+1987: Released the "CP-demo III".
+The intro. The main part was a lot of funny samples, car noises, and such. Well,
+different at least!
+1987: Released the "Digi-Demo 19".
+The tune, which was all that this demo was about, was done with my music-program
+"Digi-Monitor v1.0". Sid-sounds and sampled drums!
+The demo. Note the white man peeking in at the right border!
+1987: Released the demo "The Mirror". A very large scroller, in the wrong
+  direction. And some nice music!
+1987: Released the "CP-demo II".
+This is the intro.
+And this is the lovely image, accompanied with Markus "Parrot" Nelson's and my
+voices: "CP-demo två, hihihi, ett jättefint demu-hu-ha-ha. Med samplade
+voisar!". All going in an endless loop. Very funny!
+6th of September 1987: Released the "Contact demo" for Defiers on
+  the Commodore 64.
+Met Anders "Kaktus" Berkeman for the first time.
+1987: Released the "Furulund"-demo.
+The loader part.
+A flag. Just a flag, nothing more!
+Some scrollers.
+An upwards scroll covering the whole screen!
+A bouncing side-border scroller.
+The largest scroller in the world, as far as I knew at that time. Now I know
+that it wasn't so, beacuse The Supply Team made an equally large scroller in
+Februrary 1987 in their demo "No Limits". Thanks to Jan Harris (rambones/nmioaon
+of The Supply Team for pointing this out)!
+1987: Released the "Digi-Demo 1".
+This is ugly, VERY ugly. But the music is nice!
+1987: Released the "Colourdemo". New colours on the screen by using
+  the PAL colour decoding, which made the hue of the pixel become the average
+  of two adjacent rows. Didn't work for people that were watching it with a monitor,
+  though!
+Released the "CCC Superdemo", a whole disk with 8 demo parts. Part 
+  6 is a shoot'em-up game called "Zap". In the last part, I changed 
+  my handle from "Zax" to "Mahoney". Also, the group "Defiers" was
+  created.
+Part1
+Part2
+Part6, this is a shoot'em-up game.
+Part6: Shoot the evil balls before they crush you!
+Part 7
+Part 8. This was the very first time I used the handle "Mahoney".
+7th of June 1987: Released the "CCC demo XII " as Zax/CCC.
+1987: Released the "CCC demo XI " as Zax/CCC.
+18th of April 1987: Released the "CCC demo VIII" as Zax/CCC. This
+  was a minimal demo with extremely small letters!
+1987: Released the "CCC demo VII" as Zax/CCC.
+6th of April 1987: Released "The 10-minute mix". This demo featured
+  a 10-minute long remix of a number of Rob Hubbard tunes. And, a 10 minutes
+  long scrolltext, of course! The tunes were: MONTY ON THE RUN 1:20, COMMANDO
+  0:52, THING ON A SPRING 0:57, MASTER OF MAGIC 1:0, ONE MAN AND HIS DROID 0:51,
+  RASPUTIN 1:53, ZOOLOOK 1:28 AND SANX ION 1:30.
+March 1987: Released the "CCC demo VI" as Zax/CCC. This demo had
+  a HUGE scroller!
+13th of March 1987: Released the "CCC demo V" as Zax/CCC. This was
+  my very first multi-part demo!
+The first part.
+A moving Swedish flag.
+And a letter with a borderscroll at the end.
+March 1987: Released the "CCC demo IV" as Zax/CCC.
+1st of March 1987: Released the "CCC demo III" as Zax/CCC.
+25th of February 1987: Released the "CCC demo II" as Zax/CCC.
+2nd of February 1987: Released the "CCC letter IV" demo on the Commodore 
+  64.
+My very first sideborder scroller!
+1986
+November/December 1986: Released the demo "Zounddemo V" as Zax/CCC 
+  on the Commodore 64.
+1st of November 1986: Released the demo "Zounddemo IV" as Zax/CCC 
+  on the Commodore 64.
+28th of September 1986: Released the demo "Zounddemo III" on the 
+  Commodore 64, featuring tunes from Human Race, Thing on a Spring and Ark Pandora. 
+  Note, this demo was programmed when I was 12 years old.
+Notice that the fancy charset/font used in this demo is the system font on the Commodore 64, but with the middle line removed - and the upper half of it moved one pixel to the right! (Wow, what an improvement since Zounddemo II") - I did not have the patience to draw my own charset, so I created a new font using a short BASIC program instead.
+Released the demo "Zounddemo II" as Zax/CCC on the Commodore 64, 
+  featuring tunes from Neverending Story, Commando, Monty on the Run and International 
+  Karate. Download it from the download page.
+Notice that the fancy charset/font used in this demo is the system font on the Commodore 64, but with the middle line removed. I did not have the patience to draw my own, so I created a new font using a short BASIC program instead.
+1985
+I released the demo "Rambo music" as Zax/CCC on the Commodore 64.
+I released the demo "Pop tunes" as Zax/CCC on the Commodore 64.
+I released the demo "The art crackers" as Zax/CCC, a Doodle-image 
+  with rasterlines on the Commodore 64.
+23rd of January 1985: "Commodore Cracking Crew" (CCC) was formed. 
+  I used the handle "Zax".
+Got my 4th computer, a Commodore 64, and started programming for real!
+1984
+Got my third computer, a Sinclair Spectrum 16kB.
+1983
+Wrote my first application, a word-processor utility for the ABC-80 computer. Unfortunately, it's lost somewhere.
+Got my second computer, an ABC-80, manufactured by the Swedish company Luxor.
+ABC-80 is the computer to the right. To the left, its successor ABC-800.
+1982
+Got my first computer, a Sinclair ZX-80.
+Click
+here
+for the download section!

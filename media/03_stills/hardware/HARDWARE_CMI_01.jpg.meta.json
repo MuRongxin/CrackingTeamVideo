@@ -1,0 +1,23 @@
+{
+  "id": "HARDWARE_CMI_01",
+  "task": "OP03",
+  "kind": "image",
+  "title": "File:Fairlight CMI-IIx.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fairlight_CMI-IIx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "path": "media/03_stills/hardware/HARDWARE_CMI_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Fairlight_CMI-IIx.jpg",
+  "author": "Peter Wielk",
+  "rights": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "attribution": "",
+  "description": "Fairlight CMI IIx system in action.",
+  "retrieved_at": "2026-11-08T04:45:15.481605+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fairlight_CMI-IIx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 663,
+  "format": "JPEG",
+  "bytes": 139109,
+  "sha256": "642e5bfdbb65259b68b6b115930e3d41e41e2a3a34ba28fe05c76d11ebc973c8"
+}

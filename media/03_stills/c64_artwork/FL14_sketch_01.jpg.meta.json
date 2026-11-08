@@ -1,0 +1,20 @@
+{
+  "id": "FL14_SKETCH_01",
+  "task": "FL14",
+  "kind": "image",
+  "url": "http://www.c64.com/pictures/rubicon_sketches/images/sarge.jpg",
+  "path": "media/03_stills/c64_artwork/FL14_sketch_01.jpg",
+  "source_page": "http://www.c64.com/pictures/rubicon_sketches/rubicon_sketches.html",
+  "author": "The Sarge；扫描与刊载见 C64.com",
+  "rights": "作者作品／档案图像；许可待确认；Rubicon 与未发行 Rubicon 2 须逐图区分",
+  "retrieved_at": "2026-11-08T04:45:20.616985+00:00",
+  "status": "rejected_irrelevant",
+  "http_status": 200,
+  "final_url": "http://www.c64.com/pictures/rubicon_sketches/images/sarge.jpg",
+  "width": 124,
+  "height": 150,
+  "format": "JPEG",
+  "bytes": 11808,
+  "sha256": "dc579a624a97db8243a19f1e06603f09ba69dedab9f89200f11627f964f45a90",
+  "review_note": "非拨号握手音，或头像被误识别为手稿；不列入可用素材"
+}

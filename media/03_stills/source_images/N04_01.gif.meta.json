@@ -1,0 +1,19 @@
+{
+  "id": "N04_img01",
+  "kind": "image",
+  "url": "https://content.pouet.net/files/screenshots/00007/00007332.gif",
+  "path": "media/03_stills/source_images/N04_01.gif",
+  "source_page": "https://www.pouet.net/prod.php?which=7332",
+  "source_code": "N04",
+  "rights": "待确认；作品／NFO／游戏图像，仅作为研究与剪辑候选",
+  "author": "见来源页，待核署名",
+  "retrieved_at": "2026-11-08T04:43:41.259675+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://content.pouet.net/files/screenshots/00007/00007332.gif",
+  "width": 400,
+  "height": 273,
+  "format": "GIF",
+  "bytes": 35290,
+  "sha256": "dcd6d875972a10c33bded4f1800ad1dadb024d016d4fecca7831802d0d21b91a"
+}

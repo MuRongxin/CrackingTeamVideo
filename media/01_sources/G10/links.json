@@ -1,0 +1,443 @@
+{
+  "links": [
+    {
+      "text": "",
+      "url": "https://computersweden.se"
+    },
+    {
+      "text": "Nyhetsbrev",
+      "url": "https://computersweden.se/nyhetsbrev/prenumerera/"
+    },
+    {
+      "text": "Sök",
+      "url": "https://computersweden.se/search/"
+    },
+    {
+      "text": "Artificiell intelligens",
+      "url": "https://computersweden.se/artificial-intelligence/"
+    },
+    {
+      "text": "Karriär",
+      "url": "https://computersweden.se/careers/"
+    },
+    {
+      "text": "Cloud",
+      "url": "https://computersweden.se/cloud-computing/"
+    },
+    {
+      "text": "Samarbetsverktyg",
+      "url": "https://computersweden.se/collaboration-software/"
+    },
+    {
+      "text": "Datorer och kringutrustning",
+      "url": "https://computersweden.se/computers-and-peripherals/"
+    },
+    {
+      "text": "Datacenter",
+      "url": "https://computersweden.se/data-center/"
+    },
+    {
+      "text": "Digitalisering",
+      "url": "https://computersweden.se/digital-transformation/"
+    },
+    {
+      "text": "Framväxande teknik",
+      "url": "https://computersweden.se/emerging-technology/"
+    },
+    {
+      "text": "Företagsprogram",
+      "url": "https://computersweden.se/enterprise-applications/"
+    },
+    {
+      "text": "Generativ AI",
+      "url": "https://computersweden.se/generative-ai/"
+    },
+    {
+      "text": "Offentlig sektor",
+      "url": "https://computersweden.se/government/"
+    },
+    {
+      "text": "Hybrid- och distansarbete",
+      "url": "https://computersweden.se/remote-work/"
+    },
+    {
+      "text": "Bransch",
+      "url": "https://computersweden.se/industry/"
+    },
+    {
+      "text": "Lagar och regleringar",
+      "url": "https://computersweden.se/regulation/"
+    },
+    {
+      "text": "Juridik",
+      "url": "https://computersweden.se/legal/"
+    },
+    {
+      "text": "Mobilt",
+      "url": "https://computersweden.se/mobile/"
+    },
+    {
+      "text": "Nätverk",
+      "url": "https://computersweden.se/networking/"
+    },
+    {
+      "text": "Open Source",
+      "url": "https://computersweden.se/open-source/"
+    },
+    {
+      "text": "Operativsystem",
+      "url": "https://computersweden.se/operating-systems/"
+    },
+    {
+      "text": "Säkerhet",
+      "url": "https://computersweden.se/security/"
+    },
+    {
+      "text": "Systemutveckling",
+      "url": "https://computersweden.se/software-development/"
+    },
+    {
+      "text": "Windows",
+      "url": "https://computersweden.se/windows/"
+    },
+    {
+      "text": "Sök",
+      "url": "https://computersweden.se/search/"
+    },
+    {
+      "text": "Spotlight: It-ledarskap",
+      "url": "https://computersweden.se/digital-transformation/"
+    },
+    {
+      "text": "Nyhetsbrev",
+      "url": "https://computersweden.se/nyhetsbrev/prenumerera/"
+    },
+    {
+      "text": "Brandposts",
+      "url": "https://computersweden.se/brandposts/"
+    },
+    {
+      "text": "IT-ord",
+      "url": "https://it-ord.computersweden.se"
+    },
+    {
+      "text": "Artificiell intelligens",
+      "url": "https://computersweden.se/artificial-intelligence/"
+    },
+    {
+      "text": "Karriär",
+      "url": "https://computersweden.se/careers/"
+    },
+    {
+      "text": "Cloud",
+      "url": "https://computersweden.se/cloud-computing/"
+    },
+    {
+      "text": "Samarbetsverktyg",
+      "url": "https://computersweden.se/collaboration-software/"
+    },
+    {
+      "text": "Datorer och kringutrustning",
+      "url": "https://computersweden.se/computers-and-peripherals/"
+    },
+    {
+      "text": "Datacenter",
+      "url": "https://computersweden.se/data-center/"
+    },
+    {
+      "text": "Digitalisering",
+      "url": "https://computersweden.se/digital-transformation/"
+    },
+    {
+      "text": "Framväxande teknik",
+      "url": "https://computersweden.se/emerging-technology/"
+    },
+    {
+      "text": "Företagsprogram",
+      "url": "https://computersweden.se/enterprise-applications/"
+    },
+    {
+      "text": "Generativ AI",
+      "url": "https://computersweden.se/generative-ai/"
+    },
+    {
+      "text": "Offentlig sektor",
+      "url": "https://computersweden.se/government/"
+    },
+    {
+      "text": "Hybrid- och distansarbete",
+      "url": "https://computersweden.se/remote-work/"
+    },
+    {
+      "text": "Bransch",
+      "url": "https://computersweden.se/industry/"
+    },
+    {
+      "text": "Lagar och regleringar",
+      "url": "https://computersweden.se/regulation/"
+    },
+    {
+      "text": "Juridik",
+      "url": "https://computersweden.se/legal/"
+    },
+    {
+      "text": "Mobilt",
+      "url": "https://computersweden.se/mobile/"
+    },
+    {
+      "text": "Nätverk",
+      "url": "https://computersweden.se/networking/"
+    },
+    {
+      "text": "Open Source",
+      "url": "https://computersweden.se/open-source/"
+    },
+    {
+      "text": "Operativsystem",
+      "url": "https://computersweden.se/operating-systems/"
+    },
+    {
+      "text": "Säkerhet",
+      "url": "https://computersweden.se/security/"
+    },
+    {
+      "text": "Systemutveckling",
+      "url": "https://computersweden.se/software-development/"
+    },
+    {
+      "text": "Windows",
+      "url": "https://computersweden.se/windows/"
+    },
+    {
+      "text": "USA",
+      "url": "https://www.computerworld.com/"
+    },
+    {
+      "text": "Indien",
+      "url": "https://www.computerworld.com/in/"
+    },
+    {
+      "text": "Korea",
+      "url": "https://www.itworld.co.kr/"
+    },
+    {
+      "text": "Nederländerna",
+      "url": "https://www.computerworld.com/nl/"
+    },
+    {
+      "text": "Polen",
+      "url": "https://www.computerworld.pl/"
+    },
+    {
+      "text": "Spanien",
+      "url": "https://www.computerworld.es/"
+    },
+    {
+      "text": "Storbritannien",
+      "url": "https://www.computerworld.com/uk/"
+    },
+    {
+      "text": "Tyskland",
+      "url": "https://www.computerwoche.de/"
+    },
+    {
+      "text": "Australien",
+      "url": "https://www.computerworld.com/au/"
+    },
+    {
+      "text": "Nya Zeeland",
+      "url": "https://www.computerworld.com/nz/"
+    },
+    {
+      "text": "Hem",
+      "url": "https://computersweden.se/"
+    },
+    {
+      "text": "Säkerhet",
+      "url": "https://computersweden.se/security/"
+    },
+    {
+      "text": "Säkerhet",
+      "url": "https://computersweden.se/security/"
+    },
+    {
+      "text": "Krönika Ta ryssen i frysen på allvar Av Marcus Jerräng 6 nov. 2026 4 min Säkerhet",
+      "url": "https://computersweden.se/article/4245652/ta-ryssen-i-frysen-pa-allvar.html"
+    },
+    {
+      "text": "Nyhet Myndigheter varnar för nya frysattacker Av Mikael Markander 6 nov. 2026 1 min Säkerhet",
+      "url": "https://computersweden.se/article/4245605/myndigheter-varnar-for-nya-frysattacker.html"
+    },
+    {
+      "text": "Nyhet Open AI släpper nya säkerhetsmodellen GPT-6 Cyber Av Mikael Markander 6 nov. 2026 1 min Artificiell intelligens Säkerhet",
+      "url": "https://computersweden.se/article/4245616/open-ai-slapper-nya-sakerhetsmodellen-gpt-6-cyber.html"
+    },
+    {
+      "text": "Nyhet Kritiska system patchas alldeles för långsamt Av Gyana Swain 6 nov. 2026 5 min Nätverkssäkerhet Säkerhet Sårbarheter",
+      "url": "https://computersweden.se/article/4245011/natverksenheter-gar-i-over-ett-ar-utan-sakerhetsuppdateringar-samtidigt-som-utnyttjandet-av-sarbarheter-okar-i-takt.html"
+    },
+    {
+      "text": "nyhet “64 000 studenter hanteras i system från 1980-talet” 12 feb. 2013 4 min",
+      "url": "https://computersweden.se/article/1305867/64-000-studenter-hanteras-i-system-fran-1980-talet.html"
+    },
+    {
+      "text": "nyhet Tungt skifte väntar SJ 12 feb. 2013 5 min",
+      "url": "https://computersweden.se/article/1305876/tungt-skifte-vantar-sj.html"
+    },
+    {
+      "text": "nyhet Krafttag mot karusellbedragare 30 apr. 2007 4 min",
+      "url": "https://computersweden.se/article/1304972/krafttag-mot-karusellbedragare.html"
+    },
+    {
+      "text": "Nyhet Svenskarna mer negativa än positiva till AI Av Viktor Eriksson 6 nov. 2026 1 min Artificiell intelligens",
+      "url": "https://computersweden.se/article/4245727/svenskarna-mer-negativa-an-positiva-till-ai.html"
+    },
+    {
+      "text": "Nyhet EU kräver att Tiktok ändrar sitt “skadliga” För dig-flöde Av Viktor Eriksson 6 nov. 2026 1 min Offentlig sektor Lagar och regleringar Marknader",
+      "url": "https://computersweden.se/article/4245699/eu-kraver-att-tiktok-andrar-sitt-skadliga-for-dig-flode.html"
+    },
+    {
+      "text": "Nyhet IMY granskar Arbetsförmedlingens AI-system Av Viktor Eriksson 6 nov. 2026 1 min Offentlig sektor Lagar och regleringar Marknader",
+      "url": "https://computersweden.se/article/4245742/imy-granskar-arbetsformedlingens-ai-system.html"
+    },
+    {
+      "text": "Om oss",
+      "url": "https://computersweden.se/om-oss/"
+    },
+    {
+      "text": "Kontakta redaktionen",
+      "url": "https://computersweden.se/om-oss/#redaktionen"
+    },
+    {
+      "text": "Annonsera",
+      "url": "https://foundryco.com/nordics/"
+    },
+    {
+      "text": "Redaktionell etikpolicy",
+      "url": "https://computersweden.se/redaktionell-etikpolicy/"
+    },
+    {
+      "text": "Jobba på Foundry",
+      "url": "https://foundryco.com/work-here/"
+    },
+    {
+      "text": "Licensiering & återutgivning",
+      "url": "https://foundryco.com/about-us/licensing/"
+    },
+    {
+      "text": "Nyhetsbrev",
+      "url": "https://computersweden.se/nyhetsbrev/prenumerera/"
+    },
+    {
+      "text": "Computer Sweden Recruitment",
+      "url": "https://computerswedenrecruitment.se/?ref=cs-mh"
+    },
+    {
+      "text": "Ansvarig utgivare: Marcus Jerräng",
+      "url": "https://computersweden.se/om-oss/#redaktionen"
+    },
+    {
+      "text": "Användarvillkor",
+      "url": "https://foundryco.com/terms-of-service-agreement/"
+    },
+    {
+      "text": "Personuppgiftspolicy",
+      "url": "https://foundryco.com/privacy-policy/"
+    },
+    {
+      "text": "Cookiepolicy",
+      "url": "https://foundryco.com/cookie-policy/"
+    },
+    {
+      "text": "Meddelande om upphovsrätt",
+      "url": "https://foundryco.com/copyright-notice/"
+    },
+    {
+      "text": "Läsarinställningar",
+      "url": "https://computersweden.se/lasarinstallningar/"
+    },
+    {
+      "text": "Redaktionellt oberoende",
+      "url": "https://computersweden.se/redaktionellt-oberoende/"
+    },
+    {
+      "text": "Annonsinställningar",
+      "url": "https://foundryco.com/ad-choices/"
+    },
+    {
+      "text": "CCPA",
+      "url": "https://foundryco.com/ccpa/"
+    },
+    {
+      "text": "Brandposts",
+      "url": "https://computersweden.se/brandposts/"
+    },
+    {
+      "text": "IT-ord",
+      "url": "https://it-ord.computersweden.se"
+    },
+    {
+      "text": "CIO",
+      "url": "https://www.cio.com/"
+    },
+    {
+      "text": "Computerworld",
+      "url": "https://www.computerworld.com/"
+    },
+    {
+      "text": "CSO",
+      "url": "https://www.csoonline.com/"
+    },
+    {
+      "text": "InfoWorld",
+      "url": "https://www.infoworld.com/"
+    },
+    {
+      "text": "Network World",
+      "url": "https://www.networkworld.com/"
+    },
+    {
+      "text": "",
+      "url": "https://foundryco.com/"
+    },
+    {
+      "text": "Google News",
+      "url": "https://news.google.com/publications/CAAiEHxGMYwJgSKC04Zbnl-KbAgqFAgKIhB8RjGMCYEigtOGW55fimwI"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/computer-sweden/"
+    },
+    {
+      "text": "© 2026  FoundryCo, Inc. All Rights Reserved.",
+      "url": "https://foundryco.com/terms-of-service-agreement/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "daniel_goldberg",
+      "url": "https://computersweden.se/wp-content/uploads/2024/02/daniel_goldberg-100026032-orig-3.jpg?quality=50&strip=all&w=107",
+      "srcset": ""
+    },
+    {
+      "alt": "daniel_goldberg",
+      "url": "https://computersweden.se/wp-content/uploads/2024/02/daniel_goldberg-100026032-orig-3.jpg?quality=50&strip=all&w=178",
+      "srcset": ""
+    },
+    {
+      "alt": "Bild",
+      "url": "https://computersweden.se/wp-content/uploads/2026/11/4245727-0-30780100-1793973834-shutterstock_2193917709.jpg?quality=50&strip=all&w=375",
+      "srcset": ""
+    },
+    {
+      "alt": "Bild",
+      "url": "https://computersweden.se/wp-content/uploads/2026/11/4245699-0-08282400-1793973802-guillaume-perigois-0NRkVddA2fw-unsplash.jpg?quality=50&strip=all&w=375",
+      "srcset": ""
+    },
+    {
+      "alt": "Bild",
+      "url": "https://computersweden.se/wp-content/uploads/2026/11/4245742-0-96677400-1793973725-arbetsformedlingen-fasadskylt1.jpg?quality=50&strip=all&w=444",
+      "srcset": ""
+    }
+  ]
+}
