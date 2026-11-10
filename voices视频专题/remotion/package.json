@@ -1,0 +1,25 @@
+{
+  "name": "voices38-special",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "node /home/lrxin/文档/remotion/packages/cli/remotion-cli.js studio src/index.ts --port=3018",
+    "typecheck": "/home/lrxin/文档/remotion/node_modules/.bin/tsc --noEmit",
+    "setup": "node scripts/link-remotion.mjs"
+  },
+  "dependencies": {
+    "remotion": "4.0.542",
+    "@remotion/cli": "4.0.542",
+    "@remotion/media": "4.0.542",
+    "@remotion/transitions": "4.0.542",
+    "@remotion/fonts": "4.0.542",
+    "@remotion/media-utils": "4.0.542",
+    "@remotion/captions": "4.0.542",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.3.0"
+  }
+}

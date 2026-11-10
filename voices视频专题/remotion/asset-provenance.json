@@ -1,0 +1,292 @@
+[
+  {
+    "path": "voices视频专题/remotion/public/v38/court/header.png",
+    "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      100,
+      9,
+      511,
+      31
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_COMPLAINT_header.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "501257c49d9c1a7ac413bbadface20b34e9d1dbb0a23974fc99607c6ed63eba8"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/court.png",
+    "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      151,
+      400,
+      519,
+      448
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_COMPLAINT_court.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "66c4e8fa49f3693ffb5a888747e92a3f4ed19b90eba5a5a00f74c24233cd8921"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/parties.png",
+    "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      72,
+      460,
+      305,
+      615
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_COMPLAINT_parties.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "39ee7ba141ee38e10a6017420597640890a038c13418060770420ee96509a1c3"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/plaintiff.png",
+    "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      76,
+      464,
+      232,
+      506
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_COMPLAINT_plaintiff.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "b07bc84cd50aabbef5bb7c2b0f2c722bb8e987595eb7fc529a71df9d73ea47b1"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/defendant.png",
+    "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      76,
+      546,
+      302,
+      609
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_COMPLAINT_defendant.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "eba5a2a8dfc6cc90d860e75f7c4d796c36dd738b37bdf216bd5314e26a24720d"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/order-quote.png",
+    "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      98,
+      690,
+      565,
+      733
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_DOC24_order-quote.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "c43a289cb835e6f0ddd27e17d5eef526cb038fb947c82393f4da3908b6a96fea"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/order-line1.png",
+    "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      324,
+      692,
+      564,
+      708
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_DOC24_order-line1.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "4b2962fde92fdf2add0adeee9202af3a34bd6a9449e50631408ebd51d8774adb"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/order-line2.png",
+    "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      100,
+      715,
+      277,
+      731
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_DOC24_order-line2.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "6df5324bb2011f8651fb5c3d2eb00c91c4863931b027acf3236e6f116f69adcd"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/order-line3.png",
+    "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+    "page": 1,
+    "dpi": 400,
+    "crop_pdf_points": [
+      277,
+      715,
+      495,
+      731
+    ],
+    "ledger_path": "media/03_stills/pdf_pages/V38_COURT_DOC24_order-line3.png",
+    "status": "exported",
+    "note": "真实 PDF 局部；未重写原文；未包含律师联系方式",
+    "sha256": "4931b15e3359bc57f34954646eb97c906d0c35c85f839ef0e496a42edab5b52a"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-01.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_01_二零二六_年_9_月美国加州北区联邦地区.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "69dd887c3df1996c889a8380595baa50146d8f92cc571c939a26c6399b61700f"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-02.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_02_原告是一家奥地利公司Denuvo_Gmb.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "a728a03dd2b434fcee31a42e9e0e2ce2ee13da19e997bab7db2986b018a01c74"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-03.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_03_被告一栏只有一个奇怪的名字voices3.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "9d4096d26dcff1c4bca051649316613abe95a064e267c8f91886a981cfbb60b7"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-04.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_04_起诉书对被告的描述是身份不明的个人或实体.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "4c18910aff6ef9afe782f5bfe3e97fca6b2355437e1920f25c2fc2e35b8772a2"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-05.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_05_换句话说Denuvo_起诉了一个网名.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "971cee75a284746fa32646cf8f0f13809efd344da9d3e17d736ad120452128bf"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-06.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_06_在递交给法院的文件里他们说公司手里目前只.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "a3630b5a8c508fefe3758ca1de7af7ca23ac86fa27dc403fac4f79baee7e404f"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-07.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_07_所以它请求法院允许它向_DiscordV.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "17a32a07cfee4f4a9c1c4c7bd6780fb6c52e199212948c69781d57329f0bbdb2"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-08.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_08_弄清楚这个账号背后的人叫什么住在哪怎么联.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "41d47d22f6dcd15ccdc3bff02e10dc246f9bd13dbf77484546830f5d18956000"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-09.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_09_最初的请求有_46_项法官认为范围太宽最.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "d28a7a53f700078da90d3eef40fd4bbf3a578fb74bebffd849277cf9039ce29d"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-10.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_10_这期视频我准备了很多有关voices38.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "ece576dead04210c11fbb8d941862583d6db4df390f942124aff0e8bf76ca002"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-11.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_11_大部分是_voices_自己公开留下的.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "ed7e92f200073bb02a13cb85be53765faaaa1b264aadb21f1e7ec3863a8234f5"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-12.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_12_有发布说明帖子一句道歉一笔没凑齐的账还有.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "8e4580bb89043d1e7f903773e750cdd152ea58271f639988707a3429bb935d41"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-13.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_13_也有几样是别人留给他的.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "2a1e626cfdacf9b4ab5bc3c0201af7dc76295551aea0b00983b36cc1c54f19c3"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-14.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_14_它们证明不了他是谁.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "666156f79ffe723f730bacf328659cc9ae7fc3247f52adc24f959491bb10a26f"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-15.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_15_但能看出来他是怎样做事的.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "1a56e2cda6180ea6e9b084171a74f9bdba7979c0304941fbe1004859fa0ce661"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-16.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_16_在说明文件里voices_一直用第一人称.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "654d49e325a910fc9d2ca99f9c47dccda5e66244e7760ebf9f5eb410d89ad055"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-17.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_17_所以这期视频也先用他来称呼这个名字.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "1e76cd8d88d7e8de9c1fd84c801807d01acd668c107e20f44acb25810f07e6ac"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-18.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_18_至于背后是一个人还是几个人连起诉书都只能.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "51019a20b16b395ad2e598a96c3b1b7b4c7bc6f01c90a8bbc6fdd8ca628bc350"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-19.wav",
+    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_19_我们并不清楚.wav",
+    "status": "copied",
+    "note": "用户提供的配音，未变速、未替换，保留原文件",
+    "sha256": "b8cd547c77eb84b0c30a8cfc3a1e78bce3eb10ceb051b092d68d46c04291dc74"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/nfo/proper-header.png",
+    "derived_from": "media/03_stills/source_images/V06_nfo.png",
+    "crop_pixels": [
+      0,
+      0,
+      640,
+      220
+    ],
+    "status": "exported",
+    "note": "NFO 题头裁切，未包含邮箱和捐款地址；沿用原素材使用条件",
+    "sha256": "33deb24b1765e85a8b409d5f390b2651dc940c37ccdd1a9fbcdbfe30cd937ca7"
+  }
+]

@@ -1,0 +1,376 @@
+{
+  "1": [
+    {
+      "text": "2026 年 9 月",
+      "startMs": 40,
+      "endMs": 1644,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "美国加州北区联邦地区法院",
+      "startMs": 1644,
+      "endMs": 3569,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "收到了一份起诉书",
+      "startMs": 3569,
+      "endMs": 4853,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "2": [
+    {
+      "text": "原告是一家奥地利公司",
+      "startMs": 40,
+      "endMs": 2383,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Denuvo GmbH",
+      "startMs": 2383,
+      "endMs": 3320,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "3": [
+    {
+      "text": "被告一栏",
+      "startMs": 40,
+      "endMs": 834,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "只有一个奇怪的名字",
+      "startMs": 834,
+      "endMs": 2621,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38",
+      "startMs": 2621,
+      "endMs": 3018,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "4": [
+    {
+      "text": "起诉书对被告的描述",
+      "startMs": 40,
+      "endMs": 1626,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "是身份不明的个人或实体",
+      "startMs": 1626,
+      "endMs": 3564,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "5": [
+    {
+      "text": "换句话说",
+      "startMs": 40,
+      "endMs": 578,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Denuvo 起诉了一个网名",
+      "startMs": 578,
+      "endMs": 2461,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "6": [
+    {
+      "text": "在递交给法院的文件里他们说",
+      "startMs": 40,
+      "endMs": 2138,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "公司手里目前只有一个化名",
+      "startMs": 2138,
+      "endMs": 4075,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "7": [
+    {
+      "text": "所以它请求法院允许它",
+      "startMs": 40,
+      "endMs": 2406,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "向 Discord、Valve",
+      "startMs": 2406,
+      "endMs": 3331,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "和 Reddit",
+      "startMs": 3331,
+      "endMs": 3825,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "发出传票",
+      "startMs": 3825,
+      "endMs": 4771,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "8": [
+    {
+      "text": "弄清楚这个账号背后的人",
+      "startMs": 40,
+      "endMs": 2062,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "叫什么",
+      "startMs": 2062,
+      "endMs": 2614,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "住在哪",
+      "startMs": 2614,
+      "endMs": 3165,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "怎么联系",
+      "startMs": 3165,
+      "endMs": 3901,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "9": [
+    {
+      "text": "最初的请求有 46 项",
+      "startMs": 40,
+      "endMs": 1766,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "法官认为范围太宽",
+      "startMs": 1766,
+      "endMs": 3022,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "最后缩成了 9 项",
+      "startMs": 3022,
+      "endMs": 4435,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "10": [
+    {
+      "text": "这期视频",
+      "startMs": 40,
+      "endMs": 718,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "我准备了很多",
+      "startMs": 718,
+      "endMs": 1445,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "有关 voices38 的内容",
+      "startMs": 1445,
+      "endMs": 3262,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "11": [
+    {
+      "text": "大部分是 voices38",
+      "startMs": 40,
+      "endMs": 1395,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "自己公开留下的",
+      "startMs": 1395,
+      "endMs": 2124,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "12": [
+    {
+      "text": "有发布说明",
+      "startMs": 40,
+      "endMs": 1047,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "帖子",
+      "startMs": 1047,
+      "endMs": 1450,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "一句道歉",
+      "startMs": 1450,
+      "endMs": 2256,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "一笔没凑齐的账",
+      "startMs": 2256,
+      "endMs": 3667,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "还有不少玩笑",
+      "startMs": 3667,
+      "endMs": 4876,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "13": [
+    {
+      "text": "也有几样",
+      "startMs": 40,
+      "endMs": 697,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "是别人留给他的",
+      "startMs": 697,
+      "endMs": 1846,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "14": [
+    {
+      "text": "它们证明不了他是谁",
+      "startMs": 40,
+      "endMs": 1242,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "15": [
+    {
+      "text": "但能看出来",
+      "startMs": 40,
+      "endMs": 884,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "他是怎样做事的",
+      "startMs": 884,
+      "endMs": 2066,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "16": [
+    {
+      "text": "在说明文件里",
+      "startMs": 40,
+      "endMs": 1006,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38 一直用",
+      "startMs": 1006,
+      "endMs": 2293,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "第一人称说话",
+      "startMs": 2293,
+      "endMs": 2937,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "17": [
+    {
+      "text": "所以这期视频",
+      "startMs": 40,
+      "endMs": 937,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也先用“他”来称呼这个名字",
+      "startMs": 937,
+      "endMs": 2879,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "18": [
+    {
+      "text": "至于背后是一个人还是几个人",
+      "startMs": 40,
+      "endMs": 2043,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "连起诉书都只能写“个人或实体”",
+      "startMs": 2043,
+      "endMs": 4353,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "19": [
+    {
+      "text": "我们并不清楚",
+      "startMs": 40,
+      "endMs": 905,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ]
+}
