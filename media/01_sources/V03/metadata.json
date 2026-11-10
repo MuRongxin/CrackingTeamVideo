@@ -1,0 +1,18 @@
+{
+  "id": "V03",
+  "source_url": "https://www.reddit.com/r/PiratedGames/comments/1o6cuec/we_won/",
+  "retrieved_at": "2026-11-09T14:12:46.914130+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "thin_page_needs_review",
+  "http_status": 200,
+  "final_url": "https://www.reddit.com/r/PiratedGames/comments/1o6cuec/we_won/",
+  "content_type": "text/html",
+  "path": "media/01_sources/V03/original.html",
+  "bytes": 8445,
+  "sha256": "dd757d77c67fc91b9605e570fafbf53f697b923c1289ebf34c745db3c9a9224f",
+  "title": "Reddit",
+  "reader_capture_path": "media/01_sources/V03/web_reader_capture.txt",
+  "reader_capture_kind": "网页工具提供的带行号阅读器文本；非原始 HTML，不冒充原页截图",
+  "reader_retrieved_at": "2026-11-09T14:22:08.545626+00:00",
+  "reader_tool": "web.run；带行号的阅读器返回，可能只覆盖正文的一部分，不是完整原始网页"
+}

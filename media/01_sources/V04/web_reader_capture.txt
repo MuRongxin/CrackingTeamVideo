@@ -1,0 +1,271 @@
+Denuvo's "Current" Version Hacked. Hacker Boasted About Their First Victory Over DRM Protection (https://ixbt.games/en/news/2025/10/15/vzlomana-aktualnaia-versiia-denuvo-xaker-poxvastalsia-svoei-pervoi-pobedoi-nad-drm-zashhitoi.html)
+citeturn11view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://ixbt.games/en/news/2025/10/15/vzlomana-aktualnaia-versiia-denuvo-xaker-poxvastalsia-svoei-pervoi-pobedoi-nad-drm-zashhitoi.html","lineno":null}); Total lines: 268
+L0: 【0†Skip to content】
+L1: 
+L2: 【1†Image†media.ixbt.games】
+L3: # Denuvo's "Current" Version Hacked. Hacker Boasted About Their First Victory Over DRM Protection
+L4: 
+L5: News 4【2†Source: Сообщество Total War Three Kingdom в Steam†api.ixbt.games】
+L6: 
+L7: 15 October 2025, 05:35【3†Boris Piletskiy】
+L8: 
+L9: While Empress is in retreat, other tech enthusiasts are working. The protection of Total War Three Kingdoms has finally fallen.
+L10: Recently, players once again remembered the global strategy Total War Three Kingdoms. The reason was the hacker voices38, who announced the hacking of Denuvo. He clarified that this is the current version 1.7.1 and all DLCs are available.
+L11: 
+L12: The game itself is not very recent (the original version was released back in 2019), in this case the very fact of hacking Denuvo is important - the hacker said that he was researching the solutions of colleagues:
+L13: "I spent a lot of time reverse engineering Denuvo and studying old \"cracks\" to see how others were cracking DRM, since no one else seems to care about it anymore. Here's my first attempt".
+L14: 
+L15: 【4†Image†media.ixbt.games】
+L16: 
+L17: Sources:【5†Sayt Reddit†api.ixbt.games】
+L18: 
+L19: Never miss our news Add this site to your preferred sources to see us more often【6†Add on Google†www.google.com】
+L20: 【7†Previous publication: Gothic Remake Developers Showcase Old and New Nameless Hero】【8†Next publication: Grinding in Borderlands 4 is good for the brain - Randy Pitchford talks about neuroscience and explains why Gearbox has few competitors】
+L21: 
+L22: Comments
+L23: 
+L24: I agree to the rules
+L25: 
+L26: Enter a comment
+L27: 
+L28: Send
+L29: 
+L30: Comment
+L31: ## Сейчас на главной
+L32: 
+L33: 【9†Cosplayers Show Miquella and Malenia from Elden Ring: An Indivisible Union of Gold and Decay】
+L34: 
+L35: News 0 15:02
+L36: 
+L37: 【10†Daft Punk refused to participate in GTA VI, despite an allegedly unlimited budget】
+L38: 
+L39: News 0 14:56
+L40: 
+L41: 【11†Steam Next Fest demo festival turned into an AI-slop parade - players are unhappy with the abundance of AI-generated games】
+L42: 
+L43: News 1 14:02
+L44: 
+L45: 【12†Youtooz is ready to open pre-orders for Minthara, Emperor, and Dark Urge figures from Baldur's Gate 3】
+L46: 
+L47: News 0 14:01
+L48: 【13†Esports player faces real jail time due to income from selling virtual items in Counter-Strike 2 - tax authorities have questions】
+L49: 
+L50: News 0 13:59
+L51: 
+L52: 【14†A new "analogue" of GTA VI is in development - players can't believe they are being shown gameplay footage from a Roblox-based game】
+L53: 
+L54: News 0 13:55
+L55: 
+L56: 【15†Modder creates a "remake" of Bully on Unreal Engine 5 - every NPC will get "consciousness" and the ability to speak】
+L57: 
+L58: News 0 13:45
+L59: 【16†CDPR has not stopped supporting Cyberpunk 2077 - the first teaser for update 2.5】
+L60: 
+L61: News 0 13:39
+L62: 
+L63: 【17†BIGDOG STUDIO to release unofficial Alex Mercer figure from Prototype: a walking biological threat】
+L64: 
+L65: News 0 12:09
+L66: 
+L67: 【18†ARC Raiders and The Finals to get screen adaptations. Embark Studios will reveal game worlds from a new perspective】
+L68: 
+L69: News 0 11:53
+L70: 
+L71: 【19†WARDOGS players quickly reached top-tier gear in the new season. Developers change plans】
+L72: 
+L73: News 1 11:47
+L74: 【20†Directive 8020 received an online co-op for five. A free update has been released】
+L75: 
+L76: News 1 11:41
+L77: 
+L78: 【21†Все новости】
+L79: 
+L80: News of the day
+L81: 
+L82: 【22†GTA VI PC release dates, Russians "led" the role-playing multiplayer Kingdom Come: Deliverance II - the most interesting of the week】
+L83: 
+L84: 0 19 Oct 14:37
+L85: 
+L86: October 2025
+L87: 
+L88: mon
+L89: 
+L90: tue
+L91: 
+L92: wed
+L93: 
+L94: thu
+L95: 
+L96: fri
+L97: 
+L98: sat
+L99: 
+L100: sun
+L101: 
+L102: 29
+L103: 
+L104: 70
+L105: 
+L106: 30
+L107: 
+L108: 78
+L109: 
+L110: 01
+L111: 
+L112: 76
+L113: 
+L114: 02
+L115: 
+L116: 65
+L117: 
+L118: 03
+L119: 
+L120: 68
+L121: 
+L122: 04
+L123: 
+L124: 50
+L125: 
+L126: 05
+L127: 
+L128: 36
+L129: 
+L130: 06
+L131: 
+L132: 78
+L133: 
+L134: 07
+L135: 
+L136: 80
+L137: 
+L138: 08
+L139: 
+L140: 57
+L141: 
+L142: 09
+L143: 
+L144: 73
+L145: 
+L146: 10
+L147: 
+L148: 81
+L149: 
+L150: 11
+L151: 
+L152: 32
+L153: 
+L154: 12
+L155: 
+L156: 35
+L157: 
+L158: 13
+L159: 
+L160: 71
+L161: 
+L162: 14
+L163: 
+L164: 28
+L165: 
+L166: 15
+L167: 
+L168: 70
+L169: 
+L170: 16
+L171: 
+L172: 61
+L173: 
+L174: 17
+L175: 
+L176: 58
+L177: 
+L178: 18
+L179: 
+L180: 40
+L181: 
+L182: 19
+L183: 
+L184: 38
+L185: 20
+L186: 
+L187: 84
+L188: 
+L189: 21
+L190: 
+L191: 88
+L192: 
+L193: 22
+L194: 
+L195: 85
+L196: 
+L197: 23
+L198: 
+L199: 77
+L200: 
+L201: 24
+L202: 
+L203: 66
+L204: 
+L205: 25
+L206: 
+L207: 38
+L208: 
+L209: 26
+L210: 
+L211: 36
+L212: 
+L213: 27
+L214: 
+L215: 61
+L216: 
+L217: 28
+L218: 
+L219: 51
+L220: 
+L221: 29
+L222: 
+L223: 68
+L224: 
+L225: 30
+L226: 
+L227: 64
+L228: 
+L229: 31
+L230: 
+L231: 64
+L232: 
+L233: 01
+L234: 
+L235: 61
+L236: 
+L237: 02
+L238: 
+L239: 42
+L240: 
+L241: News
+L242: 【22†GTA VI PC release dates, Russians "led" the role-playing multiplayer Kingdom Come: Deliverance II - the most interesting of the week 0 Yesterday】【9†Cosplayers Show Miquella and Malenia from Elden Ring: An Indivisible Union of Gold and Decay 0 Today】【10†Daft Punk refused to participate in GTA VI, despite an allegedly unlimited budget 0 Today】【11†Steam Next Fest demo festival turned into an AI-slop parade - players are unhappy with the abundance of AI-generated games 1 Today】【12†Youtooz is ready to open pre-orders for Minthara, Emperor, and Dark Urge figures from Baldur's Gate 3 0 Today】【13†Esports player faces real jail time due to income from selling virtual items in Counter-Strike 2 - tax authorities have questions 0 Today】【14†A new "analogue" of GTA VI is in development - players can't believe they are being shown gameplay footage from a Roblox-based game 0 Today】【15†Modder creates a "remake" of Bully on Unreal Engine 5 - every NPC will get "consciousness" and the ability to speak 0 Today】【16†CDPR has not stopped supporting Cyberpunk 2077 - the first teaser for update 2.5 0 Today】【17†BIGDOG STUDIO to release unofficial Alex Mercer figure from Prototype: a walking biological threat 0 Today】【18†ARC Raiders and The Finals to get screen adaptations.
+L243: Embark Studios will reveal game worlds from a new perspective 0 Today】【19†WARDOGS players quickly reached top-tier gear in the new season. Developers change plans 1 Today】【20†Directive 8020 received an online co-op for five.
+L244: A free update has been released 1 Today】【23†PS6 will be more powerful than GeForce RTX 6060 and will be released two years earlier - insider 1 Today】【24†PS6 for $1000? Poll Shows How Much Players Are Willing to Pay for the Console 17 Today】【25†Card Board Game "Rebels" Released in Russia: A Choice Between Good and Evil in a Fantasy Kingdom 0 Today】【26†AI changes online shooters.
+L245: The Finals received dynamic commentary during matches 0 Today】【27†Football Manager 27 Received a New Trailer with Improvements and Tactical Innovations 0 Today】【28†Bethesda has started celebrating Fallout Day 2026. Players will receive gifts and Xbox controllers 0 Today】【29†Rockstar tried to combine the realism of RDR 2 with the madness of GTA. This affected the development of the sixth installment 0 Today】
+L246: 【30†All news】
+L247: 
+L248: Your guide to the world
+L249: of computer games
+L250: 
+L251: 【31†About the site】
+L252: 
+L253: Sections
+L254: 
+L255: 【21†News】【32†Reviews】【33†Hardware】【34†Roundups】【35†Articles】
+L256: 
+L257: Information
+L258: 
+L259: 【36†Rules】【37†Cookie usage】【38†Personal data protection】【39†Place an ad†ixbt.media】
+L260: 
+L261: Blogs
+L262: 
+L263: 【40†Games†www.ixbt.com】【41†Movies, series†www.ixbt.com】【42†Books, comics†www.ixbt.com】【43†All blogs†www.ixbt.com】
+L264: 
+L265: [Button: Cookie settings]
+L266: 
+L267: 【44†Image†mc.yandex.ru】 【45†Image†jitsu.ixbt.games】
+

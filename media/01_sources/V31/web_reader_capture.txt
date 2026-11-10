@@ -1,0 +1,162 @@
+Hacker voices38 released a Denuvo hack for Sonic Frontiers (https://en.gamegpu.com/news/igry/khaker-voices38-vypustil-vzlom-denuvo-dlya-sonic-frontiers)
+citeturn19view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.gamegpu.com/news/igry/khaker-voices38-vypustil-vzlom-denuvo-dlya-sonic-frontiers","lineno":null}); Total lines: 159
+L0: [Input: Login]
+L1: 
+L2: [Input: Password]
+L3: 
+L4: [Input] Remember me
+L5: 
+L6: Login without a password
+L7: 
+L8: [Button: Sign In ]
+L9: 
+L10:   * 【0†Forgot your password?】
+L11:   * 【1†Forgot your username?】
+L12: [Input] [Input] [Input] [Input]
+L13: 
+L14: 【2†Image: Hacker voices38 released a Denuvo hack for Sonic Frontiers†gamegpu.com】
+L15: # Hacker voices38 released a Denuvo hack for Sonic Frontiers
+L16: 
+L17: 【3†Maxim Boldson】 【4†GAMES】 January 29 2026 Views: 15986
+L18: 
+L19: A significant event has occurred in the pirated release scene: a Reddit user and 【5†hacker under the nickname voices38 released a working crack†www.reddit.com】 for a platformer sonic frontiersThe game was protected by the Denuvo anti-piracy system, which has become rare in recent years. The release size was 31.6 GB.
+L20: The author described his method as "old-school hypervisor-less release." In the accompanying message voices38 He shared his plans for the future: he intends to move on to cracking "more complex and newer iterations of Denuvo" starting with the next release. However, the hacker has encountered technical difficulties—he lacks powerful hardware to effectively benchmark cracks. Currently, he has only assembled 35% of the required benchmarking rig, complaining about the high price of RAM.
+L21: The enthusiast appealed to the community for support, noting that a hardware upgrade would make the internal benchmarking process for the "tablets" significantly faster and easier.
+L22: 
+L23: DISCUSSION CENTER
+L24: ### @GameGPU_com
+L25: 
+L26: Join the discussion, share your benchmark results, and debate hardware performance in X.
+L27: 
+L28: 【6†Discuss on X†x.com】
+L29: ### GAMES
+L30:   * 【7†Xbox Series users will have to free up over 225GB of storage to install Grand Theft Auto VI.】
+L31:   * 【8†Fans compared the sunset landscapes in GTA 6 and Red Dead Redemption 2 with a difference of 128 years】
+L32:   * 【9†AMDLSS5 2.0 provided a 64% increase in FPS and support for new games on Radeon RX 9000】
+L33:   * 【10†Enabling DLSS 5 in Hogwarts Legacy in 4K it reduces the frame rate from 49 to 39 FPS】
+L34:   * 【11†Enabling Ray Tracing in The Witcher 3 With DLSS 5 technology, FPS drops from 160 to 100】
+L35:   * 【12†Rockstar Games has updated the list of rewards and bonuses in the GTA Plus subscription.】
+L36:   * 【13†Take Two has greenlit development of a new Mafia game following the success of The Old Country.】
+L37:   * 【14†The Last of Us Remastered for Android benchmarked on Snapdragon 8 Elite at 60 FPS】
+L38:   * 【15†Hackers from ARTIFACT have neutralized the latest version of Denuvo protection.】
+L39:   * 【16†The Legend of Zelda Ocarina of Time benchmarked on PC Radeon RX 9060 XT and got up to 53 FPS】
+L40:   * 【17†Using DLSS 5 and Veyra, the Grand Theft Auto VI trailer was overclocked to 90 FPS with an RTX 4080.】
+L41:   * 【18†Comparing the gunplay mechanics of Grand Theft Auto VI and Watch Dogs 2】
+L42:   * 【19†The Witcher 3 received an unusual comparison of DLSS 5 and ray tracing】
+L43:   * 【20†Users are discussing the quality of DLSS 5 in Mafia The Old Country.】
+L44:   * 【21†Former Rockstar CTO explains why GTA 6 will be released on PC sooner】
+L45: ### HARDWARE
+L46:   * 【22†Windows 11 on MacBook Air M1 delivers 69% of the speed of macOS】
+L47:   * 【23†2. Lichii nx2 developers have implemented Dynamic FPS and optimized Switch 2 emulation.】
+L48:   * 【24†An updated plugin manager has been released for Lossless Scaling with the new NVIDIA DLSS 5.】
+L49:   * 【25†Gamer sold old one GeForce RTX 3090 for $1600 for a new one Radeon RX 9070 XT】
+L50:   * 【26†A faulty 12VHPWR cable caused PC crashes while gaming.】
+L51:   * 【27†Stockpiling memory chips will help Sony contain the cost of the PlayStation 6 console.】
+L52:   * 【28†Sony has secured supplies of GDDR7 memory for the PlayStation 6 console until March 2028.】
+L53:   * 【29†NVIDIA is giving away a custom GeForce RTX 5090 graphics card in style Hogwarts Legacy】
+L54:   * 【30†PlayStation 6 and Xbox Project Helix will receive fundamentally different AMD processors.】
+L55:   * 【31†The player built his first PC with Ryzen 7 7800X3D and RX 9070 XT for $2784 and encountered problems with the first launch】
+L56:   * 【32†A player sold a GeForce RTX 5090 for $6700 in cash to buy a Sapphire Nitro. RX 9070 XT】
+L57:   * 【33†RTX 5070 Ti prices hit $2770 after the RTX 5090 and RTX 5080 disappeared from sale.】
+L58:   * 【34†KytyPS5 emulator receives crash fixes for Pragmata and Ghost of Yotei】
+L59:   * 【35†Xbox Series S vs. AMD Ryzen Z2 FSR 4 Frame Time Comparison Analysis Extreme】
+L60:   * 【36†Player earned $501 after selling RTX 3090 for $1500 and buying RX 9070 XT for $999】
+L61: Copyright © 2009 - 2026 gamegpu.com
+L62: All rights reserved. Full or partial use of www.gamegpu.com materials only on condition that our site is referenced as a source
+L63: 
+L64: Using our benchmark results or creating charts based on them requires an active indexed link to our resource. We monitor even changed data and in case of violation we will submit a blocking request through Google without warning.
+L65: 
+L66: 【37†Posting SEO Articles】【38†Posting press releases】
+L67:   * 【39†Correspondence table GPU/CPU】
+L68:   * 【40†Home】
+L69:     * 【41†Video card selection】
+L70:     * 【42†Summary hierarchy of video cards】
+L71:     * 【43†Mining】
+L72:   * 【44†Tests】
+L73:     * 【45†Action/FPS/TPS】
+L74:     * 【46†RTS / Strategy】
+L75:     * 【47†RPG/Role playing】
+L76:     * 【48†Racing Simulators / Racing】
+L77:     * 【49†MMORPG / Online games】
+L78:     * 【50†Video reviews】
+L79:     * 【51†Retro benchmarks】
+L80:     * 【52†Game previews】
+L81:     * 【53†History】
+L82:     * 【54†APU test】
+L83:     * 【55†Video card test】
+L84:     * 【56†Monitors】
+L85:     * 【57†Game reviews】
+L86:     * 【58†Summary hierarchy of video cards】
+L87:     * 【59†PlayStation】
+L88:     * 【60†Nintendo】
+L89:     * 【61†Blog】
+L90:     * 【62†motherboards】
+L91:     * 【63†IT】
+L92:     * 【64†User Tests】
+L93:   * 【65†News】
+L94:     * 【66†HARDWARE】
+L95:     * 【4†GAMES】
+L96:     * 【67†Gaming news (archive)】
+L97:     * 【68†News (archive)】
+L98:     * 【69†Iron News (archive)】
+L99:     * 【70†News archive】
+L100:     * 【71†Press Releases】
+L101:     * 【72†Soft】
+L102:   * 【73†NVIDIA】
+L103:     * 【74†Drivers†www.nvidia.ru】
+L104:     * 【75†About NVIDIA】
+L105:     * 【76†GeForce Riva series】
+L106:     * 【77†GeForce 2 series】
+L107:     * 【78†GeForce 3 series】
+L108:     * 【79†GeForce 4 series】
+L109:     * 【80†GeForce FX Series】
+L110:     * 【81†GeForce 6 series】
+L111:     * 【82†GeForce 7 series】
+L112:     * 【83†GeForce 8 series】
+L113:     * 【84†GeForce 9 series】
+L114:     * 【85†GeForce GT 200 Series】
+L115:     * 【86†GeForce GTX 4XX Series】
+L116:     * 【87†GeForce GTX 5XX Series】
+L117:     * 【88†GeForce GTX 6XX Series】
+L118:     * 【89†GeForce GTX 7XX Series】
+L119:     * 【90†GeForce GTX 9XX Series】
+L120:     * 【91†GeForce GTX 1XXX Series】
+L121:     * 【92†GeForce RTX 2XXX Series】
+L122:     * 【93†GeForce RTX 3XXX Series】
+L123:     * 【94†GeForce RTX 4XXX Series】
+L124:     * 【95†GeForce RTX 5XXX Series】
+L125:     * 【96†GeForce RTX 6XXX Series】
+L126:   * 【97†AMD】
+L127:     * 【98†Drivers†support.amd.com】
+L128:     * 【99†About AMD】
+L129:     * 【100†Rage series】
+L130:     * 【101†Radeon series】
+L131:     * 【102†Radeon 7xxx series】
+L132:     * 【103†Radeon 8xxx series】
+L133:     * 【104†Radeon 9xxx series】
+L134:     * 【105†Radeon Xxxx series】
+L135:     * 【106†Radeon X1xxx series】
+L136:     * 【107†Radeon HD2xxx series】
+L137:     * 【108†Radeon HD3xxx series】
+L138:     * 【109†Radeon HD4xxx series】
+L139:     * 【110†Radeon HD5xxx series】
+L140:     * 【111†Radeon HD6xxx series】
+L141:     * 【112†Radeon HD7xxx series】
+L142:     * 【113†Radeon R 2XX series】
+L143:     * 【114†Radeon R 3XX series】
+L144:     * 【115†Radeon R 4XX series】
+L145:     * 【116†Radeon R 5XX series】
+L146:     * 【117†Radeon R 5XXX series】
+L147:     * 【118†Radeon R 6XXX series】
+L148:     * 【119†Radeon R 7XXX series】
+L149:     * 【120†Radeon R 9XXX series】
+L150:   * Drivers
+L151:     * 【74†NVIDIA Drivers†www.nvidia.ru】
+L152:     * 【98†AMD Drivers†support.amd.com】
+L153:     * 【121†Intel Drivers†www.intel.com】
+L154:   * Retro 3D
+L155:     * 【122†Prehistory GPU】
+L156:     * 【123†Video cards 3dfx】
+L157:     * 【124†Video cards Matrox】
+L158:     * 【125†S3 graphics cards】
+

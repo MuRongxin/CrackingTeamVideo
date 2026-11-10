@@ -1,0 +1,6 @@
+Total War - Three Kingdoms v1.7.1
+
+Game is updated to the latest version and all DLCs are included.
+
+How To Change Language:
+Go to data\language.txt and enter one of the following language codes

@@ -1,0 +1,176 @@
+Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack | TechSpot
+User login
+User icon
+Login
+Search
+A search icon
+TechSpot
+The word TechSpot
+Trending
+AI
+Indestructible Nokias
+Decompilation
+CPU Benchmarking
+(Bad) GPU Prices
+Ray Tracing Scam?
+Features
+Tech Culture
+Must Reads
+Explainers
+Legends of Tech
+Hardware
+Software
+Gaming
+Reviews
+Outstanding
+CPU
+Graphics
+Monitors
+PC Buying Guide
+Software
+Benchmarks
+Downloads
+Software Essentials
+Popular Apps
+DOTW
+Chrome
+VMWare
+Minecraft
+Drivers
+PS3 Firmware
+The Best
+Best CPUs
+Best GPUs
+Best Monitors
+Best SSD
+Best Phones
+Best Tablets
+Best Mouse
+Best PC Games
+Tech DB
+CPU Database
+GPU Database
+Product Finder
+Search
+Forums
+Join TechSpot Elite
+New Forum Posts
+Software
+Gaming
+drm
+denuvo
+Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack
+Voices38 claims the Denuvo-free game code is faster and better at exploiting gaming hardware
+By
+Alfonso Maruccia
+April 13, 2026, 16:37
+11 comments
+Add TechSpot
+Serving tech enthusiasts for over 25 years.
+TechSpot means tech analysis and advice
+you can trust
+.
+Denuvo No More:
+The unknown developer behind the recent, unprecedented Doom crack has done it again. Despite being released less than a couple of months ago, Resident Evil Requiem has already been "freed" from Denuvo, gaining a few FPS as a consequence. Irdeto's controversial anti-tamper and DRM technology is in deep trouble.
+Less than a month after removing Denuvo from
+Doom: The Dark Ages
+, Voices38 has now achieved the same feat with Resident Evil Requiem. Capcom's survival horror title is the first game released in 2026 to undergo a full "cracking" process, just as TDA marked the first cracked release of a 2025 game. This also represents another sign that Denuvo owner Irdeto may soon face significant changes in its position within the DRM market.
+The Resident.Evil.Requiem-voices38
+release
+is a 74.4GB download that is gradually spreading through P2P networks and direct download services. Voices38 confirmed that removing Denuvo from Capcom's game was its most challenging effort to date, despite it introducing only two new "features" compared to the Denuvo protection found in Doom: The Dark Ages.
+Capcom recently confirmed that Resident Evil Requiem is the fastest-selling title in the Resident Evil series. The game sold five million copies in just five days, with an additional one million units sold by March 16, 2026. The Japanese publisher is now generating around
+50%
+of its total game sales on PC, and is unlikely to suffer any significant financial impact now that Requiem has entered the piracy scene.
+In fact, Resident Evil Requiem was already "cracked" within just a few hours by a group using a previously unseen hypervisor-bypass method. Hypervisor-based cracks are increasingly disrupting the DRM landscape, marking a
+notable shift
+in PC game piracy techniques.
+Running an unsigned hypervisor driver requires several significant changes to Windows security, which is why Voices38 and other groups are still working on their own "proper" releases. A full Denuvo removal requires the anti-tamper system to be fully stripped from the game's executable code, a time-consuming process that very few developers are willing to undertake at this stage.
+// Related Stories
+A judge lets Denuvo subpoena Discord, Reddit, and Steam to unmask the cracker Voices38
+ESA calls Anbernic-style handhelds "superfakes" and wants the US to treat them as piracy hubs
+Furthermore, hypervisor-based cracks can allegedly have a noticeable impact on game performance. Voices38 said that one of their testers observed an average difference of 11 FPS between the properly cracked release and the hypervisor-based version, with the gap potentially widening on older or less powerful hardware. The developer also raised
+concerns
+about how the hypervisor driver may affect support for advanced x86-64 extensions such as AVX, as well as the long-term viability of the crack.
+11 comments
+445 likes and shares
+Share this article:
+See more TechSpot in Google
+Add us as a preferred source and our reporting shows up first when you search.
+Add TechSpot
+Featured on TechSpot
+Switch 2 jailbreaking is here
+Project moves one step closer to letting you run PS5 games on PC
+Most Popular
+34 comments
+The Best GPU for Budget PCs: CPU/GPU Scaling Tested
+13 comments
+Six humanoid robots worked a 24-hour shift at a convenience store, but two weren't good enough to keep their jobs
+Load Comments
+11
+...
+User Comments:
+11
+Got something to say? Join the discussion.
+Load all comments...
+Discuss
+11
+It's almost 2027, and the FAA is finally replacing the floppy disks used by US air traffic control
+13
+Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million
+7
+The solar system may have a sixth dwarf planet, hidden against the Milky Way
+9
+Razer's new USB-C earbuds bring back wired audio, complete with RGB lighting
+17
+Google, Meta, and TikTok sue California over law banning addictive social media features for children
+See more commented news stories
+Join the conversation
+Create a free TechSpot account to comment and connect with fellow tech enthusiasts.
+TechSpot Account
+Sign up for free
+– it takes 30 seconds.
+Already have an account?
+Login
+.
+Main Sections
+Tech News
+Reviews
+Features
+Downloads
+The Best
+Tech DB
+Product Finder
+News Archive
+Popular Features
+The Reason Nvidia Abandoned PC Gamers
+Essential Apps for Windows and Mac
+The Best Laptops 2026
+AMD X870 Motherboard Roundup
+The Best CPUs 2026
+The RTX 5090 Is No Longer Fast Enough
+AMD Radeon RX 9070 XT Roundup
+TechSpot PC Buying Guide
+TechSpot Originals
+Tech's Boldest Predictions, and How They Aged
+Legends of Tech
+How CPUs are Designed and Built
+Gone But Not Forgotten
+A Decade of Ryzen CPUs Tested
+Anatomy of Hardware
+The History of the Modern Graphics Processor
+Subscribe to the TechSpot Newsletter
+Leave this field empty
+Follow TechSpot
+About
+Ethics Statement
+Terms of Use
+Privacy Policy
+Manage Ad Consent
+TECHSPOT : Tech Enthusiasts, Power Users, Gamers
+TechSpot is a registered trademark and may not be used by third parties without express written permission.
+TechSpot is represented by
+Future PLC
+. Learn about
+advertising opportunities
+.
+© 1998 - 2026 TechSpot, Inc. All Rights Reserved.

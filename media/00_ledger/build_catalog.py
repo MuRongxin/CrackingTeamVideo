@@ -77,15 +77,18 @@ for r in records:
 (LEDGER/'assets.json').write_text(json.dumps(records,ensure_ascii=False,indent=2))
 fields=['id','task','kind','title','path','width','height','fps','duration','has_audio','author','rights','license_url','source_page','retrieved_at','bytes','sha256','duplicate_of','derived_from','preview_status']
 with (LEDGER/'素材登记.csv').open('w',encoding='utf-8-sig',newline='') as f:
-    writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore');writer.writeheader();writer.writerows(records)
+    writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore',lineterminator='\n');writer.writeheader();writer.writerows(records)
 
 sources=[]
 for folder in sorted((ROOT/'media/01_sources').iterdir()):
-    candidates=[folder/'original.pdf',folder/'original.html',folder/'original.txt',folder/'appdetails.json',folder/'commons_metadata.json']
+    reader=folder/'web_reader_capture.txt'
+    candidates=([reader] if reader.is_file() and reader.stat().st_size>500 else [])+[folder/'original.pdf',folder/'original.html',folder/'original.txt',folder/'appdetails.json',folder/'commons_metadata.json']
     path=next((p for p in candidates if p.is_file()),None)
     if path is None:continue
     meta=json.loads((folder/'metadata.json').read_text()) if (folder/'metadata.json').exists() else {'id':folder.name}
     meta['local_path']=str(path.relative_to(ROOT));meta['bytes']=path.stat().st_size
+    if path.name=='web_reader_capture.txt':
+        meta.update(original_request_status=meta.get('status'),original_path=meta.get('path'),original_sha256=meta.get('sha256'),status='reader_text_available',content_type='text/plain; web-reader capture',sha256=hashlib.sha256(path.read_bytes()).hexdigest())
     sources.append(meta)
 (LEDGER/'source_inventory.json').write_text(json.dumps(sources,ensure_ascii=False,indent=2))
 
@@ -102,7 +105,7 @@ for i,r in enumerate(unique):
         subprocess.run(['ffmpeg','-v','error','-y','-ss',str(t),'-i',str(path),'-frames:v','1','-vf','scale=480:-2',str(thumb)],check=True)
     url=quote('../'+r['path'].removeprefix('media/'),safe='/')
     pic=quote('../'+str(thumb.relative_to(ROOT/'media')),safe='/')
-    visual=f'<img loading="lazy" src="{pic}" alt="{html.escape(r["id"])}">' if thumb.exists() else '<div class="audio">音频</div>'
+    visual=f'<img loading="lazy" src="{pic}" alt="{html.escape(r["id"])}">' if r['kind']!='audio' and thumb.exists() else '<div class="audio">音频</div>'
     size=f'{r.get("width","")} × {r.get("height","")}' if r.get('width') else ''
     duration=f' · {r["duration"]:.1f} 秒' if r.get('duration') else ''
     cards.append(f'<article data-text="{html.escape(str(r))}"><a href="{url}">{visual}</a><h3>{html.escape(r["id"])}</h3><p>{html.escape(r.get("title") or r.get("task") or "史料图像")}</p><p>{size}{duration}</p><p>{html.escape(r.get("author",""))}</p><p>{html.escape(r.get("rights",""))}</p><a href="{url}">打开本地文件</a> · <a href="{html.escape(r.get("source_page", ""))}">来源</a></article>')

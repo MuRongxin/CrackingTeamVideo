@@ -1,0 +1,54 @@
+Denuvo (N.D. Cal. 4:26-cv-10423): DMCA § 1201 game anti-tamper circumvention complaint | Copyright Now
+Skip to content
+copyrightnow.com
+Law Office of Michael P. Eddy · San Diego
++1 800 770 0940
+COPYRIGHT
+NOW
+About
+Services
+Pricing
+News
+Contact
+Talk with counsel
++1 800 770 0940
+Talk with counsel
+Menu
+Federal court
+Denuvo sues a pseudonymous defendant over alleged circumvention of its game anti-tamper technology
+Denuvo GmbH filed a two-count complaint on September 14, 2026, in the Northern District of California, now No. 4:26-cv-10423-HSG, against Voices38, which it describes as an unknown individual or entity, and Does 1-10. Denuvo alleges Voices38 bypassed its Anti-Tamper protection in 26 video games and posted materials and instructions for others, in violation of 17 U.S.C. § 1201(a)(1) and (a)(2).
+November 2, 2026 · Michael P. Eddy
+Forum
+U.S. District Court for the Northern District of California
+Case
+No. 4:26-cv-10423-HSG
+The complaint
+Denuvo GmbH v. Voices38, an unknown individual or entity, and Does 1-10
+, filed September 14, 2026 as No. 5:26-cv-10423-NC (N.D. Cal.), is a 16-page complaint under 17 U.S.C. § 1201, ECF No. 1, with a jury demand. Denuvo is an Austrian company based in Salzburg that provides game-security technology, including its Anti-Tamper product, to game publishers. The complaint describes the defendant as a computer hacker using the alias voices38 on platforms including Reddit and alleges, on information and belief, that the defendant is an individual. It also lists a Discord user ID and Steam accounts it associates with the defendant.
+What it alleges
+Denuvo alleges the defendant bypassed its Anti-Tamper protection in 26 video games from several publishers, such as Need for Speed Heat, Hogwarts Legacy, Black Myth Wukong, and Doom: The Dark Ages, allowing pirated versions, and posted materials and instructions, including on a Reddit page, for others to access the cracked games. It cites registrations covering several of the games, such as PA 2-230-991 for Need for Speed Heat, which the Copyright Office public catalog lists under that title. It alleges, on information and belief, that the postings led a large number of people to play unlicensed copies.
+Counts and relief
+Count One pleads circumvention of a technological measure under 17 U.S.C. § 1201(a)(1). Count Two pleads trafficking in circumvention technology, products, or services under 17 U.S.C. § 1201(a)(2). Denuvo seeks a finding of willful violation; temporary, preliminary, and permanent injunctions; actual damages and profits or statutory damages under 17 U.S.C. § 1203(c); an accounting and a constructive trust over profits; a sworn compliance report; and fees and costs.
+On the docket
+Because a party had not consented to magistrate judge jurisdiction, the case was reassigned on September 28, 2026 to Judge Haywood S. Gilliam, Jr., and the clerk directed that filings use No. 4:26-cv-10423-HSG. The initial case management conference is set for January 12, 2027. On October 16, 2026, Judge Gilliam granted Denuvo's ex parte motion for expedited discovery, allowing narrowly tailored subpoenas to Discord, Valve, and Reddit to identify and serve the defendant.
+Sources
+Complaint, Denuvo GmbH v. Voices38, No. 5:26-cv-10423, ECF No. 1 (N.D. Cal. Sept. 14, 2026)
+Order Granting Plaintiff's Ex Parte Motion for Expedited Discovery, Denuvo GmbH v. Voices38, No. 4:26-cv-10423-HSG, ECF No. 26 (N.D. Cal. Oct. 16, 2026)
+Docket, Denuvo GmbH v. Voices38, No. 4:26-cv-10423 (N.D. Cal.)
+U.S. Copyright Office public record, PA 2-230-991
+17 U.S.C. § 1201
+17 U.S.C. § 1203
+Attorney advertising. General information, not legal advice. Reading this site does not create an attorney-client relationship. Nothing here guarantees or predicts the outcome of any particular matter. Michael P. Eddy is a patent attorney registered with the United States Patent and Trademark Office (Reg. No. 42,505) and a member of the State Bar of California (No. 189669). Practice through Law Office of Michael P. Eddy. Not admitted in any other state.
+Call, or describe the work or the dispute.
++1 800 770 0940
+Talk with counsel
+COPYRIGHT
+NOW
+Law Office of Michael P. Eddy
+12544 High Bluff Drive, Suite #200
+San Diego, CA 92130
++1 800 770 0940
+Privacy
+Terms
+Attorney advertising. General information, not legal advice. Reading this site does not create an attorney-client relationship. Nothing here guarantees or predicts the outcome of any particular matter.
+Michael P. Eddy is a patent attorney registered with the United States Patent and Trademark Office (Reg. No. 42,505) and a member of the State Bar of California (No. 189669). Practice through Law Office of Michael P. Eddy. Not admitted in any other state.

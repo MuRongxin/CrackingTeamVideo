@@ -1,0 +1,12 @@
+{
+  "id": "V21",
+  "source_url": "https://torrentfreak.com/denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/",
+  "retrieved_at": "2026-11-09T14:12:57.263991+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "error": "HTTPSConnectionPool(host='torrentfreak.com', port=443): Max retries exceeded with url: /denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+  "reader_capture_path": "media/01_sources/V21/web_reader_capture.txt",
+  "reader_capture_kind": "网页工具提供的带行号阅读器文本；非原始 HTML，不冒充原页截图",
+  "reader_retrieved_at": "2026-11-09T14:22:08.552035+00:00",
+  "reader_tool": "web.run；带行号的阅读器返回，可能只覆盖正文的一部分，不是完整原始网页"
+}

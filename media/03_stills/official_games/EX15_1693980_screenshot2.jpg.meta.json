@@ -1,0 +1,20 @@
+{
+  "id": "EX15_STEAM_1693980_screenshot2",
+  "task": "EX15",
+  "kind": "image",
+  "title": "Dead Space",
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_179cb4f80343d464ea2d7712b5982555271ad707.1920x1080.jpg?t=1777396576",
+  "path": "media/03_stills/official_games/EX15_1693980_screenshot2.jpg",
+  "source_page": "https://store.steampowered.com/app/1693980/",
+  "author": "Electronic Arts",
+  "rights": "官方商店宣传图片；公开使用条件待确认",
+  "retrieved_at": "2026-11-09T14:13:26.676722+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_179cb4f80343d464ea2d7712b5982555271ad707.1920x1080.jpg?t=1777396576",
+  "width": 1920,
+  "height": 1080,
+  "format": "JPEG",
+  "bytes": 692593,
+  "sha256": "aa62fb82eff8b01c7315f09958f4b2a23e4f1d923da14da38b409b305dc6d49c"
+}

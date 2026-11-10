@@ -1,0 +1,21 @@
+{
+  "id": "V06_nfo_original_image",
+  "task": "EX15",
+  "kind": "image",
+  "title": "V06 voices38 NFO（原帖所链图片）",
+  "url": "https://i.ibb.co/LdChS7mV/voices38.png",
+  "path": "media/03_stills/source_images/V06_nfo.png",
+  "source_code": "V06",
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1qackwg/deadspaceremakepropervoices38/",
+  "author": "发行文字署名 voices38；图片托管于 ImgBB",
+  "rights": "公开帖子链接的 NFO 图；授权未确认，仅研究与剪辑候选",
+  "retrieved_at": "2026-11-09T14:17:54.038818+00:00",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://i.ibb.co/LdChS7mV/voices38.png",
+  "width": 640,
+  "height": 1464,
+  "format": "PNG",
+  "bytes": 58797,
+  "sha256": "c84040bc946fa4bd66180661a89356407370834444c95f549ad90ad670899fea"
+}

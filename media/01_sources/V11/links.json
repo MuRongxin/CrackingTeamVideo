@@ -1,0 +1,536 @@
+{
+  "links": [
+    {
+      "text": "User login User icon Login",
+      "url": "https://www.techspot.com/community/login/"
+    },
+    {
+      "text": "Search A search icon",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html"
+    },
+    {
+      "text": "TechSpot The word TechSpot",
+      "url": "https://www.techspot.com/"
+    },
+    {
+      "text": "Trending",
+      "url": "https://www.techspot.com/trending/"
+    },
+    {
+      "text": "AI",
+      "url": "https://www.techspot.com/category/ai/"
+    },
+    {
+      "text": "Indestructible Nokias",
+      "url": "https://www.techspot.com/article/3163-legends-nokia-phones/"
+    },
+    {
+      "text": "Decompilation",
+      "url": "https://www.techspot.com/article/3184-decompilation-on-steroids/"
+    },
+    {
+      "text": "CPU Benchmarking",
+      "url": "https://www.techspot.com/article/3116-gamers-wrong-cpu-benchmarking/"
+    },
+    {
+      "text": "(Bad) GPU Prices",
+      "url": "https://www.techspot.com/tag/gpu+pricing/"
+    },
+    {
+      "text": "Ray Tracing Scam?",
+      "url": "https://www.techspot.com/article/3126-ray-tracing-scam/"
+    },
+    {
+      "text": "Features",
+      "url": "https://www.techspot.com/features/"
+    },
+    {
+      "text": "Tech Culture",
+      "url": "https://www.techspot.com/features/tech-culture/"
+    },
+    {
+      "text": "Must Reads",
+      "url": "https://www.techspot.com/features/must-reads/"
+    },
+    {
+      "text": "Explainers",
+      "url": "https://www.techspot.com/features/explainers/"
+    },
+    {
+      "text": "Legends of Tech",
+      "url": "https://www.techspot.com/features/legends-of-tech/"
+    },
+    {
+      "text": "Hardware",
+      "url": "https://www.techspot.com/features/hardware/"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.techspot.com/features/software/"
+    },
+    {
+      "text": "Gaming",
+      "url": "https://www.techspot.com/features/gaming/"
+    },
+    {
+      "text": "Reviews",
+      "url": "https://www.techspot.com/reviews/"
+    },
+    {
+      "text": "Outstanding",
+      "url": "https://www.techspot.com/reviews/outstanding/"
+    },
+    {
+      "text": "CPU",
+      "url": "https://www.techspot.com/reviews/cpu/"
+    },
+    {
+      "text": "Graphics",
+      "url": "https://www.techspot.com/reviews/graphics-cards/"
+    },
+    {
+      "text": "Monitors",
+      "url": "https://www.techspot.com/reviews/monitors/"
+    },
+    {
+      "text": "PC Buying Guide",
+      "url": "https://www.techspot.com/guides/buying/"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.techspot.com/features/software/"
+    },
+    {
+      "text": "Benchmarks",
+      "url": "https://www.techspot.com/features/gaming-benchmarks/"
+    },
+    {
+      "text": "Downloads",
+      "url": "https://www.techspot.com/downloads/"
+    },
+    {
+      "text": "Software Essentials",
+      "url": "https://www.techspot.com/article/2974-desktop-software-essentials/"
+    },
+    {
+      "text": "Popular Apps",
+      "url": "https://www.techspot.com/downloads/popular-this-week/"
+    },
+    {
+      "text": "DOTW",
+      "url": "https://www.techspot.com/category/dotw/"
+    },
+    {
+      "text": "Chrome",
+      "url": "https://www.techspot.com/downloads/4718-google-chrome.html"
+    },
+    {
+      "text": "VMWare",
+      "url": "https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html"
+    },
+    {
+      "text": "Minecraft",
+      "url": "https://www.techspot.com/downloads/5235-minecraft.html"
+    },
+    {
+      "text": "Drivers",
+      "url": "https://www.techspot.com/drivers/"
+    },
+    {
+      "text": "PS3 Firmware",
+      "url": "https://www.techspot.com/drivers/driver/file/information/17026/"
+    },
+    {
+      "text": "The Best",
+      "url": "https://www.techspot.com/bestof/"
+    },
+    {
+      "text": "Best CPUs",
+      "url": "https://www.techspot.com/bestof/cpu/"
+    },
+    {
+      "text": "Best GPUs",
+      "url": "https://www.techspot.com/bestof/graphics-cards/"
+    },
+    {
+      "text": "Best Monitors",
+      "url": "https://www.techspot.com/bestof/gaming-monitors/"
+    },
+    {
+      "text": "Best SSD",
+      "url": "https://www.techspot.com/bestof/storage/"
+    },
+    {
+      "text": "Best Phones",
+      "url": "https://www.techspot.com/bestof/phones/"
+    },
+    {
+      "text": "Best Tablets",
+      "url": "https://www.techspot.com/bestof/tablets/"
+    },
+    {
+      "text": "Best Mouse",
+      "url": "https://www.techspot.com/bestof/mice/"
+    },
+    {
+      "text": "Best PC Games",
+      "url": "https://www.techspot.com/bestof/pc-games/"
+    },
+    {
+      "text": "Tech DB",
+      "url": "https://www.techspot.com/specs/"
+    },
+    {
+      "text": "CPU Database",
+      "url": "https://www.techspot.com/specs/cpu/"
+    },
+    {
+      "text": "GPU Database",
+      "url": "https://www.techspot.com/specs/gpu/"
+    },
+    {
+      "text": "Product Finder",
+      "url": "https://www.techspot.com/products/"
+    },
+    {
+      "text": "Forums",
+      "url": "https://www.techspot.com/community/"
+    },
+    {
+      "text": "Join TechSpot Elite",
+      "url": "https://www.techspot.com/community/register/"
+    },
+    {
+      "text": "New Forum Posts",
+      "url": "https://www.techspot.com/community/whats-new/posts/"
+    },
+    {
+      "text": "Software",
+      "url": "https://www.techspot.com/category/software/"
+    },
+    {
+      "text": "Gaming",
+      "url": "https://www.techspot.com/category/gaming/"
+    },
+    {
+      "text": "drm",
+      "url": "https://www.techspot.com/tag/drm/"
+    },
+    {
+      "text": "denuvo",
+      "url": "https://www.techspot.com/tag/denuvo/"
+    },
+    {
+      "text": "Alfonso Maruccia",
+      "url": "https://www.techspot.com/community/staff/alfonso-maruccia.491138/"
+    },
+    {
+      "text": "11 comments",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html#commentsOffset"
+    },
+    {
+      "text": "Add TechSpot",
+      "url": "https://www.google.com/preferences/source?q=https://www.techspot.com"
+    },
+    {
+      "text": "you can trust",
+      "url": "https://www.techspot.com/ethics.html"
+    },
+    {
+      "text": "Doom: The Dark Ages",
+      "url": "https://www.techspot.com/news/111701-cracker-removes-controversial-denuvo-drm-doom-dark-ages.html"
+    },
+    {
+      "text": "release",
+      "url": "https://www.reddit.com/r/CrackWatch/comments/1sh1mjx/residentevilrequiemvoices38/"
+    },
+    {
+      "text": "",
+      "url": "https://www.techspot.com/images2/news/bigimage/2026/04/2026-04-13-image-3.png"
+    },
+    {
+      "text": "50%",
+      "url": "https://www.techspot.com/news/111558-capcom-pc-sales-hit-record-50-fueled-steam.html"
+    },
+    {
+      "text": "notable shift",
+      "url": "https://www.techspot.com/news/111897-hypervisor-based-cracks-breaking-denuvo-protections-hours.html"
+    },
+    {
+      "text": "A judge lets Denuvo subpoena Discord, Reddit, and Steam to unmask the cracker Voices38",
+      "url": "https://www.techspot.com/news/114261-denuvo-first-attempt-identify-cracker-voices38-went-far.html"
+    },
+    {
+      "text": "ESA calls Anbernic-style handhelds \"superfakes\" and wants the US to treat them as piracy hubs",
+      "url": "https://www.techspot.com/news/114191-esa-calls-anbernic-style-handhelds-superfakes-wants-us.html"
+    },
+    {
+      "text": "concerns",
+      "url": "https://www.reddit.com/r/PiratedGames/comments/1sh3kvt/comment/of9zt3s/?context=3"
+    },
+    {
+      "text": "11 comments 445 likes and shares",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html#commentsOffset"
+    },
+    {
+      "text": "",
+      "url": "https://www.reddit.com/submit?url=https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html&title=Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack"
+    },
+    {
+      "text": "",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html#Share"
+    },
+    {
+      "text": "Add TechSpot",
+      "url": "https://www.google.com/preferences/source?q=https://www.techspot.com"
+    },
+    {
+      "text": "Switch 2 jailbreaking is here",
+      "url": "https://www.techspot.com/news/114303-nintendo-switch-2-jailbreaking-here-homebrew-modding-reverse.html"
+    },
+    {
+      "text": "Project moves one step closer to letting you run PS5 games on PC",
+      "url": "https://www.techspot.com/news/114177-ps5-pc-project-wants-proton-playstation-passed-milestone.html"
+    },
+    {
+      "text": "Most Popular",
+      "url": "https://www.techspot.com/trending/"
+    },
+    {
+      "text": "34 comments",
+      "url": "https://www.techspot.com/review/3193-gpu-for-budget-pc-scaling-test/#commentsOffset"
+    },
+    {
+      "text": "The Best GPU for Budget PCs: CPU/GPU Scaling Tested",
+      "url": "https://www.techspot.com/review/3193-gpu-for-budget-pc-scaling-test/"
+    },
+    {
+      "text": "13 comments",
+      "url": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html#commentsOffset"
+    },
+    {
+      "text": "Six humanoid robots worked a 24-hour shift at a convenience store, but two weren't good enough to keep their jobs",
+      "url": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html"
+    },
+    {
+      "text": "Load Comments 11",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html"
+    },
+    {
+      "text": "...",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html#comments"
+    },
+    {
+      "text": "Got something to say? Join the discussion.",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html#add-new-comment"
+    },
+    {
+      "text": "Load all comments...",
+      "url": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html#comments"
+    },
+    {
+      "text": "11",
+      "url": "https://www.techspot.com/community/topics/its-almost-2027-and-the-faa-is-finally-replacing-the-floppy-disks-used-by-us-air-traffic-control.299379/"
+    },
+    {
+      "text": "It's almost 2027, and the FAA is finally replacing the floppy disks used by US air traffic control",
+      "url": "https://www.techspot.com/community/topics/its-almost-2027-and-the-faa-is-finally-replacing-the-floppy-disks-used-by-us-air-traffic-control.299379/"
+    },
+    {
+      "text": "13",
+      "url": "https://www.techspot.com/community/topics/data-center-heists-are-getting-bolder-and-the-latest-one-hit-nvidia-for-11-4-million.299394/"
+    },
+    {
+      "text": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million",
+      "url": "https://www.techspot.com/community/topics/data-center-heists-are-getting-bolder-and-the-latest-one-hit-nvidia-for-11-4-million.299394/"
+    },
+    {
+      "text": "7",
+      "url": "https://www.techspot.com/community/topics/the-solar-system-may-have-a-sixth-dwarf-planet-hidden-against-the-milky-way.299320/"
+    },
+    {
+      "text": "The solar system may have a sixth dwarf planet, hidden against the Milky Way",
+      "url": "https://www.techspot.com/community/topics/the-solar-system-may-have-a-sixth-dwarf-planet-hidden-against-the-milky-way.299320/"
+    },
+    {
+      "text": "9",
+      "url": "https://www.techspot.com/community/topics/razers-new-usb-c-earbuds-bring-back-wired-audio-complete-with-rgb-lighting.299389/"
+    },
+    {
+      "text": "Razer's new USB-C earbuds bring back wired audio, complete with RGB lighting",
+      "url": "https://www.techspot.com/community/topics/razers-new-usb-c-earbuds-bring-back-wired-audio-complete-with-rgb-lighting.299389/"
+    },
+    {
+      "text": "17",
+      "url": "https://www.techspot.com/community/topics/google-meta-and-tiktok-sue-california-over-law-banning-addictive-social-media-features-for-children.299381/"
+    },
+    {
+      "text": "Google, Meta, and TikTok sue California over law banning addictive social media features for children",
+      "url": "https://www.techspot.com/community/topics/google-meta-and-tiktok-sue-california-over-law-banning-addictive-social-media-features-for-children.299381/"
+    },
+    {
+      "text": "See more commented news stories",
+      "url": "https://www.techspot.com/community/forums/techspot-news-and-comments.51/"
+    },
+    {
+      "text": "",
+      "url": "https://www.techspot.com/community/login/"
+    },
+    {
+      "text": "Sign up for free",
+      "url": "https://www.techspot.com/community/register/"
+    },
+    {
+      "text": "Login",
+      "url": "https://www.techspot.com/community/login/"
+    },
+    {
+      "text": "Tech News",
+      "url": "https://www.techspot.com/"
+    },
+    {
+      "text": "Reviews",
+      "url": "https://www.techspot.com/reviews/"
+    },
+    {
+      "text": "Features",
+      "url": "https://www.techspot.com/features/"
+    },
+    {
+      "text": "Downloads",
+      "url": "https://www.techspot.com/downloads/"
+    },
+    {
+      "text": "The Best",
+      "url": "https://www.techspot.com/bestof/"
+    },
+    {
+      "text": "Tech DB",
+      "url": "https://www.techspot.com/specs/"
+    },
+    {
+      "text": "Product Finder",
+      "url": "https://www.techspot.com/products/"
+    },
+    {
+      "text": "News Archive",
+      "url": "https://www.techspot.com/news/"
+    },
+    {
+      "text": "The Reason Nvidia Abandoned PC Gamers",
+      "url": "https://www.techspot.com/article/3139-the-reason-nvidia-abandoned-gamers/"
+    },
+    {
+      "text": "Essential Apps for Windows and Mac",
+      "url": "https://www.techspot.com/article/2974-desktop-software-essentials/"
+    },
+    {
+      "text": "The Best Laptops 2026",
+      "url": "https://www.techspot.com/bestof/laptops/"
+    },
+    {
+      "text": "AMD X870 Motherboard Roundup",
+      "url": "https://www.techspot.com/review/3143-amd-x870-motherboards-full/"
+    },
+    {
+      "text": "The Best CPUs 2026",
+      "url": "https://www.techspot.com/bestof/cpu/"
+    },
+    {
+      "text": "The RTX 5090 Is No Longer Fast Enough",
+      "url": "https://www.techspot.com/article/3160-nvidia-rtx-6k-gaming/"
+    },
+    {
+      "text": "AMD Radeon RX 9070 XT Roundup",
+      "url": "https://www.techspot.com/review/3015-amd-radeon-9070-xt-roundup/"
+    },
+    {
+      "text": "TechSpot PC Buying Guide",
+      "url": "https://www.techspot.com/guides/buying/"
+    },
+    {
+      "text": "Tech's Boldest Predictions, and How They Aged",
+      "url": "https://www.techspot.com/article/3134-tech-predictions-and-quotes-v2/"
+    },
+    {
+      "text": "Legends of Tech",
+      "url": "https://www.techspot.com/features/legends-of-tech/"
+    },
+    {
+      "text": "How CPUs are Designed and Built",
+      "url": "https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/"
+    },
+    {
+      "text": "Gone But Not Forgotten",
+      "url": "https://www.techspot.com/features/gone-but-not-forgotten/"
+    },
+    {
+      "text": "A Decade of Ryzen CPUs Tested",
+      "url": "https://www.techspot.com/article/3117-10-years-amd-flagship-cpus/"
+    },
+    {
+      "text": "Anatomy of Hardware",
+      "url": "https://www.techspot.com/features/anatomy-of-hardware/"
+    },
+    {
+      "text": "The History of the Modern Graphics Processor",
+      "url": "https://www.techspot.com/article/650-history-of-the-gpu/"
+    },
+    {
+      "text": "",
+      "url": "https://profile.google.com/@techspot"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/techspot"
+    },
+    {
+      "text": "",
+      "url": "https://store.steampowered.com/news/group/3081"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/techspot"
+    },
+    {
+      "text": "",
+      "url": "https://www.techspot.com/feeds/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.techspot.com/about/"
+    },
+    {
+      "text": "Ethics Statement",
+      "url": "https://www.techspot.com/ethics.html"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.techspot.com/terms.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.techspot.com/privacy.html"
+    },
+    {
+      "text": "Future PLC",
+      "url": "https://go.future-advertising.com/TechSpot-Media-Kit.html"
+    },
+    {
+      "text": "advertising opportunities",
+      "url": "https://www.techspot.com/advertising/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack",
+      "url": "https://www.techspot.com/images2/news/bigimage/2026/04/2026-04-13-image-15.jpg",
+      "srcset": "https://www.techspot.com/images2/news/bigimage/2026/04/2026-04-13-image-15-j_500.webp 500w, https://www.techspot.com/images2/news/bigimage/2026/04/2026-04-13-image-15-j_1100.webp 1100w, https://www.techspot.com/images2/news/bigimage/2026/04/2026-04-13-image-15-j.webp 2000w"
+    },
+    {
+      "alt": "",
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E",
+      "srcset": ""
+    }
+  ]
+}

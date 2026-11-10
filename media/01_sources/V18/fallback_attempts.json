@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.reddit.com/r/CrackWatch/comments/1sxjuyo/bl4ckmythwuk0ngvoices38.json?raw_json=1",
+    "error": "403 Client Error: Blocked for url: https://www.reddit.com/r/CrackWatch/comments/1sxjuyo/bl4ckmythwuk0ngvoices38.json?raw_json=1"
+  },
+  {
+    "url": "https://old.reddit.com/r/CrackWatch/comments/1sxjuyo/bl4ckmythwuk0ngvoices38/",
+    "error": "403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3A%2F%2Fold.reddit.com%2Fr%2FCrackWatch%2Fcomments%2F1sxjuyo%2Fbl4ckmythwuk0ngvoices38%2F"
+  }
+]

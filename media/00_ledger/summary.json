@@ -1,13 +1,13 @@
 {
-  "media_files": 91,
-  "unique_media_files": 90,
+  "media_files": 111,
+  "unique_media_files": 110,
   "kinds": {
-    "video": 7,
-    "image": 76,
+    "video": 9,
+    "image": 94,
     "audio": 1,
     "pdf_page_export": 7
   },
-  "source_snapshots": 100,
+  "source_snapshots": 127,
   "pdf_originals": 5,
-  "total_bytes": 373228817
+  "total_bytes": 413320148
 }

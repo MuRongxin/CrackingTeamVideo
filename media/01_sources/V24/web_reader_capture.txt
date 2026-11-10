@@ -1,0 +1,116 @@
+Court Approves ‘voices38’ Subpoenas After Denuvo Drops Payment and Login Data Requests * TorrentFreak (https://torrentfreak.com/court-approves-voices38-subpoenas-after-denuvo-drops-payment-and-login-data-requests/)
+citeturn2view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://torrentfreak.com/court-approves-voices38-subpoenas-after-denuvo-drops-payment-and-login-data-requests/","lineno":null}); Total lines: 113
+L0: [Input: Enter Search Term and Press Enter]
+L1: 
+L2: 【0†Image】
+L3: 
+L4:   * 【1†News】
+L5:     * 【2†Piracy】
+L6:     * 【3†Piracy Research】
+L7:     * 【4†Law and Politics】
+L8:     * 【5†Lawsuits】
+L9:     * 【6†Anti-Piracy】
+L10:     * 【7†Technology】
+L11:   * 【8†Contact】
+L12:   * 【9†Subscribe】
+L13: 
+L14: 【10†Image】
+L15: # Court Approves ‘voices38’ Subpoenas After Denuvo Drops Payment and Login Data Requests
+L16: 
+L17: October 19, 2026 by 【11†Ernesto Van der Sar】
+L18: 
+L19: 【12†Home】 > 【5†Lawsuits】 >
+L20: Denuvo can subpoena Discord, Valve and Reddit to identify the anonymous game cracker ‘voices38’. After a California federal judge raised privacy concerns, the DRM company dropped its demands for payment data, comments and other data, reducing 46 requests to nine. What remains are identity and contact details, including IP addresses, which Denuvo says may be the only reliable path to identify the defendant.
+L21: 【13†Image: voices38】Earlier this month, Denuvo 【14†asked a California federal court】 for help to unmask the person or group behind the popular game cracking handle ‘voices38’.
+L22: 
+L23: The request is part of the DMCA anti-circumvention lawsuit that the Irdeto-owned company 【15†filed in September】. That complaint identified the cracker only by a Discord user ID, a Reddit account and seven Steam profiles.
+L24: Denuvo wanted to subpoena Discord, Valve and Reddit, and its request wasn’t limited to just names and email addresses. The proposed subpoenas also requested payment details, login logs and post/comment histories, which turned out to be a step too far for the court.
+L25: ## ‘Voluminous Data’
+L26: 
+L27: On October 8, Judge Haywood S. Gilliam Jr. ordered Denuvo to explain why it needs “the voluminous data contained in its requests for production” to identify and serve the defendant.
+L28: 
+L29: “Plaintiff’s requests for production go well beyond what is needed for the limited purpose of identifying the defendant and could pose substantial privacy concerns,” Judge Gilliam wrote.
+L30: 
+L31: Privacy concerns
+L32: 【16†Image: Privacy concerns】
+L33: The proposed subpoena to Valve was the broadest with 35 requests for the seven Steam profiles. These covered payment methods and transaction histories, IP addresses with timestamps, device identifiers, and any linked accounts.
+L34: 
+L35: Discord was asked to list the account’s server memberships and role assignments. Reddit, meanwhile, was asked for the posts and comments by ‘voices38’, as well as the account’s subreddit memberships.
+L36: ## From 46 Requests to Nine
+L37: 
+L38: The judge gave Denuvo the option to revise the subpoenas, using a narrow subpoena model from another case, or justify each data request in detail.
+L39: 
+L40: Denuvo chose the revise option. A few days ago, it filed new subpoenas that ask the platforms for targeted information.
+L41: Each request now covers documents relating to the identity or contact information of the account holder. That includes names, identification documents, email addresses, IP addresses, phone numbers, and business or residential addresses. Instead of the 46 original requests, there are now nine.
+L42: 
+L43: Info requested from Reddit
+L44: 【17†Image: reddit】
+L45: The new requests no longer list payment data, transaction histories, login logs, comments or posts. They do ask for IP addresses and phone numbers, which go beyond the model subpoena the judge pointed to. Denuvo argues that the platforms collect little information at sign up, and that what they collect is self reported.
+L46: 
+L47: The IP addresses may therefore be the only reliable path to the defendant, Denuvo writes. It also wants any name or identification document these companies have on file.
+L48: “Denuvo has only a pseudonym,” the company notes.
+L49: 
+L50: The nine requests
+L51: #  | Platform  | Target Account / Identifier  | Information Demanded
+L52: --- | --- | --- | ---
+L53: 1  | Discord  | User ‘voices38’ (ID: 1427416652684984397)  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L54: 2  | Reddit  | User ‘voices38’  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L55: 3  | Valve (Steam)  | Profile 76561199431115733  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L56: 4  | Valve (Steam)  | Profile 76561198779407957  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L57: 5  | Valve (Steam)  | Profile 76561199886659362  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L58: 6  | Valve (Steam)  | Profile 76561199875355070  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L59: 7  | Valve (Steam)  | Profile 76561199872834766  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L60: 8  | Valve (Steam)  | Profile 76561198730942620  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L61: 9  | Valve (Steam)  | Profile 76561198735927271  | Names, ID documents, email addresses, IP addresses, phone numbers, and physical addresses
+L62: The crypto platform FixedFloat isn’t on the list of subpoena targets. Denuvo previously said that it found cryptocurrency transactions by the cracker on the crypto exchange, but it hasn’t asked the court for permission to subpoena the platform.
+L63: ## Subpoenas Granted
+L64: 
+L65: After reviewing the new request, Judge Gilliam granted the motion. This means that Denuvo can now serve Discord, Valve and Reddit with the revised subpoenas, to identify the defendant and serve the lawsuit.
+L66: 
+L67: The subpoenas set November 3 as the deadline for the platforms to produce the requested information. Whether that will be enough to put a name to ‘voices38’ has yet to be seen.
+L68: 
+L69: —
+L70: A copy of Judge Gilliam’s order to show cause is available 【18†here (pdf)】. Denuvo’s response, with the revised subpoenas, can be found 【19†here (pdf)】, and the order granting the motion is available 【20†here (pdf)】.
+L71: 
+L72:   * 【21†Next Post】
+L73:   * 【22†Previous Post】
+L74: 
+L75:   *   * ### Tagged In:
+L76: 
+L77:   * 【23†Denuvo】
+L78:   * 【24†voices38】
+L79: ### You Might Also Like:
+L80: 
+L81: 【25†Law and Politics Game Industry Asks U.S. to Flag Denuvo Cracker ‘voices38’ as Notorious Piracy Threat October 12, 2026, 09:06 by Ernesto Van der Sar】
+L82: 
+L83: 【14†Piracy Denuvo Asks Court to Unmask Game Cracker ‘voices38’, Reveals Crypto Transactions October 6, 2026, 10:07 by Ernesto Van der Sar】
+L84: 
+L85: 【15†Piracy Denuvo Sues Game Cracker ‘voices38’ for Bypassing its Anti-Tamper DRM September 16, 2026, 09:29 by Ernesto Van der Sar】
+L86: 
+L87: ##### Sponsors
+L88: ##### Popular Posts
+L89: 
+L90:   * 【26†Which VPN Providers Really Take Privacy Seriously?】
+L91:   * 【27†Supreme Court Wipes Out Record Labels’ $1 Billion Piracy Judgment Against Cox】
+L92:   * 【28†Unreleased Movie Screeners Leak Online, Including Star-Studded ‘In the Hand of Dante’】
+L93:   * 【29†Former #1 Movie Piracy Site “Strongly Linked” to Global Infostealer Activity】
+L94:   * 【30†Feds Seize Domain Names of Sports Streaming Site Streameast】
+L95: ##### From 2 Years ago…
+L96: 
+L97: 【31†DDoS Guard: LaLiga’s Piracy Blocks Test Whether Anyone Will Protect the Internet】
+L98: 
+L99: 【32†Police Have a ‘Secret Weapon’ to Stop Fans Streaming Pirate TV For Free】
+L100: 
+L101: 【33†Secret Lovers: Public and Private Torrent Sites】
+L102: 
+L103: 【34†Mac BitTorrent Clients Reviewed】
+L104: #### TorrentFreak Stats
+L105: 
+L106:   * 【12†16031 Breaking news stories】
+L107:   * 【35†179k Social media followers】
+L108:   * 【9†19.9k RSS subscribers】
+L109: 
+L110: 【36†Copyright】 · 【37†AI Training & Data Mining Policy】 · 【38†Privacy Policy】 · 【39†VPN Providers】 · 【40†About TorrentFreak】
+L111: 
+L112:   *   * [Button: ×]
+

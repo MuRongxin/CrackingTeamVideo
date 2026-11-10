@@ -1,7 +1,7 @@
 {
   "id": "V07",
   "source_url": "https://www.reddit.com/r/CrackWatch/comments/1qcqf60/deadspaceremakecrackfixvoices38/",
-  "retrieved_at": "2026-11-08T04:39:52.868842+00:00",
+  "retrieved_at": "2026-11-09T14:12:47.022607+00:00",
   "rights": "待确认；公开访问不等于获得视频使用许可",
   "status": "thin_page_needs_review",
   "http_status": 200,
@@ -9,6 +9,10 @@
   "content_type": "text/html",
   "path": "media/01_sources/V07/original.html",
   "bytes": 8468,
-  "sha256": "bee34259fb8af7a54dcddc6657ac784467a6a5d8d14de333b52d56fe7e090fdd",
-  "title": "Reddit"
+  "sha256": "590e0e55742c3362ae4ea9a42df0acd23acba4cd1b8e4a6682969cbefeb08230",
+  "title": "Reddit",
+  "reader_capture_path": "media/01_sources/V07/web_reader_capture.txt",
+  "reader_capture_kind": "网页工具提供的带行号阅读器文本；非原始 HTML，不冒充原页截图",
+  "reader_retrieved_at": "2026-11-09T14:22:08.547377+00:00",
+  "reader_tool": "web.run；带行号的阅读器返回，可能只覆盖正文的一部分，不是完整原始网页"
 }

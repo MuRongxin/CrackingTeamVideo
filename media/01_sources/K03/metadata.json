@@ -1,0 +1,18 @@
+{
+  "id": "K03",
+  "source_url": "http://deviance.untergrund.net/",
+  "retrieved_at": "2026-11-09T10:54:49.853925+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "previous_attempts": [
+    {
+      "id": "K03",
+      "source_url": "https://deviance.untergrund.net/",
+      "retrieved_at": "2026-11-09T10:51:20.416323+00:00",
+      "rights": "待确认；公开访问不等于获得视频使用许可",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='deviance.untergrund.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+    }
+  ]
+}

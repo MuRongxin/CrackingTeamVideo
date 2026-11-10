@@ -1,0 +1,116 @@
+Denuvo Asks Court to Unmask Game Cracker 'voices38', Reveals Crypto Transactions * TorrentFreak (https://torrentfreak.com/denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/)
+citeturn8view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://torrentfreak.com/denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/","lineno":null}); Total lines: 113
+L0: [Input: Enter Search Term and Press Enter]
+L1: 
+L2: 【0†Image】
+L3: 
+L4:   * 【1†News】
+L5:     * 【2†Piracy】
+L6:     * 【3†Piracy Research】
+L7:     * 【4†Law and Politics】
+L8:     * 【5†Lawsuits】
+L9:     * 【6†Anti-Piracy】
+L10:     * 【7†Technology】
+L11:   * 【8†Contact】
+L12:   * 【9†Subscribe】
+L13: 
+L14: 【10†Image】
+L15: # Denuvo Asks Court to Unmask Game Cracker ‘voices38’, Reveals Crypto Transactions
+L16: 
+L17: October 6, 2026 by 【11†Ernesto Van der Sar】
+L18: 
+L19: 【12†Home】 > 【2†Piracy】 >
+L20: Denuvo has asked a California federal court for permission to subpoena Discord, Valve and Reddit, hoping to unmask the anonymous game cracker 'voices38.' The anti-piracy company wants account details, IP addresses and Steam transaction histories tied to a Discord ID, a Reddit account and seven Steam profiles. The filing also reveals that Denuvo uncovered cryptocurrency transactions by the cracker on the exchange FixedFloat.
+L21: 【13†Image: denuvo logo】 Last month, Denuvo filed a 【14†DMCA anti-circumvention lawsuit】 against the anonymous game cracker ‘voices38’ at a federal court in California.
+L22: 
+L23: The Irdeto-owned company accuses the cracker of bypassing its Anti-Tamper protection on 26 games, including Hogwarts Legacy and Black Myth: Wukong.
+L24: For now, Denuvo does not know who it is suing. The complaint listed voices38’s Discord user ID, a Reddit account, and seven Steam profiles, but no name. As the lawsuit unfolds, Denuvo hopes to change that, with the court’s help.
+L25: 
+L26: In a recent filing, the company asked the court for permission to subpoena the platforms for information that could identify the cracker, ahead of the regular discovery phase.
+L27: ## Subpoenas for Discord, Valve and Reddit
+L28: 
+L29: In its ex parte motion, Denuvo explains that it reached out to the three companies directly, without success. Valve and Reddit replied that their privacy policies prevent them from sharing user data without legal backing and Discord didn’t respond at all. A subpoena is the next step.
+L30: 
+L31: “Denuvo seeks leave of the Court to serve limited discovery on Discord, Inc., Valve Corporation, and Reddit, Inc. solely to determine Defendant’s true identity,” the motion reads.
+L32: The proposed subpoenas show what type of information Denuvo is after. Valve, for example, is asked to hand over the registration data, names and billing addresses for seven identified Steam user accounts.
+L33: 
+L34: One of the Steam profiles listed in the filing uses the name Enzo Favara, the 【15†main character†mafiagame.fandom.com】 of Mafia: The Old Country. That is one of the games Denuvo alleges voices38 cracked.
+L35: 
+L36: One of the Steam profiles
+L37: Denuvo’s proposed subpoena also requests the payment methods and transaction histories of these accounts, as well as IP addresses with timestamps, device identifiers, and any linked accounts.
+L38: 
+L39: Steam payment data
+L40: 
+L41: The seven Steam profiles don’t show much activity, but Denuvo likely linked them to cracking activity associated with ‘voices38’.
+L42: The proposed subpoenas for Discord and Reddit request detailed account data as well. Discord should list the servers the account is a member of and the roles assigned there. Reddit, meanwhile, is asked to produce all posts and comments by ‘voices38’, as well as the account’s subreddit memberships.
+L43: ## Crypto Transactions on FixedFloat
+L44: 
+L45: The motion also reveals new details. For example, it shows that Denuvo’s own investigation did not stop at these three platforms.
+L46: 
+L47: In a declaration filed alongside the motion, attorney Ryan Morris writes that Denuvo uncovered cryptocurrency transactions by the cracker on the exchange FixedFloat. These crypto transactions involve Bitcoin, Ethereum, and Solana.
+L48: 
+L49: From the declaration
+L50: The declaration doesn’t explain how Denuvo linked these transactions to ‘voices38.’ It also doesn’t say whether the transactions reveal anything about the person behind the handle.
+L51: 
+L52: FixedFloat is an instant crypto exchange that promotes its service as 【16†hassle free†ff.io】, with “no registration and unnecessary details.” Despite mentioning it explicitly, Denuvo doesn’t ask the court for permission to subpoena the crypto platform, and the filing doesn’t say why.
+L53: ## What’s Next
+L54: 
+L55: It’s now up to Judge Haywood S. Gilliam Jr. to decide whether Denuvo can send its subpoenas to Discord, Valve and Reddit.
+L56: 
+L57: Meanwhile, the lawsuit already appears to have caused some broader damage. Late last month, 【17†Tom’s Hardware reported†tomshardware.com】 that DenuvOwO, a group that released hypervisor bypasses for dozens of Denuvo games, had disbanded. A member reportedly said the lawsuit was a concern, while the CS.Rin forum removed links to the group’s releases.
+L58: The person or group targeted in the lawsuit didn’t seem impressed when the complaint was filed. “All is fine. Everything will continue as normal,” voices38 wrote on Reddit, shortly after the news broke.
+L59: 
+L60: 【18†Image: voices38 comment】
+L61: 
+L62: Since then, however, no new ‘voices38’ releases have been posted. Whether that’s related to the lawsuit is unknown.
+L63: 
+L64: —
+L65: 
+L66: Update: Irdeto was recently taken over 【19†by Canal+†irdeto.com】.
+L67: 
+L68: —
+L69: A copy of Denuvo’s ex parte motion for expedited discovery is available 【20†here (pdf)】.
+L70: 
+L71:   * 【21†Next Post】
+L72:   * 【22†Previous Post】
+L73: 
+L74:   *   * ### Tagged In:
+L75: 
+L76:   * 【23†Denuvo】
+L77:   * 【24†irdeto】
+L78:   * 【25†voices38】
+L79: ### You Might Also Like:
+L80: 
+L81: 【26†Lawsuits Court Approves ‘voices38’ Subpoenas After Denuvo Drops Payment and Login Data Requests October 19, 2026, 09:09 by Ernesto Van der Sar】
+L82: 
+L83: 【27†Law and Politics Game Industry Asks U.S. to Flag Denuvo Cracker ‘voices38’ as Notorious Piracy Threat October 12, 2026, 09:06 by Ernesto Van der Sar】
+L84: 
+L85: 【14†Piracy Denuvo Sues Game Cracker ‘voices38’ for Bypassing its Anti-Tamper DRM September 16, 2026, 09:29 by Ernesto Van der Sar】
+L86: 
+L87: ##### Sponsors
+L88: ##### Popular Posts
+L89: 
+L90:   * 【28†Which VPN Providers Really Take Privacy Seriously?】
+L91:   * 【29†Supreme Court Wipes Out Record Labels’ $1 Billion Piracy Judgment Against Cox】
+L92:   * 【30†Unreleased Movie Screeners Leak Online, Including Star-Studded ‘In the Hand of Dante’】
+L93:   * 【31†Former #1 Movie Piracy Site “Strongly Linked” to Global Infostealer Activity】
+L94:   * 【32†Feds Seize Domain Names of Sports Streaming Site Streameast】
+L95: ##### From 2 Years ago…
+L96: 
+L97: 【33†DDoS Guard: LaLiga’s Piracy Blocks Test Whether Anyone Will Protect the Internet】
+L98: 
+L99: 【34†Police Have a ‘Secret Weapon’ to Stop Fans Streaming Pirate TV For Free】
+L100: 
+L101: 【35†Secret Lovers: Public and Private Torrent Sites】
+L102: 
+L103: 【36†Mac BitTorrent Clients Reviewed】
+L104: #### TorrentFreak Stats
+L105: 
+L106:   * 【12†16031 Breaking news stories】
+L107:   * 【37†179k Social media followers】
+L108:   * 【9†19.9k RSS subscribers】
+L109: 
+L110: 【38†Copyright】 · 【39†AI Training & Data Mining Policy】 · 【40†Privacy Policy】 · 【41†VPN Providers】 · 【42†About TorrentFreak】
+L111: 
+L112:   *   * [Button: ×]
+

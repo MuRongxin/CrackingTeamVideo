@@ -10,5 +10,9 @@
   "path": "media/01_sources/P04/original.html",
   "bytes": 21731,
   "sha256": "eda717cebdd1d935d8e3fef015416bb3e1299b1a4a9b522219c7e443a1ea7568",
-  "title": "NFOHump"
+  "title": "NFOHump",
+  "related_assets": [
+    "media/03_stills/source_images/P04_01.png"
+  ],
+  "reading_notes": "media/01_sources/P04/nfo_reading.md"
 }

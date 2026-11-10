@@ -1,0 +1,13 @@
+{
+  "id": "V19",
+  "source_url": "https://archive.vn/2026.09.06-225428/https%3A/www.reddit.com/r/CrackWatch/comments/1w8ay2h/metalgearsolidvcompletevoices38/",
+  "retrieved_at": "2026-11-09T14:12:56.296486+00:00",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "failed",
+  "error": "HTTPSConnectionPool(host='archive.vn', port=443): Read timed out. (read timeout=12)",
+  "reader_capture_path": "media/01_sources/V19/web_reader_capture.txt",
+  "reader_capture_kind": "网页工具提供的带行号阅读器文本；非原始 HTML，不冒充原页截图",
+  "reader_retrieved_at": "2026-11-09T14:22:08.551170+00:00",
+  "reader_tool": "web.run；带行号的阅读器返回，可能只覆盖正文的一部分，不是完整原始网页",
+  "reader_source_url": "https://www.reddit.com/r/CrackWatch/comments/1w8ay2h/metalgearsolidvcompletevoices38/"
+}

@@ -1,0 +1,167 @@
+Voices38 criticized 0xZeOn's Denuvo hacking methods. (https://en.gamegpu.com/news/igry/voices38-raskritikoval-metody-vzloma-zashchity-denuvo-ot-0xzeon)
+citeturn4view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://en.gamegpu.com/news/igry/voices38-raskritikoval-metody-vzloma-zashchity-denuvo-ot-0xzeon","lineno":null}); Total lines: 164
+L0: [Input: Login]
+L1: 
+L2: [Input: Password]
+L3: 
+L4: [Input] Remember me
+L5: 
+L6: Login without a password
+L7: 
+L8: [Button: Sign In ]
+L9: 
+L10:   * 【0†Forgot your password?】
+L11:   * 【1†Forgot your username?】
+L12: [Input] [Input] [Input] [Input]
+L13: 
+L14: 【2†Image: Voices38 criticized 0xZeOn's Denuvo hacking methods.†gamegpu.com】
+L15: # Voices38 criticized 0xZeOn's Denuvo hacking methods.
+L16: 
+L17: 【3†Maxim Boldson】 【4†GAMES】 January 23 2026 Views: 32988
+L18: 
+L19: 【5†In the pirate community r/CrackWatch an argument broke out†old.reddit.com】 around attempts to hack security Denuvo in Game Black Myth: WukongUsers discussed rumors that the famous hacker voices38 doesn't play this game because of an agreement with a newcomer 0xZeOn, which attempts to bypass DRM using a hypervisor.
+L20: voices38 personally denied the existence of any agreement, but harshly criticized the hacking approach itself Denuvo via the hypervisor. He stated that using third-party drivers is "not a real crack" for security.
+L21: 
+L22: A scene veteran explained why the 0xZeOn method is dangerous and ineffective for combating Denuvo :
+L23:   1. PC threat: To bypass DRM you need to disable Secure Boot and memory protection Windows, and also put the system into benchmark mode.
+L24:   2. No Linux support: Due to the peculiarities of the hypervisor, the hacked Denuvo will not allow the game to run on Steam deck or via Proton.
+L25:   3. Instability: Any update Windows can restore protection Denuvo and break the bypass.
+L26: 
+L27: The hacker noted that he continues to develop his own tools for hacking Denuvo versions from 2024 to 2026, which will work correctly.
+L28: DISCUSSION CENTER
+L29: ### @GameGPU_com
+L30: 
+L31: Join the discussion, share your benchmark results, and debate hardware performance in X.
+L32: 
+L33: 【6†Discuss on X†x.com】
+L34: ### GAMES
+L35:   * 【7†Santa Monica Studios is preparing a deep reworking of the gameplay in the God of War trilogy remakes.】
+L36:   * 【8†Duet from Radeon RX 7900 XTX and RX 9060 XT delivered 540 FPS in World of Warcraft thanks to Lossless Scaling】
+L37:   * 【9†PlayStation 5 Pro will significantly outperform Xbox Series S in GTA 6 graphics quality.】
+L38:   * 【10†Half-Life 2's opening scene in City 17 was shown with NVIDIA DLSS 5 technology in 4K resolution.】
+L39:   * 【11†Pre-orders for a PlayStation 5 Slim and GTA VI bundle are now open in Brazil for $417.】
+L40:   * 【12†A side-by-side comparison of the movement and driving mechanics in Grand Theft Auto VI and Watch Dogs 2】
+L41:   * 【13†Details have surfaced online about the postponement of the second trailer for the Resident Evil remake.】
+L42:   * 【14†BoxShelf brings together PS5, Xbox, and Nintendo Switch emulators in a single game library.】
+L43:   * 【15†PlayStation 5 users will be the first to download GTA VI before Xbox owners.】
+L44:   * 【16†Rockstar Games is preparing 55 difficult challenges for players in Grand Theft Auto VI.】
+L45:   * 【17†The PlayStation 5 console at Costco has reached $790, with a limit of five units per purchase.】
+L46:   * 【18†Grand Theft Auto IV launches natively on PlayStation 5 with 120Hz and VRR support.】
+L47:   * 【19†Civilization VII cartridges are being used to hack the Nintendo Switch 2 console.】
+L48:   * 【20†Physical editions of GTA VI will feature a double-sided A3 poster instead of a paper map.】
+L49:   * 【21†Marvel's Spider-Man 3 won't hit PlayStation consoles until 2028.】
+L50: ### HARDWARE
+L51:   * 【22†The PSP 3 Handheld may come in two versions with 18 and 24 GB of memory, priced at up to $900.】
+L52:   * 【23†A GDDR7 memory chip shortage could push the PlayStation 6's retail price to $1200.】
+L53:   * 【24†Radeon RX 9060 XT rose to $750 amid demand for AI graphics cards】
+L54:   * 【25†Prices GeForce RTX 3060 12GB jumps to $610 due to supply shortage】
+L55:   * 【26†A user has turned a standard PlayStation 5 into a Grand Theft Auto VI-themed console for £30.】
+L56:   * 【27†Sapphire Pure Radeon RX 9070 XT became the first AMD card for gamers since the HD 4670】
+L57:   * 【28†The PlayStation 5 Pro price at Walmart has approached $2000.】
+L58:   * 【29†Xbox Series X outperforms base PS5 by 38% in upscaling performance with FSR 4.1】
+L59:   * 【30†Sapphire Pulse Radeon RX The 9070 GRE 12GB has dropped to $560 on Amazon Japan.】
+L60:   * 【31†The Galaxy S27 series will come with three different processors.】
+L61:   * 【32†Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.】
+L62:   * 【33†Replacing the nanodiamond thermal paste reduced heating Hotspot у Radeon RX 9070 XT by almost 15°】
+L63:   * 【34†Failed transfer Radeon RX 9070 XT water cooling ended with the hotspot heating up to 111°】
+L64:   * 【35†A PC with a Core i9 14900KF and an RTX 4070 Ti SUPER was mistakenly sold at Game X Change for $200.】
+L65:   * 【36†The price of the MSI GeForce RTX 5090 Gaming Trio OC graphics card has reached $7379 at Newegg.】
+L66: Copyright © 2009 - 2026 gamegpu.com
+L67: All rights reserved. Full or partial use of www.gamegpu.com materials only on condition that our site is referenced as a source
+L68: 
+L69: Using our benchmark results or creating charts based on them requires an active indexed link to our resource. We monitor even changed data and in case of violation we will submit a blocking request through Google without warning.
+L70: 
+L71: 【37†Posting SEO Articles】【38†Posting press releases】
+L72:   * 【39†Correspondence table GPU/CPU】
+L73:   * 【40†Home】
+L74:     * 【41†Video card selection】
+L75:     * 【42†Summary hierarchy of video cards】
+L76:     * 【43†Mining】
+L77:   * 【44†Tests】
+L78:     * 【45†Action/FPS/TPS】
+L79:     * 【46†RTS / Strategy】
+L80:     * 【47†RPG/Role playing】
+L81:     * 【48†Racing Simulators / Racing】
+L82:     * 【49†MMORPG / Online games】
+L83:     * 【50†Video reviews】
+L84:     * 【51†Retro benchmarks】
+L85:     * 【52†Game previews】
+L86:     * 【53†History】
+L87:     * 【54†APU test】
+L88:     * 【55†Video card test】
+L89:     * 【56†Monitors】
+L90:     * 【57†Game reviews】
+L91:     * 【58†Summary hierarchy of video cards】
+L92:     * 【59†PlayStation】
+L93:     * 【60†Nintendo】
+L94:     * 【61†Blog】
+L95:     * 【62†motherboards】
+L96:     * 【63†IT】
+L97:     * 【64†User Tests】
+L98:   * 【65†News】
+L99:     * 【66†HARDWARE】
+L100:     * 【4†GAMES】
+L101:     * 【67†Gaming news (archive)】
+L102:     * 【68†News (archive)】
+L103:     * 【69†Iron News (archive)】
+L104:     * 【70†News archive】
+L105:     * 【71†Press Releases】
+L106:     * 【72†Soft】
+L107:   * 【73†NVIDIA】
+L108:     * 【74†Drivers†www.nvidia.ru】
+L109:     * 【75†About NVIDIA】
+L110:     * 【76†GeForce Riva series】
+L111:     * 【77†GeForce 2 series】
+L112:     * 【78†GeForce 3 series】
+L113:     * 【79†GeForce 4 series】
+L114:     * 【80†GeForce FX Series】
+L115:     * 【81†GeForce 6 series】
+L116:     * 【82†GeForce 7 series】
+L117:     * 【83†GeForce 8 series】
+L118:     * 【84†GeForce 9 series】
+L119:     * 【85†GeForce GT 200 Series】
+L120:     * 【86†GeForce GTX 4XX Series】
+L121:     * 【87†GeForce GTX 5XX Series】
+L122:     * 【88†GeForce GTX 6XX Series】
+L123:     * 【89†GeForce GTX 7XX Series】
+L124:     * 【90†GeForce GTX 9XX Series】
+L125:     * 【91†GeForce GTX 1XXX Series】
+L126:     * 【92†GeForce RTX 2XXX Series】
+L127:     * 【93†GeForce RTX 3XXX Series】
+L128:     * 【94†GeForce RTX 4XXX Series】
+L129:     * 【95†GeForce RTX 5XXX Series】
+L130:     * 【96†GeForce RTX 6XXX Series】
+L131:   * 【97†AMD】
+L132:     * 【98†Drivers†support.amd.com】
+L133:     * 【99†About AMD】
+L134:     * 【100†Rage series】
+L135:     * 【101†Radeon series】
+L136:     * 【102†Radeon 7xxx series】
+L137:     * 【103†Radeon 8xxx series】
+L138:     * 【104†Radeon 9xxx series】
+L139:     * 【105†Radeon Xxxx series】
+L140:     * 【106†Radeon X1xxx series】
+L141:     * 【107†Radeon HD2xxx series】
+L142:     * 【108†Radeon HD3xxx series】
+L143:     * 【109†Radeon HD4xxx series】
+L144:     * 【110†Radeon HD5xxx series】
+L145:     * 【111†Radeon HD6xxx series】
+L146:     * 【112†Radeon HD7xxx series】
+L147:     * 【113†Radeon R 2XX series】
+L148:     * 【114†Radeon R 3XX series】
+L149:     * 【115†Radeon R 4XX series】
+L150:     * 【116†Radeon R 5XX series】
+L151:     * 【117†Radeon R 5XXX series】
+L152:     * 【118†Radeon R 6XXX series】
+L153:     * 【119†Radeon R 7XXX series】
+L154:     * 【120†Radeon R 9XXX series】
+L155:   * Drivers
+L156:     * 【74†NVIDIA Drivers†www.nvidia.ru】
+L157:     * 【98†AMD Drivers†support.amd.com】
+L158:     * 【121†Intel Drivers†www.intel.com】
+L159:   * Retro 3D
+L160:     * 【122†Prehistory GPU】
+L161:     * 【123†Video cards 3dfx】
+L162:     * 【124†Video cards Matrox】
+L163:     * 【125†S3 graphics cards】
+

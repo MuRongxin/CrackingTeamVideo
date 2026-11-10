@@ -1,0 +1,145 @@
+Denuvo Sues Game Cracker 'voices38' for Bypassing its Anti-Tamper DRM * TorrentFreak (https://torrentfreak.com/denuvo-sues-game-cracker-voices38-for-bypassing-its-anti-tamper-drm/)
+citeturn10view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://torrentfreak.com/denuvo-sues-game-cracker-voices38-for-bypassing-its-anti-tamper-drm/","lineno":null}); Total lines: 142
+L0: [Input: Enter Search Term and Press Enter]
+L1: 
+L2: 【0†Image】
+L3: 
+L4:   * 【1†News】
+L5:     * 【2†Piracy】
+L6:     * 【3†Piracy Research】
+L7:     * 【4†Law and Politics】
+L8:     * 【5†Lawsuits】
+L9:     * 【6†Anti-Piracy】
+L10:     * 【7†Technology】
+L11:   * 【8†Contact】
+L12:   * 【9†Subscribe】
+L13: 
+L14: 【10†Image】
+L15: # Denuvo Sues Game Cracker ‘voices38’ for Bypassing its Anti-Tamper DRM
+L16: 
+L17: September 16, 2026 by 【11†Ernesto Van der Sar】
+L18: 
+L19: 【12†Home】 > 【2†Piracy】 >
+L20: Anti-piracy outfit Denuvo has filed a DMCA anti-circumvention lawsuit in a U.S. federal court, targeting the anonymous game cracker known as 'voices38.' The defendant stands accused of bypassing Denuvo's digital locks on more than two dozen games, including Hogwarts Legacy and Black Myth: Wukong. As the case moves forward, the company will likely subpoena Reddit, Discord, and Valve for the cracker's identifying information.
+L21: 【13†Image: denuvo logo】 Earlier this year, a wave of 【14†hypervisor bypasses】 allowed pirates to ‘crack’ Denuvo-protected games on the day of release.
+L22: 
+L23: However, those bypasses weren’t Denuvo’s only headache. For those who preferred a less invasive approach, an anonymous cracker going by the name “【15†voices38†www.reddit.com】” continued to release many old-school cracks that patch Denuvo’s checks directly.
+L24: These traditional cracks don’t require users to disable Windows security features, which makes them quite popular. Catering to this demand, voices38’s output accelerated this summer, resulting in five Denuvo releases on a single day earlier this month. This didn’t go unnoticed at the 【16†Denuvo†en.wikipedia.org】 headquarters.
+L25: ## Denuvo Takes ‘voices38’ to Court
+L26: 
+L27: On Monday, Denuvo GmbH took legal action. In a complaint obtained by TorrentFreak, filed at the U.S. District Court for the Northern District of California, the Austrian company accuses voices38 of bypassing its Anti-Tamper technology on 26 games. This is a violation of the DMCA’s anti-circumvention provision, it argues.
+L28: 
+L29: 【17†Image: complaint】
+L30: Denuvo explains that the person using the ‘voices38’ handle has targeted the protection measures of a wide range of titles. This includes older titles such as FIFA 20 and PES 2020, as well as recent blockbusters including Hogwarts Legacy, Black Myth: Wukong, Resident Evil Requiem and Doom: The Dark Ages.
+L31: “Defendant is a computer hacker who is focused on reverse engineering, hacking, or ‘cracking’ video games employing Denuvo’s Anti-Tamper product,” Denuvo writes in the complaint, while mentioning that Reddit is one of their release channels.
+L32: 
+L33: “Defendant has bypassed DRM restrictions in copyrighted works, removing protections that allow copyright owners to restrict who may access their works, and allowing for pirated versions of those copyrighted works,” it adds.
+L34: ## Circumvention, Not Copyright Infringement
+L35: 
+L36: Denuvo doesn’t actually own the copyrights to any of these games. This means that Denuvo can’t sue “voices38” for traditional copyright infringement, as the game companies could.
+L37: Instead, Denuvo’s complaint relies on the anti-circumvention provisions of the DMCA. Under this section of US copyright law, it is prohibited to bypass a digital lock that controls access to a copyrighted work, or to distribute tools and instructions that help others to bypass copyright protections.
+L38: 
+L39: From the complaint
+L40: 【18†Image】
+L41: Importantly, the DMCA allows anyone that’s harmed by these bypasses to file a lawsuit. Denuvo argues that, since its entire business revolves around selling tamper protection to game companies including EA, Ubisoft, Capcom, and Sony, the cracks are directly hurting its business.
+L42: 
+L43: As far as we know, this is the first time Denuvo has sued a cracker in a U.S. court. While the lawsuit mentions game titles and their respective owners, none of the rightsholders are part of the lawsuit.
+L44: ## Reddit User, Steam Accounts and a Discord ID
+L45: 
+L46: The obvious problem is that nobody knows who voices38 is. The complaint names the defendant as “an unknown individual or entity,” together with ten unnamed Doe defendants.
+L47: 
+L48: Denuvo has done some homework, though. The filing lists a Discord user ID, a Reddit account and seven Steam profiles that it believes are linked to the cracker.
+L49: Denuvo hopes the information linked to these accounts will eventually unmask the cracker. Games have to be bought before they can be cracked, for example, and Steam purchases come with payment details.
+L50: 
+L51: With a case on file, Denuvo can ask the court for permission to subpoena Valve, Reddit and Discord for the associated account details. There’s no discovery request in the docket yet, but that will likely follow soon.
+L52: The complaint includes two DMCA anti-circumvention claims and requests damages, as well as an injunction that would bar voices38 from circumventing Denuvo’s Anti-Tamper protection in any games, including future ones that have yet to be created.
+L53: 
+L54: Persona 3 Reload, cracked this month 【19†Image: voices】
+L55: The ‘future’ part will be needed, as the list of 26 games was already outdated when the complaint was filed. In recent weeks, ‘voices38’ has released several new cracks, including Persona 3 Reload and Star Wars Outlaws.
+L56: ## What’s Next
+L57: 
+L58: Whether Denuvo will be able to identify ‘voices38’ has yet to be seen. Typically, these types of crackers take their precautions. But even if the subpoenas don’t deliver, the lawsuit is not necessarily pointless.
+L59: 
+L60: If Denuvo obtains a default judgment with an injunction, it will be easier to have accounts and download links removed.
+L61: 
+L62: A ruling in Denuvo’s favor could act as a deterrent, as confirmation that Denuvo can sue crackers directly may spook some people involved.
+L63: For now, the case is in its early stages. Time will tell what information Denuvo will request from Reddit, Discord and other third parties, and whether ‘voices38’ will make an appearance in court.
+L64: 
+L65: —
+L66: 
+L67: Update: responding to the news, voices38 shared the following comment 【20†on Reddit†www.reddit.com】: “All is fine. Everything will continue as normal.”
+L68: 
+L69: 【21†Image: commenbt】
+L70: 
+L71: —
+L72: A copy of Denuvo’s complaint against voices38, filed at the U.S. District Court for the Northern District of California, obtained by TorrentFreak, is available 【22†here (pdf)】.
+L73: 
+L74: The 26 games listed in the complaint, with the publisher named by Denuvo:
+L75: > 1. Need for Speed Heat (Electronic Arts)
+L76: > 2. EA Sports FIFA 20 (Electronic Arts)
+L77: > 3. Star Wars: Squadrons (Electronic Arts)
+L78: > 4. Need for Speed: Hot Pursuit Remastered (Electronic Arts)
+L79: > 5. EA Sports FIFA 21 (Electronic Arts)
+L80: > 6. Hi-Fi Rush (Bethesda)
+L81: > 7. F1 2021 (Electronic Arts)
+L82: > 8. Dead Space Remastered (Electronic Arts)
+L83: > 9. Doom: The Dark Ages (Bethesda)
+L84: > 10. Mafia: The Old Country (2K Games)
+L85: > 11. LEGO Batman: Legacy of the Dark Knight (WB Games)
+L86: > 12. Hogwarts Legacy (WB Games)
+L87: > 13. Total War: Three Kingdoms (SEGA)
+L88: > 14. Starlink: Battle for Atlas (Ubisoft)
+L89: > 15. Shining Resonance Refrain (SEGA)
+L90: > 16. PES 2020 (Konami)
+L91: > 17. Shin Megami Tensei III Nocturne HD Remaster (SEGA)
+L92: > 18. Scott Pilgrim vs. The World (Ubisoft)
+L93: > 19. Anno 1800 (Ubisoft)
+L94: > 20. Sonic Frontiers (SEGA)
+L95: > 21. Assassin’s Creed Mirage (Ubisoft)
+L96: > 22. Pragmata (Capcom)
+L97: > 23. Resident Evil Requiem (Capcom)
+L98: > 24. Black Myth Wukong (Game Science)
+L99: > 25. Stellar Blade (Sony)
+L100: > 26. 007 First Light (IO Interactive)
+L101:   * 【23†Next Post】
+L102:   * 【24†Previous Post】
+L103: 
+L104:   *   * ### Tagged In:
+L105: 
+L106:   * 【25†Denuvo】
+L107:   * 【26†voices38】
+L108: ### You Might Also Like:
+L109: 
+L110: 【27†Lawsuits Court Approves ‘voices38’ Subpoenas After Denuvo Drops Payment and Login Data Requests October 19, 2026, 09:09 by Ernesto Van der Sar】
+L111: 
+L112: 【28†Law and Politics Game Industry Asks U.S. to Flag Denuvo Cracker ‘voices38’ as Notorious Piracy Threat October 12, 2026, 09:06 by Ernesto Van der Sar】
+L113: 
+L114: 【29†Piracy Denuvo Asks Court to Unmask Game Cracker ‘voices38’, Reveals Crypto Transactions October 6, 2026, 10:07 by Ernesto Van der Sar】
+L115: 
+L116: ##### Sponsors
+L117: ##### Popular Posts
+L118: 
+L119:   * 【30†Which VPN Providers Really Take Privacy Seriously?】
+L120:   * 【31†Supreme Court Wipes Out Record Labels’ $1 Billion Piracy Judgment Against Cox】
+L121:   * 【32†Unreleased Movie Screeners Leak Online, Including Star-Studded ‘In the Hand of Dante’】
+L122:   * 【33†Former #1 Movie Piracy Site “Strongly Linked” to Global Infostealer Activity】
+L123:   * 【34†Feds Seize Domain Names of Sports Streaming Site Streameast】
+L124: ##### From 2 Years ago…
+L125: 
+L126: 【35†DDoS Guard: LaLiga’s Piracy Blocks Test Whether Anyone Will Protect the Internet】
+L127: 
+L128: 【36†Police Have a ‘Secret Weapon’ to Stop Fans Streaming Pirate TV For Free】
+L129: 
+L130: 【37†Secret Lovers: Public and Private Torrent Sites】
+L131: 
+L132: 【38†Mac BitTorrent Clients Reviewed】
+L133: #### TorrentFreak Stats
+L134: 
+L135:   * 【12†16031 Breaking news stories】
+L136:   * 【39†179k Social media followers】
+L137:   * 【9†19.9k RSS subscribers】
+L138: 
+L139: 【40†Copyright】 · 【41†AI Training & Data Mining Policy】 · 【42†Privacy Policy】 · 【43†VPN Providers】 · 【44†About TorrentFreak】
+L140: 
+L141:   *   * [Button: ×]
+
