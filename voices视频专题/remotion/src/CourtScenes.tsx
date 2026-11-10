@@ -83,6 +83,14 @@ export const CourtOpening = ({ timing }: { timing: ShotTiming }) => {
           }}
         />
         <Photo src={court("court")} style={{ width: 1120, margin: "0 auto" }} />
+        <div
+          style={{
+            height: 10,
+            borderTop: "1px dashed #8885",
+            margin: "20px 0 0",
+            background: "linear-gradient(180deg,#16213a0c,transparent)",
+          }}
+        />
         <Photo
           src={court("parties")}
           style={{ width: 680, marginTop: 50, marginLeft: 25 }}
@@ -111,7 +119,7 @@ export const CourtOpening = ({ timing }: { timing: ShotTiming }) => {
         style={{
           position: "absolute",
           left: 270,
-          top: 105,
+          top: 125,
           color: C.paper,
           fontFamily: F.mono,
           fontSize: 30,
@@ -193,7 +201,7 @@ export const Plaintiff = ({ timing }: { timing: ShotTiming }) => {
         <div style={{ marginTop: 50 }}>
           <Rule />
         </div>
-        <div style={{ fontSize: 38, marginTop: 32 }}>奥地利 · 萨尔茨堡</div>
+        <div style={{ fontSize: 38, marginTop: 32 }}>奥地利公司</div>
       </div>
       <SourceTag>法院文件｜起诉书 Dkt. 1｜第 2 段</SourceTag>
     </Scene>
@@ -365,27 +373,10 @@ const Word = ({
 );
 export const Pseudonym = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
-  const quoteStart = timing.voices[1].start;
-  const reveal = lerp(t, quoteStart - 0.2, quoteStart + 0.6);
   return (
     <Scene>
-      <AbsoluteFill
-        style={{
-          background: C.paper,
-          width: "50%",
-          translate: `${-reveal * 960}px 0`,
-        }}
-      />
-      <div
-        style={{
-          position: "absolute",
-          left: 160,
-          top: 365,
-          color: C.ink,
-          opacity: 1 - reveal,
-          translate: `${-reveal * 300}px 0`,
-        }}
-      >
+      <AbsoluteFill style={{ width: "50%", background: C.paper }} />
+      <div style={{ position: "absolute", left: 160, top: 365, color: C.ink }}>
         <Eyebrow>原告</Eyebrow>
         <div style={{ fontFamily: F.mono, fontSize: 68, color: C.blue }}>
           DENUVO GMBH
@@ -399,7 +390,6 @@ export const Pseudonym = ({ timing }: { timing: ShotTiming }) => {
           fontFamily: F.serif,
           fontSize: 48,
           color: C.gray,
-          opacity: 1 - reveal,
         }}
       >
         v.
@@ -410,7 +400,6 @@ export const Pseudonym = ({ timing }: { timing: ShotTiming }) => {
           left: 1070,
           top: 390,
           perspective: 1500,
-          opacity: 1 - reveal,
         }}
       >
         <div
@@ -447,47 +436,17 @@ export const Pseudonym = ({ timing }: { timing: ShotTiming }) => {
       <div
         style={{
           position: "absolute",
-          left: 240,
-          right: 240,
-          top: 250,
-          opacity: reveal,
-          translate: `0 ${lerp(t, quoteStart, quoteStart + 1, 55, 0)}px`,
-          scale: 1 + (t - quoteStart) * 0.003,
+          left: 1300,
+          top: 580,
+          fontSize: 115,
+          color: C.red,
+          opacity: lerp(t, 1.1, 1.4),
+          scale: 1 + Math.sin(t * 1.3) * 0.025,
         }}
       >
-        <Eyebrow dark>修改后的申请　 /　 2026.10</Eyebrow>
-        <div
-          style={{
-            fontFamily: F.serif,
-            fontSize: 130,
-            color: C.blue,
-            opacity: 0.4,
-            height: 70,
-          }}
-        >
-          “
-        </div>
-        <div style={{ fontFamily: F.mono, fontSize: 50, lineHeight: 1.6 }}>
-          Denuvo has only a{" "}
-          <span
-            style={{ borderBottom: `3px solid ${C.yellow}`, paddingBottom: 10 }}
-          >
-            pseudonym.
-          </span>
-        </div>
-        <div style={{ fontSize: 68, marginTop: 64 }}>
-          <span style={{ fontSize: 26, color: C.gray, marginRight: 28 }}>
-            译述
-          </span>
-          Denuvo 手里只有一个<span style={{ color: C.yellow }}>化名</span>
-        </div>
-        <div style={{ marginTop: 65 }}>
-          <Rule color="#e9ede633" progress={reveal} />
-        </div>
+        ?
       </div>
-      <SourceTag>
-        同期报道｜TorrentFreak｜2026-10-19 · 转述修改后的申请
-      </SourceTag>
+      <SourceTag>旁白概括｜据起诉书 Dkt. 1</SourceTag>
     </Scene>
   );
 };
@@ -526,53 +485,44 @@ const PlatformLogo = ({ kind }: { kind: string }) =>
 export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
   const { fps } = useVideoConfig();
-  const cut = timing.voices[1].start - 0.05;
+  const cut = timing.voices[0].start + 5;
   const q = t - cut;
   return (
     <Scene>
       {t < cut ? (
         <>
-          <div style={{ position: "absolute", left: 110, top: 180 }}>
-            <Eyebrow dark>EARLY DISCOVERY / 提前取证</Eyebrow>
+          <div style={{ position: "absolute", left: 120, top: 165 }}>
+            <Eyebrow dark>申请阶段 / 提前取证</Eyebrow>
           </div>
           <div style={{ position: "absolute", left: 120, top: 440 }}>
-            <NameCursor size={92} />
+            <NameCursor size={88} />
           </div>
-          <svg
-            style={{
-              position: "absolute",
-              inset: 0,
-              width: "100%",
-              height: "100%",
-            }}
-          >
+          <svg width="1920" height="1080" style={{ position: "absolute" }}>
             {[0, 1, 2].map((i) => (
               <path
                 key={i}
-                d={`M710 500 C840 500 800 ${265 + i * 220} 1020 ${265 + i * 220}`}
-                fill="none"
+                d={`M710 500 C840 500 800 ${265 + i * 210} 1020 ${265 + i * 210}`}
                 stroke={C.gray}
                 strokeWidth="2"
-                strokeDasharray="8 12"
-                opacity={lerp(t, 1.5 + i * 0.55, 1.85 + i * 0.55)}
-                strokeDashoffset={-t * 18}
+                strokeDasharray="7 11"
+                fill="none"
+                opacity={lerp(t, 1.4 + i * 0.6, 1.8 + i * 0.6)}
               />
             ))}
           </svg>
           {["Discord", "Valve", "Reddit"].map((name, i) => {
-            const a = 1.4 + i * 0.63;
+            const a = 1.4 + i * 0.6;
             return (
               <Frame
                 key={name}
                 style={{
-                  left: 1020 + i * 38,
-                  top: 175 + i * 213,
+                  left: 1020 + i * 35,
+                  top: 175 + i * 210,
                   width: 600,
                   height: 175,
                   padding: "27px 35px",
                   rotate: `${[-4, 1, 4][i]}deg`,
                   translate: `${lerp(t, a, a + 0.6, 900, 0)}px 0`,
-                  color: C.ink,
                   display: "flex",
                   alignItems: "center",
                   gap: 24,
@@ -590,7 +540,7 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
                     position: "absolute",
                     right: 20,
                     bottom: 20,
-                    fontSize: 19,
+                    fontSize: 22,
                     scale: spring({
                       frame: Math.max(0, (t - a - 0.45) * fps),
                       fps,
@@ -598,9 +548,7 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
                     }),
                   }}
                 >
-                  SUBPOENA
-                  <br />
-                  传票
+                  申请传票
                 </Stamp>
               </Frame>
             );
@@ -610,17 +558,17 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
         <Frame
           style={{
             left: 230,
-            top: 170,
+            top: 175,
             width: 1460,
-            height: 670,
+            height: 650,
             padding: "55px 70px",
-            rotate: `${-0.6 + q * 0.09}deg`,
-            scale: lerp(q, 0, 0.65, 0.96, 1),
+            rotate: `${-0.6 + q * 0.08}deg`,
+            scale: lerp(q, 0, 0.6, 0.96, 1),
           }}
         >
-          <Eyebrow>IDENTIFY THE DEFENDANT / 账号背后的人</Eyebrow>
-          <div style={{ fontSize: 66, marginBottom: 44 }}>
-            他叫什么，住在哪，怎么联系？
+          <Eyebrow>账号背后的人 / 待识别</Eyebrow>
+          <div style={{ fontSize: 64, marginBottom: 44 }}>
+            叫什么，住在哪，怎么联系？
           </div>
           {["姓名", "住址", "联系方式"].map((label, i) => (
             <div
@@ -630,75 +578,30 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
                 borderTop: "1px solid #16213a33",
                 display: "flex",
                 alignItems: "center",
-                position: "relative",
               }}
             >
-              <div style={{ fontSize: 38, width: 300 }}>{label}</div>
+              <div style={{ fontSize: 38, width: 380 }}>{label}</div>
               <div
                 style={{
                   fontFamily: F.mono,
-                  fontSize: 41,
+                  fontSize: 54,
                   color: C.gray,
-                  opacity: lerp(q, 0.3 + i * 0.75, 0.5 + i * 0.75),
+                  opacity: lerp(q, 0.3 + i * 0.55, 0.6 + i * 0.55),
                 }}
               >
-                {i === 0 && q < 1.2 ? (
-                  <span style={{ color: C.yellow }}>voices38</span>
-                ) : (
-                  <span style={{ letterSpacing: 8 }}>▇▇▇▇▇</span>
-                )}
+                ?
               </div>
-              {i === 0 && q > 0.7 && (
-                <>
-                  <div
-                    style={{
-                      position: "absolute",
-                      left: 299,
-                      top: 57,
-                      width: lerp(q, 0.7, 1, 0, 250),
-                      height: 4,
-                      background: C.red,
-                      rotate: "-6deg",
-                      opacity: q < 1.3 ? 1 : 0,
-                    }}
-                  />
-                  <span
-                    style={{
-                      color: C.red,
-                      fontSize: 27,
-                      marginLeft: 36,
-                      opacity: lerp(q, 0.7, 1),
-                    }}
-                  >
-                    这是网名
-                  </span>
-                </>
-              )}
             </div>
           ))}
         </Frame>
       )}
-      <SourceTag>同期报道｜TorrentFreak｜2026-10-06</SourceTag>
+      <SourceTag>同期报道｜TorrentFreak｜2026-10-06 · 申请阶段</SourceTag>
     </Scene>
   );
 };
-const categories = [
-  "付款记录",
-  "交易记录",
-  "登录日志",
-  "帖子",
-  "评论",
-  "姓名",
-  "证件",
-  "邮箱",
-  "IP 地址",
-  "电话",
-  "住址",
-];
 export const Requests = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
-  const d = timing.duration;
-  const collapse = d * 0.6;
+  const collapse = timing.voices[1].start + 0.35;
   const k = lerp(t, collapse, collapse + 1.1);
   const count = Math.round(
     interpolate(t, [collapse, collapse + 0.7], [46, 9], clamp),
@@ -706,15 +609,8 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Scene paper>
       <div style={{ position: "absolute", left: 125, top: 155 }}>
-        <Eyebrow>REQUESTS FOR PRODUCTION / 取证请求</Eyebrow>
-        <div
-          style={{
-            fontFamily: F.mono,
-            fontSize: 170,
-            lineHeight: 1,
-            color: C.ink,
-          }}
-        >
+        <Eyebrow>取证请求 / 数量变化</Eyebrow>
+        <div style={{ fontFamily: F.mono, fontSize: 170, lineHeight: 1 }}>
           {count}
           <span style={{ fontSize: 35, marginLeft: 25 }}>项</span>
         </div>
@@ -723,12 +619,12 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
         style={{
           position: "absolute",
           right: 145,
-          top: 160,
+          top: 170,
           width: 900,
-          opacity: lerp(t, 0.8, 1.4) * (1 - k),
+          opacity: lerp(t, 2, 2.5) * (1 - k),
         }}
       >
-        <Eyebrow>2026.10.08 / 法院命令 · 原文节选</Eyebrow>
+        <Eyebrow>法院命令 / 2026.10.08</Eyebrow>
         <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
           {["order-line1", "order-line2", "order-line3"].map((name, i) => (
             <Photo
@@ -740,13 +636,13 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
         </div>
         <div
           style={{
+            width: lerp(t, 2.4, 3, 0, 720),
             height: 3,
-            width: lerp(t, 1.4, 2, 0, 690),
             background: C.red,
-            marginTop: 12,
+            marginTop: 15,
           }}
         />
-        <div style={{ fontSize: 29, marginTop: 17, lineHeight: 1.4 }}>
+        <div style={{ fontSize: 31, marginTop: 20, lineHeight: 1.4 }}>
           远超识别被告所需
           <br />
           可能带来严重的隐私问题
@@ -754,14 +650,12 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
       </div>
       {Array.from({ length: 46 }, (_, i) => {
         const keep = i < 9;
-        const x = 130 + (i % 8) * 205;
-        const y = 520 + Math.floor(i / 8) * 55;
         const drop = keep
           ? 0
           : lerp(
               t,
-              collapse + (i - 9) * 0.017,
-              collapse + 0.9 + (i - 9) * 0.017,
+              collapse + (i - 9) * 0.015,
+              collapse + 0.8 + (i - 9) * 0.015,
               0,
               900,
             );
@@ -770,79 +664,47 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
             key={i}
             style={{
               position: "absolute",
-              left: interpolate(k, [0, 1], [x, 130 + i * 185]),
-              top: interpolate(k, [0, 1], [y, 520]) + drop,
+              left: interpolate(
+                k,
+                [0, 1],
+                [130 + (i % 8) * 205, 130 + i * 185],
+              ),
+              top:
+                interpolate(k, [0, 1], [535 + Math.floor(i / 8) * 49, 540]) +
+                drop,
               width: keep ? interpolate(k, [0, 1], [192, 170]) : 192,
-              height: keep ? interpolate(k, [0, 1], [49, 174]) : 49,
-              background: keep && k > 0.5 ? C.ink : "#fffc",
-              border: "1px solid #16213a25",
-              boxShadow: "0 5px 14px #16213a09",
-              color: keep && k > 0.5 ? C.paper : C.ink,
-              padding: keep && k > 0.5 ? "19px 10px" : "9px 14px",
-              fontSize: 23,
-              rotate: `${keep ? Math.sin(t * 1.3 + i) * k * 0.4 : (drop / 45) * (i % 2 ? 1 : -1)}deg`,
-              opacity: lerp(t, i * 0.012, 0.3 + i * 0.012),
-              overflow: "hidden",
-              textAlign: keep && k > 0.5 ? "center" : "left",
+              height: keep ? interpolate(k, [0, 1], [40, 125]) : 40,
+              background: keep && k > 0.5 ? C.ink : "#fff9",
+              border: "1px solid #16213a33",
+              boxShadow: "0 5px 13px #16213a09",
+              rotate: `${keep ? Math.sin(t + i) * k * 0.3 : (drop / 55) * (i % 2 ? 1 : -1)}deg`,
+              opacity: lerp(t, i * 0.01, 0.4 + i * 0.01),
             }}
-          >
-            {keep && k > 0.5 ? (
-              <>
-                <div
-                  style={{
-                    fontFamily: F.mono,
-                    fontSize: 22,
-                    marginBottom: 22,
-                    color: C.blue,
-                  }}
-                >
-                  {i === 0 ? "Discord" : i === 1 ? "Reddit" : "Steam"}
-                </div>
-                身份／
-                <br />
-                联系方式
-              </>
-            ) : (
-              categories[i % categories.length]
-            )}
-            {!keep && t > collapse && (
-              <div
-                style={{
-                  position: "absolute",
-                  height: 2,
-                  background: C.red,
-                  width: "90%",
-                  top: 25,
-                  left: 8,
-                  rotate: "-7deg",
-                }}
-              />
-            )}
-          </div>
+          />
         );
       })}
       <div
         style={{
           position: "absolute",
-          top: 367,
           left: 130,
+          top: 380,
           fontSize: 37,
           color: C.red,
           opacity: k,
         }}
       >
-        范围收窄
+        Denuvo 收窄请求
       </div>
       <div
         style={{
           position: "absolute",
           right: 130,
-          top: 816,
+          top: 815,
           fontSize: 24,
           color: C.gray,
         }}
       >
-        卡面为示意
+        请求数量示意
       </div>
       <SourceTag>
         {k < 0.5

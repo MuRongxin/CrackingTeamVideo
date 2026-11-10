@@ -1,0 +1,21 @@
+{
+  "id": "V38_A3_reloaded-os-note",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第三幕 NFO 原图局部：reloaded-os-note",
+  "path": "media/03_stills/voices38_act3/reloaded-os-note.png",
+  "derived_from": "media/03_stills/source_images/P05_01.png",
+  "source_page": "https://www.nfohump.com/index.php?id=105005&item=viewnfo&menu=quicknav&switchto=nfos",
+  "author": "RELOADED（发行文字）；图中另有 nERv 署名",
+  "rights": "NFOHump 保存的 NFO 渲染图；未取得公开使用授权，现作研究与剪辑候选",
+  "status": "exported",
+  "source_sha256": "9fd5859ce667bb952ced1a3c356dda6c87c3032c8e1a7eb78b0b82254a01e2da",
+  "bytes": 1256,
+  "sha256": "a610d5df8639c0505a03bf5a4f4e98faad151582e8b4bbd6452fa289a095ee22",
+  "crop_pixels": [
+    8,
+    548,
+    632,
+    604
+  ]
+}

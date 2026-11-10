@@ -3,14 +3,10 @@ from pathlib import Path
 from PIL import Image
 import os,shutil,wave,json,hashlib,subprocess
 root=Path(__file__).resolve().parents[1];repo=root.parents[1];pub=root/'public/v38';records=[]
-voices=[]
-for n in range(20,65):
- src=next((root.parent/'视频文稿配音（前2幕）').glob(f'sentence_{n:02}_*'))
- dst=pub/'vo'/f'sentence-{n:02}.wav';shutil.copyfile(src,dst)
- with wave.open(str(src)) as w:duration=w.getnframes()/w.getframerate()
- voices.append({'id':n,'file':f'v38/vo/sentence-{n:02}.wav','duration':duration,'original':src.name})
- records.append({'path':str(dst.relative_to(repo)),'derived_from':str(src.relative_to(repo)),'status':'copied','note':'原配音；未变速、未替换'})
-(root/'src/act2/voice-manifest.json').write_text(json.dumps(voices,ensure_ascii=False,indent=2)+'\n')
+subprocess.run(['python3',str(root/'scripts/sync-voiceover.py')],check=True)
+voices=[v for v in json.loads((root/'current-voice-provenance.json').read_text()) if 12<=v['id']<=53]
+for v in voices:
+ records.append({'path':str((root/'public'/v['file']).relative_to(repo)),'derived_from':v['source'],'status':'copied','note':'新版录音；原速原样'})
 source=repo/'media/03_stills/source_images/P04_01.png'
 with Image.open(source) as im:
  for name,box in {'reloaded-header':(0,0,624,438),'reloaded-motto':(124,970,502,986)}.items():
@@ -45,9 +41,12 @@ for name in ['reloaded-header','reloaded-motto']:
   'author':'RELOADED / nERv；NFOHump 渲染存档','status':'exported','rights':'衍生裁切；沿用原 NFO 渲染存档使用条件，未取得额外公开使用授权',
   'bytes':archive.stat().st_size,'sha256':hashlib.sha256(archive.read_bytes()).hexdigest()}
  archive.with_suffix('.png.meta.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n')
-for name in ['rewind','crt','beep','stretch','notify','voice-break','water']:
+for name in ['rewind','crt','beep','notify','voice-break']:
  dst=pub/'sfx'/f'{name}.wav'
  if dst.exists():records.append({'path':str(dst.relative_to(repo)),'derived_from':'voices视频专题/remotion/scripts/make-act2-sfx.py','status':'generated','note':'原创合成转场音效；无音乐、无语音采样'})
 for r in records:r['sha256']=hashlib.sha256((repo/r['path']).read_bytes()).hexdigest()
 (root/'act2-asset-provenance.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')
 print('Prepared',len(records),'local assets. Voice duration:',sum(v['duration'] for v in voices))
+
+# Add the official still and normalize both voice provenance ledgers.
+subprocess.run(['python3',str(root/'scripts/sync-voiceover.py')],check=True)

@@ -11,33 +11,33 @@ import {
   OldNfo,
   TinyNfo,
   FewLines,
-  FortyGB,
 } from "./act2/Origins";
 import {
   Versions,
   Updates,
   DenuvoShell,
   LayerDiagram,
-  LaunchWindow,
-  Tail,
 } from "./act2/Protection";
+import { FirstAttempt } from "./act2/Voices";
 import {
-  Research,
-  FirstAttempt,
-  IxbtOpening,
-  Farewell,
-  WeWon,
-  Cracked,
-  ColdWater,
-  Expiry,
-} from "./act2/Voices";
+  CommercialWindow,
+  FiveDays,
+  DenuvoResponse,
+  QuietNews,
+  WhyStarted,
+  Retreat,
+  CommunityTitle,
+  DoubleMeaning,
+  Caution,
+  Unanswered,
+} from "./act2/Revised";
 import { Act2Sound } from "./act2/Sound";
 const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
   const { fps } = useVideoConfig();
   return (
     <TransitionSeries>
       <TransitionSeries.Sequence
-        name="A2-01 倒带与幕标题"
+        name="A2-01 倒带"
         durationInFrames={Math.round(timings[0].duration * fps)}
       >
         <Rewind />
@@ -84,7 +84,7 @@ const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
         <Act2Sound shot={6} timing={timings[5]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-07 几行字"
+        name="A2-07 几行说明"
         durationInFrames={Math.round(timings[6].duration * fps)}
       >
         <FewLines timing={timings[6]} />
@@ -92,74 +92,74 @@ const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
         <Act2Sound shot={7} timing={timings[6]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-08 40 GB"
+        name="A2-08 三个发行年份"
         durationInFrames={Math.round(timings[7].duration * fps)}
       >
-        <FortyGB />
+        <Versions timing={timings[7]} />
         <Narration timing={timings[7]} />
         <Act2Sound shot={8} timing={timings[7]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-09 版本时间线"
+        name="A2-09 新的是游戏版本"
         durationInFrames={Math.round(timings[8].duration * fps)}
       >
-        <Versions timing={timings[8]} />
+        <Updates timing={timings[8]} />
         <Narration timing={timings[8]} />
         <Act2Sound shot={9} timing={timings[8]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-10 更新加不进去"
+        name="A2-10 D 加密"
         durationInFrames={Math.round(timings[9].duration * fps)}
       >
-        <Updates timing={timings[9]} />
+        <DenuvoShell />
         <Narration timing={timings[9]} />
         <Act2Sound shot={10} timing={timings[9]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-11 Denuvo"
+        name="A2-11 反篡改层"
         durationInFrames={Math.round(timings[10].duration * fps)}
       >
-        <DenuvoShell />
+        <LayerDiagram timing={timings[10]} />
         <Narration timing={timings[10]} />
         <Act2Sound shot={11} timing={timings[10]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-12 包在外面的一层"
+        name="A2-12 不必永远挡住"
         durationInFrames={Math.round(timings[11].duration * fps)}
       >
-        <LayerDiagram timing={timings[11]} />
+        <CommercialWindow timing={timings[11]} />
         <Narration timing={timings[11]} />
         <Act2Sound shot={12} timing={timings[11]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-13 首发窗口"
+        name="A2-13 五天"
         durationInFrames={Math.round(timings[12].duration * fps)}
       >
-        <LaunchWindow timing={timings[12]} />
+        <FiveDays timing={timings[12]} />
         <Narration timing={timings[12]} />
         <Act2Sound shot={13} timing={timings[12]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-14 本来不是新闻"
+        name="A2-14 Denuvo 的回应"
         durationInFrames={Math.round(timings[13].duration * fps)}
       >
-        <Tail />
+        <DenuvoResponse timing={timings[13]} />
         <Narration timing={timings[13]} />
         <Act2Sound shot={14} timing={timings[13]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-15 一段话"
+        name="A2-15 本来不会有多少热度"
         durationInFrames={Math.round(timings[14].duration * fps)}
       >
-        <Tail talk />
+        <QuietNews timing={timings[14]} />
         <Narration timing={timings[14]} />
         <Act2Sound shot={15} timing={timings[14]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-16 逆向与旧破解"
+        name="A2-16 为什么开始"
         durationInFrames={Math.round(timings[15].duration * fps)}
       >
-        <Research timing={timings[15]} />
+        <WhyStarted timing={timings[15]} />
         <Narration timing={timings[15]} />
         <Act2Sound shot={16} timing={timings[15]} />
       </TransitionSeries.Sequence>
@@ -172,52 +172,44 @@ const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
         <Act2Sound shot={17} timing={timings[16]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-18 iXBT 的开头"
+        name="A2-18 退场的背景"
         durationInFrames={Math.round(timings[17].duration * fps)}
       >
-        <IxbtOpening timing={timings[17]} />
+        <Retreat timing={timings[17]} />
         <Narration timing={timings[17]} />
         <Act2Sound shot={18} timing={timings[17]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-19 告别声明"
+        name="A2-19 we won？"
         durationInFrames={Math.round(timings[18].duration * fps)}
       >
-        <Farewell />
+        <CommunityTitle timing={timings[18]} />
         <Narration timing={timings[18]} />
         <Act2Sound shot={19} timing={timings[18]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-20 we won ?"
+        name="A2-20 Voices cracked"
         durationInFrames={Math.round(timings[19].duration * fps)}
       >
-        <WeWon timing={timings[19]} />
+        <DoubleMeaning timing={timings[19]} />
         <Narration timing={timings[19]} />
         <Act2Sound shot={20} timing={timings[19]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-21 Voices cracked"
+        name="A2-21 有人暂不庆祝"
         durationInFrames={Math.round(timings[20].duration * fps)}
       >
-        <Cracked timing={timings[20]} />
+        <Caution timing={timings[20]} />
         <Narration timing={timings[20]} />
         <Act2Sound shot={21} timing={timings[20]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A2-22 泼冷水"
+        name="A2-22 当时还不知道"
         durationInFrames={Math.round(timings[21].duration * fps)}
       >
-        <ColdWater />
+        <Unanswered />
         <Narration timing={timings[21]} />
         <Act2Sound shot={22} timing={timings[21]} />
-      </TransitionSeries.Sequence>
-      <TransitionSeries.Sequence
-        name="A2-23 保质期"
-        durationInFrames={Math.round(timings[22].duration * fps)}
-      >
-        <Expiry timing={timings[22]} />
-        <Narration timing={timings[22]} />
-        <Act2Sound shot={23} timing={timings[22]} />
       </TransitionSeries.Sequence>
     </TransitionSeries>
   );

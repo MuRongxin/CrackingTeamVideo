@@ -1,671 +1,854 @@
 {
-  "20": [
+  "12": [
     {
       "text": "2025 年 10 月 14 日",
-      "startMs": 40,
-      "endMs": 1541,
+      "startMs": 20,
+      "endMs": 1601,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "一款六年前的老游戏",
-      "startMs": 1541,
-      "endMs": 3041,
+      "startMs": 1601,
+      "endMs": 3181,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "《全面战争：三国》",
+      "startMs": 3181,
+      "endMs": 4762,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "出现了一个新的破解版本",
+      "startMs": 4762,
+      "endMs": 6694,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "v1.7.1",
+      "startMs": 6694,
+      "endMs": 7045,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "13": [
+    {
+      "text": "发布者的署名是 voices38",
+      "startMs": 20,
+      "endMs": 2390,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "14": [
+    {
+      "text": "随它一起发布的",
+      "startMs": 20,
+      "endMs": 1309,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "还有一份 NFO",
+      "startMs": 1309,
+      "endMs": 2415,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也就是破解组附在发行里的说明文件",
+      "startMs": 2415,
+      "endMs": 5362,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "15": [
+    {
+      "text": "在老一辈破解组那里",
+      "startMs": 20,
+      "endMs": 1617,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "NFO 往往是一件作品",
+      "startMs": 1617,
+      "endMs": 3214,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "16": [
+    {
+      "text": "有字符拼成的大幅 Logo",
+      "startMs": 20,
+      "endMs": 1898,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "成员名单",
+      "startMs": 1898,
+      "endMs": 2649,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "组织口号",
+      "startMs": 2649,
+      "endMs": 3400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "有时还有写给对手的挑衅",
+      "startMs": 3400,
+      "endMs": 5466,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "17": [
+    {
+      "text": "但 voices38 的这一份",
+      "startMs": 20,
+      "endMs": 1534,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "和前辈们比起来微不足道",
+      "startMs": 1534,
+      "endMs": 3913,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "只有 0.34 KB",
+      "startMs": 3913,
+      "endMs": 5211,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "18": [
+    {
+      "text": "内容仅仅几行文字",
+      "startMs": 20,
+      "endMs": 1554,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "只是告诉大家",
+      "startMs": 1554,
+      "endMs": 2705,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "游戏已经更新到最新版本",
+      "startMs": 2705,
+      "endMs": 4815,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "包含全部 DLC",
+      "startMs": 4815,
+      "endMs": 5966,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "19": [
+    {
+      "text": "说明了切换游戏语言的方式",
+      "startMs": 20,
+      "endMs": 1896,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "并且列出了十几个语言代码",
+      "startMs": 1896,
+      "endMs": 3771,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "20": [
+    {
+      "text": "《三国》不是新游戏",
+      "startMs": 20,
+      "endMs": 1287,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "21": [
     {
-      "text": "出现了一个新的破解版本",
-      "startMs": 40,
-      "endMs": 1567,
+      "text": "2019 年",
+      "startMs": 20,
+      "endMs": 583,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "国内玩家常说的 C 组——CODEX",
+      "startMs": 583,
+      "endMs": 3210,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "就发布过它的版本",
+      "startMs": 3210,
+      "endMs": 4712,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "22": [
     {
-      "text": "《全面战争：三国》",
-      "startMs": 40,
-      "endMs": 1242,
+      "text": "2020 年",
+      "startMs": 20,
+      "endMs": 574,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "人称“女皇”的 EMPRESS",
+      "startMs": 574,
+      "endMs": 2235,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也发过相关版本",
+      "startMs": 2235,
+      "endMs": 3527,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "23": [
     {
-      "text": "署名是 voices38",
-      "startMs": 40,
-      "endMs": 1045,
+      "text": "voices38 现在又发布了一次",
+      "startMs": 20,
+      "endMs": 1964,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "让人有点摸不到头脑",
+      "startMs": 1964,
+      "endMs": 3713,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "24": [
     {
-      "text": "随它一起发布的",
-      "startMs": 40,
-      "endMs": 1325,
+      "text": "不过 Reddit 上有人解释",
+      "startMs": 0,
+      "endMs": 1700,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "还有一份 NFO",
-      "startMs": 1325,
-      "endMs": 2426,
+      "text": "旧的破解使用的是旧版本",
+      "startMs": 1700,
+      "endMs": 3700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "后来更新的内容没有加进去",
+      "startMs": 3700,
+      "endMs": 5860,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38 处理的",
+      "startMs": 5860,
+      "endMs": 7580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "是最新的那一版",
+      "startMs": 7580,
+      "endMs": 8696,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "25": [
     {
-      "text": "也就是破解组附在发行里的说明文件",
-      "startMs": 40,
-      "endMs": 2380,
+      "text": "最新一版使用了新的保护方式",
+      "startMs": 20,
+      "endMs": 2291,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Denuvo",
+      "startMs": 2291,
+      "endMs": 2640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也就是俗称的 D 加密",
+      "startMs": 2640,
+      "endMs": 4387,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "26": [
     {
-      "text": "在老一代破解组那里",
-      "startMs": 40,
-      "endMs": 1529,
+      "text": "Denuvo 不是类似于 Steam",
+      "startMs": 0,
+      "endMs": 1850,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "NFO 往往是一件作品",
-      "startMs": 1529,
-      "endMs": 3018,
+      "text": "那样的正版验证",
+      "startMs": 1850,
+      "endMs": 2800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "而是包在验证外面的一层反篡改保护",
+      "startMs": 2800,
+      "endMs": 5700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "让游戏的正版验证没那么容易被绕开",
+      "startMs": 5700,
+      "endMs": 8417,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "27": [
     {
-      "text": "字符拼成的大幅 Logo",
-      "startMs": 40,
-      "endMs": 1832,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "成员名单",
-      "startMs": 1832,
-      "endMs": 2628,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "组织口号",
-      "startMs": 2628,
-      "endMs": 3425,
+      "text": "Denuvo 并不需要\n让一款游戏永远无法破解",
+      "startMs": 20,
+      "endMs": 3028,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "28": [
     {
-      "text": "有时还有写给对手的挑衅",
-      "startMs": 40,
-      "endMs": 1857,
+      "text": "对发行商来说",
+      "startMs": 20,
+      "endMs": 1043,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "更重要的是游戏发售后的那段时间",
+      "startMs": 1043,
+      "endMs": 3599,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "销量最集中的首发窗口",
+      "startMs": 3599,
+      "endMs": 5304,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "29": [
     {
-      "text": "voices38 的这一份",
-      "startMs": 40,
-      "endMs": 1448,
+      "text": "只要能尽可能推迟盗版版本的出现",
+      "startMs": 20,
+      "endMs": 2472,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "只有 0.34 KB",
-      "startMs": 1448,
-      "endMs": 2856,
+      "text": "这层保护就有了商业价值",
+      "startMs": 2472,
+      "endMs": 4271,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "30": [
     {
-      "text": "内容只有几行",
-      "startMs": 40,
-      "endMs": 1183,
+      "text": "2017 年 1 月 24 日",
+      "startMs": 20,
+      "endMs": 1494,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "游戏已经更新到最新版本",
-      "startMs": 1183,
-      "endMs": 3280,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "包含全部 DLC",
-      "startMs": 3280,
-      "endMs": 4423,
+      "text": "《生化危机 7》发售",
+      "startMs": 1494,
+      "endMs": 3133,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "31": [
     {
-      "text": "然后是怎么切换游戏语言",
-      "startMs": 40,
-      "endMs": 1721,
+      "text": "五天后",
+      "startMs": 20,
+      "endMs": 618,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "下面列着十几个语言代码",
-      "startMs": 1721,
-      "endMs": 3401,
+      "text": "破解组织 CPY 就突破了它的",
+      "startMs": 618,
+      "endMs": 3009,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Denuvo 保护",
+      "startMs": 3009,
+      "endMs": 3806,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "32": [
     {
-      "text": "而它附带的游戏本体",
-      "startMs": 40,
-      "endMs": 1430,
+      "text": "面对这次迅速失守",
+      "startMs": 20,
+      "endMs": 1516,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "大约 40 GB",
-      "startMs": 1430,
-      "endMs": 2356,
+      "text": "Denuvo 的市场总监回应说",
+      "startMs": 1516,
+      "endMs": 3387,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "未经保护的游戏往往在发售当天就会被破解",
+      "startMs": 3387,
+      "endMs": 6941,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "33": [
     {
-      "text": "《三国》不是新游戏",
-      "startMs": 40,
-      "endMs": 1346,
+      "text": "相比之下",
+      "startMs": 20,
+      "endMs": 634,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "《生化危机 7》至少多撑了几天",
+      "startMs": 634,
+      "endMs": 2937,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "所以这套保护仍然发挥了作用",
+      "startMs": 2937,
+      "endMs": 4932,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "34": [
     {
-      "text": "2019 年",
-      "startMs": 40,
-      "endMs": 619,
+      "text": "虽然听着有点不优雅",
+      "startMs": 20,
+      "endMs": 1637,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "国内玩家常说的 C 组",
-      "startMs": 619,
-      "endMs": 2550,
+      "text": "但这就是 Denuvo 的逻辑",
+      "startMs": 1637,
+      "endMs": 3255,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "CODEX 就发布过它的版本",
-      "startMs": 2550,
-      "endMs": 4481,
+      "text": "它不必永远挡住破解",
+      "startMs": 3255,
+      "endMs": 4872,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "只需要尽可能把破解出现的时间往后推",
+      "startMs": 4872,
+      "endMs": 7928,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "35": [
     {
-      "text": "2020 年",
-      "startMs": 40,
-      "endMs": 596,
+      "text": "所以 2025 年 10 月",
+      "startMs": 20,
+      "endMs": 1420,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "人称“女皇”的 EMPRESS",
-      "startMs": 596,
-      "endMs": 2266,
+      "text": "一款已经发售六年的老游戏",
+      "startMs": 1420,
+      "endMs": 3519,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "也发过相关版本",
-      "startMs": 2266,
-      "endMs": 3564,
+      "text": "重新出现一个针对新版本的破解",
+      "startMs": 3519,
+      "endMs": 5969,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "本来不会带来多少热度",
+      "startMs": 5969,
+      "endMs": 7719,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "36": [
     {
-      "text": "不过 Reddit 上有人解释",
-      "startMs": 40,
-      "endMs": 1579,
+      "text": "让它上了新闻的",
+      "startMs": 20,
+      "endMs": 1375,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "旧的破解停在了旧版本上",
-      "startMs": 1579,
-      "endMs": 3459,
+      "text": "是发布者 voices38 公开表示",
+      "startMs": 1375,
+      "endMs": 3312,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "好像已经没人在乎 D 加密的破解了",
+      "startMs": 3312,
+      "endMs": 6409,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "自己将会接过这个使命",
+      "startMs": 6409,
+      "endMs": 8346,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "37": [
     {
-      "text": "后来的更新加不进去",
-      "startMs": 40,
-      "endMs": 1265,
+      "text": "并且自己已经花了很多时间",
+      "startMs": 20,
+      "endMs": 2009,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "逆向研究 Denuvo 和很多前辈的工作",
+      "startMs": 2009,
+      "endMs": 4329,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "38": [
     {
-      "text": "voices38 处理的",
-      "startMs": 40,
-      "endMs": 908,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "是最新的那一版",
-      "startMs": 908,
-      "endMs": 2124,
+      "text": "这只是自己的第一次尝试",
+      "startMs": 20,
+      "endMs": 1589,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "39": [
     {
-      "text": "这一版用的保护",
-      "startMs": 40,
-      "endMs": 1288,
+      "text": "俄罗斯游戏媒体 iXBT 报道这件事时",
+      "startMs": 0,
+      "endMs": 2880,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "叫 Denuvo",
-      "startMs": 1288,
-      "endMs": 1822,
+      "text": "把它放在了 EMPRESS 退场的背景下",
+      "startMs": 2880,
+      "endMs": 5600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "EMPRESS 正在退场",
+      "startMs": 5600,
+      "endMs": 6900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "新的接力者已经出现",
+      "startMs": 6900,
+      "endMs": 8800,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "40": [
     {
-      "text": "Denuvo 不是 Steam",
-      "startMs": 40,
-      "endMs": 1041,
+      "text": "一个半月后",
+      "startMs": 20,
+      "endMs": 840,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "那样的正版验证本身",
-      "startMs": 1041,
-      "endMs": 2542,
+      "text": "EMPRESS 发布了正式的告别声明",
+      "startMs": 840,
+      "endMs": 2808,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "41": [
     {
-      "text": "而是包在验证外面的一层反篡改保护",
-      "startMs": 40,
-      "endMs": 2672,
+      "text": "这让 voices38 的出现",
+      "startMs": 20,
+      "endMs": 1468,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "让验证没那么容易被绕开",
-      "startMs": 2672,
-      "endMs": 4481,
+      "text": "多了一层别样的意味",
+      "startMs": 1468,
+      "endMs": 3330,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "42": [
     {
-      "text": "它最在乎的",
-      "startMs": 40,
-      "endMs": 799,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "是游戏首发后卖得最好的那几个月",
-      "startMs": 799,
-      "endMs": 3076,
+      "text": "这些变化引起了破解社区的一些讨论",
+      "startMs": 20,
+      "endMs": 2390,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "43": [
     {
-      "text": "2017 年",
-      "startMs": 40,
-      "endMs": 533,
+      "text": "Reddit 上有人发了一张梗图",
+      "startMs": 0,
+      "endMs": 2100,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "《生化危机7》的保护被突破后",
-      "startMs": 533,
-      "endMs": 2995,
+      "text": "标题只有两个词",
+      "startMs": 2100,
+      "endMs": 3370,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "we won",
+      "startMs": 3370,
+      "endMs": 4020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "我们赢了",
+      "startMs": 4020,
+      "endMs": 4748,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "44": [
     {
-      "text": "Denuvo 还对媒体说过",
-      "startMs": 40,
-      "endMs": 1423,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "就算被破解了",
-      "startMs": 1423,
-      "endMs": 2460,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "有保护也比没有强",
-      "startMs": 2460,
-      "endMs": 3843,
+      "text": "这句话多少带着一点玩笑",
+      "startMs": 20,
+      "endMs": 2227,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "45": [
     {
-      "text": "所以一款 2019 年的游戏",
-      "startMs": 40,
-      "endMs": 1974,
+      "text": "EMPRESS 正在离开",
+      "startMs": 20,
+      "endMs": 1207,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "本来不太会成为新闻",
-      "startMs": 1974,
-      "endMs": 3715,
+      "text": "而一个新的破解者刚刚出现",
+      "startMs": 1207,
+      "endMs": 3581,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "似乎事情又有了转机",
+      "startMs": 3581,
+      "endMs": 5362,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "46": [
     {
-      "text": "让它上了新闻的",
-      "startMs": 40,
-      "endMs": 1061,
+      "text": "评论区里有人接了一句",
+      "startMs": 20,
+      "endMs": 1945,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "是发布者留下的一段话",
-      "startMs": 1061,
-      "endMs": 2519,
+      "text": "Voices cracked",
+      "startMs": 1945,
+      "endMs": 2715,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "47": [
     {
-      "text": "据同期报道转述",
-      "startMs": 40,
-      "endMs": 1848,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "voices38 说",
-      "startMs": 1848,
-      "endMs": 2624,
+      "text": "这是个双关",
+      "startMs": 20,
+      "endMs": 834,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "48": [
     {
-      "text": "自己花了很多时间",
-      "startMs": 40,
-      "endMs": 1317,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "逆向研究 Denuvo",
-      "startMs": 1317,
-      "endMs": 2275,
+      "text": "一方面 voices38 破解了游戏",
+      "startMs": 20,
+      "endMs": 2506,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "49": [
     {
-      "text": "他还翻出很多旧的破解",
-      "startMs": 40,
-      "endMs": 1544,
+      "text": "另一方面英语里的 voice crack",
+      "startMs": 0,
+      "endMs": 2080,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "指的是声音突然破掉",
+      "startMs": 2080,
+      "endMs": 3650,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也就是我们说的「破音」",
+      "startMs": 3650,
+      "endMs": 5143,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "50": [
     {
-      "text": "看别人当年是怎么做的",
-      "startMs": 40,
-      "endMs": 1300,
+      "text": "当然也不是所有人都急着庆祝",
+      "startMs": 20,
+      "endMs": 2053,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "51": [
     {
-      "text": "因为好像已经没人在乎这件事了",
-      "startMs": 40,
-      "endMs": 1846,
+      "text": "有人提醒大家",
+      "startMs": 20,
+      "endMs": 1221,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38 目前处理的还是",
+      "startMs": 1221,
+      "endMs": 3023,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "旧版本的 Denuvo",
+      "startMs": 3023,
+      "endMs": 4224,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "52": [
     {
-      "text": "他说这是他的第一次尝试",
-      "startMs": 40,
-      "endMs": 1962,
+      "text": "能破解这些游戏",
+      "startMs": 20,
+      "endMs": 1206,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "不代表他已经有能力对付那些",
+      "startMs": 1206,
+      "endMs": 3409,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "使用更新版本保护的新游戏",
+      "startMs": 3409,
+      "endMs": 5443,
       "timestampMs": null,
       "confidence": null
     }
   ],
   "53": [
     {
-      "text": "俄罗斯游戏媒体 iXBT",
-      "startMs": 40,
-      "endMs": 1590,
+      "text": "这个判断是否准确",
+      "startMs": 20,
+      "endMs": 1550,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "报道这件事时",
-      "startMs": 1590,
-      "endMs": 2624,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "54": [
-    {
-      "text": "开头第一句写的是",
-      "startMs": 40,
-      "endMs": 1465,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "EMPRESS 正在退场",
-      "startMs": 1465,
-      "endMs": 2534,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "别的技术爱好者还在工作",
-      "startMs": 2534,
-      "endMs": 4493,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "55": [
-    {
-      "text": "一个半月后",
-      "startMs": 40,
-      "endMs": 841,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "EMPRESS 发布了正式的告别声明",
-      "startMs": 841,
-      "endMs": 2763,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "56": [
-    {
-      "text": "Reddit 上",
-      "startMs": 40,
-      "endMs": 612,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "有人发了一张梗图",
-      "startMs": 612,
-      "endMs": 2136,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "57": [
-    {
-      "text": "标题只有两个词",
-      "startMs": 40,
-      "endMs": 1161,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "we won",
-      "startMs": 1161,
-      "endMs": 1962,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "58": [
-    {
-      "text": "我们赢了",
-      "startMs": 40,
-      "endMs": 522,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "59": [
-    {
-      "text": "评论区里有人解释来龙去脉",
-      "startMs": 40,
-      "endMs": 2078,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "写了一句 Voices cracked",
-      "startMs": 2078,
-      "endMs": 3436,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "60": [
-    {
-      "text": "马上就有人接话",
-      "startMs": 40,
-      "endMs": 1181,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "说这是故意的吧",
-      "startMs": 1181,
-      "endMs": 2322,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "61": [
-    {
-      "text": "英语里 voice cracks",
-      "startMs": 40,
-      "endMs": 1132,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "是“破音”的意思",
-      "startMs": 1132,
-      "endMs": 2380,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "62": [
-    {
-      "text": "也有人泼冷水",
-      "startMs": 40,
-      "endMs": 1048,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "这些游戏用的都是老版本的 Denuvo",
-      "startMs": 1048,
-      "endMs": 3401,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "63": [
-    {
-      "text": "别以为新游戏很快也能这样",
-      "startMs": 40,
-      "endMs": 1660,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
-  "64": [
-    {
-      "text": "这条提醒",
-      "startMs": 40,
-      "endMs": 692,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "大约管用了五个月",
-      "startMs": 692,
-      "endMs": 1997,
+      "text": "当时还没人知道",
+      "startMs": 1550,
+      "endMs": 2889,
       "timestampMs": null,
       "confidence": null
     }

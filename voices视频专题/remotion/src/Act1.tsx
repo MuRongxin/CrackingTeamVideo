@@ -51,7 +51,7 @@ const Act1Inner = ({ timings = initialTimings }: ActProps) => {
         <Sound shot={4} timing={timings[3]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A1-05 起诉了一个网名"
+        name="A1-05 不知道是谁"
         durationInFrames={Math.round(timings[4].duration * fps)}
       >
         <Pseudonym timing={timings[4]} />
@@ -59,7 +59,7 @@ const Act1Inner = ({ timings = initialTimings }: ActProps) => {
         <Sound shot={5} timing={timings[4]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A1-06 三张传票"
+        name="A1-06 向三个平台申请传票"
         durationInFrames={Math.round(timings[5].duration * fps)}
       >
         <Subpoenas timing={timings[5]} />
@@ -82,7 +82,7 @@ const Act1Inner = ({ timings = initialTimings }: ActProps) => {
         <Sound shot={8} timing={timings[7]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A1-09 摊开的材料"
+        name="A1-09 公开留下的材料"
         durationInFrames={Math.round(timings[8].duration * fps)}
       >
         <Evidence timing={timings[8]} />
@@ -90,7 +90,7 @@ const Act1Inner = ({ timings = initialTimings }: ActProps) => {
         <Sound shot={9} timing={timings[8]} />
       </TransitionSeries.Sequence>
       <TransitionSeries.Sequence
-        name="A1-10 证明不了他是谁"
+        name="A1-10 怎样做事"
         durationInFrames={Math.round(timings[9].duration * fps)}
       >
         <Unknown timing={timings[9]} />

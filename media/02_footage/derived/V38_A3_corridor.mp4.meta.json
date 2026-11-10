@@ -1,0 +1,19 @@
+{
+  "id": "V38_A3_V38_A3_corridor",
+  "task": "EX15",
+  "kind": "video",
+  "title": "第三幕《死亡空间》官方片段 6.3—8.1 秒（静音）",
+  "path": "media/02_footage/derived/V38_A3_corridor.mp4",
+  "derived_from": "media/02_footage/EX15_STEAM_1693980_trailer1_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/1693980/",
+  "author": "Electronic Arts",
+  "rights": "官方商店宣传片；公开视频使用条件待确认",
+  "status": "exported",
+  "source_sha256": "d16376c081406afdb3377e0329945205d05c35b418e708d8eae745afa7a2cd0c",
+  "bytes": 1267731,
+  "sha256": "d46568bc51f7d8d7ebd307a0a0be5eadcdbd478424a4c51664e42370fc59db2c",
+  "selected_range_seconds": [
+    6.3,
+    8.1
+  ]
+}

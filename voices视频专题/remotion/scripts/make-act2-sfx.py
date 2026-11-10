@@ -2,7 +2,7 @@
 import math,random,struct,wave
 from pathlib import Path
 out=Path(__file__).resolve().parents[1]/'public/v38/sfx';sr=48000
-for name,duration in [('rewind',1.4),('crt',.45),('beep',.12),('stretch',2.5),('notify',.22),('voice-break',.16),('water',.75)]:
+for name,duration in [('rewind',1.4),('crt',.45),('beep',.12),('notify',.22),('voice-break',.16)]:
  rng=random.Random(38);samples=[];low=0;phase=0
  for n in range(round(sr*duration)):
   t=n/sr;p=t/duration;noise=rng.uniform(-1,1);low=low*.91+noise*.09

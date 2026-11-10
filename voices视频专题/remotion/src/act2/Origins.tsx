@@ -138,7 +138,7 @@ export const OldGame = ({ timing }: { timing: ShotTiming }) => {
         name="大军列阵 · 51秒起"
         src={footage.army}
         from={3 * fps}
-        durationInFrames={Math.round((timing.duration - 3) * fps)}
+        durationInFrames={Math.round(Math.min(5, timing.duration - 3) * fps)}
         muted
         effects={videoEffects}
         style={{
@@ -149,6 +149,15 @@ export const OldGame = ({ timing }: { timing: ShotTiming }) => {
         }}
         objectFit="cover"
       />
+      {timing.duration > 8 && (
+        <Sequence
+          name="官方静帧 · 缓推"
+          from={8 * fps}
+          durationInFrames={Math.ceil((timing.duration - 8) * fps)}
+        >
+          <OfficialStill />
+        </Sequence>
+      )}
       <AbsoluteFill
         style={{
           background:
@@ -193,14 +202,27 @@ export const OldGame = ({ timing }: { timing: ShotTiming }) => {
           六年前的游戏
         </span>
       </div>
-      <SourceTag>游戏画面｜官方宣传片（Steam）</SourceTag>
+      <div
+        style={{
+          position: "absolute",
+          right: 135,
+          top: 700,
+          fontFamily: F.mono,
+          fontSize: 54,
+          color: C.white,
+          opacity: lerp(t, 5.8, 6.5),
+        }}
+      >
+        v1.7.1
+      </div>
+      <SourceTag>游戏画面｜官方宣传片／官方静帧（Steam）</SourceTag>
     </Scene>
   );
 };
 export const Signature = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
   const { fps } = useVideoConfig();
-  const nameStart = timing.voices[1].start;
+  const nameStart = timing.voices[0].start + 0.6;
   return (
     <Scene>
       <Video
@@ -406,7 +428,7 @@ export const OldNfo = ({ timing }: { timing: ShotTiming }) => {
       <div style={{ position: "absolute", left: 1310, top: 275, width: 480 }}>
         {["字符画 Logo", "成员名单", "组织口号", "写给对手的挑衅"].map(
           (label, i) => {
-            const a = i === 3 ? timing.voices[2].start : tagsAt + i * 1.1;
+            const a = i === 3 ? timing.voices[1].start + 4 : tagsAt + i * 1.1;
             return (
               <div
                 key={label}
@@ -598,10 +620,6 @@ export const FewLines = ({ timing }: { timing: ShotTiming }) => {
           >
             How To Change Language:
             <br />
-            <span style={{ color: "#bdc7be", fontSize: 32 }}>
-              Go to data\language.txt and enter one of the following language
-              codes
-            </span>
           </div>
         </div>
         <div
@@ -649,64 +667,19 @@ export const FewLines = ({ timing }: { timing: ShotTiming }) => {
     </Scene>
   );
 };
-export const FortyGB = () => {
+const OfficialStill = () => {
   const t = useTime();
-  const grow = lerp(t, 0.9, 3.4);
-  const pan = lerp(t, 1.2, 3.5, 0, 600);
-  const mb = Math.round(interpolate(t, [0.9, 3.4], [0, 40253], clamp));
   return (
-    <Scene>
-      <Topline label="同一次发行" right="TWO VERY DIFFERENT SIZES" />
-      <div
-        style={{
-          position: "absolute",
-          left: 145,
-          top: 300,
-          opacity: 1 - grow * 0.7,
-        }}
-      >
-        <div style={{ fontSize: 35, marginBottom: 20 }}>
-          NFO　<span style={{ fontFamily: F.mono }}>0.34 KB</span>
-        </div>
-        <div style={{ height: 7, width: 5, background: C.white }} />
-        <div
-          style={{
-            fontFamily: F.mono,
-            fontSize: 37,
-            marginLeft: 15,
-            marginTop: -28,
-            color: C.gray,
-          }}
-        >
-          ←
-        </div>
-      </div>
-      <div style={{ position: "absolute", left: 145 - pan, top: 500 }}>
-        <div style={{ fontSize: 42, marginBottom: 30 }}>游戏本体</div>
-        <div
-          style={{
-            height: 92,
-            width: lerp(t, 0.9, 3.7, 0, 2800),
-            background: `linear-gradient(90deg,${C.blue},#93a8b8)`,
-            boxShadow: "0 10px 55px #6e8aa62a",
-          }}
-        />
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          left: lerp(t, 1.1, 3.4, 480, 975),
-          top: 390,
-          fontFamily: F.mono,
-          fontSize: 108,
-          color: C.white,
-        }}
-      >
-        {mb.toLocaleString("en-US")}
-        <span style={{ fontSize: 46, marginLeft: 25 }}>MB</span>
-      </div>
-      <TinyNote>示意，不按比例</TinyNote>
-      <SourceTag>数据库快照｜xREL｜发布大小</SourceTag>
-    </Scene>
+    <Img
+      src={staticFile("v38/act2/stills/three-kingdoms.jpg")}
+      style={{
+        position: "absolute",
+        inset: 0,
+        width: "100%",
+        height: "100%",
+        objectFit: "cover",
+        scale: 1 + t * 0.009,
+      }}
+    />
   );
 };

@@ -1,0 +1,21 @@
+{
+  "id": "V38_A3_voices-header",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第三幕 NFO 原图局部：voices-header",
+  "path": "media/03_stills/voices38_act3/voices-header.png",
+  "derived_from": "media/03_stills/source_images/V06_nfo.png",
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1qackwg/deadspaceremakepropervoices38/",
+  "author": "发行文字署名 voices38；图片托管于 ImgBB",
+  "rights": "公开帖子链接的 NFO 图；授权未确认，仅研究与剪辑候选",
+  "status": "exported",
+  "source_sha256": "c84040bc946fa4bd66180661a89356407370834444c95f549ad90ad670899fea",
+  "bytes": 2394,
+  "sha256": "441a28f72991068303f8406a1faabc7e3d0a8af17be557232b88f836ea62f57c",
+  "crop_pixels": [
+    0,
+    0,
+    640,
+    211
+  ]
+}

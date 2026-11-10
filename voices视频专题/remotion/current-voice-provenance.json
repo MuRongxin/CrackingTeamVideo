@@ -1,0 +1,826 @@
+[
+  {
+    "id": 1,
+    "file": "v38/vo/sentence-01.wav",
+    "duration": 5.363809523809524,
+    "original": "sentence_01_二零二六年_9_月美国加州北区联邦地区法.wav",
+    "source": "voices视频专题/videoVoices/sentence_01_二零二六年_9_月美国加州北区联邦地区法.wav",
+    "sha256": "95d2c3d6e88c1561ffc0f99d692a5d104aed959ef161112cffcd128da514f529"
+  },
+  {
+    "id": 2,
+    "file": "v38/vo/sentence-02.wav",
+    "duration": 3.4713832199546486,
+    "original": "sentence_02_原告是一家奥地利公司Denuvo_Gmb.wav",
+    "source": "voices视频专题/videoVoices/sentence_02_原告是一家奥地利公司Denuvo_Gmb.wav",
+    "sha256": "2bda9b2d4e60704c6d70a5ec55b4e4e4ce04196c1012471c3880f14a33c9a371"
+  },
+  {
+    "id": 3,
+    "file": "v38/vo/sentence-03.wav",
+    "duration": 3.053424036281179,
+    "original": "sentence_03_被告一栏只有一个奇怪的名字voices.wav",
+    "source": "voices视频专题/videoVoices/sentence_03_被告一栏只有一个奇怪的名字voices.wav",
+    "sha256": "97621abdb945113eb1945d1476167f53d8489bd04e8c2a6d50ccae28318b8b04"
+  },
+  {
+    "id": 4,
+    "file": "v38/vo/sentence-04.wav",
+    "duration": 3.7268027210884354,
+    "original": "sentence_04_起诉书对被告的描述是身份不明的个人或实体.wav",
+    "source": "voices视频专题/videoVoices/sentence_04_起诉书对被告的描述是身份不明的个人或实体.wav",
+    "sha256": "deab7325d3adf24e6a1b87ccdec1ab0a186eab1a68f7f61e39befdab1df632fb"
+  },
+  {
+    "id": 5,
+    "file": "v38/vo/sentence-05.wav",
+    "duration": 3.6687528344671203,
+    "original": "sentence_05_换句话说Denuvo_起诉了一个连他们都.wav",
+    "source": "voices视频专题/videoVoices/sentence_05_换句话说Denuvo_起诉了一个连他们都.wav",
+    "sha256": "29504e1578650f866b6bad0e04e6f25b95d6329e38e1905a779bb0904c930da7"
+  },
+  {
+    "id": 6,
+    "file": "v38/vo/sentence-06.wav",
+    "duration": 9.415691609977324,
+    "original": "sentence_06_因此它请求法院允许它向_DiscordV.wav",
+    "source": "voices视频专题/videoVoices/sentence_06_因此它请求法院允许它向_DiscordV.wav",
+    "sha256": "b572ce29643501fed95c2f282a029a34777e7e455a6414aa201bdfe4d217f2c1"
+  },
+  {
+    "id": 7,
+    "file": "v38/vo/sentence-07.wav",
+    "duration": 4.829750566893424,
+    "original": "sentence_07_最初的请求有_46_项法官认为范围太宽过.wav",
+    "source": "voices视频专题/videoVoices/sentence_07_最初的请求有_46_项法官认为范围太宽过.wav",
+    "sha256": "855863e2bb2d713b7d536a505d98e9189eaf96f10ae6286c9dc90e48e42482a6"
+  },
+  {
+    "id": 8,
+    "file": "v38/vo/sentence-08.wav",
+    "duration": 2.2291156462585033,
+    "original": "sentence_08_最后_Denuvo_把请求缩成了_9_项.wav",
+    "source": "voices视频专题/videoVoices/sentence_08_最后_Denuvo_把请求缩成了_9_项.wav",
+    "sha256": "071e8440caab850da91d4b70810e33ff3a486fa06eb8dad47145c2ac1f485d23"
+  },
+  {
+    "id": 9,
+    "file": "v38/vo/sentence-09.wav",
+    "duration": 10.9740589569161,
+    "original": "sentence_09_我准备了很多有关_voices_thir.wav",
+    "source": "voices视频专题/videoVoices/sentence_09_我准备了很多有关_voices_thir.wav",
+    "sha256": "f9f594a2413af6dc75e7254669b2f08911ce80abcc80f02972f8dd15371fbbf2"
+  },
+  {
+    "id": 10,
+    "file": "v38/vo/sentence-10.wav",
+    "duration": 7.836734693877551,
+    "original": "sentence_10_在他自己发布的文件里voices_thi.wav",
+    "source": "voices视频专题/videoVoices/sentence_10_在他自己发布的文件里voices_thi.wav",
+    "sha256": "5ecb49fe2e45d1fb53db875b33afaee6b9bfa3bc5276414a2ff2a9c1f7175c40"
+  },
+  {
+    "id": 11,
+    "file": "v38/vo/sentence-11.wav",
+    "duration": 5.607619047619048,
+    "original": "sentence_11_至于voices_thirtyeight.wav",
+    "source": "voices视频专题/videoVoices/sentence_11_至于voices_thirtyeight.wav",
+    "sha256": "a8415c3d6d3dd60f0eded1df244a2097e77b69b2d7f002c227b5f771a632164a"
+  },
+  {
+    "id": 12,
+    "file": "v38/vo/sentence-12.wav",
+    "duration": 7.1053061224489795,
+    "original": "sentence_12_二零二五年_10_月_14_日一款六年前.wav",
+    "source": "voices视频专题/videoVoices/sentence_12_二零二五年_10_月_14_日一款六年前.wav",
+    "sha256": "eedadcd99c0731efef80157b23bbee3ac9562bcac7207fe9a6213fd48f23156e"
+  },
+  {
+    "id": 13,
+    "file": "v38/vo/sentence-13.wav",
+    "duration": 2.449705215419501,
+    "original": "sentence_13_发布者的署名是_voices_thirt.wav",
+    "source": "voices视频专题/videoVoices/sentence_13_发布者的署名是_voices_thirt.wav",
+    "sha256": "2b005f698d319d3e9d67ff3aeab22bffb0a67e9d39ecd8ea7b4e8e5ba726dc15"
+  },
+  {
+    "id": 14,
+    "file": "v38/vo/sentence-14.wav",
+    "duration": 5.421859410430839,
+    "original": "sentence_14_随它一起发布的还有一份_NFO也就是破解.wav",
+    "source": "voices视频专题/videoVoices/sentence_14_随它一起发布的还有一份_NFO也就是破解.wav",
+    "sha256": "feb24deb76456434b49d9467cdcc06e06bc800eb4560d2e136822ae0921b5481"
+  },
+  {
+    "id": 15,
+    "file": "v38/vo/sentence-15.wav",
+    "duration": 3.274013605442177,
+    "original": "sentence_15_在老一辈破解组那里NFO_往往是一件作品.wav",
+    "source": "voices视频专题/videoVoices/sentence_15_在老一辈破解组那里NFO_往往是一件作品.wav",
+    "sha256": "1e066fc7654edf47fd8f44c72042bb92c73e22cffb63c0f2aa00b242cccbd340"
+  },
+  {
+    "id": 16,
+    "file": "v38/vo/sentence-16.wav",
+    "duration": 5.526349206349207,
+    "original": "sentence_16_有字符拼成的大幅_Logo成员名单组织口.wav",
+    "source": "voices视频专题/videoVoices/sentence_16_有字符拼成的大幅_Logo成员名单组织口.wav",
+    "sha256": "6b86996692ce2018a0dd6bacd5234f7f81df1cdc18f5358fdbb25c6a1a786645"
+  },
+  {
+    "id": 17,
+    "file": "v38/vo/sentence-17.wav",
+    "duration": 5.270929705215419,
+    "original": "sentence_17_但_voices_thirtyeight.wav",
+    "source": "voices视频专题/videoVoices/sentence_17_但_voices_thirtyeight.wav",
+    "sha256": "05f3f17b6df7cf66673d0f71b69145ec0c7db4513f51794b18c35b82ac499ce1"
+  },
+  {
+    "id": 18,
+    "file": "v38/vo/sentence-18.wav",
+    "duration": 6.025578231292517,
+    "original": "sentence_18_内容仅仅几行文字只是告诉大家游戏已经更新.wav",
+    "source": "voices视频专题/videoVoices/sentence_18_内容仅仅几行文字只是告诉大家游戏已经更新.wav",
+    "sha256": "52a41bfdde657bd2c2ea97d7ad1dce41428280bec2c82c6a8caa79c9478e8670"
+  },
+  {
+    "id": 19,
+    "file": "v38/vo/sentence-19.wav",
+    "duration": 3.8312925170068026,
+    "original": "sentence_19_说明了切换游戏语言的方式并且列出了十几个.wav",
+    "source": "voices视频专题/videoVoices/sentence_19_说明了切换游戏语言的方式并且列出了十几个.wav",
+    "sha256": "50d06ada73a19c09e3f4c38a014214e10d43c122f558c08bf8d3430601d24c5a"
+  },
+  {
+    "id": 20,
+    "file": "v38/vo/sentence-20.wav",
+    "duration": 1.3467573696145125,
+    "original": "sentence_20_三国不是新游戏.wav",
+    "source": "voices视频专题/videoVoices/sentence_20_三国不是新游戏.wav",
+    "sha256": "50eadcb1ad85298c0ea37692477143228845f8f77261352d8a81bdaa717181c4"
+  },
+  {
+    "id": 21,
+    "file": "v38/vo/sentence-21.wav",
+    "duration": 4.771700680272109,
+    "original": "sentence_21_二零一九年国内玩家常说的_C_组CODE.wav",
+    "source": "voices视频专题/videoVoices/sentence_21_二零一九年国内玩家常说的_C_组CODE.wav",
+    "sha256": "aa9f6eb838aad909663ab8435cf946da41fe352f68e43018812c02c7c30d4e00"
+  },
+  {
+    "id": 22,
+    "file": "v38/vo/sentence-22.wav",
+    "duration": 3.5874829931972787,
+    "original": "sentence_22_二零二零年人称女皇的_EMPRESS也发.wav",
+    "source": "voices视频专题/videoVoices/sentence_22_二零二零年人称女皇的_EMPRESS也发.wav",
+    "sha256": "4e5fb7116745c0b23077935db4309ad4588c3f64ff294c3a85f69419d6b1ffe8"
+  },
+  {
+    "id": 23,
+    "file": "v38/vo/sentence-23.wav",
+    "duration": 3.7732426303854876,
+    "original": "sentence_23_voices_thirtyeight_现.wav",
+    "source": "voices视频专题/videoVoices/sentence_23_voices_thirtyeight_现.wav",
+    "sha256": "ffd2b694b699f9adda3f66bfea039bc8d9b1f6d1637c21edc96e6c9ff3d1b50f"
+  },
+  {
+    "id": 24,
+    "file": "v38/vo/sentence-24.wav",
+    "duration": 8.695873015873016,
+    "original": "sentence_24_不过_Reddit_上有人解释旧的破解使.wav",
+    "source": "voices视频专题/videoVoices/sentence_24_不过_Reddit_上有人解释旧的破解使.wav",
+    "sha256": "0f1ed51d0277cf890bd9373e47edc3c11e2af09bcb3ac49e863ae09c08795def"
+  },
+  {
+    "id": 25,
+    "file": "v38/vo/sentence-25.wav",
+    "duration": 4.446621315192743,
+    "original": "sentence_25_最新一版使用了新的保护方式Denuvo也.wav",
+    "source": "voices视频专题/videoVoices/sentence_25_最新一版使用了新的保护方式Denuvo也.wav",
+    "sha256": "3b55f2253665c19bef178cbcab01e6046577e2908982861ff04a17914f3f9bb8"
+  },
+  {
+    "id": 26,
+    "file": "v38/vo/sentence-26.wav",
+    "duration": 8.417233560090702,
+    "original": "sentence_26_Denuvo_不是类似于_Steam_那.wav",
+    "source": "voices视频专题/videoVoices/sentence_26_Denuvo_不是类似于_Steam_那.wav",
+    "sha256": "3f3019e4eea30fe92677a0a82be7bbef5c7583e6ecb57a5d211dd16f2777e287"
+  },
+  {
+    "id": 27,
+    "file": "v38/vo/sentence-27.wav",
+    "duration": 3.0882539682539685,
+    "original": "sentence_27_Denuvo_并不需要让一款游戏永远无法.wav",
+    "source": "voices视频专题/videoVoices/sentence_27_Denuvo_并不需要让一款游戏永远无法.wav",
+    "sha256": "49ba7585b7c5ce472d8e278937c204e94788ad92a4c6557aaf290890c5537758"
+  },
+  {
+    "id": 28,
+    "file": "v38/vo/sentence-28.wav",
+    "duration": 5.363809523809524,
+    "original": "sentence_28_对发行商来说更重要的是游戏发售后的那段时.wav",
+    "source": "voices视频专题/videoVoices/sentence_28_对发行商来说更重要的是游戏发售后的那段时.wav",
+    "sha256": "a96ca97c58ed2f27c7ca57565da9859e3979e6b32b3744ef5a18aa77d35bc414"
+  },
+  {
+    "id": 29,
+    "file": "v38/vo/sentence-29.wav",
+    "duration": 4.330521541950113,
+    "original": "sentence_29_只要能尽可能推迟盗版版本的出现这层保护就.wav",
+    "source": "voices视频专题/videoVoices/sentence_29_只要能尽可能推迟盗版版本的出现这层保护就.wav",
+    "sha256": "e6f7665899a610f1f7222bd4c731a01c15241b2530934c576da625b146f87d8e"
+  },
+  {
+    "id": 30,
+    "file": "v38/vo/sentence-30.wav",
+    "duration": 3.1927437641723357,
+    "original": "sentence_30_二零一七年_1_月_24_日生化危机_7.wav",
+    "source": "voices视频专题/videoVoices/sentence_30_二零一七年_1_月_24_日生化危机_7.wav",
+    "sha256": "0fe9fbd2ea0dfd6224209a733d4d60c55fce04595f26e57a2da2d533f4e64774"
+  },
+  {
+    "id": 31,
+    "file": "v38/vo/sentence-31.wav",
+    "duration": 3.866122448979592,
+    "original": "sentence_31_五天后破解组织_CPY_就突破了它的_D.wav",
+    "source": "voices视频专题/videoVoices/sentence_31_五天后破解组织_CPY_就突破了它的_D.wav",
+    "sha256": "7cc0618d7e211563b757c571aa10af2272cc2774d9bcd7c9af2c2118b2fb9bd0"
+  },
+  {
+    "id": 32,
+    "file": "v38/vo/sentence-32.wav",
+    "duration": 7.000816326530612,
+    "original": "sentence_32_面对这次迅速失守Denuvo_的市场总监.wav",
+    "source": "voices视频专题/videoVoices/sentence_32_面对这次迅速失守Denuvo_的市场总监.wav",
+    "sha256": "f4a3a2ffeb4e92a551a966566de9c188cf49ece380636f73bf466597460cab67"
+  },
+  {
+    "id": 33,
+    "file": "v38/vo/sentence-33.wav",
+    "duration": 4.992290249433107,
+    "original": "sentence_33_相比之下生化危机_7至少多撑了几天所以这.wav",
+    "source": "voices视频专题/videoVoices/sentence_33_相比之下生化危机_7至少多撑了几天所以这.wav",
+    "sha256": "c7fa5d780e235fdb8db263f4c93133131b6eee60ef35f67df21c5d3df9795c0f"
+  },
+  {
+    "id": 34,
+    "file": "v38/vo/sentence-34.wav",
+    "duration": 7.987664399092971,
+    "original": "sentence_34_虽然听着有点不优雅但这就是_Denuvo.wav",
+    "source": "voices视频专题/videoVoices/sentence_34_虽然听着有点不优雅但这就是_Denuvo.wav",
+    "sha256": "dce61ea0838a80be3e37eb9919d6a9cfd38cc5b90d313dcef2f5ee4e14e41f38"
+  },
+  {
+    "id": 35,
+    "file": "v38/vo/sentence-35.wav",
+    "duration": 7.778684807256236,
+    "original": "sentence_35_所以二零二五年_10_月一款已经发售六年.wav",
+    "source": "voices视频专题/videoVoices/sentence_35_所以二零二五年_10_月一款已经发售六年.wav",
+    "sha256": "0cf27c9a42dea99ea1d3b1b0f3537ce03711c0feb83f7899d4acc318be47313e"
+  },
+  {
+    "id": 36,
+    "file": "v38/vo/sentence-36.wav",
+    "duration": 8.40562358276644,
+    "original": "sentence_36_让它上了新闻的是发布者_voices_t.wav",
+    "source": "voices视频专题/videoVoices/sentence_36_让它上了新闻的是发布者_voices_t.wav",
+    "sha256": "1af972c78066b3b931262d71c981c9a64966c6652d8bd406f873cfda6d8658cf"
+  },
+  {
+    "id": 37,
+    "file": "v38/vo/sentence-37.wav",
+    "duration": 4.388571428571429,
+    "original": "sentence_37_并且自己已经花了很多时间逆向研究_Den.wav",
+    "source": "voices视频专题/videoVoices/sentence_37_并且自己已经花了很多时间逆向研究_Den.wav",
+    "sha256": "60cfd1c121f36daf83cb87f7e2bd043acd44b533cb30d6ba6330750ab0caa167"
+  },
+  {
+    "id": 38,
+    "file": "v38/vo/sentence-38.wav",
+    "duration": 1.6486167800453515,
+    "original": "sentence_38_这只是自己的第一次尝试.wav",
+    "source": "voices视频专题/videoVoices/sentence_38_这只是自己的第一次尝试.wav",
+    "sha256": "bc58595cf5b794799e28268e2ac131b5ae805cb34a5fc26e380856ae1574de87"
+  },
+  {
+    "id": 39,
+    "file": "v38/vo/sentence-39.wav",
+    "duration": 8.800362811791382,
+    "original": "sentence_39_俄罗斯游戏媒体_iXBT_报道这件事时把.wav",
+    "source": "voices视频专题/videoVoices/sentence_39_俄罗斯游戏媒体_iXBT_报道这件事时把.wav",
+    "sha256": "525d11c04863797bd9f4b364f5a41e651789787ee1f19837cae5bd637fc6d82e"
+  },
+  {
+    "id": 40,
+    "file": "v38/vo/sentence-40.wav",
+    "duration": 2.8676643990929707,
+    "original": "sentence_40_一个半月后EMPRESS_发布了正式的告.wav",
+    "source": "voices视频专题/videoVoices/sentence_40_一个半月后EMPRESS_发布了正式的告.wav",
+    "sha256": "89a0299ae9cb8551f41ad6b3ec0af4692d7205e9594e6c80a053f38f087405cd"
+  },
+  {
+    "id": 41,
+    "file": "v38/vo/sentence-41.wav",
+    "duration": 3.3901133786848074,
+    "original": "sentence_41_这让_voices_thirtyeigh.wav",
+    "source": "voices视频专题/videoVoices/sentence_41_这让_voices_thirtyeigh.wav",
+    "sha256": "aab03b248594e08cc41489e288527567fd07a2ae446f929ad4d55f946e97de35"
+  },
+  {
+    "id": 42,
+    "file": "v38/vo/sentence-42.wav",
+    "duration": 2.449705215419501,
+    "original": "sentence_42_这些变化引起了破解社区的一些讨论.wav",
+    "source": "voices视频专题/videoVoices/sentence_42_这些变化引起了破解社区的一些讨论.wav",
+    "sha256": "60b9f0b4c02ef091a93cf5e6b9ff548028da4672ce8b754ebc16ed4bed1d23b3"
+  },
+  {
+    "id": 43,
+    "file": "v38/vo/sentence-43.wav",
+    "duration": 4.748480725623582,
+    "original": "sentence_43_Reddit_上有人发了一张梗图标题只有.wav",
+    "source": "voices视频专题/videoVoices/sentence_43_Reddit_上有人发了一张梗图标题只有.wav",
+    "sha256": "b052722aca3e1671edfc6f903533abed7b87a86e135a9f295f4dc41ffcae2978"
+  },
+  {
+    "id": 44,
+    "file": "v38/vo/sentence-44.wav",
+    "duration": 2.2871655328798184,
+    "original": "sentence_44_这句话多少带着一点玩笑.wav",
+    "source": "voices视频专题/videoVoices/sentence_44_这句话多少带着一点玩笑.wav",
+    "sha256": "6ec42f40f2bad8e9661162543a46cf1ae996ec62f75ca0d8e7e035ff0d0d8873"
+  },
+  {
+    "id": 45,
+    "file": "v38/vo/sentence-45.wav",
+    "duration": 5.421859410430839,
+    "original": "sentence_45_EMPRESS_正在离开而一个新的破解者.wav",
+    "source": "voices视频专题/videoVoices/sentence_45_EMPRESS_正在离开而一个新的破解者.wav",
+    "sha256": "0b441aba7b91759d1b5369f15cf97fd3980b3794663e6bad52f04afa61170a33"
+  },
+  {
+    "id": 46,
+    "file": "v38/vo/sentence-46.wav",
+    "duration": 2.7747845804988662,
+    "original": "sentence_46_评论区里有人接了一句Voices_cra.wav",
+    "source": "voices视频专题/videoVoices/sentence_46_评论区里有人接了一句Voices_cra.wav",
+    "sha256": "29367143240764c62d55f89a3ffd34c013196a302b36277ec8eaf1a52dec982f"
+  },
+  {
+    "id": 47,
+    "file": "v38/vo/sentence-47.wav",
+    "duration": 0.893968253968254,
+    "original": "sentence_47_这是个双关.wav",
+    "source": "voices视频专题/videoVoices/sentence_47_这是个双关.wav",
+    "sha256": "699335dc2c0187e84eec0bf2ec20ca603fbb6ed2b171b249692b87f440ad749a"
+  },
+  {
+    "id": 48,
+    "file": "v38/vo/sentence-48.wav",
+    "duration": 2.5658049886621317,
+    "original": "sentence_48_一方面voices_thirtyeigh.wav",
+    "source": "voices视频专题/videoVoices/sentence_48_一方面voices_thirtyeigh.wav",
+    "sha256": "b4955471482c35fef0ebef4a0be00ec0c4d24dc7f9bc29f5cbcf3e26b663dba8"
+  },
+  {
+    "id": 49,
+    "file": "v38/vo/sentence-49.wav",
+    "duration": 5.143219954648526,
+    "original": "sentence_49_另一方面英语里的_voice_crack.wav",
+    "source": "voices视频专题/videoVoices/sentence_49_另一方面英语里的_voice_crack.wav",
+    "sha256": "e7cc93ccf611fce6e87b1a994620e663f4f3fbd954514c980064578b2c973b81"
+  },
+  {
+    "id": 50,
+    "file": "v38/vo/sentence-50.wav",
+    "duration": 2.1130158730158732,
+    "original": "sentence_50_当然也不是所有人都急着庆祝.wav",
+    "source": "voices视频专题/videoVoices/sentence_50_当然也不是所有人都急着庆祝.wav",
+    "sha256": "1d5a21b97405865053c8ef695f477cd24fdc6121f0dad2af55bbe5d06d749811"
+  },
+  {
+    "id": 51,
+    "file": "v38/vo/sentence-51.wav",
+    "duration": 4.284081632653061,
+    "original": "sentence_51_有人提醒大家voices_thirtye.wav",
+    "source": "voices视频专题/videoVoices/sentence_51_有人提醒大家voices_thirtye.wav",
+    "sha256": "f03c4740d0ef643d17872421240cc80f2f567e53ce8fae9021f431e8c6e36c42"
+  },
+  {
+    "id": 52,
+    "file": "v38/vo/sentence-52.wav",
+    "duration": 5.50312925170068,
+    "original": "sentence_52_能破解这些游戏不代表他已经有能力对付那些.wav",
+    "source": "voices视频专题/videoVoices/sentence_52_能破解这些游戏不代表他已经有能力对付那些.wav",
+    "sha256": "954c04e097d1e6b163bc534ecd8e03d04f385758cbe33f330980041918a06cb1"
+  },
+  {
+    "id": 53,
+    "file": "v38/vo/sentence-53.wav",
+    "duration": 2.948934240362812,
+    "original": "sentence_53_这个判断是否准确当时还没人知道.wav",
+    "source": "voices视频专题/videoVoices/sentence_53_这个判断是否准确当时还没人知道.wav",
+    "sha256": "5edb8fd02ac79e397f4c5215f1fd585c50aac6a263e67002e86c43dee7d943c8"
+  },
+  {
+    "id": 54,
+    "file": "v38/vo/sentence-54.wav",
+    "duration": 5.410249433106576,
+    "original": "sentence_54_不过随着新的游戏不断被破解公布voice.wav",
+    "source": "voices视频专题/videoVoices/sentence_54_不过随着新的游戏不断被破解公布voice.wav",
+    "sha256": "1dca72a6186c5ae092b989322a00e8316cc347d937b677bfc37ae936e49dd068"
+  },
+  {
+    "id": 55,
+    "file": "v38/vo/sentence-55.wav",
+    "duration": 1.6950566893424037,
+    "original": "sentence_55_他的_NFO越来越像样了.wav",
+    "source": "voices视频专题/videoVoices/sentence_55_他的_NFO越来越像样了.wav",
+    "sha256": "c0a94ab0e561ec0072acf6a5d8073561033c3b9c59e4e90d6b04a06ed44f2275"
+  },
+  {
+    "id": 56,
+    "file": "v38/vo/sentence-56.wav",
+    "duration": 2.3103854875283445,
+    "original": "sentence_56_顶上多了一个用字符拼成的大_Logo.wav",
+    "source": "voices视频专题/videoVoices/sentence_56_顶上多了一个用字符拼成的大_Logo.wav",
+    "sha256": "a0d4d45fae25ba9daa05747a000fcb22fd754efe9e4ec86a72a5b4e32c20f0e2"
+  },
+  {
+    "id": 57,
+    "file": "v38/vo/sentence-57.wav",
+    "duration": 6.501587301587302,
+    "original": "sentence_57_下面一栏一栏写着发布名日期格式还有_PR.wav",
+    "source": "voices视频专题/videoVoices/sentence_57_下面一栏一栏写着发布名日期格式还有_PR.wav",
+    "sha256": "5a4d4e63d975e28fd1545d31cc3eec4ce184b9112e9fbd3dca172e6dc5b6c257"
+  },
+  {
+    "id": 58,
+    "file": "v38/vo/sentence-58.wav",
+    "duration": 1.3699773242630386,
+    "original": "sentence_58_其中有一栏叫_KIND.wav",
+    "source": "voices视频专题/videoVoices/sentence_58_其中有一栏叫_KIND.wav",
+    "sha256": "c2888325d70ea8ec42a25582067454ef02eea991f4512897b5a45b0fc6c45feb"
+  },
+  {
+    "id": 59,
+    "file": "v38/vo/sentence-59.wav",
+    "duration": 2.0549659863945577,
+    "original": "sentence_59_按理说这里该填游戏类型.wav",
+    "source": "voices视频专题/videoVoices/sentence_59_按理说这里该填游戏类型.wav",
+    "sha256": "b49318cba7f2cba05674db10ef22440efd4cea489f703147fd5233f0cc414297"
+  },
+  {
+    "id": 60,
+    "file": "v38/vo/sentence-60.wav",
+    "duration": 4.562721088435374,
+    "original": "sentence_60_voices_thirtyeight_在.wav",
+    "source": "voices视频专题/videoVoices/sentence_60_voices_thirtyeight_在.wav",
+    "sha256": "218f25bb81c438dbce7837fd46db541dce51288cdff5720f7df2cb78bac7ee8f"
+  },
+  {
+    "id": 61,
+    "file": "v38/vo/sentence-61.wav",
+    "duration": 4.702040816326531,
+    "original": "sentence_61_极品飞车热力追踪_重制版写的是加满氮气的.wav",
+    "source": "voices视频专题/videoVoices/sentence_61_极品飞车热力追踪_重制版写的是加满氮气的.wav",
+    "sha256": "31417d8e44885f5d67ffeb02de8e9f97db4f10048152370b01f52affb8a0d288"
+  },
+  {
+    "id": 62,
+    "file": "v38/vo/sentence-62.wav",
+    "duration": 3.2043537414965986,
+    "original": "sentence_62_生化危机安魂曲僵尸解谜模拟器.wav",
+    "source": "voices视频专题/videoVoices/sentence_62_生化危机安魂曲僵尸解谜模拟器.wav",
+    "sha256": "87095af575f038a61830ace81187d5f79e669ef5e65a3dc31dbf8d8f84ed4374"
+  },
+  {
+    "id": 63,
+    "file": "v38/vo/sentence-63.wav",
+    "duration": 5.7817687074829935,
+    "original": "sentence_63_玩过这个系列的人大概都记得为了开一扇门满.wav",
+    "source": "voices视频专题/videoVoices/sentence_63_玩过这个系列的人大概都记得为了开一扇门满.wav",
+    "sha256": "404d227e65336af7a01d5ac763fc57d39e5e00a5dbbd9f67d94818cdd9faa5ad"
+  },
+  {
+    "id": 64,
+    "file": "v38/vo/sentence-64.wav",
+    "duration": 4.4117913832199545,
+    "original": "sentence_64_007初露锋芒军情六处的杀手The_MI.wav",
+    "source": "voices视频专题/videoVoices/sentence_64_007初露锋芒军情六处的杀手The_MI.wav",
+    "sha256": "8933a678f233c3a28bc709d1b1cc1c0238eb3cb2483a615eacdfe709999bd44d"
+  },
+  {
+    "id": 65,
+    "file": "v38/vo/sentence-65.wav",
+    "duration": 4.005442176870749,
+    "original": "sentence_65_这款游戏的开发商_IO_Interact.wav",
+    "source": "voices视频专题/videoVoices/sentence_65_这款游戏的开发商_IO_Interact.wav",
+    "sha256": "7faed9649d43f7e3b98e6820f22dace2d2febfcb3fa2d6329c8f5f4ba90e075d"
+  },
+  {
+    "id": 66,
+    "file": "v38/vo/sentence-66.wav",
+    "duration": 2.391655328798186,
+    "original": "sentence_66_KIND_一栏他写得越来越随意.wav",
+    "source": "voices视频专题/videoVoices/sentence_66_KIND_一栏他写得越来越随意.wav",
+    "sha256": "858435227c30fcae7fe632a2bca9f1358d6cc0956b3fa1ef8837af13f543701b"
+  },
+  {
+    "id": 67,
+    "file": "v38/vo/sentence-67.wav",
+    "duration": 2.36843537414966,
+    "original": "sentence_67_但另一栏_PROTECTION却是另一回.wav",
+    "source": "voices视频专题/videoVoices/sentence_67_但另一栏_PROTECTION却是另一回.wav",
+    "sha256": "c5307a7ca32fbd785e8b20de4811fe8f4a9af75daaa4ea862495823007eec2d2"
+  },
+  {
+    "id": 68,
+    "file": "v38/vo/sentence-68.wav",
+    "duration": 4.9458503401360545,
+    "original": "sentence_68_随着新游戏陆续出现这一栏里记录的保护措施.wav",
+    "source": "voices视频专题/videoVoices/sentence_68_随着新游戏陆续出现这一栏里记录的保护措施.wav",
+    "sha256": "eb3749d3c51e903a745d117bb4d07bdb597a9e2c2d33ef2d6ae95e2a3064bd46"
+  },
+  {
+    "id": 69,
+    "file": "v38/vo/sentence-69.wav",
+    "duration": 3.912562358276644,
+    "original": "sentence_69_二零二五年_11_月的极品飞车写的是_D.wav",
+    "source": "voices视频专题/videoVoices/sentence_69_二零二五年_11_月的极品飞车写的是_D.wav",
+    "sha256": "69e5748e68a24cba3133e93f46d1c9f129e05ad70ac558adae5de4e8de0bbf40"
+  },
+  {
+    "id": 70,
+    "file": "v38/vo/sentence-70.wav",
+    "duration": 7.627755102040816,
+    "original": "sentence_70_到了二零二六年_5_月的识质存在也就是.wav",
+    "source": "voices视频专题/videoVoices/sentence_70_到了二零二六年_5_月的识质存在也就是.wav",
+    "sha256": "a149e3c71b5bf1a47d239d20ca8d2eaf9b1b0e98d45905476b5b10f2048b4f20"
+  },
+  {
+    "id": 71,
+    "file": "v38/vo/sentence-71.wav",
+    "duration": 1.2887074829931973,
+    "original": "sentence_71_厂商自己的保护.wav",
+    "source": "voices视频专题/videoVoices/sentence_71_厂商自己的保护.wav",
+    "sha256": "06a8ea8e2721218815ab91dd751880155cb7761e44e1616973dd0d26ff26b893"
+  },
+  {
+    "id": 72,
+    "file": "v38/vo/sentence-72.wav",
+    "duration": 3.5062131519274375,
+    "original": "sentence_72_不过NFO_里记录的并不只有游戏用了什么.wav",
+    "source": "voices视频专题/videoVoices/sentence_72_不过NFO_里记录的并不只有游戏用了什么.wav",
+    "sha256": "a2521e5f0341af0ac1b3bb337d8aa50fd535b20a736dbb758c04ab02c5ab44bf"
+  },
+  {
+    "id": 73,
+    "file": "v38/vo/sentence-73.wav",
+    "duration": 5.990748299319728,
+    "original": "sentence_73_在那份极品飞车的发行说明里voices.wav",
+    "source": "voices视频专题/videoVoices/sentence_73_在那份极品飞车的发行说明里voices.wav",
+    "sha256": "0aa1c77bd39ec48839a13be4bbd42188c005fcb8dc1d1209f865bad8e23679e5"
+  },
+  {
+    "id": 74,
+    "file": "v38/vo/sentence-74.wav",
+    "duration": 4.992290249433107,
+    "original": "sentence_74_他感谢_anadius_提供的_EA_模.wav",
+    "source": "voices视频专题/videoVoices/sentence_74_他感谢_anadius_提供的_EA_模.wav",
+    "sha256": "b7a80338f90676aea18fb000ce64d4dd20bd0597d14b3a5c8cc8330b24cd8b7e"
+  },
+  {
+    "id": 75,
+    "file": "v38/vo/sentence-75.wav",
+    "duration": 3.7732426303854876,
+    "original": "sentence_75_这个模拟器模拟的是_EA_平台那一层的验.wav",
+    "source": "voices视频专题/videoVoices/sentence_75_这个模拟器模拟的是_EA_平台那一层的验.wav",
+    "sha256": "1bcd1e64cc26bf69781ac8b4fe31c6b4199e791c848fcb0ea6443a50efc99ea8"
+  },
+  {
+    "id": 76,
+    "file": "v38/vo/sentence-76.wav",
+    "duration": 4.284081632653061,
+    "original": "sentence_76_它是_anadius_的作品voices.wav",
+    "source": "voices视频专题/videoVoices/sentence_76_它是_anadius_的作品voices.wav",
+    "sha256": "6e94050a9311d1947839cac55505a1b53b3c7343c9ad4a3fbdc9def742a654a0"
+  },
+  {
+    "id": 77,
+    "file": "v38/vo/sentence-77.wav",
+    "duration": 3.924172335600907,
+    "original": "sentence_77_这一句致谢让我们看到破解者之间并不总是各.wav",
+    "source": "voices视频专题/videoVoices/sentence_77_这一句致谢让我们看到破解者之间并不总是各.wav",
+    "sha256": "6e9a23c9a1ed757f060ee9ab6f79ffa6b849ed42479e77cfcc31758256b148f4"
+  },
+  {
+    "id": 78,
+    "file": "v38/vo/sentence-78.wav",
+    "duration": 4.446621315192743,
+    "original": "sentence_78_一个人开发的工具也可能成为另一个人完成发.wav",
+    "source": "voices视频专题/videoVoices/sentence_78_一个人开发的工具也可能成为另一个人完成发.wav",
+    "sha256": "dce5a0462b7375e415723e395ce2fe58700cf474bd965aca92b3efb8a341d4cf"
+  },
+  {
+    "id": 79,
+    "file": "v38/vo/sentence-79.wav",
+    "duration": 4.783310657596372,
+    "original": "sentence_79_二零二六年_1_月_11_日voices.wav",
+    "source": "voices视频专题/videoVoices/sentence_79_二零二六年_1_月_11_日voices.wav",
+    "sha256": "f5602e3b79e578cc6b3a5ac9b860835c3cdf847c0f5a80c3e2e4938a0b5ac8f3"
+  },
+  {
+    "id": 80,
+    "file": "v38/vo/sentence-80.wav",
+    "duration": 3.610702947845805,
+    "original": "sentence_80_照例先看_KIND在太空里对着僵尸_bi.wav",
+    "source": "voices视频专题/videoVoices/sentence_80_照例先看_KIND在太空里对着僵尸_bi.wav",
+    "sha256": "0aba930beecef9e61f413bd01f19e6692f27fed5aa7b422b8de84fbbeafe219c"
+  },
+  {
+    "id": 81,
+    "file": "v38/vo/sentence-81.wav",
+    "duration": 3.0650340136054424,
+    "original": "sentence_81_不过严格来说死亡空间里的怪物叫尸变体.wav",
+    "source": "voices视频专题/videoVoices/sentence_81_不过严格来说死亡空间里的怪物叫尸变体.wav",
+    "sha256": "c511998a30dc87a1049d94ddbed61c22cdd18b981a5cc67b03b061340078c5c6"
+  },
+  {
+    "id": 82,
+    "file": "v38/vo/sentence-82.wav",
+    "duration": 0.9752380952380952,
+    "original": "sentence_82_但是这不重要.wav",
+    "source": "voices视频专题/videoVoices/sentence_82_但是这不重要.wav",
+    "sha256": "1a9a9c60dad41b2ddf6de9c4bc7fcf51c4cf17f1f613101a726d21853509183d"
+  },
+  {
+    "id": 83,
+    "file": "v38/vo/sentence-83.wav",
+    "duration": 2.7747845804988662,
+    "original": "sentence_83_这一次版本名后面多了一个词PROPER.wav",
+    "source": "voices视频专题/videoVoices/sentence_83_这一次版本名后面多了一个词PROPER.wav",
+    "sha256": "0864427d8f92319d30126e753bca6ae3cbce633ff0de1c7dec168f3ae82869ac"
+  },
+  {
+    "id": 84,
+    "file": "v38/vo/sentence-84.wav",
+    "duration": 2.5658049886621317,
+    "original": "sentence_84_在破解组的规矩里Proper_是修正版.wav",
+    "source": "voices视频专题/videoVoices/sentence_84_在破解组的规矩里Proper_是修正版.wav",
+    "sha256": "a31539339e145ed0f8827c1c6339e7b849cda78f532f8b63837f963e95410538"
+  },
+  {
+    "id": 85,
+    "file": "v38/vo/sentence-85.wav",
+    "duration": 4.96907029478458,
+    "original": "sentence_85_比如之前已经有人发过但那一版有问题后面发.wav",
+    "source": "voices视频专题/videoVoices/sentence_85_比如之前已经有人发过但那一版有问题后面发.wav",
+    "sha256": "4603656e8c114b977a1b4ebfcfd1dd1fa1927d53ff09df473aa065732fbb6722"
+  },
+  {
+    "id": 86,
+    "file": "v38/vo/sentence-86.wav",
+    "duration": 3.5062131519274375,
+    "original": "sentence_86_之前发死亡空间的是另一位破解者_0xZe.wav",
+    "source": "voices视频专题/videoVoices/sentence_86_之前发死亡空间的是另一位破解者_0xZe.wav",
+    "sha256": "0f5312249def9ebb0ab808a774ace18eb3ff7e78ec780b5bd382f1443740409d"
+  },
+  {
+    "id": 87,
+    "file": "v38/vo/sentence-87.wav",
+    "duration": 5.340589569160998,
+    "original": "sentence_87_就在几天前他刚发布了这款游戏的测试版用的.wav",
+    "source": "voices视频专题/videoVoices/sentence_87_就在几天前他刚发布了这款游戏的测试版用的.wav",
+    "sha256": "e2fcfbba3082a3a99dc9a31f9c1698a1b56f70694b3eda265db00682cca65b58"
+  },
+  {
+    "id": 88,
+    "file": "v38/vo/sentence-88.wav",
+    "duration": 2.0085260770975055,
+    "original": "sentence_88_这条路线后面还会讲到.wav",
+    "source": "voices视频专题/videoVoices/sentence_88_这条路线后面还会讲到.wav",
+    "sha256": "83d72b31bb09220386c9e534c5e06e79617676e78233d5639f0e646beab6ea36"
+  },
+  {
+    "id": 89,
+    "file": "v38/vo/sentence-89.wav",
+    "duration": 6.698956916099773,
+    "original": "sentence_89_voices_thirtyeight_在.wav",
+    "source": "voices视频专题/videoVoices/sentence_89_voices_thirtyeight_在.wav",
+    "sha256": "1b231ada3e36276784c4fe527051d0b8c8b3f8fba117eca93205d8a3ffef4d68"
+  },
+  {
+    "id": 90,
+    "file": "v38/vo/sentence-90.wav",
+    "duration": 3.610702947845805,
+    "original": "sentence_90_它在很多配置的电脑上跑不起来在_Linu.wav",
+    "source": "voices视频专题/videoVoices/sentence_90_它在很多配置的电脑上跑不起来在_Linu.wav",
+    "sha256": "1d9fb729aa8628df401d34d4902ca325cead38c5f433383ae2f94da9c5bf081f"
+  },
+  {
+    "id": 91,
+    "file": "v38/vo/sentence-91.wav",
+    "duration": 4.632380952380952,
+    "original": "sentence_91_还会随机卡死崩溃玩家得调大虚拟内存才能躲.wav",
+    "source": "voices视频专题/videoVoices/sentence_91_还会随机卡死崩溃玩家得调大虚拟内存才能躲.wav",
+    "sha256": "8a2d92683d9a20403988b50cdbddfe963210528a61a204f0b8cd36dac7604ab3"
+  },
+  {
+    "id": 92,
+    "file": "v38/vo/sentence-92.wav",
+    "duration": 1.7763265306122449,
+    "original": "sentence_92_这是一种糟糕的技术路线.wav",
+    "source": "voices视频专题/videoVoices/sentence_92_这是一种糟糕的技术路线.wav",
+    "sha256": "142b7fc0ae1720e3d68452b584bec1f3018d391960886b2f4628aa50bb4b28ce"
+  },
+  {
+    "id": 93,
+    "file": "v38/vo/sentence-93.wav",
+    "duration": 5.7004988662131515,
+    "original": "sentence_93_然后他介绍了自己的版本一份老派的_Pro.wav",
+    "source": "voices视频专题/videoVoices/sentence_93_然后他介绍了自己的版本一份老派的_Pro.wav",
+    "sha256": "838371d288203fe06996f225e44a16bf25f399d0675a03a46410bcf3ce841097"
+  },
+  {
+    "id": 94,
+    "file": "v38/vo/sentence-94.wav",
+    "duration": 1.1145578231292517,
+    "original": "sentence_94_祝大家玩得开心.wav",
+    "source": "voices视频专题/videoVoices/sentence_94_祝大家玩得开心.wav",
+    "sha256": "fd0842d5f5b5621e14b5500067bde79b1b4a32dd9a1f0a2077945707594c31e5"
+  },
+  {
+    "id": 95,
+    "file": "v38/vo/sentence-95.wav",
+    "duration": 5.5495691609977325,
+    "original": "sentence_95_不过三天后1_月_14_日voices.wav",
+    "source": "voices视频专题/videoVoices/sentence_95_不过三天后1_月_14_日voices.wav",
+    "sha256": "330ab9e3a058abd425539581a50035c2ebc3ea5fe1353c98c2974fe8e108edbd"
+  },
+  {
+    "id": 96,
+    "file": "v38/vo/sentence-96.wav",
+    "duration": 4.028662131519274,
+    "original": "sentence_96_顾名思义这次要修的不是游戏而是他自己的破.wav",
+    "source": "voices视频专题/videoVoices/sentence_96_顾名思义这次要修的不是游戏而是他自己的破.wav",
+    "sha256": "b37401976aaf3aba96d55633254804e00873e846b91ca28bc47e9242e890374e"
+  },
+  {
+    "id": 97,
+    "file": "v38/vo/sentence-97.wav",
+    "duration": 6.048798185941043,
+    "original": "sentence_97_说明里他承认上一版漏掉了几个地方表示现在.wav",
+    "source": "voices视频专题/videoVoices/sentence_97_说明里他承认上一版漏掉了几个地方表示现在.wav",
+    "sha256": "94d668d96732250eafd15fc0d881286536d51dfc7140840cd257abb079f608dd"
+  },
+  {
+    "id": 98,
+    "file": "v38/vo/sentence-98.wav",
+    "duration": 5.38702947845805,
+    "original": "sentence_98_他还说自己会改进针对二零二三年版_Den.wav",
+    "source": "voices视频专题/videoVoices/sentence_98_他还说自己会改进针对二零二三年版_Den.wav",
+    "sha256": "b6f856c8ef6925ceeb8defa81b127f56c14b0aa8763f28acc3af367cf3d2c639"
+  },
+  {
+    "id": 99,
+    "file": "v38/vo/sentence-99.wav",
+    "duration": 2.2523356009070294,
+    "original": "sentence_99_三天前在什么环境下都能用.wav",
+    "source": "voices视频专题/videoVoices/sentence_99_三天前在什么环境下都能用.wav",
+    "sha256": "8976f3b900fe7d272a4463a7c2105e083d75e6d960bf0f23e0694674319a5425"
+  },
+  {
+    "id": 100,
+    "file": "v38/vo/sentence-100.wav",
+    "duration": 1.2770975056689342,
+    "original": "sentence_100_三天后抱歉.wav",
+    "source": "voices视频专题/videoVoices/sentence_100_三天后抱歉.wav",
+    "sha256": "3ae4790ccc941ea6c027e0ab47e23471b8c57eb18eb83d6e238cac86baba88f3"
+  },
+  {
+    "id": 101,
+    "file": "v38/vo/sentence-101.wav",
+    "duration": 4.365351473922902,
+    "original": "sentence_101_不过发布之后再补发修复在破解圈并不是什么.wav",
+    "source": "voices视频专题/videoVoices/sentence_101_不过发布之后再补发修复在破解圈并不是什么.wav",
+    "sha256": "5bd546570cd9f39cef2fd82b410bcbbbcdab3776e6d7f0acd450a88c20dd0d60"
+  },
+  {
+    "id": 102,
+    "file": "v38/vo/sentence-102.wav",
+    "duration": 3.610702947845805,
+    "original": "sentence_102_二零零六年RELOADED_发布细胞分裂.wav",
+    "source": "voices视频专题/videoVoices/sentence_102_二零零六年RELOADED_发布细胞分裂.wav",
+    "sha256": "7768213699dffff2907d0ffc85bbd99b711f5d340a9eb58fb4b4876b3a6fb58f"
+  },
+  {
+    "id": 103,
+    "file": "v38/vo/sentence-103.wav",
+    "duration": 5.839818594104308,
+    "original": "sentence_103_两天后也补了一份修复因为第一版用到的技术.wav",
+    "source": "voices视频专题/videoVoices/sentence_103_两天后也补了一份修复因为第一版用到的技术.wav",
+    "sha256": "c36f663c8da9a7713cf0facd8a09c0052d45175dde2bf17c2ced21bea563b071"
+  }
+]

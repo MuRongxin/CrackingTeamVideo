@@ -1,0 +1,21 @@
+{
+  "id": "V38_A3_proper-fields",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第三幕 NFO 原图局部：proper-fields",
+  "path": "media/03_stills/voices38_act3/proper-fields.png",
+  "derived_from": "media/03_stills/source_images/V06_nfo.png",
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1qackwg/deadspaceremakepropervoices38/",
+  "author": "发行文字署名 voices38；图片托管于 ImgBB",
+  "rights": "公开帖子链接的 NFO 图；授权未确认，仅研究与剪辑候选",
+  "status": "exported",
+  "source_sha256": "c84040bc946fa4bd66180661a89356407370834444c95f549ad90ad670899fea",
+  "bytes": 3213,
+  "sha256": "723f45deee8ae696d99a1ab5e221e6357e086cd95e632d300a7f253b9547079b",
+  "crop_pixels": [
+    56,
+    222,
+    624,
+    314
+  ]
+}

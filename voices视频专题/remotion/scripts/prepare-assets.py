@@ -7,6 +7,7 @@ repo = root.parents[1]
 pub = root / 'public/v38'
 for folder in ['court', 'nfo', 'vo', 'fonts']:
     (pub / folder).mkdir(parents=True, exist_ok=True)
+subprocess.run(['python3',str(root/'scripts/sync-voiceover.py')],check=True)
 records = []
 boxes = {
     'COURT_COMPLAINT': {'header': (100,9,511,31), 'court': (151,400,519,448),
@@ -30,15 +31,10 @@ with tempfile.TemporaryDirectory(prefix='v38-assets-') as tmp:
                     'status':'exported','note':'真实 PDF 局部；未重写原文；未包含律师联系方式'})
 font = Path.home()/'.local/share/fonts/WenYue-XinQingNianTi-W8-J-2.otf'
 shutil.copyfile(font,pub/'fonts/xinqingnian.otf')
-voices=[]
-for n in range(1,20):
-    src=next((root.parent/'视频文稿配音（前2幕）').glob(f'sentence_{n:02}_*'))
-    dst=pub/'vo'/f'sentence-{n:02}.wav';shutil.copyfile(src,dst)
-    with wave.open(str(src)) as w: duration=w.getnframes()/w.getframerate()
-    voices.append({'id':n,'file':f'v38/vo/sentence-{n:02}.wav','duration':duration,'original':src.name})
-    records.append({'path':str(dst.relative_to(repo)),'derived_from':str(src.relative_to(repo)),
-        'status':'copied','note':'用户提供的配音，未变速、未替换，保留原文件'})
-(root/'src/voice-manifest.json').write_text(json.dumps(voices,ensure_ascii=False,indent=2)+'\n')
+# The current recordings are imported by the shared synchronizer.
+voice_rows=json.loads((root/'current-voice-provenance.json').read_text())[:11]
+for v in voice_rows:
+    records.append({'path':str((root/'public'/v['file']).relative_to(repo)), 'derived_from':v['source'],'status':'copied','note':'新版录音；原速原样'})
 src=repo/'media/03_stills/source_images/V06_nfo.png';dst=pub/'nfo/proper-header.png'
 with Image.open(src) as im: im.crop((0,0,640,220)).save(dst)
 records.append({'path':str(dst.relative_to(repo)),'derived_from':str(src.relative_to(repo)),

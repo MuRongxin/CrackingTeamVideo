@@ -144,139 +144,6 @@
     "sha256": "4931b15e3359bc57f34954646eb97c906d0c35c85f839ef0e496a42edab5b52a"
   },
   {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-01.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_01_二零二六_年_9_月美国加州北区联邦地区.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "69dd887c3df1996c889a8380595baa50146d8f92cc571c939a26c6399b61700f"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-02.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_02_原告是一家奥地利公司Denuvo_Gmb.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "a728a03dd2b434fcee31a42e9e0e2ce2ee13da19e997bab7db2986b018a01c74"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-03.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_03_被告一栏只有一个奇怪的名字voices3.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "9d4096d26dcff1c4bca051649316613abe95a064e267c8f91886a981cfbb60b7"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-04.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_04_起诉书对被告的描述是身份不明的个人或实体.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "4c18910aff6ef9afe782f5bfe3e97fca6b2355437e1920f25c2fc2e35b8772a2"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-05.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_05_换句话说Denuvo_起诉了一个网名.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "971cee75a284746fa32646cf8f0f13809efd344da9d3e17d736ad120452128bf"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-06.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_06_在递交给法院的文件里他们说公司手里目前只.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "a3630b5a8c508fefe3758ca1de7af7ca23ac86fa27dc403fac4f79baee7e404f"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-07.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_07_所以它请求法院允许它向_DiscordV.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "17a32a07cfee4f4a9c1c4c7bd6780fb6c52e199212948c69781d57329f0bbdb2"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-08.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_08_弄清楚这个账号背后的人叫什么住在哪怎么联.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "41d47d22f6dcd15ccdc3bff02e10dc246f9bd13dbf77484546830f5d18956000"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-09.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_09_最初的请求有_46_项法官认为范围太宽最.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "d28a7a53f700078da90d3eef40fd4bbf3a578fb74bebffd849277cf9039ce29d"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-10.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_10_这期视频我准备了很多有关voices38.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "ece576dead04210c11fbb8d941862583d6db4df390f942124aff0e8bf76ca002"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-11.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_11_大部分是_voices_自己公开留下的.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "ed7e92f200073bb02a13cb85be53765faaaa1b264aadb21f1e7ec3863a8234f5"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-12.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_12_有发布说明帖子一句道歉一笔没凑齐的账还有.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "8e4580bb89043d1e7f903773e750cdd152ea58271f639988707a3429bb935d41"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-13.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_13_也有几样是别人留给他的.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "2a1e626cfdacf9b4ab5bc3c0201af7dc76295551aea0b00983b36cc1c54f19c3"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-14.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_14_它们证明不了他是谁.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "666156f79ffe723f730bacf328659cc9ae7fc3247f52adc24f959491bb10a26f"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-15.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_15_但能看出来他是怎样做事的.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "1a56e2cda6180ea6e9b084171a74f9bdba7979c0304941fbe1004859fa0ce661"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-16.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_16_在说明文件里voices_一直用第一人称.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "654d49e325a910fc9d2ca99f9c47dccda5e66244e7760ebf9f5eb410d89ad055"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-17.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_17_所以这期视频也先用他来称呼这个名字.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "1e76cd8d88d7e8de9c1fd84c801807d01acd668c107e20f44acb25810f07e6ac"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-18.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_18_至于背后是一个人还是几个人连起诉书都只能.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "51019a20b16b395ad2e598a96c3b1b7b4c7bc6f01c90a8bbc6fdd8ca628bc350"
-  },
-  {
-    "path": "voices视频专题/remotion/public/v38/vo/sentence-19.wav",
-    "derived_from": "voices视频专题/视频文稿配音（前2幕）/sentence_19_我们并不清楚.wav",
-    "status": "copied",
-    "note": "用户提供的配音，未变速、未替换，保留原文件",
-    "sha256": "b8cd547c77eb84b0c30a8cfc3a1e78bce3eb10ceb051b092d68d46c04291dc74"
-  },
-  {
     "path": "voices视频专题/remotion/public/v38/nfo/proper-header.png",
     "derived_from": "media/03_stills/source_images/V06_nfo.png",
     "crop_pixels": [
@@ -288,5 +155,82 @@
     "status": "exported",
     "note": "NFO 题头裁切，未包含邮箱和捐款地址；沿用原素材使用条件",
     "sha256": "33deb24b1765e85a8b409d5f390b2651dc940c37ccdd1a9fbcdbfe30cd937ca7"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-01.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_01_二零二六年_9_月美国加州北区联邦地区法.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "95d2c3d6e88c1561ffc0f99d692a5d104aed959ef161112cffcd128da514f529"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-02.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_02_原告是一家奥地利公司Denuvo_Gmb.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "2bda9b2d4e60704c6d70a5ec55b4e4e4ce04196c1012471c3880f14a33c9a371"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-03.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_03_被告一栏只有一个奇怪的名字voices.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "97621abdb945113eb1945d1476167f53d8489bd04e8c2a6d50ccae28318b8b04"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-04.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_04_起诉书对被告的描述是身份不明的个人或实体.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "deab7325d3adf24e6a1b87ccdec1ab0a186eab1a68f7f61e39befdab1df632fb"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-05.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_05_换句话说Denuvo_起诉了一个连他们都.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "29504e1578650f866b6bad0e04e6f25b95d6329e38e1905a779bb0904c930da7"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-06.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_06_因此它请求法院允许它向_DiscordV.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "b572ce29643501fed95c2f282a029a34777e7e455a6414aa201bdfe4d217f2c1"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-07.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_07_最初的请求有_46_项法官认为范围太宽过.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "855863e2bb2d713b7d536a505d98e9189eaf96f10ae6286c9dc90e48e42482a6"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-08.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_08_最后_Denuvo_把请求缩成了_9_项.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "071e8440caab850da91d4b70810e33ff3a486fa06eb8dad47145c2ac1f485d23"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-09.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_09_我准备了很多有关_voices_thir.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "f9f594a2413af6dc75e7254669b2f08911ce80abcc80f02972f8dd15371fbbf2"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-10.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_10_在他自己发布的文件里voices_thi.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "5ecb49fe2e45d1fb53db875b33afaee6b9bfa3bc5276414a2ff2a9c1f7175c40"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/vo/sentence-11.wav",
+    "derived_from": "voices视频专题/videoVoices/sentence_11_至于voices_thirtyeight.wav",
+    "status": "copied",
+    "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
+    "sha256": "a8415c3d6d3dd60f0eded1df244a2097e77b69b2d7f002c227b5f771a632164a"
   }
 ]

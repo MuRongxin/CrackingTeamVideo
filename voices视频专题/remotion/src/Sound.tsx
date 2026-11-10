@@ -49,7 +49,6 @@ export const Sound = ({
     return (
       <>
         <Cue at={0.9} file="pencil" />
-        <Cue at={1.25} file="pencil" />
         <Cue at={1.8} file="pencil" />
       </>
     );
@@ -57,44 +56,29 @@ export const Sound = ({
   if (shot === 6)
     return (
       <>
-        <Cue at={1.85} file="stamp" />
-        <Cue at={2.48} file="stamp" />
-        <Cue at={3.11} file="stamp" />
-        <Cue at={timing.voices[1].start + 0.7} file="pencil" />
+        <Cue at={1.85} file="paper" />
+        <Cue at={2.45} file="paper" volume={0.25} />
+        <Cue at={3.05} file="paper" volume={0.2} />
       </>
     );
   if (shot === 7)
     return (
-      <>
-        <Cue at={timing.duration * 0.6} file="paper" />
-        <Cue at={timing.duration * 0.6 + 0.3} file="paper" volume={0.18} />
-      </>
+      <Cue at={timing.voices[1].start + 0.35} file="paper" volume={0.23} />
     );
   if (shot === 8) return <Cue at={0.3} file="sweep" />;
-  if (shot === 9) {
-    const a = timing.voices[2].start,
-      b = timing.voices[3].start;
+  if (shot === 9)
     return (
       <>
-        <Cue at={a - 0.25} file="paper" />
-        <Cue at={a + 0.8} file="paper" volume={0.25} />
-        <Cue at={a + 1.4} file="paper" volume={0.22} />
-        <Cue at={a + 2.25} file="paper" volume={0.2} />
-        <Cue at={a + 3.4} file="paper" volume={0.17} />
-        <Cue at={b + 0.1} file="paper" volume={0.15} />
-        <Cue at={b + 0.45} file="paper" volume={0.14} />
-        <Cue at={b + 0.8} file="paper" volume={0.13} />
+        <Cue at={0.5} file="paper" />
+        <Cue at={0.95} file="paper" volume={0.23} />
+        <Cue at={1.4} file="paper" volume={0.18} />
       </>
     );
-  }
-  if (shot === 10) return <Cue at={0.9} file="stamp" volume={0.2} />;
   if (shot === 11)
     return (
       <>
-        <Cue at={timing.voices[1].start} file="sweep" volume={0.2} />
-        <Cue at={timing.voices[2].start + 0.7} file="click" />
-        <Cue at={timing.voices[2].start + 1.7} file="click" />
-        <Cue at={timing.voices[2].start + 2.8} file="click" />
+        <Cue at={5.25} file="sweep" volume={0.2} />
+        <Cue at={timing.voices[1].start + 1} file="click" volume={0.2} />
       </>
     );
   return null;

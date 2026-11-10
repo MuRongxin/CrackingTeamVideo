@@ -74,7 +74,7 @@ export const Versions = ({ timing }: { timing: ShotTiming }) => {
       <VersionAxis introduced={false} />
       <Nameplate
         name="CODEX"
-        caption="C 组 · 2019 年发行"
+        caption="C 组 · 既有发行"
         style={{
           position: "absolute",
           left: 150,
@@ -85,7 +85,7 @@ export const Versions = ({ timing }: { timing: ShotTiming }) => {
       />
       <Nameplate
         name="EMPRESS"
-        caption="女皇 · 2020 年相关发行"
+        caption="女皇 · 相关发行"
         style={{
           position: "absolute",
           left: 360,
@@ -117,19 +117,37 @@ export const Versions = ({ timing }: { timing: ShotTiming }) => {
       >
         首发：2019
       </div>
+      {timing.voices[3] && (
+        <div
+          style={{
+            position: "absolute",
+            left: 1720,
+            top: 365,
+            fontSize: 85,
+            color: C.red,
+            opacity: lerp(
+              t,
+              timing.voices[3].start,
+              timing.voices[3].start + 0.5,
+            ),
+          }}
+        >
+          ?
+        </div>
+      )}
       <SourceTag>数据库快照｜xREL 游戏档案</SourceTag>
     </Scene>
   );
 };
 export const Updates = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
-  const bump = timing.voices[1].start;
-  const latest = timing.voices[2].start;
+  const bump = timing.voices[0].start + 3.7;
+  const latest = timing.voices[0].start + 6;
   const hit = Math.max(0, t - bump);
   const bounce = hit < 1.7 ? Math.abs(Math.sin(hit * 6.3)) * 40 : 0;
   return (
     <Scene paper>
-      <Topline label="旧版本与后续更新" right="VERSION HISTORY" paper />
+      <Topline label="社区解释：新的是游戏版本" right="VERSION HISTORY" paper />
       <div style={{ opacity: 1 - lerp(t, 0, 0.65) }}>
         <VersionAxis />
       </div>
@@ -340,7 +358,7 @@ export const DenuvoShell = () => {
         <div style={{ fontFamily: F.mono, fontSize: 86, color: C.blue }}>
           Denuvo
         </div>
-        <div style={{ fontSize: 35, marginTop: 30 }}>反篡改保护</div>
+        <div style={{ fontSize: 35, marginTop: 30 }}>俗称 D 加密</div>
       </div>
       <SourceTag>概念示意｜游戏保护</SourceTag>
     </Scene>
@@ -348,7 +366,7 @@ export const DenuvoShell = () => {
 };
 export const LayerDiagram = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
-  const outer = timing.voices[1].start;
+  const outer = timing.voices[0].start + 2.8;
   const arrow = lerp(t, outer + 1.3, outer + 2.1);
   return (
     <Scene paper>
@@ -508,201 +526,5 @@ export const SalesCurve = ({
         <circle cx="300" cy="285" r={8 + Math.sin(t * 2) * 2} fill={C.blue} />
       )}
     </svg>
-  );
-};
-export const LaunchWindow = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const quoteAt = timing.voices[1].start;
-  const q = lerp(t, quoteAt - 0.25, quoteAt + 0.5);
-  return (
-    <Scene paper>
-      <div style={{ opacity: 1 - q }}>
-        <Topline label="游戏首发后的那几个月" right="LAUNCH WINDOW" paper />
-        <SalesCurve progress={lerp(t, 0.3, 2.5)} />
-        <div
-          style={{
-            position: "absolute",
-            left: 360,
-            top: 390,
-            fontSize: 59,
-            color: C.blue,
-            opacity: lerp(t, 1, 1.5),
-          }}
-        >
-          首发窗口
-        </div>
-        <div
-          style={{ position: "absolute", left: 185, top: 770, fontSize: 30 }}
-        >
-          发售日
-        </div>
-        <TinyNote paper>示意曲线，不代表实际数据</TinyNote>
-      </div>
-      <Paper
-        style={{
-          position: "absolute",
-          left: 185,
-          top: 195,
-          width: 1550,
-          height: 610,
-          padding: "52px 65px",
-          rotate: `${-0.6 + t * 0.025}deg`,
-          opacity: q,
-          translate: `0 ${(1 - q) * 100}px`,
-          borderTop: `7px solid ${C.blue}`,
-        }}
-      >
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            fontFamily: F.mono,
-            fontSize: 27,
-            color: C.blue,
-            marginBottom: 40,
-          }}
-        >
-          <span>Ars Technica</span>
-          <span>2017.02.06 · 报道标题重排</span>
-        </div>
-        <div style={{ fontFamily: F.mono, fontSize: 45, lineHeight: 1.45 }}>
-          Denuvo: Our cracked RE7 protection
-          <br />
-          is still{" "}
-          <span
-            style={{ borderBottom: `3px solid ${C.blue}`, paddingBottom: 8 }}
-          >
-            better than nothing
-          </span>
-        </div>
-        <div style={{ fontSize: 27, color: C.gray, marginTop: 50 }}>译述</div>
-        <div style={{ fontSize: 60, lineHeight: 1.45, marginTop: 12 }}>
-          Denuvo：被破解的《生化危机7》保护
-          <br />
-          仍然好过没有
-        </div>
-      </Paper>
-      <SourceTag>
-        {q < 0.5 ? "概念示意｜首发窗口" : "同期报道｜Ars Technica｜2017-02-06"}
-      </SourceTag>
-    </Scene>
-  );
-};
-export const Tail = ({ talk = false }: { talk?: boolean }) => {
-  const t = useTime();
-  const pan = talk ? 600 : lerp(t, 0.2, 4, 0, 600);
-  const { fps } = useVideoConfig();
-  const pop = spring({
-    frame: Math.max(0, (t - 0.7) * fps),
-    fps,
-    config: { damping: 12 },
-  });
-  return (
-    <Scene paper>
-      <Topline
-        label={talk ? "新闻来自一句话" : "一款 2019 年的游戏"}
-        right="2019 → 2025.10"
-        paper
-      />
-      <div style={{ position: "absolute", inset: 0, translate: `${-pan}px 0` }}>
-        <SalesCurve tail />
-        <div
-          style={{
-            position: "absolute",
-            left: 160,
-            top: 770,
-            fontFamily: F.mono,
-            fontSize: 28,
-          }}
-        >
-          2019
-        </div>
-        <div
-          style={{
-            position: "absolute",
-            left: 1520,
-            top: 760,
-            fontFamily: F.mono,
-            fontSize: 33,
-          }}
-        >
-          2025.10
-        </div>
-        <div
-          style={{
-            position: "absolute",
-            left: 1518,
-            top: 510,
-            width: 3,
-            height: 194,
-            background: C.ink,
-          }}
-        />
-        <div
-          style={{
-            position: "absolute",
-            left: 1518,
-            top: 495,
-            background: C.black,
-            padding: "16px 24px",
-          }}
-        >
-          <NameCursor size={43} />
-        </div>
-      </div>
-      {!talk &&
-        [0, 1, 2].map((i) => (
-          <div
-            key={i}
-            style={{
-              position: "absolute",
-              left: 1550 - pan + i * 55,
-              top: 440 - i * 60 + Math.sin(t * 2 + i) * 6,
-              fontFamily: F.mono,
-              fontSize: 40 + i * 10,
-              color: C.gray,
-              opacity: lerp(t, 2 + i * 0.3, 2.3 + i * 0.3),
-            }}
-          >
-            z
-          </div>
-        ))}
-      {talk && (
-        <div
-          style={{
-            position: "absolute",
-            left: 760,
-            top: 275,
-            width: 570,
-            height: 190,
-            background: C.ink,
-            borderRadius: "60px 60px 60px 4px",
-            scale: pop,
-            transformOrigin: "bottom left",
-            boxShadow: "0 20px 55px #16213a22",
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-            gap: 24,
-          }}
-        >
-          {[0, 1, 2].map((i) => (
-            <div
-              key={i}
-              style={{
-                height: 24,
-                width: 24,
-                borderRadius: "50%",
-                background: C.white,
-                opacity: 0.3 + 0.7 * (0.5 + 0.5 * Math.sin(t * 5 - i)),
-                translate: `0 ${Math.sin(t * 5 - i) * 5}px`,
-              }}
-            />
-          ))}
-        </div>
-      )}
-      <SourceTag>概念示意</SourceTag>
-      <TinyNote paper>示意曲线，不代表实际数据</TinyNote>
-    </Scene>
   );
 };
