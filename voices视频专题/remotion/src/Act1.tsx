@@ -113,7 +113,4 @@ export const Act1 = Interactive.create({
   layout: "absolute-fill",
   schema: { ...Interactive.backgroundSchema },
 });
-export const Full = ({ timings }: ActProps) => (
-  <Act1 name="第一幕 · 起诉了一个网名" timings={timings} />
-);
 export const Thumbnail = () => <TitleCard still />;

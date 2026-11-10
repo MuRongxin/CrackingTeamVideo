@@ -38,10 +38,13 @@ for path in (ROOT/'media/02_footage').glob('*.mp4'):
         retrieved_at=datetime.now(timezone.utc).isoformat(),probe=p)
     side.write_text(json.dumps(record,ensure_ascii=False,indent=2))
 
+# Preserve prior order so adding a derivative does not renumber every thumbnail.
+previous_assets = json.loads((LEDGER/'assets.json').read_text()) if (LEDGER/'assets.json').exists() else []
+previous_order = {r['id']: i for i, r in enumerate(previous_assets)}
 records=[]
 for side in sorted((ROOT/'media').rglob('*.meta.json')):
     r=json.loads(side.read_text())
-    if r.get('status')!='downloaded':continue
+    if r.get('status') not in ('downloaded', 'exported'):continue
     path=ROOT/r['path']
     if not path.is_file():continue
     r['task']=r.get('task') or ','.join(tasks.get(r.get('source_code',''),[]))
@@ -69,6 +72,7 @@ for path in sorted((ROOT/'media/03_stills/pdf_pages').glob('*.png')):
         width=w,height=h,bytes=path.stat().st_size,sha256=hashlib.sha256(path.read_bytes()).hexdigest(),
         derived_from=f'media/01_sources/{code}/original.pdf',status='exported'))
 
+records.sort(key=lambda r: previous_order.get(r['id'], len(previous_order)))
 seen={}
 for r in records:
     if r.get('sha256') in seen:r['duplicate_of']=seen[r['sha256']]

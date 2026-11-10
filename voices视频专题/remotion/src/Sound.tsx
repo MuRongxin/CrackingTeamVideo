@@ -1,21 +1,23 @@
 import { Audio } from "@remotion/media";
 import { Sequence, staticFile, useVideoConfig } from "remotion";
 import type { ShotTiming } from "./timing";
-const Cue = ({
+export const Cue = ({
   at,
   file,
   volume = 0.3,
+  duration = 0.6,
 }: {
   at: number;
   file: string;
   volume?: number;
+  duration?: number;
 }) => {
   const { fps } = useVideoConfig();
   return (
     <Sequence
       name={`音效 ${file}`}
       from={Math.round(at * fps)}
-      durationInFrames={Math.ceil(0.6 * fps)}
+      durationInFrames={Math.ceil(duration * fps)}
     >
       <Audio src={staticFile(`v38/sfx/${file}.wav`)} volume={volume} />
     </Sequence>

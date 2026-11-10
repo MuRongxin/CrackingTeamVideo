@@ -1,0 +1,19 @@
+{
+  "id": "V38_A2_snow",
+  "task": "EX15",
+  "kind": "video",
+  "title": "第二幕游戏片段：26—29 秒",
+  "path": "media/02_footage/derived/V38_A2_snow.mp4",
+  "derived_from": "media/02_footage/EX15_STEAM_779340_trailer1_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/779340/",
+  "author": "Creative Assembly / SEGA",
+  "status": "exported",
+  "source_sha256": "7e5dd0e6586ad0519eb9bbfd89942c326076d2b397f5324fa369459dbe346fe6",
+  "selected_range_seconds": [
+    26,
+    29
+  ],
+  "rights": "衍生静音节选；沿用官方商店宣传片的公开使用条件，未取得额外授权",
+  "bytes": 1921073,
+  "sha256": "e5b2dfeb0a8f790205ee440b50f5e50288028510168155e8aeeadbf745ca4f35"
+}

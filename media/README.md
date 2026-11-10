@@ -14,4 +14,4 @@
 
 采集脚本用于复查来源，不建议无差别重跑全部下载。`collect_sources.py` 抓取文档中已登记的来源；`collect_assets.py` 取得来源图片与官方商店图片；`collect_more.py` 收集部分官方预告与 Commons 文件。网络结果可能变化，脚本产生的新候选仍需人工复核。
 
-补充或核验文件后，可在项目根目录运行 `python3 media/00_ledger/build_catalog.py` 更新登记和浏览页。脚本读取已经确认下载成功的文件，不会把失败请求视为成功素材。
+补充或核验文件后，可在项目根目录运行 `python3 media/00_ledger/build_catalog.py` 更新登记和浏览页。脚本读取已经确认下载成功的文件，以及 `status: exported` 且保留 `derived_from` 的衍生素材；不会把失败请求视为成功素材。衍生节选的原片路径、时码或裁切范围写入旁边的 `.meta.json`，沿用原素材的使用条件。

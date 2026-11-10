@@ -13,7 +13,7 @@ const fs = require("fs");
   });
   const browser = await openBrowser("chrome", {
     browserExecutable: "/usr/bin/google-chrome-stable",
-    chromiumOptions: { gl: "angle" },
+    chromiumOptions: { gl: "angle", headless: true },
   });
   try {
     const comps = await getCompositions(url, { puppeteerInstance: browser });
@@ -79,7 +79,11 @@ const fs = require("fs");
       console.log("CHECKED", item);
     }
     const full = comps.find((x) => x.id === "V38Full");
-    assert.equal(full.durationInFrames, c.durationInFrames);
+    assert.equal(
+      full.durationInFrames,
+      c.durationInFrames +
+        comps.find((x) => x.id === "V38Act2").durationInFrames,
+    );
     await renderStill({
       serveUrl: url,
       composition: full,

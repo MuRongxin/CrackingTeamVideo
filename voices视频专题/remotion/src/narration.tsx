@@ -4,7 +4,12 @@ import type { Caption } from "@remotion/captions";
 import { useTime } from "./components";
 import { F } from "./style";
 import type { ShotTiming } from "./timing";
-import captions from "./captions.json";
+import act1Captions from "./captions.json";
+import act2Captions from "./act2/captions.json";
+const captions: Record<string, Caption[]> = {
+  ...act1Captions,
+  ...act2Captions,
+};
 
 export const Subtitle = ({ captions: items }: { captions: Caption[] }) => {
   const t = useTime() * 1000;
