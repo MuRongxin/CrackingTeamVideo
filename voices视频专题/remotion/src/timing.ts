@@ -10,9 +10,10 @@ export const specs = [
   { ids: [3], pre: 0.1, gap: 0, post: 0.35, hold: 0 },
   { ids: [4], pre: 0.1, gap: 0, post: 0.15, hold: 0 },
   { ids: [5], pre: 0.1, gap: 0, post: 0.15, hold: 0 },
+  // The title now pays off the cold open before the subpoena explanation.
+  { ids: [], pre: 0, gap: 0, post: 0, hold: 2.3 },
   { ids: [6], pre: 0.1, gap: 0, post: 0.15, hold: 0 },
   { ids: [7, 8], pre: 0.1, gap: 0.15, post: 0.15, hold: 0 },
-  { ids: [], pre: 0, gap: 0, post: 0, hold: 2.3 },
   { ids: [9], pre: 0.1, gap: 0, post: 0, hold: 0 },
   { ids: [9], pre: 0, gap: 0, post: 0.15, hold: 0 },
   { ids: [10, 11], pre: 0.1, gap: 0.15, post: 0.45, hold: 0 },

@@ -1,0 +1,497 @@
+      Case 4:26-cv-10423-HSG            Document 15     Filed 10/02/26     Page 1 of 8
+
+
+
+
+ 1 Gregory J. Lundell (CA Bar No. 234,941)
+   greg.lundell@hglaw.com
+ 2 Donny K. Samporna (CA Bar No. 316,456)
+   donny.samporna@hglaw.com
+ 3 HG LAW LLP
+   111 North Market Street, Suite 900
+ 4 San Jose, California 95113
+   Tel: (669) 213-1050 – Fax: (669) 500-7375
+ 5
+   Brian N. Platt (pro hac vice pending)
+ 6 bplatt@wnlaw.com
+   Ryan C. Morris (pro hac vice pending)
+ 7 rmorris@wnlaw.com
+   WORKMAN NYDEGGER
+ 8 60 East South Temple Suite 1000
+   Salt Lake City, UT 84111
+ 9 Tel: (801) 533-9800 – Fax: (801) 328-1707
+
+10 Attorneys for Plaintiff Denuvo GmbH
+
+11
+
+12                               UNITED STATES DISTRICT COURT
+13                            NORTHERN DISTRICT OF CALIFORNIA
+14                                        OAKLAND DIVISION
+15 DENUVO GMBH,                                        Case No. 4:26-cv-10423-HSG
+16                         Plaintiff,
+                                                       EX PARTE MOTION FOR EXPEDITED
+17          v.                                         DISCOVERY
+18 VOICES38, an unknown individual or entity,
+   and DOES 1-10,                                      Judge:   Haywood S. Gilliam, Jr.
+19
+                     Defendants.
+20
+
+21
+
+22          Plaintiff Denuvo GmbH (“Plaintiff” or “Denuvo”) hereby moves the Court for leave to
+23 take limited discovery in this action prior to the Rule 26(f) conference. Denuvo seeks an order
+
+24 allowing narrowly tailored subpoenas to non-parties Discord Inc., Valve Corporation, and Reddit
+
+25 Inc. to determine the contact information for Defendant voices38, an unknown individual or entity
+
+26 (“Defendant”). This motion is filed concurrently with the Declaration of Ryan C. Morris in
+
+27 Support of Expedited Discovery (“Morris Decl.”).
+
+28
+
+                                                                                Case No. 4:26-cv-10423-NC
+                               EX PARTE MOTION FOR EXPEDITED DISCOVERY
+      Case 4:26-cv-10423-HSG         Document 15         Filed 10/02/26   Page 2 of 8
+
+
+
+
+ 1 I.       INTRODUCTION
+
+ 2          Defendant is a computer hacker, or a group of hackers, who has circumvented Denuvo’s
+
+ 3 technological measures that control access to copyrighted works, including video games, in
+
+ 4 violation of the Digital Millennium Copyright Act (“DMCA”). Defendant goes by the online alias
+
+ 5 “voices38” and has not only circumvented Denuvo’s technological measures, but has disclosed
+
+ 6 online, including through such sites as Reddit, how to circumvent Denuvo’s technological controls
+
+ 7 for accessing copyrighted works. Because Defendant uses an alias online, Denuvo seeks limited
+
+ 8 discovery to learn Defendant’s identity so that Denuvo can serve Defendant.
+
+ 9 II.      STATEMENT OF FACTS
+
+10          Denuvo is a world leader in video game security. Compl. ¶ 2. Among other things, Denuvo
+
+11 develops software programs for video game publishers that provide gaming security, preventing
+
+12 unauthorized access and piracy, and exposing cheats in competitive multiplayer games. Id.; id.
+
+13 ¶¶ 10, 12. One of Denuvo’s security solutions is Denuvo’s Anti-Tamper product, which protects
+
+14 video games by reinforcing platform-level digital rights management (“DRM”). Id. ¶ 13. DRM
+
+15 manages legal access to digital content, restricting the use of copyrighted works by governing the
+
+16 use, modification, and distribution of copyright works. Id. ¶ 14. Denuvo’s Anti-Tamper ensures that
+
+17 only legitimate users can access a video game and prevents reverse engineering, debugging, and
+
+18 unauthorized modifications of the video game. Id. ¶¶ 15-16. Denuvo has provided its Anti-Tamper
+
+19 product to numerous video game publishers to enable those publishers to protect their copyrighted
+
+20 works. Id. ¶ 17.
+
+21          Defendant is a computer hacker who seeks to bypass or remove DRM for video games,
+
+22 including Denuvo’s Anti-Tamper, thereby circumventing the security measures developers and
+
+23 publishers use to prevent unauthorized access, copying, and distribution of video games. Compl.
+
+24 ¶¶ 18, 20. Defendant has bypassed Denuvo’s Anti-Tamper for numerous copyrighted video games,
+
+25 removing the very protections that allow copyright owners to restrict who may access their works,
+
+26 and allowing for pirated versions of those copyrighted works to be used and distributed without
+
+27 authorization. Id. ¶¶ 23-49. After bypassing Denuvo’s Anti-Tamper for a video game, Defendant
+
+28 posted materials and instructions on the internet thereby allowing others to obtain pirated and
+
+                                                     2                           Case No. 4:26-cv-10423-NC
+                              EX PARTE MOTION FOR EXPEDITED DISCOVERY
+      Case 4:26-cv-10423-HSG          Document 15          Filed 10/02/26   Page 3 of 8
+
+
+
+
+ 1 otherwise access unauthorized versions of the video game. Id. ¶ 63. Indeed, a Reddit page for
+
+ 2 “voices38” lists the games for which Defendant has bypassed Denuvo’s Anti-Tamper with links to
+
+ 3 materials and instructions for gaining unauthorized access to the video games. Id. ¶ 64.
+
+ 4          Denuvo has sought to determine the identity and location of Defendant. Denuvo has learned
+
+ 5 Defendant’s username and User ID number on Discord, which is an online platform for voice, video,
+
+ 6 and text chat. Compl. ¶ 4. Denuvo has also obtained information about accounts associated with
+
+ 7 Defendant on a digital distribution platform. Id. ¶ 5. Denuvo has further uncovered information
+
+ 8 about certain transactions by Defendant. Morris Decl. ¶¶ 7-10. After filing this lawsuit, Denuvo
+
+ 9 contacted Discord, Valve Corporation, and Reddit, Inc., requesting information about Defendant.
+
+10 Morris. Decl. ¶ 8. These entities responded that their privacy policies would not allow them to
+
+11 disclose information without compulsory legal process, such as a duly issued subpoena. Id. Despite
+
+12 its efforts, therefore, Denuvo has been unable to discover Defendant’s identity or address.
+
+13          Denuvo now seeks leave to conduct limited discovery before the Rule 26(f) conference so
+
+14 that Defendant may be served.
+
+15 III.     ARGUMENT
+
+16          The Ninth Circuit has instructed that “‘where the identity of the alleged defendant[][is] not
+
+17 [] known prior to the filing of a complaint[,] the plaintiff should be given an opportunity through
+
+18 discovery to identify the unknown defendants, unless it is clear that discovery would not uncover
+
+19 the identities, or that the complaint would be dismissed on other grounds.’” Wakefield v. Thompson,
+
+20 177 F.3d 1160, 1163 (9th Cir. 1999) (quoting Gillespie v. Civiletti, 629 F.2d 637, 642 (9th Cir.
+
+21 1980)) (alteration in original). Other courts have reached the same conclusion. Murphy v. Goord,
+
+22 445 F.Supp.2d 261, 266 (W.D.N.Y. 2006); see also SunLust Pictures, LLC v. Doe, 2012 WL
+
+23 975828, at *2 (D. Colo. Mar. 22, 2012). This Court evaluates the following factors when considering
+
+24 motions for expedited discovery to identify an anonymous defendant: (1) whether the plaintiff has
+
+25 identified “the missing party with sufficient specificity such that the Court can determine that
+
+26 defendant is a real personal or entity who could be sued in federal court”; (2) the previous steps the
+
+27 plaintiff has taken to locate the defendant; and (3) whether the plaintiff’s suit could withstand a
+
+28 motion to dismiss. Columbia Ins. Co. v. seescandy.com, 185 F.R.D. 573, 578-80 (N.D. Cal. 1999).
+
+                                                       3                          Case No. 4:26-cv-10423-NC
+                               EX PARTE MOTION FOR EXPEDITED DISCOVERY
+      Case 4:26-cv-10423-HSG           Document 15          Filed 10/02/26    Page 4 of 8
+
+
+
+
+ 1 These factors lead to a single conclusion: the Court should grant Denuvo’s request for expedited,
+
+ 2 limited discovery.
+
+ 3          First, Denuvo has identified Defendant with sufficient specificity to determine that
+
+ 4 Defendant is one or more real persons or entities that can be sued in federal court. Denuvo has
+
+ 5 identified Defendant as a person or persons operating online as “voices38.” Denuvo has determined
+
+ 6 Defendant’s username and User ID on an online voice, video, and text chat platform. Compl. ¶ 4;
+
+ 7 Morris Decl. ¶ 5. Denuvo has also determined that Defendant is associated with several accounts on
+
+ 8 a digital distribution platform owned and operated by Valve Corporation. Compl. ¶ 5; Morris Decl.
+
+ 9 ¶ 6. Moreover, Defendant uses the online alias “voices38” on internet platforms such as Reddit.
+
+10 Compl. ¶¶ 3, 64. Indeed, Reddit pages are dedicated to Defendant’s hacking of video games, listing
+
+11 video games that Defendant has hacked, and providing materials and instructions for gaining
+
+12 unauthorized access to video games. Id. ¶ 64. There is sufficient information that Defendant is a
+
+13 person or combination of persons or entities that can be sued.
+
+14          Second, Denuvo has taken numerous steps to locate and identify Defendant. For instance,
+
+15 Denuvo found Defendant’s username and User ID on Discord, which is an internet platform for
+
+16 voice, video, and text chatting. Compl. ¶ 4; Morris Decl. ¶ 5. Denuvo has also learned of several
+
+17 accounts or profiles associated with Defendant on the digital distribution platform operated by
+
+18 Valve. Compl. ¶ 5; Morris Decl. ¶ 6. Further, Denuvo has identified certain transactions associated
+
+19 with Defendant, including transactions for cryptocurrencies. Morris Decl. ¶ 7. Denuvo has directly
+
+20 sought information about Defendant from companies such as Discord, Valve Corp., and Reddit,
+
+21 which emphasized that their privacy policies forbad them from disclosing information without
+
+22 compulsory legal process. Morris Decl. ¶ 8.
+
+23          Finally, Denuvo’s Complaint could withstand a motion to dismiss. Federal Rule of Civil
+
+24 Procedure 8(a) requires only “a short and plain statement of the claim showing that the pleader is
+
+25 entitled to relief.” Fed. R. Civ. P. 8. This is a “liberal standard,” Fednav Ltd. v. Sterling Int’l, 572
+
+26 F.Supp.1268, 1270 (N.D. Cal. 1983), and the requirement of a short and plain statement is designed
+
+27 “to ‘give the defendant fair notice of what the … claim is and the grounds upon which it rests.’”
+
+28 Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007). On a motion to dismiss under Rule
+
+                                                        4                          Case No. 4:26-cv-10423-NC
+                                EX PARTE MOTION FOR EXPEDITED DISCOVERY
+      Case 4:26-cv-10423-HSG            Document 15           Filed 10/02/26    Page 5 of 8
+
+
+
+
+ 1 12(b)(6), the court accepts “all factual allegations in the complaint as true and construes the
+
+ 2 pleadings in the light most favorable to the nonmoving party.” Knievel v. ESPN, 393 F.3d 1068,
+
+ 3 1072 (9th Cir. 2005). “To survive a motion to dismiss, a complaint must contain sufficient factual
+
+ 4 matter, accepted as true, to state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556
+
+ 5 U.S. 662, 678 (2009). “A claim has facial plausibility when the plaintiff pleads factual content that
+
+ 6 allows the court to draw the reasonable inference that the defendant is liable for the misconduct
+
+ 7 alleged.” Id. Detailed factual allegations are not required, id., and Denuvo’s Complaint sets forth
+
+ 8 substantial facts and details supporting its claims.
+
+ 9          Denuvo asserts claims under the DMCA for circumventing technological measures that
+
+10 control access to copyrighted works. Denuvo alleges that Defendant has violated Section 1201(a)(1),
+
+11 which provides that “[n]o person shall circumvent a technological measure that effectively controls
+
+12 access to a work protected under this title.” 17 U.S.C. § 1201(a)(1). Under the statute, “a
+
+13 technological measure ‘effectively controls access to a work’ if the measure, in the ordinary course
+
+14 of its operation, requires the application of information, or a process or a treatment, with the
+
+15 authority of the copyright owner, to gain access to the work.” Id. § 1201(a)(3)(B). And “to
+
+16 ‘circumvent a technological measure’ means to descramble a scrambled work, to decrypt an
+
+17 encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological
+
+18 measure, without the authority of the copyright owner.” Id. § 1201(a)(3)(A).
+
+19          Denuvo alleges that its Anti-Tamper protects copyrighted video games by reinforcing
+
+20 platform-level DRM, which governs the use, modification, and distribution of copyrighted works
+
+21 and of systems that enforce the policies within devices. Compl. ¶¶ 13-14. As such, Denuvo’s Anti-
+
+22 Tamper is a process that ensures only legitimate users can play a video game, thereby controlling
+
+23 access to the copyrighted works. Id. ¶ 15. It also prevents reverse engineering, debugging, and
+
+24 unauthorized modifications of video games. Id. ¶ 16. Denuvo has provided the Anti-Tamper product
+
+25 to numerous video game publishers, including Sega, Ubisoft, Konami, Electronic Arts, Capcom,
+
+26 Game Science, Sony, 2K Games, Warner Bros. Games, and IO Interactive, which have added Anti-
+
+27 Tamper to their copyrighted works. Id. ¶¶ 17, 24-62. Denuvo further alleges that Defendant is a
+
+28 computer hacker who is focused on reverse engineering and hacking video games employing
+
+                                                          5                           Case No. 4:26-cv-10423-NC
+                                 EX PARTE MOTION FOR EXPEDITED DISCOVERY
+      Case 4:26-cv-10423-HSG           Document 15         Filed 10/02/26    Page 6 of 8
+
+
+
+
+ 1 Denuvo’s Anti-Tamper. Id. ¶ 20. Defendant has bypassed Denuvo’s Anti-Tamper in numerous
+
+ 2 copyrighted video games, bypassing DRM restrictions in copyrighted works, removing protections
+
+ 3 that allow copyright owners to restrict who may access their works, and allowing pirated versions
+
+ 4 of those copyrighted works. Id. ¶¶ 22-23. Denuvo has provided numerous instances in which
+
+ 5 Defendant has bypassed Denuvo’s Anti-Tamper and removed protections that restrict unlawful
+
+ 6 access to video games. Id. ¶¶ 24-49.
+
+ 7          Denuvo also asserts that Defendant violated Section 1201(a)(2), which states that “[n]o
+
+ 8 person shall manufacture, import, offer to the public, provide, or otherwise traffic in any technology,
+
+ 9 product, service, devices, component, or part thereof, that,” (1) “is primarily designed or produced
+
+10 for the public of circumventing a technological measure that effectively controls access to a”
+
+11 copyrighted work, (2) “has only limited commercially significant purpose or use other than to
+
+12 circumvent a technological measure that effectively controls access to a” copyrighted work; or (3)
+
+13 “is marketed by that person or another acting in concert with that person with that person’s
+
+14 knowledge for use in circumventing a technological measure that effectively controls access to a”
+
+15 copyrighted work. 17 U.S.C. § 1201(a)(2).
+
+16          Denuvo alleges that after bypassing, removing, or impairing Denuvo’s Anti-Tamper for a
+
+17 video game, Defendant then offered materials and instructions online for others to bypass Denuvo’s
+
+18 Anti-Tamper. Compl. ¶ 80. In particular, Defendant posted materials and instructions on the internet
+
+19 to facilitate the ability of others to also bypass Denuvo’s Anti-Tamper. Id. ¶ 63. There is even a
+
+20 Reddit page for “voices38” that lists video games for which Defendant has bypassed Denuvo Anti-
+
+21 Tamper with internet links to materials and instructions for gaining unauthorized access to the
+
+22 games. Id. ¶ 64. These listings on the internet have resulted in numerous individuals bypassing
+
+23 Denuvo Anti-Tamper and gaining unauthorized access to games. Id. ¶ 65. Further, this offer of
+
+24 materials and instructions has no commercially significant purpose other than to circumvent
+
+25 Denuvo’s Anti-Tamper. Id. ¶ 81. And Defendant, or those acting in concert with Defendant, market
+
+26 the use of these online materials and instructions to access video games without authorization. Id.
+
+27 ¶ 82. For both claims asserted in this case, Denuvo has provided sufficient allegations to withstand
+
+28 a motion to dismiss.
+
+                                                       6                           Case No. 4:26-cv-10423-NC
+                               EX PARTE MOTION FOR EXPEDITED DISCOVERY
+      Case 4:26-cv-10423-HSG          Document 15         Filed 10/02/26    Page 7 of 8
+
+
+
+
+ 1          Moreover, this is not a situation in which “it is clear that discovery would not uncover the
+
+ 2 identit[y]’” of Defendant. Wakefield, 177 F.3d at 1163 (quoting Gillespie v. Civiletti, 629 F.2d 637,
+
+ 3 642 (9th Cir. 1980)). Denuvo has identified specific User IDs and accounts associated with
+
+ 4 Defendant on several platforms. See Compl. ¶¶ 4-5, 64; Morris Decl. ¶¶ 5-7. These platforms likely
+
+ 5 require registration by the user, including disclosure of certain contact information. Issuing
+
+ 6 subpoenas to these platforms will likely lead to information about Defendant that Denuvo can use
+
+ 7 to contact or further uncover information about Defendant. Attached to the Morris Declaration are
+
+ 8 the subpoenas that Denuvo seeks to issue. See Exs. A-C to Morris Decl. As can be seen, those
+
+ 9 subpoenas are designed to obtain information about Defendant’s identity and address to facilitate
+
+10 service.
+
+11 IV.      DENUVO SEEKS LEAVE TO DETERMINE DEFENDANT’S IDENTITY.
+
+12          Denuvo seeks leave of the Court to serve limited discovery on Discord, Inc., Valve
+
+13 Corporation, and Reddit, Inc. solely to determine Defendant’s true identity. Discord is an online
+
+14 platform for voice, video, and text chat. Valve Corporation owns the digital distribution platform
+
+15 Steam. And Reddit is a website platform for users to share user-generated content of various types.
+
+16 Denuvo has determined that Defendant has used each of these services and has accounts with them.
+
+17 Denuvo further understands that registrants for these platforms must provide certain identifying
+
+18 information in order to obtain an account. These services may also have additional information that
+
+19 would lead to Defendant’s identity. Denuvo has sought from each of these entities, and each has
+
+20 indicated that their privacy policies forbid disclosure of information without compulsory legal
+
+21 process, such as a duly issued subpoena. Morris Decl. ¶ 9. Accordingly, Denuvo seeks leave of the
+
+22 Court to serve subpoenas on these companies in furtherance of determining Defendant’s identity.
+
+23 V.       CONCLUSION
+
+24          Denuvo has sought to identify Defendant without availing itself of the Court’s assistance
+
+25 but has been unsuccessful. For the foregoing reasons, Denuvo respectfully requests the Court grant
+
+26 leave to take expedited discovery prior to the Rule 26(f) conference to identify Defendant.
+
+27
+
+28
+
+                                                      7                          Case No. 4:26-cv-10423-NC
+                               EX PARTE MOTION FOR EXPEDITED DISCOVERY
+     Case 4:26-cv-10423-HSG      Document 15       Filed 10/02/26   Page 8 of 8
+
+
+
+
+ 1 Dated: October 2, 2026                    HG LAW LLP
+                                             Gregory J. Lundell
+ 2                                           Donny K. Samporna
+ 3
+                                             and
+ 4
+                                             WORKMAN NYDEGGER
+ 5                                           Brian N. Platt (pro hac vice forthcoming)
+                                             Ryan C. Morris (pro hac vice forthcoming)
+ 6
+
+ 7
+
+ 8                                      By: /s/ Donny Samporna
+                                            Donny K. Samporna
+ 9                                          Attorneys for Plaintiff Denuvo GmbH
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+                                               8                        Case No. 4:26-cv-10423-NC
+                            EX PARTE MOTION FOR EXPEDITED DISCOVERY
+

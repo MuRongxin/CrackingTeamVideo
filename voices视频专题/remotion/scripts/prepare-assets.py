@@ -41,5 +41,10 @@ records.append({'path':str(dst.relative_to(repo)),'derived_from':str(src.relativ
     'crop_pixels':[0,0,640,220],'status':'exported','note':'NFO 题头裁切，未包含邮箱和捐款地址；沿用原素材使用条件'})
 for record in records:
     record['sha256']=hashlib.sha256((repo/record['path']).read_bytes()).hexdigest()
-(root/'asset-provenance.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')
+ledger=root/'asset-provenance.json'
+prior=json.loads(ledger.read_text()) if ledger.exists() else []
+paths={record['path'] for record in records}
+# Preserve the separately prepared official logos, source excerpts, and score.
+records.extend(record for record in prior if record['path'] not in paths)
+ledger.write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')
 print(f'Prepared {len(records)} assets; PDF derivatives archived for the media catalog.')

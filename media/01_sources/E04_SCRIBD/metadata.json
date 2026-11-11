@@ -1,0 +1,27 @@
+{
+  "id": "E04_SCRIBD",
+  "source_url": "https://www.scribd.com/document/990201699/End-of-an-Era-Empress",
+  "title": "End of an Era - EMPRESS — public mirror reader",
+  "original_publication": "https://t.me/EmpressRevolution/201",
+  "retrieved_at": "2026-11-11T03:19:32.891Z",
+  "status": "downloaded_unreviewed",
+  "content_type": "text/html",
+  "path": "media/01_sources/E04_SCRIBD/reader-capture.html",
+  "bytes": 1256919,
+  "sha256": "eba1f97d50a3165ed1596cb7a94c37644e7b5ed60ab592ca61aa7378c8de6468",
+  "note": "10 页均可通过正常滚动公开阅读并已截图；非 Telegram 原始 PDF 下载。",
+  "rights": "公开转载；原作者与平台权利分别保留。",
+  "captured_pages": [
+    "media/03_stills/voices38_act2/empress-farewell-page-01.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-02.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-03.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-04.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-05.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-06.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-07.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-08.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-09.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-10.png"
+  ],
+  "review": "2026-11-11 已逐页检查全部十页截图，无空白采集、网页工具栏遮挡或裁掉正文；第十页原文只有收尾与日期。"
+}

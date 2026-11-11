@@ -1,0 +1,21 @@
+{
+  "id": "V38_A1_hardware-first-person",
+  "task": "OP08",
+  "kind": "image",
+  "title": "第一幕原始材料局部：hardware-first-person",
+  "path": "media/03_stills/voices38_act1/hardware-first-person.png",
+  "derived_from": "media/03_stills/source_images/V06_nfo.png",
+  "crop_pixels": [
+    496,
+    1020,
+    632,
+    1033
+  ],
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1qackwg/deadspaceremakepropervoices38/",
+  "author": "发行文字署名 voices38；图片托管于 ImgBB",
+  "rights": "公开帖子链接的 NFO 图；授权未确认，仅研究与剪辑候选",
+  "status": "exported",
+  "bytes": 309,
+  "sha256": "31cdb03749366e1a83f99db2f3b80374bc4dcb4c077692f9bcdee0ff2b6743e0",
+  "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "BRAND_DISCORD",
+  "source_url": "https://discord.com/branding",
+  "asset_url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d741b8346ed0ecebb501_Logo.svg",
+  "author": "Discord Inc.",
+  "retrieved_at": "2026-11-10T15:48:38.322817+00:00",
+  "status": "downloaded",
+  "path": "media/01_sources/BRAND_DISCORD/original.html",
+  "sha256": "bf02fa9655a56c4584caeab09057badbaa5c8ef6a7eb23eba4df02769991694f",
+  "vector_path": "media/01_sources/BRAND_DISCORD/original.svg",
+  "vector_sha256": "a2cf4012035e0d17810b2f89d2cee2f44937c443d1e0e7d6099c8f2f5c758644",
+  "rights": "官方品牌标识；仅用于纪录片识别平台；不表示平台背书，商标归原权利方",
+  "note": "Valve 从官网内嵌 SVG 与原 CSS 提取；其余为官网提供的原始 SVG"
+}

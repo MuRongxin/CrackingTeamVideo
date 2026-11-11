@@ -1,0 +1,46 @@
+{
+  "id": "V38_A2_EMPRESS_FAREWELL_01",
+  "kind": "image",
+  "title": "EMPRESS 告别声明公开转载页截图 1/10",
+  "path": "media/03_stills/voices38_act2/empress-farewell-page-01.png",
+  "source_id": "E04_SCRIBD",
+  "source_page": "https://www.scribd.com/document/990201699/End-of-an-Era-Empress",
+  "original_publication": "https://t.me/EmpressRevolution/201",
+  "author": "EMPRESS",
+  "uploader": "shosting66",
+  "status": "exported",
+  "derived_from": "media/01_sources/E04_SCRIBD/reader-capture.html",
+  "retrieved_at": "2026-11-11T03:19:24.674Z",
+  "capture": {
+    "method": "actual browser screenshot of publicly readable page",
+    "viewport": [
+      1400,
+      2100
+    ],
+    "deviceScaleFactor": 2,
+    "page": 1,
+    "loaded": true,
+    "imageCount": 3,
+    "viewportRect": {
+      "x": 73,
+      "y": 257.40625,
+      "width": 1057,
+      "height": 1367
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "clip": {
+      "x": 74,
+      "y": 259,
+      "width": 1055,
+      "height": 1365,
+      "scale": 1
+    }
+  },
+  "note": "正常滚动公开阅读器，完整裁取实际页面；未改写文字、拼接排版、移除遮挡或使用需要登录的下载接口。原始附件 PDF 字节未取得。",
+  "rights": "原作者公开声明；转载平台与作者的权利分别保留，未取得额外授权。",
+  "bytes": 1371392,
+  "sha256": "4104fc7253c6186d93719708d17bfb829a7790ed6276264db39eeb0df0c8b610"
+}

@@ -1,4 +1,5 @@
 import { Cue } from "../Sound";
+import { cue } from "./film-shared";
 import type { ShotTiming } from "../timing";
 export const Act2Sound = ({
   shot,
@@ -24,7 +25,9 @@ export const Act2Sound = ({
     case 5:
       return <Cue at={0.05} file="crt" volume={0.13} />;
     case 6:
-      return <Cue at={4} file="beep" volume={0.17} />;
+      return (
+        <Cue at={cue(timing, 17, "只有") + 0.16} file="beep" volume={0.17} />
+      );
     case 7:
       return (
         <Cue at={timing.voices[1].start + 1.7} file="click" volume={0.16} />
@@ -38,9 +41,33 @@ export const Act2Sound = ({
         </>
       );
     case 9:
-      return <Cue at={6.4} file="click" volume={0.12} />;
+      return (
+        <>
+          {Array.from({ length: 6 }, (_, i) => (
+            <Cue
+              key={i}
+              at={cue(timing, 24, "后来更新的内容") + i * 0.18 + 0.17}
+              file="click"
+              volume={0.045}
+            />
+          ))}
+          <Cue
+            at={cue(timing, 24, "voices38 处理") + 0.45}
+            file="paper"
+            volume={0.12}
+          />
+        </>
+      );
     case 10:
       return <Cue at={0.65} file="sweep" volume={0.2} />;
+    case 11:
+      return (
+        <Cue
+          at={cue(timing, 26, "没那么容易") + 0.65}
+          file="lock"
+          volume={0.09}
+        />
+      );
     case 12:
       return <Cue at={timing.voices[2].start} file="sweep" volume={0.15} />;
     case 13:
@@ -49,7 +76,7 @@ export const Act2Sound = ({
           {[0, 1, 2, 3, 4].map((i) => (
             <Cue
               key={i}
-              at={timing.voices[1].start + i * 0.22}
+              at={timing.voices[1].start + i * 0.18}
               file="click"
               volume={0.12}
             />
@@ -68,8 +95,8 @@ export const Act2Sound = ({
     case 16:
       return (
         <>
-          <Cue at={timing.voices[1].start} file="paper" volume={0.16} />
-          <Cue at={timing.voices[1].start + 2.4} file="paper" volume={0.14} />
+          <Cue at={0.15} file="paper" volume={0.16} />
+          <Cue at={timing.voices[1].start} file="paper" volume={0.14} />
         </>
       );
     case 18:

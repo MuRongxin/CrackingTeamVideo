@@ -1,0 +1,20 @@
+{
+  "id": "V38_FILM_requiem-corridor",
+  "task": "EX15",
+  "kind": "video",
+  "title": "前三幕重剪官方片段：REQUIEM / 15.7—18.50 秒",
+  "path": "media/02_footage/derived/requiem-corridor.mp4",
+  "derived_from": "media/02_footage/V38_REQUIEM_official_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/3764200/",
+  "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+  "rights": "官方商店宣传片；公开视频使用条件待确认",
+  "status": "exported",
+  "bytes": 2255545,
+  "sha256": "451a4a7fba00c1ce1b865eaa11af35ec9f3da20b4a2cc30f9083399bcd9caa3e",
+  "source_sha256": "9064ca65e72030a21745b661cfa7c8b9d807acd3a3fc67429b1b4854a50a6c5b",
+  "selected_range_seconds": [
+    15.7,
+    18.5
+  ],
+  "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+}

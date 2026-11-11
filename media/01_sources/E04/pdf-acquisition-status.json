@@ -1,0 +1,35 @@
+{
+  "source_id": "E04",
+  "title": "End Of An Era - EMPRESS.pdf",
+  "official_post": "https://t.me/EmpressRevolution/201",
+  "expected_path": "media/01_sources/E04/End Of An Era - EMPRESS.pdf",
+  "status": "public_mirror_page_images_complete_original_pdf_missing",
+  "official_post_screenshot": "media/03_stills/voices38_act2/empress-announcement.png",
+  "note": "公开转载阅读器十页均已正常翻阅、保存完整页图并逐页检查，已满足视频展示声明原文的需要；Telegram 原始附件 PDF 的字节仍未取得。",
+  "observed_attachment_size": "122.4 KB",
+  "verified_at": "2026-11-11",
+  "public_candidates": [
+    {
+      "url": "https://www.scribd.com/document/990201699/End-of-an-Era-Empress",
+      "status": "public_reader_complete_captured",
+      "note": "十页可通过正常滚动公开阅读，已保存全部实际页面截图；下载入口要求登录/订阅，未使用该入口。"
+    },
+    {
+      "url": "https://www.reddit.com/r/CrackWatch/comments/1paxyxr/empress_officially_announces_retirement/",
+      "status": "mirror_locator_only",
+      "note": "讨论中登记了 buzzheavier 镜像码 buk9hrx1qtww；镜像页被 Cloudflare 验证阻挡，未取得文件，未核对附件哈希。"
+    }
+  ],
+  "page_images": [
+    "media/03_stills/voices38_act2/empress-farewell-page-01.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-02.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-03.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-04.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-05.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-06.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-07.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-08.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-09.png",
+    "media/03_stills/voices38_act2/empress-farewell-page-10.png"
+  ]
+}

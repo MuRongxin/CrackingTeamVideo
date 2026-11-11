@@ -16,7 +16,7 @@ export const Act3Sound = ({
           {[0, 1, 2, 3].map((i) => (
             <Cue
               key={i}
-              at={say(timing, 57) + i * 0.52}
+              at={say(timing, 57) + 0.5 + i * 0.65}
               file="click"
               volume={0.1}
               duration={0.12}
@@ -36,7 +36,7 @@ export const Act3Sound = ({
           {[0, 1, 2].map((i) => (
             <Cue
               key={i}
-              at={say(timing, 63) + 1.4 + i * 0.75}
+              at={say(timing, 63) + 1 + i * 0.85}
               file="key"
               volume={0.15}
               duration={0.2}
@@ -48,8 +48,8 @@ export const Act3Sound = ({
     case 5:
       return (
         <>
-          <Cue at={say(timing, 64) + 1.8} file="click" volume={0.12} />
-          <Cue at={say(timing, 65) + 2} file="click" volume={0.1} />
+          <Cue at={say(timing, 65) + 0.2} file="click" volume={0.12} />
+          <Cue at={say(timing, 65) + 0.65} file="click" volume={0.1} />
         </>
       );
     case 6:
@@ -57,10 +57,10 @@ export const Act3Sound = ({
     case 7:
       return (
         <>
-          {[0, 1, 2, 3].map((i) => (
+          {[0, 1, 2].map((i) => (
             <Cue
               key={i}
-              at={say(timing, 70, "变成了") + i * 0.58}
+              at={say(timing, 70, "变成了") + 0.45 + i * 0.62}
               file="click"
               duration={0.12}
               volume={0.1}
@@ -73,7 +73,7 @@ export const Act3Sound = ({
         <>
           <Cue at={say(timing, 78) + 0.2} file="click" volume={0.12} />
           <Cue
-            at={say(timing, 78) + 0.65}
+            at={say(timing, 78) + 0.95}
             file="lock"
             duration={0.25}
             volume={0.1}
@@ -117,7 +117,12 @@ export const Act3Sound = ({
     case 16:
       return <Cue at={say(timing, 98) + 1} file="click" volume={0.09} />;
     case 18:
-      return <Cue at={0.1} file="paper" volume={0.16} />;
+      return (
+        <>
+          <Cue at={say(timing, 102)} file="paper" volume={0.16} />
+          <Cue at={say(timing, 103)} file="paper" volume={0.13} />
+        </>
+      );
     default:
       return null;
   }

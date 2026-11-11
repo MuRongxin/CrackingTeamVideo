@@ -2,6 +2,10 @@
 
 时码为分:秒.帧（60 fps）；BGM 空白，配音保持原速。
 
+当前画面在 `FilmNfo.tsx`、`FilmCredits.tsx`、`FilmProper.tsx`，分别负责 NFO 字段与游戏笑点、致谢及组件、原文声明与修复。`ProperScenes.tsx` 保留《死亡空间》实景和三天日历；旧 `NfoScenes.tsx`、`Credits.tsx` 的卡片实现已不接入时间线。
+
+KIND 背景使用对应官方游戏片段；NFO 声明以真实裁切原图聚光阅读，PROPER／CRACKFIX 采用原文同位硬切。节选时码与衍生来源见工程根目录 `film-insert-provenance.json`。动效与拟音均按实际配音、字幕锚点触发，改画面时不要增加段落尾部空拍。
+
 | 镜头 | 幕内起点 | 连续版起点 | 时长 | 配音 |
 | --- | --- | --- | --- | --- |
 | A3-01 | 0:00.00 | 4:30.14 | 0:16.38 | 54, 55, 56, 57 |

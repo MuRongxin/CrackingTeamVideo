@@ -1,0 +1,15 @@
+{
+  "id": "COURT_DOC25_1",
+  "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.25.1.pdf",
+  "retrieved_at": "2026-11-10T15:46:58.527492+00:00",
+  "rights": "公开法院案卷；沿用原件使用条件",
+  "status": "downloaded",
+  "http_status": 200,
+  "final_url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.25.1.pdf",
+  "content_type": "application/pdf",
+  "path": "media/01_sources/COURT_DOC25_1/original.pdf",
+  "bytes": 163840,
+  "sha256": "e0b6652335a167894abaf0843a244da0a6de52ff9c664174189a429566ef95f4",
+  "reviewed_at": "2026-11-11",
+  "reviewed_for": "已按可检索正文核对修订请求的账户目标、请求数量和共同范围；阅读笔记见 COURT_DOC25/requests_reading.md"
+}

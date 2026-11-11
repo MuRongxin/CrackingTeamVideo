@@ -1,0 +1,16 @@
+{
+  "id": "V38_BRAND_DISCORD",
+  "task": "OP08",
+  "kind": "image",
+  "title": "discord 官方 Logo",
+  "path": "media/03_stills/platform_logos/discord.png",
+  "source_page": "https://discord.com/branding",
+  "url": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d741b8346ed0ecebb501_Logo.svg",
+  "author": "Discord Inc.",
+  "rights": "官方品牌标识；仅用于纪录片识别平台；不表示平台背书，商标归原权利方",
+  "status": "exported",
+  "derived_from": "media/01_sources/BRAND_DISCORD/original.svg",
+  "bytes": 19549,
+  "sha256": "c44b33586e5754d462eaac5de8e5da3256d04e251168caab9c2d8e0610697d93",
+  "note": "官方矢量标识透明底光栅化；未改色、未变形"
+}

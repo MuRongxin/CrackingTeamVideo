@@ -1,0 +1,20 @@
+{
+  "id": "V38_FILM_bond",
+  "task": "EX15",
+  "kind": "video",
+  "title": "前三幕重剪官方片段：007 / 34.5—43.70 秒",
+  "path": "media/02_footage/derived/bond.mp4",
+  "derived_from": "media/02_footage/V38_007_official_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/3768760/",
+  "author": "IO Interactive A/S / IO Interactive A/S",
+  "rights": "官方商店宣传片；公开视频使用条件待确认",
+  "status": "exported",
+  "bytes": 4453844,
+  "sha256": "703c7387f944bcd18d360253e032806bc3f3000f4a5597f766827057f87ffa64",
+  "source_sha256": "958c82237fdd94c44a31cdf3f13487f4544b624dfcde5ecfd2ad81c6cc81e8c8",
+  "selected_range_seconds": [
+    34.5,
+    43.7
+  ],
+  "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+}

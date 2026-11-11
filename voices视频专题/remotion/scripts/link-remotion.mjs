@@ -18,6 +18,7 @@ for (const [name, version] of [
   ["react", "19.3.0"],
   ["react-dom", "19.3.0+17530ac01dea6b83"],
   ["node", "22.20.0"],
+  ["three", "0.170.0"],
 ]) {
   const dest = path.join(target, "@types", name);
   if (!fs.existsSync(dest))

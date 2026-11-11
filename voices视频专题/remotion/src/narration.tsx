@@ -19,14 +19,54 @@ const captions: Record<string, Caption[]> = {
   ...act3Captions,
 };
 
-export const Subtitle = ({ captions: items }: { captions: Caption[] }) => {
+export const Subtitle = ({
+  captions: items,
+  captionStyle = "default",
+}: {
+  captions: Caption[];
+  captionStyle?: "default" | "panel";
+}) => {
   const t = useTime() * 1000;
   const current = items.find((c) => t >= c.startMs && t < c.endMs);
-  return current ? (
+  if (!current) return null;
+  if (captionStyle === "panel")
+    return (
+      <div
+        style={{
+          position: "absolute",
+          bottom: 8,
+          left: 100,
+          right: 100,
+          display: "flex",
+          justifyContent: "center",
+          zIndex: 100,
+          pointerEvents: "none",
+        }}
+      >
+        <div
+          style={{
+            maxWidth: 1500,
+            padding: "11px 28px 13px",
+            background: "#070a09ed",
+            borderBottom: "2px solid #ffc83d70",
+            color: "#f4f5f1",
+            fontFamily: '"Noto Sans CJK SC", sans-serif',
+            fontWeight: 500,
+            fontSize: 42,
+            lineHeight: 1.35,
+            textAlign: "center",
+            whiteSpace: "pre-line",
+          }}
+        >
+          {current.text}
+        </div>
+      </div>
+    );
+  return (
     <div
       style={{
         position: "absolute",
-        bottom: 64,
+        bottom: 16,
         left: 120,
         right: 120,
         textAlign: "center",
@@ -43,14 +83,16 @@ export const Subtitle = ({ captions: items }: { captions: Caption[] }) => {
     >
       {current.text}
     </div>
-  ) : null;
+  );
 };
 const VoiceClip = ({
   id,
   trimBefore = 0,
+  captionStyle = "default",
 }: {
   id: number;
   trimBefore?: number;
+  captionStyle?: "default" | "panel";
 }) => (
   <>
     <Audio
@@ -63,6 +105,7 @@ const VoiceClip = ({
       }
     />
     <Subtitle
+      captionStyle={captionStyle}
       captions={captions[String(id)].map((c) => ({
         ...c,
         startMs: c.startMs - trimBefore * 1000,
@@ -71,7 +114,13 @@ const VoiceClip = ({
     />
   </>
 );
-export const Narration = ({ timing }: { timing: ShotTiming }) => {
+export const Narration = ({
+  timing,
+  captionStyle = "default",
+}: {
+  timing: ShotTiming;
+  captionStyle?: "default" | "panel";
+}) => {
   const { fps } = useVideoConfig();
   return (
     <>
@@ -82,7 +131,11 @@ export const Narration = ({ timing }: { timing: ShotTiming }) => {
           from={Math.round(clip.start * fps)}
           durationInFrames={Math.ceil(clip.duration * fps)}
         >
-          <VoiceClip id={clip.id} trimBefore={clip.trimBefore} />
+          <VoiceClip
+            id={clip.id}
+            trimBefore={clip.trimBefore}
+            captionStyle={captionStyle}
+          />
         </Sequence>
       ))}
     </>

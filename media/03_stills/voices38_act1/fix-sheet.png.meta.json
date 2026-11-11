@@ -1,0 +1,21 @@
+{
+  "id": "V38_A1_fix-sheet",
+  "task": "OP08",
+  "kind": "image",
+  "title": "第一幕原始材料局部：fix-sheet",
+  "path": "media/03_stills/voices38_act1/fix-sheet.png",
+  "derived_from": "media/03_stills/source_images/V07_nfo.png",
+  "crop_pixels": [
+    0,
+    0,
+    640,
+    314
+  ],
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1qcqf60/deadspaceremakecrackfixvoices38/",
+  "author": "发行文字署名 voices38；图片托管于 ImgBB",
+  "rights": "公开帖子链接的 NFO 图；授权未确认，仅研究与剪辑候选",
+  "status": "exported",
+  "bytes": 5577,
+  "sha256": "ffaecbfb9e1e6369d7d070aa8ee1a3f2afa107fa33c0d453245b547949be5038",
+  "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤"
+}

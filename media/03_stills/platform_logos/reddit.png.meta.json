@@ -1,0 +1,16 @@
+{
+  "id": "V38_BRAND_REDDIT",
+  "task": "OP08",
+  "kind": "image",
+  "title": "reddit 官方 Logo",
+  "path": "media/03_stills/platform_logos/reddit.png",
+  "source_page": "https://redditinc.com/brand",
+  "url": "https://redditinc.com/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Lockup_Logo.svg",
+  "author": "Reddit, Inc.",
+  "rights": "官方品牌标识；仅用于纪录片识别平台；不表示平台背书，商标归原权利方",
+  "status": "exported",
+  "derived_from": "media/01_sources/BRAND_REDDIT/original.svg",
+  "bytes": 49499,
+  "sha256": "d1fbe03641b40874a19b9f309cd746a94284eefa12627828bb936ed3db148054",
+  "note": "官方矢量标识透明底光栅化；未改色、未变形"
+}

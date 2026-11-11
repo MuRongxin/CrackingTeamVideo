@@ -1,0 +1,71 @@
+[
+  {
+    "path": "voices视频专题/remotion/public/v38/film/nfs.mp4",
+    "ledger_path": "media/02_footage/derived/nfs.mp4",
+    "derived_from": "media/02_footage/V38_NFS_official_720p.mp4",
+    "source_page": "https://store.steampowered.com/app/1328660/",
+    "status": "exported",
+    "sha256": "8aa04ee0deb9a1def0f1dd5455a989bd261e252756b33ea8d02250d513f78c74",
+    "selected_range_seconds": [
+      13.2,
+      18.32
+    ],
+    "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/film/requiem-establish.mp4",
+    "ledger_path": "media/02_footage/derived/requiem-establish.mp4",
+    "derived_from": "media/02_footage/V38_REQUIEM_official_720p.mp4",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "status": "exported",
+    "sha256": "60c83be854caa12066114566656753a500efe925ffba2a7e2180ef92912f2f19",
+    "selected_range_seconds": [
+      6,
+      9.3
+    ],
+    "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/film/requiem-corridor.mp4",
+    "ledger_path": "media/02_footage/derived/requiem-corridor.mp4",
+    "derived_from": "media/02_footage/V38_REQUIEM_official_720p.mp4",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "status": "exported",
+    "sha256": "451a4a7fba00c1ce1b865eaa11af35ec9f3da20b4a2cc30f9083399bcd9caa3e",
+    "selected_range_seconds": [
+      15.7,
+      18.5
+    ],
+    "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/film/bond.mp4",
+    "ledger_path": "media/02_footage/derived/bond.mp4",
+    "derived_from": "media/02_footage/V38_007_official_720p.mp4",
+    "source_page": "https://store.steampowered.com/app/3768760/",
+    "status": "exported",
+    "sha256": "703c7387f944bcd18d360253e032806bc3f3000f4a5597f766827057f87ffa64",
+    "selected_range_seconds": [
+      34.5,
+      43.7
+    ],
+    "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/film/requiem-corridor.png",
+    "ledger_path": "media/03_stills/voices38_act3/requiem-corridor.png",
+    "derived_from": "media/02_footage/V38_REQUIEM_official_720p.mp4",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "status": "exported",
+    "sha256": "1a179b109c7e575c118dd831f9b7335e226d57c41d7926acf1796d6f0bdfce5d",
+    "source_time_seconds": 16.5,
+    "note": "官方片段原帧；静音片段结束后缓推覆盖，不重复动作"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/film/re7.jpg",
+    "derived_from": "media/03_stills/official_games/EX15_418370_screenshot1.jpg",
+    "source_page": "https://store.steampowered.com/app/418370/",
+    "status": "copied",
+    "sha256": "c00e9e7f50e020e4d6aed969f15c69623073816a0cb042eece165a1dea4d9ed9"
+  }
+]

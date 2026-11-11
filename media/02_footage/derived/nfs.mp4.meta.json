@@ -1,0 +1,20 @@
+{
+  "id": "V38_FILM_nfs",
+  "task": "EX15",
+  "kind": "video",
+  "title": "前三幕重剪官方片段：NFS / 13.2—18.32 秒",
+  "path": "media/02_footage/derived/nfs.mp4",
+  "derived_from": "media/02_footage/V38_NFS_official_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/1328660/",
+  "author": "Stellar Entertainment Limited / Electronic Arts",
+  "rights": "官方商店宣传片；公开视频使用条件待确认",
+  "status": "exported",
+  "bytes": 5496917,
+  "sha256": "8aa04ee0deb9a1def0f1dd5455a989bd261e252756b33ea8d02250d513f78c74",
+  "source_sha256": "79207231cae5fd80a4f8dd4f37f8d3f0cfcf1a10bf9082f678e10d23b48b0af1",
+  "selected_range_seconds": [
+    13.2,
+    18.32
+  ],
+  "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+}

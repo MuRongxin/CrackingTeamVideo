@@ -11,19 +11,18 @@ import {
   MI6,
   AnotherField,
   ProtectionLists,
-} from "./act3/NfoScenes";
-import { Thanks, SharedTool } from "./act3/Credits";
+} from "./act3/FilmNfo";
+import { Thanks, SharedTool } from "./act3/FilmCredits";
+import { DeadSpace, ThreeDays } from "./act3/ProperScenes";
 import {
-  DeadSpace,
   ProperWord,
   EarlierBeta,
   Criticism,
   OwnProper,
-  ThreeDays,
   Sorry,
   ThreeDaysApart,
   EarlierFix,
-} from "./act3/ProperScenes";
+} from "./act3/FilmProper";
 import { Act3Sound } from "./act3/Sound";
 
 const Act3Inner = ({ timings = initialAct3Timings }: ActProps) => {

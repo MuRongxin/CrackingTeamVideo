@@ -1,0 +1,20 @@
+{
+  "id": "V38_FILM_requiem-establish",
+  "task": "EX15",
+  "kind": "video",
+  "title": "前三幕重剪官方片段：REQUIEM / 6—9.30 秒",
+  "path": "media/02_footage/derived/requiem-establish.mp4",
+  "derived_from": "media/02_footage/V38_REQUIEM_official_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/3764200/",
+  "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+  "rights": "官方商店宣传片；公开视频使用条件待确认",
+  "status": "exported",
+  "bytes": 1748110,
+  "sha256": "60c83be854caa12066114566656753a500efe925ffba2a7e2180ef92912f2f19",
+  "source_sha256": "9064ca65e72030a21745b661cfa7c8b9d807acd3a3fc67429b1b4854a50a6c5b",
+  "selected_range_seconds": [
+    6,
+    9.3
+  ],
+  "note": "原速静音节选，不循环；不表示某个破解版本运行实测"
+}

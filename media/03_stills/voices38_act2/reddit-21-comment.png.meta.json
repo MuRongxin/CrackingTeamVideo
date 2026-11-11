@@ -1,0 +1,18 @@
+{
+  "id": "reddit-21-comment",
+  "kind": "image",
+  "title": "reddit-21-comment.png",
+  "path": "media/03_stills/voices38_act2/reddit-21-comment.png",
+  "derived_from": "voices视频专题/素材/社区截图/reddit-21-fullpage.png",
+  "status": "exported",
+  "crop_pixels": [
+    368,
+    1588,
+    1057,
+    1865
+  ],
+  "source_page": "https://www.reddit.com/r/PiratedGames/comments/1o6cuec/we_won/",
+  "note": "用户提供的实际网页截图；保留原文与用户截图中已有的翻译/高亮，不重新绘制评论界面。",
+  "sha256": "ef30047a426bf8e63e2d33537411529d185d2f081a2687a2690a42689288423a",
+  "bytes": 67888
+}

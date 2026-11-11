@@ -1,0 +1,16 @@
+{
+  "id": "V21_valve_requests",
+  "task": "OP08",
+  "kind": "image",
+  "title": "原始 Valve 传票请求节选（TorrentFreak 刊载）",
+  "path": "media/03_stills/source_images/V21_valve_requests.png",
+  "source_page": "https://torrentfreak.com/denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/",
+  "url": "https://torrentfreak.com/images/denuvo-valve.png",
+  "source_code": "V21",
+  "author": "法院案卷／TorrentFreak 刊载",
+  "rights": "法院文件节选；保留原报道出处",
+  "status": "downloaded",
+  "bytes": 40999,
+  "sha256": "d1276347e7aa677ed7decd66504876f11698cd24a9a16d396598afb94ee028c5",
+  "retrieved_at": "2026-11-10T15:51:12.841972+00:00"
+}

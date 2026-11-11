@@ -1,0 +1,14 @@
+{
+  "id": "BRAND_VALVE",
+  "source_url": "https://www.valvesoftware.com/en/",
+  "asset_url": "https://www.valvesoftware.com/en/",
+  "author": "Valve Corporation",
+  "retrieved_at": "2026-11-10T15:48:40.309218+00:00",
+  "status": "downloaded",
+  "path": "media/01_sources/BRAND_VALVE/original.html",
+  "sha256": "67ba40bab5ccc3c7ad90d9e157f31f4f049f6118f10247e3d8d8435f0d342370",
+  "vector_path": "media/01_sources/BRAND_VALVE/original.svg",
+  "vector_sha256": "e3a026f7dc15d406acd73c13e084f401f01b69386ab92c6a4bc3148020316be9",
+  "rights": "官方品牌标识；仅用于纪录片识别平台；不表示平台背书，商标归原权利方",
+  "note": "Valve 从官网内嵌 SVG 与原 CSS 提取；其余为官网提供的原始 SVG"
+}

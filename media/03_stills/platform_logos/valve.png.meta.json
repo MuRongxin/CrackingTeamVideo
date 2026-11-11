@@ -1,0 +1,16 @@
+{
+  "id": "V38_BRAND_VALVE",
+  "task": "OP08",
+  "kind": "image",
+  "title": "valve 官方 Logo",
+  "path": "media/03_stills/platform_logos/valve.png",
+  "source_page": "https://www.valvesoftware.com/en/",
+  "url": "https://www.valvesoftware.com/en/",
+  "author": "Valve Corporation",
+  "rights": "官方品牌标识；仅用于纪录片识别平台；不表示平台背书，商标归原权利方",
+  "status": "exported",
+  "derived_from": "media/01_sources/BRAND_VALVE/original.svg",
+  "bytes": 17435,
+  "sha256": "63ea6ec10e624892e6f21876257a70f331b659c1fd772dbbd067cff6c86de501",
+  "note": "官方矢量标识透明底光栅化；未改色、未变形"
+}

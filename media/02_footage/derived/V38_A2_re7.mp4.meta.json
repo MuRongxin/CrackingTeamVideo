@@ -1,0 +1,18 @@
+{
+  "id": "V38_A2_re7",
+  "kind": "video",
+  "title": "re7",
+  "path": "media/02_footage/derived/V38_A2_re7.mp4",
+  "derived_from": "media/02_footage/EX15_STEAM_418370_trailer1_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/418370/",
+  "author": "CAPCOM",
+  "status": "exported",
+  "source_sha256": "9bcd0dd4a3b775e01bd758e57694522996fb073218cd3c00f1b298172454afa6",
+  "selected_range_seconds": [
+    5.5,
+    17.5
+  ],
+  "rights": "衍生静音节选；沿用官方商店宣传片的公开使用条件，未取得额外授权",
+  "bytes": 3591395,
+  "sha256": "fd1bad3c0d316fb3b9221d74f7a556dc7f69aa5e671b6630371bf08bfca91e0b"
+}

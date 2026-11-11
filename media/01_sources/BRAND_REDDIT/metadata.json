@@ -1,0 +1,14 @@
+{
+  "id": "BRAND_REDDIT",
+  "source_url": "https://redditinc.com/brand",
+  "asset_url": "https://redditinc.com/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Lockup_Logo.svg",
+  "author": "Reddit, Inc.",
+  "retrieved_at": "2026-11-10T15:48:40.714397+00:00",
+  "status": "downloaded",
+  "path": "media/01_sources/BRAND_REDDIT/original.html",
+  "sha256": "b024947d54b6c6f8909764220512c10a99c37b0f7f1d55261ec821dd95416799",
+  "vector_path": "media/01_sources/BRAND_REDDIT/original.svg",
+  "vector_sha256": "08fa0553a017d23ac43e75454eede96ac75bfee4d91efd2d8c0dec38659d76c0",
+  "rights": "官方品牌标识；仅用于纪录片识别平台；不表示平台背书，商标归原权利方",
+  "note": "Valve 从官网内嵌 SVG 与原 CSS 提取；其余为官网提供的原始 SVG"
+}

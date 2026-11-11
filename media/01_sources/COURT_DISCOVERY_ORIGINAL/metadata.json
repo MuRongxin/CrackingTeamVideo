@@ -1,0 +1,14 @@
+{
+  "id": "COURT_DISCOVERY_ORIGINAL",
+  "source_url": "https://torrentfreak.com/images/denuvo-voices-discovery.pdf",
+  "source_page": "https://torrentfreak.com/denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/",
+  "retrieved_at": "2026-11-10T15:48:39.434072+00:00",
+  "rights": "法院原件公开副本；保留出处",
+  "status": "downloaded_unreviewed",
+  "http_status": 200,
+  "final_url": "https://torrentfreak.com/images/denuvo-voices-discovery.pdf",
+  "content_type": "application/pdf",
+  "path": "media/01_sources/COURT_DISCOVERY_ORIGINAL/original.pdf",
+  "bytes": 225595,
+  "sha256": "add6be15a4dcc0cb8ad55ea6c2201d86b507673b368eca8c0ed93a6ad1058e15"
+}

@@ -157,6 +157,13 @@
     "sha256": "33deb24b1765e85a8b409d5f390b2651dc940c37ccdd1a9fbcdbfe30cd937ca7"
   },
   {
+    "path": "voices视频专题/remotion/public/v38/sfx/act1-score.wav",
+    "derived_from": "voices视频专题/remotion/scripts/make-act1-score.py",
+    "status": "generated",
+    "note": "第一幕原创合成配乐；固定随机种子；无外部音频素材",
+    "sha256": "aff32f34cdfea59140bd7f2999f720cb3d7d8da0e6ab5c01fea35fe681105919"
+  },
+  {
     "path": "voices视频专题/remotion/public/v38/vo/sentence-01.wav",
     "derived_from": "voices视频专题/videoVoices/sentence_01_二零二六年_9_月美国加州北区联邦地区法.wav",
     "status": "copied",
@@ -232,5 +239,151 @@
     "status": "copied",
     "note": "新版 videoVoices 录音；原速原样；以视频脚本为字幕对词依据",
     "sha256": "a8415c3d6d3dd60f0eded1df244a2097e77b69b2d7f002c227b5f771a632164a"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/brands/discord.png",
+    "ledger_path": "media/03_stills/platform_logos/discord.png",
+    "derived_from": "media/01_sources/BRAND_DISCORD/original.svg",
+    "source_page": "https://discord.com/branding",
+    "status": "exported",
+    "note": "官方矢量标识透明底光栅化；未改色、未变形",
+    "sha256": "c44b33586e5754d462eaac5de8e5da3256d04e251168caab9c2d8e0610697d93"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/brands/valve.png",
+    "ledger_path": "media/03_stills/platform_logos/valve.png",
+    "derived_from": "media/01_sources/BRAND_VALVE/original.svg",
+    "source_page": "https://www.valvesoftware.com/en/",
+    "status": "exported",
+    "note": "官方矢量标识透明底光栅化；未改色、未变形",
+    "sha256": "63ea6ec10e624892e6f21876257a70f331b659c1fd772dbbd067cff6c86de501"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/brands/reddit.png",
+    "ledger_path": "media/03_stills/platform_logos/reddit.png",
+    "derived_from": "media/01_sources/BRAND_REDDIT/original.svg",
+    "source_page": "https://redditinc.com/brand",
+    "status": "exported",
+    "note": "官方矢量标识透明底光栅化；未改色、未变形",
+    "sha256": "d1fbe03641b40874a19b9f309cd746a94284eefa12627828bb936ed3db148054"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/nfo-sheet.png",
+    "ledger_path": "media/03_stills/voices38_act1/nfo-sheet.png",
+    "derived_from": "media/03_stills/source_images/V06_nfo.png",
+    "crop_pixels": [
+      0,
+      0,
+      640,
+      314
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "a15577b26ead7afe0af35abf4c2913bfb9d276177c9415a7b9f64e500368c4d9"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/fix-sheet.png",
+    "ledger_path": "media/03_stills/voices38_act1/fix-sheet.png",
+    "derived_from": "media/03_stills/source_images/V07_nfo.png",
+    "crop_pixels": [
+      0,
+      0,
+      640,
+      314
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "ffaecbfb9e1e6369d7d070aa8ee1a3f2afa107fa33c0d453245b547949be5038"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/fix-fields.png",
+    "ledger_path": "media/03_stills/voices38_act1/fix-fields.png",
+    "derived_from": "media/03_stills/source_images/V07_nfo.png",
+    "crop_pixels": [
+      56,
+      222,
+      624,
+      314
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "aa9895f401764442b7f945d8e3bc3dd7896d4eb81a6d4d125fbf532bee662e2e"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/crackfix-notes.png",
+    "ledger_path": "media/03_stills/voices38_act1/crackfix-notes.png",
+    "derived_from": "media/03_stills/source_images/V07_nfo.png",
+    "crop_pixels": [
+      56,
+      751,
+      624,
+      795
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "9f579f2a1bc52df6158a8dd46845757ac77837db4825cfa43ecacd9bda194a69"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/proper-claim.png",
+    "ledger_path": "media/03_stills/voices38_act1/proper-claim.png",
+    "derived_from": "media/03_stills/source_images/V06_nfo.png",
+    "crop_pixels": [
+      176,
+      944,
+      624,
+      977
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "3cf8b8940aa55b94e3a747ae1e139d726878d872c65387f68cf2eed6ea2fb549"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/apology.png",
+    "ledger_path": "media/03_stills/voices38_act1/apology.png",
+    "derived_from": "media/03_stills/source_images/V07_nfo.png",
+    "crop_pixels": [
+      144,
+      767,
+      280,
+      779
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "670dc00530e65dc9731dd12e1ab50d4e4fba0f4337c56914ab7db000ec408b8e"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/hardware-i.png",
+    "ledger_path": "media/03_stills/voices38_act1/hardware-i.png",
+    "derived_from": "media/03_stills/source_images/V06_nfo.png",
+    "crop_pixels": [
+      8,
+      1020,
+      632,
+      1045
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "c7777235e3a24cd15fc12089fc05f53370945ec486c8cd5b344aa212ab71569b"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/evidence/hardware-first-person.png",
+    "ledger_path": "media/03_stills/voices38_act1/hardware-first-person.png",
+    "derived_from": "media/03_stills/source_images/V06_nfo.png",
+    "crop_pixels": [
+      496,
+      1020,
+      632,
+      1033
+    ],
+    "status": "exported",
+    "note": "真实原图裁切；保留透明通道；不含钱包地址、联系方式和安装步骤",
+    "sha256": "31cdb03749366e1a83f99db2f3b80374bc4dcb4c077692f9bcdee0ff2b6743e0"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/court/original-payments.png",
+    "derived_from": "media/03_stills/source_images/V21_valve_requests.png",
+    "status": "copied",
+    "note": "原始 Valve 付款与交易请求节选；原请求第15—17项",
+    "sha256": "d1276347e7aa677ed7decd66504876f11698cd24a9a16d396598afb94ee028c5"
   }
 ]

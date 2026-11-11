@@ -3,26 +3,24 @@ import { TransitionSeries } from "@remotion/transitions";
 import { Narration } from "./narration";
 import type { ActProps } from "./timing";
 import { initialAct2Timings } from "./act2/timing";
+import { Rewind, OldGame, Signature } from "./act2/Origins";
 import {
-  Rewind,
-  OldGame,
-  Signature,
   WhatNfo,
   OldNfo,
   TinyNfo,
   FewLines,
-} from "./act2/Origins";
-import {
   Versions,
   Updates,
+} from "./act2/FilmOrigins";
+import {
   DenuvoShell,
   LayerDiagram,
-} from "./act2/Protection";
-import { FirstAttempt } from "./act2/Voices";
-import {
   CommercialWindow,
   FiveDays,
   DenuvoResponse,
+} from "./act2/FilmProtection";
+import { FirstAttempt } from "./act2/Voices";
+import {
   QuietNews,
   WhyStarted,
   Retreat,
@@ -30,7 +28,7 @@ import {
   DoubleMeaning,
   Caution,
   Unanswered,
-} from "./act2/Revised";
+} from "./act2/FilmVoices";
 import { Act2Sound } from "./act2/Sound";
 const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
   const { fps } = useVideoConfig();
@@ -79,7 +77,7 @@ const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
         name="A2-06 0.34 KB"
         durationInFrames={Math.round(timings[5].duration * fps)}
       >
-        <TinyNfo />
+        <TinyNfo timing={timings[5]} />
         <Narration timing={timings[5]} />
         <Act2Sound shot={6} timing={timings[5]} />
       </TransitionSeries.Sequence>
@@ -111,7 +109,7 @@ const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
         name="A2-10 D 加密"
         durationInFrames={Math.round(timings[9].duration * fps)}
       >
-        <DenuvoShell />
+        <DenuvoShell timing={timings[9]} />
         <Narration timing={timings[9]} />
         <Act2Sound shot={10} timing={timings[9]} />
       </TransitionSeries.Sequence>

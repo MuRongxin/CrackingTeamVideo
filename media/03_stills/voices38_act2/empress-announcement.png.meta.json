@@ -1,0 +1,38 @@
+{
+  "id": "V38_A2_EMPRESS_ANNOUNCEMENT",
+  "kind": "image",
+  "title": "EMPRESS 官方告别文件发布帖完整截图（非 PDF 内页）",
+  "path": "media/03_stills/voices38_act2/empress-announcement.png",
+  "source_id": "E04",
+  "source_page": "https://t.me/EmpressRevolution/201?embed=1&mode=tme",
+  "author": "EMPRESS / EmpressRevolution",
+  "derived_from": "media/01_sources/E04/widget-capture.html",
+  "status": "exported",
+  "retrieved_at": "2026-11-11T03:10:07.212Z",
+  "capture": {
+    "method": "headless Chrome public post screenshot",
+    "viewport": [
+      1000,
+      1000
+    ],
+    "deviceScaleFactor": 2,
+    "title": "End Of An Era - EMPRESS.pdf",
+    "text": "The time has come to give my final and proper \"Closure\" to my long career.This is my official retirement statement to all my fans, my supporters, my followers, and my haters — it contains everything that everyone needs to know regard my retirement decision, about my experiences over the years, and about my growth as a person.your task is :1—fully read it - do not skip parts.2—spread and share it far and wide.3—embrace the change and the new era.",
+    "time": "2025-11-30T23:23:12+00:00",
+    "clip": {
+      "x": 237,
+      "y": 0,
+      "width": 526,
+      "height": 488,
+      "scale": 1
+    },
+    "loadedStylesheets": [
+      "https://telegram.org/css/font-roboto.css?1",
+      "https://telegram.org/css/widget-frame.css?75"
+    ]
+  },
+  "note": "实际 Telegram 嵌入帖，包含完整发布说明；只裁切外围空白，未重绘界面、改写正文或伪造 PDF 内页。",
+  "rights": "公开访问；著作权仍属原作者，未取得额外使用授权。",
+  "bytes": 151789,
+  "sha256": "cd61ebae72fd25ce78567ca312199b1ae5ad489a91490f0470c3a56e43f46281"
+}

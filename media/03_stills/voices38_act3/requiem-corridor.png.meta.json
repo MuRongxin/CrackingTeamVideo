@@ -1,0 +1,17 @@
+{
+  "id": "V38_FILM_requiem-corridor",
+  "task": "EX15",
+  "kind": "image",
+  "title": "生化危机：安魂曲官方片段 16.5 秒走廊帧",
+  "path": "media/03_stills/voices38_act3/requiem-corridor.png",
+  "derived_from": "media/02_footage/V38_REQUIEM_official_720p.mp4",
+  "source_page": "https://store.steampowered.com/app/3764200/",
+  "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+  "rights": "官方商店宣传片；公开视频使用条件待确认",
+  "status": "exported",
+  "bytes": 669189,
+  "sha256": "1a179b109c7e575c118dd831f9b7335e226d57c41d7926acf1796d6f0bdfce5d",
+  "source_sha256": "9064ca65e72030a21745b661cfa7c8b9d807acd3a3fc67429b1b4854a50a6c5b",
+  "source_time_seconds": 16.5,
+  "note": "官方片段原帧；静音片段结束后缓推覆盖，不重复动作"
+}
