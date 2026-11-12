@@ -16,7 +16,7 @@ export const Act3Sound = ({
           {[0, 1, 2, 3].map((i) => (
             <Cue
               key={i}
-              at={say(timing, 57) + 0.5 + i * 0.65}
+              at={say(timing, 57) + [0.9, 1.7, 2.5, 3.43][i]}
               file="click"
               volume={0.1}
               duration={0.12}
@@ -36,7 +36,7 @@ export const Act3Sound = ({
           {[0, 1, 2].map((i) => (
             <Cue
               key={i}
-              at={say(timing, 63) + 1 + i * 0.85}
+              at={say(timing, 63) + 0.7 + i * 0.85}
               file="key"
               volume={0.15}
               duration={0.2}
@@ -68,12 +68,19 @@ export const Act3Sound = ({
           ))}
         </>
       );
+    case 8:
+      return (
+        <>
+          <Cue at={say(timing, 73, "anadius")} file="key" volume={0.08} />
+          <Cue at={say(timing, 74) + 0.9} file="click" volume={0.08} />
+        </>
+      );
     case 9:
       return (
         <>
           <Cue at={say(timing, 78) + 0.2} file="click" volume={0.12} />
           <Cue
-            at={say(timing, 78) + 0.95}
+            at={say(timing, 78) + 2}
             file="lock"
             duration={0.25}
             volume={0.1}

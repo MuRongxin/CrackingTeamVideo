@@ -1,318 +1,420 @@
-import { publicAsset } from "../assets";
-import { Img, Sequence, interpolate, useVideoConfig } from "remotion";
-import { Video } from "@remotion/media";
 import { C, F } from "../style";
-import { lerp, useTime, clamp } from "../components";
+import { lerp, useTime } from "../components";
 import type { ShotTiming } from "../timing";
-import { FilmScene } from "../act2/film-shared";
 import { say } from "./timing";
 import { nitroAt, doorAt } from "./motion";
+import {
+  Stage,
+  Raster,
+  Still,
+  Clip,
+  Grid,
+  Type,
+  Stroke,
+  DateRail,
+  pos,
+  mono,
+  ramp,
+} from "./motion-shared";
 
 export const NfoGrows = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const grow = say(timing, 55);
-  const logo = say(timing, 56);
-  const fields = say(timing, 57);
-  const pull = lerp(t, grow - 0.1, grow + 0.9);
-  const down = lerp(t, fields + 0.45, fields + 1.3);
-  const values = [
-    ["RELEASE NAME", "Need.For.Speed.Hot.Pursuit.\nRemastered-voices38"],
-    ["RELEASE DATE", "11/18/2025"],
-    ["FORMAT", "ISO"],
-    ["PROTECTION", "Denuvo + EA"],
+  const t = useTime(),
+    grow = say(timing, 55),
+    logo = say(timing, 56),
+    fields = say(timing, 57);
+  const pull = lerp(t, grow, grow + 0.9),
+    pan = lerp(t, fields, fields + 1.05);
+  const names = ["RELEASE NAME", "RELEASE DATE", "FORMAT", "PROTECTION"];
+  const ats = [
+    fields + 0.9,
+    fields + 1.7,
+    fields + 2.5,
+    say(timing, 57, "还有"),
   ];
+  const row = t < ats[1] ? 0 : t < ats[2] ? 1 : t < ats[3] ? 2 : 3;
   return (
-    <FilmScene
-      title="随着新游戏不断出现"
-      right="NFO / 逐渐完整"
-      source="NFO 原文及题头｜V02、V16、V06｜字段重排"
+    <Stage
+      label="03 / NFO 里的性格与试错"
+      source="原始 NFO｜V02、V06、V07 · 文件先后排列为编辑示意"
     >
-      <div
-        style={{
-          position: "absolute",
-          left: 140 - pull * 700,
-          top: 260,
-          width: 1500,
-          fontFamily: F.pixel,
-          fontSize: 60,
-          color: C.white,
-          opacity: 1 - pull,
-          scale: 1 - pull * 0.5,
-          transformOrigin: "left center",
-        }}
-      >
-        Total War - Three Kingdoms v1.7.1
-        <br />
-        <br />
-        Game is updated to the latest version
-        <br />
-        and all DLCs are included.
+      <Grid />
+      <div style={{ ...pos, inset: 0, opacity: (1 - pull) * 0.3 }}>
+        <Still src="v38/act3/motion/nfs-road.png" dim={0.6} />
       </div>
-      {[0, 1, 2].map((i) => (
+      <div style={{ ...pos, inset: 0, clipPath: "inset(120px 0 245px 0)" }}>
         <div
-          key={i}
           style={{
-            position: "absolute",
-            left: 1280 - i * 110,
-            top: 210 + i * 100,
-            width: 640,
-            height: 315,
-            rotate: `${(i - 1) * 5}deg`,
-            background: "#090c09",
-            boxShadow: "0 15px 40px #0009",
-            opacity: lerp(t, 0.5 + i * 1.1, 0.9 + i * 1.1) * (1 - pull),
-            translate: `${lerp(t, 0.5 + i * 1.1, 1.3 + i * 1.1, 500, 0)}px 0`,
+            ...pos,
+            left: 130,
+            top: 160,
+            width: 1660,
+            transformOrigin: "50% 45%",
+            transform: `perspective(1800px) rotateY(${-14 * (1 - pull)}deg) rotateZ(${-4 * (1 - pull)}deg) scale(${0.92 + pull * 0.08})`,
+            translate: `0 ${-pan * 600}px`,
           }}
         >
-          <Img
-            src={publicAsset("v38/evidence/nfo-sheet.png")}
-            style={{ width: 640, height: 314, imageRendering: "pixelated" }}
-          />
+          <div style={{ opacity: 1 - pull, translate: `${-pull * 1500}px 0` }}>
+            <div
+              style={{ ...mono, fontSize: 30, color: C.gray, marginBottom: 35 }}
+            >
+              2025.10 / 只有几行说明
+            </div>
+            <div
+              style={{
+                width: 1020,
+                height: 150,
+                overflow: "hidden",
+                background: "white",
+              }}
+            >
+              <Raster
+                src="v38/act2/nfo/three-kingdoms-original.png"
+                style={{ width: 1020 }}
+              />
+            </div>
+            {[0, 1, 2].map((i) => (
+              <div
+                key={i}
+                style={{
+                  ...pos,
+                  left: 930 + i * 120 - t * 8,
+                  top: 80 + i * 115,
+                  width: 650,
+                  boxShadow: "0 35px 80px #000",
+                  opacity: lerp(t, 0.6 + i * 0.9, 1.2 + i * 0.9),
+                  transform: `rotate(${8 - i * 5}deg)`,
+                }}
+              >
+                <Raster
+                  src={`v38/evidence/${i === 1 ? "fix-sheet" : "nfo-sheet"}.png`}
+                  style={{ width: 650 }}
+                />
+              </div>
+            ))}
+          </div>
+          <div
+            style={{
+              ...pos,
+              left: 0,
+              top: 0,
+              width: 1660,
+              opacity: pull,
+              translate: `0 ${(1 - pull) * 850}px`,
+              background: "#000",
+              padding: "20px 30px",
+              boxShadow: "0 40px 100px #000",
+            }}
+          >
+            <Raster
+              src="v38/act3/nfo/voices-header.png"
+              style={{ width: 1600, height: 527.5 }}
+            />
+            <div
+              style={{
+                ...pos,
+                left: 25,
+                top: 30,
+                width: 1610,
+                height: 510,
+                border: `2px solid ${C.yellow}`,
+                opacity: (1 - pan) * lerp(t, logo, logo + 0.3),
+                clipPath: `inset(0 ${100 * (1 - lerp(t, logo, logo + 0.9))}% 0 0)`,
+              }}
+            />
+            <Raster
+              src="v38/act3/nfo/proper-fields.png"
+              style={{ width: 1600, marginTop: 85 }}
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 100,
+          top: 660,
+          opacity: pan,
+          display: "flex",
+          gap: 35,
+        }}
+      >
+        {names.map((name, i) => (
+          <div
+            key={name}
+            style={{
+              ...mono,
+              fontSize: i === row ? 32 : 25,
+              color: i === row ? C.yellow : C.gray,
+              borderTop: `3px solid ${i === row ? C.yellow : "#485464"}`,
+              paddingTop: 20,
+              width: i === 3 ? 390 : 350,
+              translate: `0 ${lerp(t, ats[i] - 0.5, ats[i], 80, 0)}px`,
+            }}
+          >
+            {name}
+            <div style={{ fontFamily: F.cn, fontSize: 29, marginTop: 20 }}>
+              {["发布名", "日期", "格式", "保护措施"][i]}
+            </div>
+          </div>
+        ))}
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 110,
+          top: 783,
+          width: 1700 * ramp(t, 0, timing.duration),
+          height: 2,
+          background: C.yellow,
+        }}
+      />
+    </Stage>
+  );
+};
+
+export const KindIntro = ({ timing }: { timing: ShotTiming }) => {
+  const t = useTime(),
+    kind = say(timing, 58, "KIND"),
+    type = say(timing, 59),
+    joke = say(timing, 60, "玩笑");
+  const p = lerp(t, joke - 0.3, joke + 0.65);
+  return (
+    <Stage
+      label="KIND / 他怎样形容这些游戏"
+      source="NFO 原文字段｜V16、V10、V15 · 游戏类型为编辑释义"
+    >
+      <Grid />
+      {[
+        "v38/act3/motion/nfs-road.png",
+        "v38/film/requiem-corridor.png",
+        "v38/act3/motion/bond.png",
+      ].map((src, i) => (
+        <div
+          key={src}
+          style={{
+            ...pos,
+            left: i * 640,
+            top: 0,
+            width: 640,
+            height: 1080,
+            overflow: "hidden",
+            opacity: 0.12 + p * 0.55,
+            clipPath: `inset(${(1 - lerp(t, joke - 0.3 + i * 0.12, joke + 0.5 + i * 0.12)) * 100}% 0 0 0)`,
+            borderRight: "2px solid #070c10",
+          }}
+        >
+          <Still src={src} x={-i * 300} dim={0.2} />
         </div>
       ))}
       <div
         style={{
-          position: "absolute",
-          left: 140 + (1 - pull) * 1700,
-          top: 200 - down * 445,
-          width: 1640,
+          ...pos,
+          left: 100,
+          top: 180,
+          transformOrigin: "left top",
+          scale: 1 - p * 0.28,
         }}
       >
-        <Img
-          src={publicAsset("v38/act3/nfo/voices-header.png")}
+        <Type
+          at={kind - 0.3}
+          duration={0.35}
+          style={{ fontSize: 190, color: C.yellow }}
+        >
+          KIND
+        </Type>
+        <div
+          style={{ ...mono, color: "#788d97", fontSize: 27, letterSpacing: 6 }}
+        >
+          THE WAY HE SEES A GAME
+        </div>
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 110,
+          top: 525,
+          fontSize: 95,
+          translate: `0 ${-p * 250}px`,
+          opacity: 1 - p,
+        }}
+      >
+        <span style={{ opacity: lerp(t, type, type + 0.4) }}>游戏类型</span>
+        <span style={{ color: C.gray }}> ?</span>
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 920,
+          top: 470,
+          height: 100,
+          overflow: "hidden",
+          opacity: (1 - p) * lerp(t, type, type + 0.4),
+        }}
+      >
+        <div
           style={{
-            width: 1280,
-            height: 422,
-            imageRendering: "pixelated",
-            clipPath: `inset(0 ${100 * (1 - lerp(t, logo, logo + 0.9))}% 0 0)`,
+            ...mono,
+            fontSize: 74,
+            color: C.blue,
+            translate: `0 ${-Math.min(2, Math.max(0, Math.floor((t - type) / 0.9))) * 105}px`,
           }}
-        />
-        <div style={{ marginTop: 30 }}>
-          {values.map(([key, value], i) => (
-            <div
-              key={key}
-              style={{
-                display: "flex",
-                alignItems: "baseline",
-                marginTop: 30,
-                gap: 48,
-                opacity: lerp(
-                  t,
-                  fields + 0.15 + i * 0.65,
-                  fields + 0.45 + i * 0.65,
-                ),
-                translate: `${lerp(t, fields + 0.15 + i * 0.65, fields + 0.75 + i * 0.65, 100, 0)}px 0`,
-                fontFamily: F.mono,
-              }}
-            >
-              <span
-                style={{
-                  fontSize: 29,
-                  color: C.gray,
-                  width: 300,
-                  flexShrink: 0,
-                }}
-              >
-                {key}
-              </span>
-              <span
-                style={{
-                  fontSize: i === 0 ? 40 : 51,
-                  color: i === 3 ? C.yellow : C.white,
-                  whiteSpace: "pre-line",
-                  lineHeight: 1.25,
-                }}
-              >
-                {value}
-              </span>
+        >
+          {["RACING", "HORROR", "ACTION"].map((v) => (
+            <div key={v} style={{ height: 105 }}>
+              {v}
             </div>
           ))}
         </div>
       </div>
       <div
         style={{
-          position: "absolute",
-          left: 140,
-          top: 805,
-          width: lerp(t, fields + 2, fields + 4, 0, 1610),
-          height: 2,
-          background: C.yellow,
+          ...pos,
+          left: 110,
+          top: 425,
+          fontSize: 106,
+          opacity: p,
+          translate: `0 ${(1 - p) * 180}px`,
+          textShadow: "0 6px 35px #000",
         }}
-      />
-    </FilmScene>
+      >
+        懂的人，会心一笑。
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 110,
+          right: 100,
+          top: 680,
+          display: "flex",
+          gap: 50,
+          opacity: p,
+        }}
+      >
+        {[
+          "Fast Cars\non Nitro",
+          "Zombie Puzzle\nSimulator",
+          "The MI6\nHitman",
+        ].map((line, i) => (
+          <div
+            key={line}
+            style={{
+              ...mono,
+              whiteSpace: "pre-line",
+              fontSize: 41,
+              lineHeight: 1.3,
+              width: 540,
+              color: i ? C.white : C.yellow,
+              translate: `0 ${lerp(t, joke + i * 0.2, joke + 0.8 + i * 0.2, 100, 0)}px`,
+            }}
+          >
+            {line}
+          </div>
+        ))}
+      </div>
+    </Stage>
   );
 };
-export const KindIntro = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const joke = say(timing, 60);
-  const p = lerp(t, joke - 0.1, joke + 0.55);
-  return (
-    <FilmScene
-      title="有一个字段，越来越有意思"
-      right="KIND / 游戏类型"
-      source="NFO 字段｜V16、V10、V15｜编辑释义"
-    >
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 195,
-          fontFamily: F.mono,
-          fontSize: 110,
-          color: C.gray,
-        }}
-      >
-        KIND
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 355,
-          width: 1650,
-          height: 230,
-          overflow: "hidden",
-        }}
-      >
-        <div
-          style={{
-            fontSize: 115,
-            translate: `${-p * 1600}px 0`,
-            opacity: 1 - p,
-          }}
-        >
-          游戏类型
-          <span style={{ fontFamily: F.mono, color: C.gray, marginLeft: 50 }}>
-            ?
-          </span>
-        </div>
-        <div
-          style={{
-            position: "absolute",
-            left: 0,
-            top: 0,
-            fontSize: 112,
-            color: C.yellow,
-            translate: `${(1 - p) * 1700}px 0`,
-          }}
-        >
-          玩家的玩笑。
-        </div>
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 630,
-          fontFamily: F.mono,
-          fontSize: 47,
-          color: C.white,
-          clipPath: `inset(0 ${100 * (1 - lerp(t, joke + 0.45, joke + 1.3))}% 0 0)`,
-          translate: `${lerp(t, joke + 0.5, joke + 2.2, 180, 0)}px 0`,
-        }}
-      >
-        Fast Cars on Nitro{" "}
-        <span style={{ color: C.gray, marginLeft: 60 }}>→</span>
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 580,
-          width: 1480,
-          height: 3,
-          background: C.yellow,
-          scale: `${p} 1`,
-          transformOrigin: "left",
-        }}
-      />
-    </FilmScene>
-  );
-};
+
 export const Nitro = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const { fps } = useVideoConfig();
-  const boost = nitroAt(timing);
+  const t = useTime(),
+    boost = nitroAt(timing),
+    p = lerp(t, boost - 0.15, boost + 0.5);
   return (
-    <FilmScene
-      title="极品飞车：热力追踪 重制版"
-      right="KIND / V16"
-      source="游戏背景｜EA 官方 Gameplay；KIND 原文｜V16"
+    <Stage
+      label="极品飞车：热力追踪 重制版 / V16"
+      source="EA 官方游戏片段｜KIND 原文：Fast Cars on Nitro"
     >
-      <Video
-        src={publicAsset("v38/film/nfs.mp4")}
-        muted
-        durationInFrames={Math.round(5.12 * fps)}
+      <Clip src="v38/film/nfs.mp4" duration={5.12} dim={0.08} />
+      <div
         style={{
-          position: "absolute",
+          ...pos,
           inset: 0,
-          width: 1920,
-          height: 1080,
-          objectFit: "cover",
+          background: "linear-gradient(90deg,#020b11bf,transparent 65%)",
         }}
       />
       <div
         style={{
-          position: "absolute",
-          inset: 0,
-          background:
-            "linear-gradient(90deg,#040b0cf2,#040b0c99 43%,#040b0c15 77%),linear-gradient(0deg,#040b0ccc,transparent 50%)",
-        }}
-      />
-      <div
-        style={{
-          position: "absolute",
-          left: 130,
-          top: 240,
+          ...pos,
+          left: 95 - p * 1050,
+          top: 190,
           fontFamily: F.mono,
-          fontSize: 108,
-          lineHeight: 1.2,
-          color: C.white,
+          fontSize: 150,
+          lineHeight: 0.97,
+          textShadow: "0 4px 25px #000",
+          transform: `skewX(${-p * 18}deg)`,
         }}
       >
         Fast Cars
         <br />
-        on{" "}
-        <span
-          style={{
-            color: t > boost ? C.yellow : C.white,
-            letterSpacing: t > boost ? 3 : 0,
-          }}
-        >
-          Nitro
-        </span>
+        <span style={{ color: C.yellow }}>on Nitro</span>
       </div>
       <div
         style={{
-          position: "absolute",
-          left: 140,
-          top: 660,
-          fontSize: 63,
+          ...pos,
+          right: 110,
+          top: 640,
+          fontSize: 78,
           color: C.yellow,
-          translate: `${lerp(t, boost, boost + 0.3, 0, -25)}px 0`,
+          translate: `${(1 - p) * 1500}px 0`,
+          transform: "skewX(-10deg)",
+          textShadow: "0 4px 20px #000",
         }}
       >
         加满氮气的快车
       </div>
+      <svg width={1920} height={1080} style={{ ...pos, inset: 0 }}>
+        {[0, 1, 2, 3, 4, 5, 6].map((i) => {
+          const q = ramp(t, boost + i * 0.035, boost + 0.5 + i * 0.035);
+          return (
+            <path
+              key={i}
+              d={`M${2100 - q * 3000} ${190 + i * 87}h${280 + i * 30}`}
+              stroke={i % 2 ? C.white : C.yellow}
+              strokeWidth={i % 2 ? 2 : 4}
+              opacity={q > 0 && q < 1 ? 0.7 : 0}
+            />
+          );
+        })}
+      </svg>
       <div
         style={{
-          position: "absolute",
-          left: 140,
-          top: 770,
-          width: lerp(t, boost, boost + 0.3, 0, 1500),
-          height: 3,
-          background: C.yellow,
-          opacity: 1 - lerp(t, boost + 0.5, boost + 0.85),
+          ...pos,
+          left: 100,
+          top: 780,
+          width: 1720,
+          height: 5,
+          background: "#ffffff38",
         }}
-      />
-    </FilmScene>
+      >
+        <div
+          style={{
+            width: `${ramp(t, 0, boost) * 100}%`,
+            height: "100%",
+            background: C.yellow,
+          }}
+        />
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 100,
+          top: 733,
+          ...mono,
+          fontSize: 24,
+          color: C.yellow,
+        }}
+      >
+        {p > 0.1 ? "NITRO  >>>" : "KIND / Fast Cars on Nitro"}
+      </div>
+    </Stage>
   );
 };
+
 const Item = ({ type }: { type: number }) => (
   <svg
+    viewBox="0 0 100 100"
     width={100}
     height={100}
-    viewBox="0 0 100 100"
     fill="none"
     stroke="currentColor"
     strokeWidth={4}
@@ -336,431 +438,522 @@ const Item = ({ type }: { type: number }) => (
   </svg>
 );
 export const ZombiePuzzle = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const { fps } = useVideoConfig();
-  const search = say(timing, 63);
-  const open = doorAt(timing);
-  const p = lerp(t, open, open + 0.65);
+  const t = useTime(),
+    search = say(timing, 63),
+    open = doorAt(timing);
+  const map = lerp(t, search, search + 0.7),
+    p = lerp(t, open, open + 0.7);
   return (
-    <FilmScene
-      title="生化危机：安魂曲"
-      right="KIND / V10"
-      source="游戏背景｜CAPCOM 官方宣传片；KIND｜V10 · 道具为概念示意"
+    <Stage
+      label="生化危机：安魂曲 / V10"
+      source="CAPCOM 官方游戏素材｜KIND 原文 · 地图、道具与开门为笑点示意"
     >
-      <Img
-        src={publicAsset("v38/film/requiem-corridor.png")}
-        style={{
-          position: "absolute",
-          inset: 0,
-          width: 1920,
-          height: 1080,
-          objectFit: "cover",
-          scale: 1 + t * 0.002,
-        }}
-      />
-      <Sequence durationInFrames={Math.round(3.3 * fps)}>
-        <Video
-          src={publicAsset("v38/film/requiem-establish.mp4")}
-          muted
-          style={{ width: 1920, height: 1080, objectFit: "cover" }}
-        />
-      </Sequence>
-      <Sequence
-        from={Math.round(3.3 * fps)}
-        durationInFrames={Math.round(2.8 * fps)}
-      >
-        <Video
-          src={publicAsset("v38/film/requiem-corridor.mp4")}
-          muted
-          style={{ width: 1920, height: 1080, objectFit: "cover" }}
-        />
-      </Sequence>
+      <Still src="v38/film/requiem-corridor.png" dim={0.15} />
+      <Clip src="v38/film/requiem-establish.mp4" duration={3.3} dim={0.1} />
       <div
         style={{
-          position: "absolute",
+          ...pos,
           inset: 0,
-          background:
-            "linear-gradient(0deg,#040a0af5,#040a0a85 70%),linear-gradient(90deg,#040a0aa0,transparent)",
+          background: "#02090c",
+          opacity: map * 0.65 * (1 - p),
         }}
       />
       <div
         style={{
-          position: "absolute",
-          left: 140,
-          top: 170,
-          fontFamily: F.mono,
-          fontSize: 73,
+          ...pos,
+          left: 100,
+          top: 155,
+          fontSize: 78,
+          ...mono,
+          transformOrigin: "left top",
+          scale: 1 - map * 0.3,
         }}
       >
-        Zombie Puzzle Simulator
+        Zombie Puzzle
+        <br />
+        <span style={{ color: C.yellow }}>Simulator</span>
       </div>
       <div
         style={{
-          position: "absolute",
-          left: 140,
-          top: 282,
-          fontSize: 58,
+          ...pos,
+          left: 103,
+          top: 377 - map * 55,
+          fontSize: 52,
+          opacity: 1 - p,
           color: C.yellow,
         }}
       >
         僵尸解谜模拟器
       </div>
-      <svg
-        width={1920}
-        height={1080}
-        style={{ position: "absolute", inset: 0 }}
+      <div
+        style={{
+          ...pos,
+          inset: 0,
+          opacity: map * (1 - p),
+          transformOrigin: "75% 60%",
+          scale: 1 + p * 2,
+        }}
       >
-        <path
-          d="M190 500H450V700H720V450H1030V730H1310"
-          fill="none"
-          stroke="#6e8aa655"
-          strokeWidth={3}
+        <svg width={1920} height={1080}>
+          <path
+            d="M130 510H610V425H1050V700H1350M130 710H430V800H890V510H1450M630 440V305H1330V550M1050 700V790H1600"
+            stroke="#7091a344"
+            strokeWidth={18}
+            fill="none"
+          />
+          <Stroke
+            d="M220 540H580V720H1010V490H1470V620"
+            at={search + 0.3}
+            duration={3.7}
+            color={C.yellow}
+            width={5}
+          />
+          {[0, 1, 2].map((i) => (
+            <circle
+              key={i}
+              cx={[230, 700, 1120][i]}
+              cy={[540, 720, 490][i]}
+              r={52 + ((t - search + i) % 1.5) * 22}
+              fill="none"
+              stroke={C.blue}
+              opacity={0.45}
+            />
+          ))}
+        </svg>
+        {[0, 1, 2].map((i) => {
+          const at = search + 0.7 + i * 0.85,
+            q = lerp(t, at, open - 0.05);
+          return (
+            <div
+              key={i}
+              style={{
+                ...pos,
+                left: [180, 650, 1070][i] + (1490 - [180, 650, 1070][i]) * q,
+                top: [490, 670, 440][i] + (570 - [490, 670, 440][i]) * q,
+                opacity:
+                  lerp(t, search + i * 0.3, search + 0.4 + i * 0.3) * (1 - p),
+                color: C.yellow,
+                rotate: `${(1 - q) * (i - 1) * 20}deg`,
+                scale: 1 - q * 0.35,
+              }}
+            >
+              <Item type={i} />
+              <div style={{ fontSize: 24, textAlign: "center" }}>
+                {["钥匙", "徽章", "零件"][i]}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 1400,
+          top: 285,
+          width: 330,
+          height: 520,
+          border: `${4 * (1 - p)}px solid ${C.blue}`,
+          background: "#07121a",
+          opacity: map * (1 - lerp(t, open, open + 0.45)),
+          transform: `perspective(1400px) rotateY(${-p * 82}deg)`,
+          transformOrigin: "left",
+        }}
+      >
+        <div
+          style={{
+            ...pos,
+            right: 35,
+            top: 280,
+            width: 13,
+            height: 13,
+            borderRadius: "50%",
+            background: C.yellow,
+          }}
         />
-        <path
-          d="M190 760H400M550 430V560H850M830 800H1180V565H1260"
-          fill="none"
-          stroke="#6e8aa633"
-          strokeWidth={2}
-        />
-        <rect
-          x={1370}
-          y={400}
-          width={290}
-          height={420}
-          fill="#17262b"
-          stroke={C.blue}
-          strokeWidth={3}
-        />
-        <rect x={1378} y={408} width={274} height={404} fill="#030806" />
-        <rect x={1640} y={414} width={14 * p} height={392} fill={C.yellow} />
-        <path
-          d={`M1378 408L${1652 - p * 55} ${408 + p * 22}V${812 - p * 22}L1378 812Z`}
-          stroke={C.blue}
-          strokeWidth={3}
-          fill="#172429"
-        />
-        <circle
-          cx={1605 - p * 44}
-          cy={638}
-          r={9}
-          fill={p ? C.yellow : C.gray}
-        />
-      </svg>
-      {[0, 1, 2].map((i) => {
-        const at = search + 1 + i * 0.85;
-        const move = lerp(t, at, open - 0.1);
-        const x = [200, 660, 1010][i];
-        const y = [460, 630, 420][i];
-        return (
-          <div
-            key={i}
-            style={{
-              position: "absolute",
-              left: x + (1450 - x) * move,
-              top: y + (575 - y) * move,
-              color: i === 0 ? C.yellow : C.white,
-              opacity:
-                lerp(t, search + i * 0.25, search + i * 0.25 + 0.3) *
-                (1 - lerp(t, open - 0.05, open + 0.15)),
-              rotate: `${(i - 1) * 15 * (1 - move)}deg`,
-              scale: 1.25 - move * 0.5,
-            }}
-          >
-            <Item type={i} />
-          </div>
-        );
-      })}
-    </FilmScene>
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 100,
+          top: 720,
+          ...mono,
+          fontSize: 58,
+          color: C.yellow,
+          opacity: p,
+        }}
+      >
+        OPEN.
+      </div>
+    </Stage>
   );
 };
+
 export const MI6 = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const relation = say(timing, 65);
-  const p = lerp(t, relation, relation + 0.8);
+  const t = useTime(),
+    relation = say(timing, 65),
+    p = lerp(t, relation, relation + 0.8),
+    hitman = say(timing, 65, "做的");
   return (
-    <FilmScene
-      title="007：初露锋芒"
-      right="KIND / V15"
-      source="游戏背景｜007 官方宣传片；NFO｜V15 · 开发商关系图解"
+    <Stage
+      label="007：初露锋芒 / V15"
+      source="007 官方游戏片段｜KIND 原文 · IO Interactive 开发商关系示意"
     >
-      <Video
-        src={publicAsset("v38/film/bond.mp4")}
-        muted
+      <Clip src="v38/film/bond.mp4" duration={9.2} dim={0.18} />
+      <div
         style={{
-          position: "absolute",
+          ...pos,
           inset: 0,
-          width: 1920,
-          height: 1080,
-          objectFit: "cover",
+          background: "linear-gradient(90deg,#07101c9c,transparent)",
         }}
       />
       <div
         style={{
-          position: "absolute",
-          inset: 0,
-          background:
-            "linear-gradient(90deg,#040b0ced,#040b0c44),linear-gradient(0deg,#040b0cdd,transparent 65%)",
-        }}
-      />
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 180,
-          fontFamily: F.mono,
-          fontSize: 105,
-          color: C.white,
+          ...pos,
+          left: 100,
+          top: 175,
+          ...mono,
+          fontSize: 122,
+          transformOrigin: "left top",
+          scale: 1 - p * 0.34,
+          translate: `0 ${-p * 40}px`,
         }}
       >
         The <span style={{ color: C.yellow }}>MI6 Hitman</span>
       </div>
       <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 355,
-          fontSize: 59,
-          color: C.yellow,
-        }}
+        style={{ ...pos, left: 110, top: 350, fontSize: 64, opacity: 1 - p }}
       >
         军情六处的杀手
       </div>
       <div
         style={{
-          position: "absolute",
-          left: 140,
-          top: 555,
-          fontFamily: F.mono,
-          fontSize: 130,
-          color: C.white,
-          translate: `${p * 80}px 0`,
+          ...pos,
+          left: 70 - p * 100,
+          top: 370,
+          ...mono,
+          fontSize: 340,
+          lineHeight: 1,
+          color: "#fff",
+          opacity: 0.7,
+          letterSpacing: -25,
         }}
       >
         007
       </div>
       <div
         style={{
-          position: "absolute",
-          left: 1310,
-          top: 555,
-          fontFamily: F.mono,
-          fontSize: 105,
-          color: C.white,
-          opacity: p,
-          translate: `${(1 - p) * 300}px 0`,
+          ...pos,
+          left: 950,
+          top: 0,
+          width: 1000,
+          height: 1080,
+          background: "#081017e8",
+          transform: `skewX(-12deg) translateX(${(1 - p) * 1300}px)`,
         }}
-      >
-        HITMAN
-      </div>
-      <svg
-        width={1920}
-        height={1080}
-        style={{ position: "absolute", inset: 0 }}
-      >
-        <path
-          d="M510 635H1280"
-          stroke={C.blue}
-          strokeWidth={3}
-          pathLength={1}
-          strokeDasharray={1}
-          strokeDashoffset={1 - p}
-        />
-      </svg>
+      />
       <div
         style={{
-          position: "absolute",
-          left: 660,
-          top: 525,
-          width: 600,
-          background: C.black,
-          padding: "25px 20px",
+          ...pos,
+          left: 1090,
+          top: 360,
           opacity: p,
-          textAlign: "center",
-          translate: `0 ${(1 - p) * 100}px`,
+          translate: `0 ${(1 - p) * 120}px`,
         }}
       >
-        <div style={{ fontSize: 27, color: C.gray, marginBottom: 22 }}>
-          同一开发商
-        </div>
-        <div style={{ fontFamily: F.mono, fontSize: 48 }}>IO Interactive</div>
-      </div>
-    </FilmScene>
-  );
-};
-export const AnotherField = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const at = say(timing, 67);
-  const p = lerp(t, at - 0.15, at + 0.8);
-  const complex = say(timing, 68);
-  return (
-    <FilmScene
-      title="同一张 NFO，另一种语气"
-      right="KIND → PROTECTION"
-      source="NFO 字段重排｜V16、V14"
-    >
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 220,
-          width: 1650,
-          height: 600,
-          overflow: "hidden",
-        }}
-      >
-        <div style={{ translate: `0 ${-p * 470}px` }}>
-          <div style={{ fontFamily: F.mono, fontSize: 78, color: C.gray }}>
-            KIND
-          </div>
-          <div
-            style={{
-              fontFamily: F.mono,
-              fontSize: 53,
-              color: C.yellow,
-              marginTop: 50,
-            }}
-          >
-            Fast Cars on Nitro
-            <br />
-            Zombie Puzzle Simulator
-            <br />
-            The MI6 Hitman
-          </div>
-        </div>
+        <div style={{ fontSize: 28, color: C.gray }}>同一开发商</div>
+        <Type at={relation + 0.2} style={{ fontSize: 54, marginTop: 25 }}>
+          IO Interactive
+        </Type>
         <div
           style={{
-            position: "absolute",
-            left: 0,
-            top: 470,
-            translate: `0 ${-p * 470}px`,
+            ...mono,
+            fontSize: 112,
+            marginTop: 75,
+            opacity: lerp(t, hitman, hitman + 0.35),
+            color: C.yellow,
+            letterSpacing: -4,
           }}
         >
-          <div style={{ fontFamily: F.mono, fontSize: 102, color: C.blue }}>
-            PROTECTION
-          </div>
-          <div style={{ fontSize: 47, marginTop: 35 }}>游戏用了哪些保护</div>
-          <div style={{ fontFamily: F.mono, fontSize: 53, marginTop: 80 }}>
-            {["Denuvo", "Steam", "VMProtect", "Custom"].map((x, i) => (
-              <span
-                key={x}
-                style={{
-                  display: "inline-block",
-                  marginRight: 38,
-                  opacity: lerp(
-                    t,
-                    complex + i * 0.65,
-                    complex + i * 0.65 + 0.3,
-                  ),
-                  translate: `0 ${lerp(t, complex + i * 0.65, complex + i * 0.65 + 0.45, 60, 0)}px`,
-                }}
-              >
-                {i ? "+ " : ""}
-                {x}
-              </span>
-            ))}
+          HITMAN
+        </div>
+      </div>
+      <svg width={1920} height={1080} style={{ ...pos, inset: 0 }}>
+        <Stroke
+          d="M450 747H1080V685H1670"
+          at={relation + 0.4}
+          duration={1.15}
+        />
+      </svg>
+    </Stage>
+  );
+};
+
+export const AnotherField = ({ timing }: { timing: ShotTiming }) => {
+  const t = useTime(),
+    at = say(timing, 67),
+    complex = say(timing, 68),
+    p = lerp(t, at - 0.1, at + 0.7);
+  return (
+    <Stage
+      label="同一份 NFO / 语气变了"
+      source="V16、V14｜KIND 与 PROTECTION 原文字段重排"
+    >
+      <Grid tilt />
+      <div style={{ ...pos, inset: 0, clipPath: "inset(120px 0 245px 0)" }}>
+        <div
+          style={{
+            ...pos,
+            left: 75,
+            top: 150,
+            width: 1770,
+            transform: `perspective(1600px) rotateX(${(1 - p) * 12}deg) rotateZ(${-4 * (1 - p)}deg)`,
+            translate: `0 ${-p * 430}px`,
+          }}
+        >
+          <div style={{ ...mono, fontSize: 84, color: C.gray }}>KIND</div>
+          {[
+            "Fast Cars on Nitro",
+            "Zombie Puzzle Simulator",
+            "The MI6 Hitman",
+          ].map((v, i) => (
+            <div
+              key={v}
+              style={{
+                ...mono,
+                fontSize: 55,
+                color: C.yellow,
+                marginTop: 15,
+                translate: `${Math.sin(t * 0.7 + i) * 12}px 0`,
+              }}
+            >
+              {v}
+            </div>
+          ))}
+          <div
+            style={{
+              marginTop: 115,
+              borderTop: `2px solid ${C.blue}`,
+              paddingTop: 30,
+            }}
+          >
+            <div style={{ ...mono, fontSize: 128, color: "#95bfd8" }}>
+              PROTECTION
+            </div>
+            <div style={{ fontSize: 44, marginTop: 20 }}>游戏用了哪些保护</div>
           </div>
         </div>
       </div>
-    </FilmScene>
+      <div style={{ ...pos, inset: 0, opacity: p }}>
+        <svg width={1920} height={1080}>
+          <Stroke
+            d="M110 435V690H1770"
+            at={complex}
+            color={C.blue}
+            duration={1.5}
+          />
+          {Array.from({ length: 40 }, (_, i) => (
+            <path
+              key={i}
+              d={`M${110 + i * 43} 690v${i % 5 === 0 ? 38 : 14}`}
+              stroke={C.blue}
+              opacity={0.4}
+            />
+          ))}
+        </svg>
+        {["Denuvo", "Steam", "VMProtect", "Custom"].map((v, i) => (
+          <div
+            key={v}
+            style={{
+              ...pos,
+              left: 120 + i * 430,
+              top: 500,
+              ...mono,
+              fontSize: 50,
+              color: i === 3 ? C.yellow : C.white,
+              opacity: lerp(t, complex + i * 0.65, complex + 0.5 + i * 0.65),
+              translate: `${lerp(t, complex + i * 0.65, complex + 0.8 + i * 0.65, 180, 0)}px 0`,
+            }}
+          >
+            <span style={{ fontSize: 23, color: C.blue }}>0{i + 1} /</span>
+            <div style={{ marginTop: 28 }}>{v}</div>
+          </div>
+        ))}
+      </div>
+    </Stage>
   );
 };
+
 export const ProtectionLists = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime();
-  const newer = say(timing, 70);
-  const terms = say(timing, 70, "变成了");
-  const p = lerp(t, newer, newer + 0.6);
+  const t = useTime(),
+    newer = say(timing, 70),
+    terms = say(timing, 70, "变成了"),
+    custom = say(timing, 71);
+  const p = lerp(t, newer, newer + 0.7),
+    focus = lerp(t, custom - 0.2, custom + 0.5);
+  const list = ["Denuvo", "Steam", "VMProtect", "Custom"];
   return (
-    <FilmScene
-      title="PROTECTION"
-      right={p > 0.5 ? "2026.05 / PRAGMATA" : "2025.11 / 极品飞车"}
-      source="V16 / V14｜发行者列出的保护组合；加号不表示嵌套层级"
+    <Stage
+      light={p < 0.95}
+      label="PROTECTION / 从一份发行到下一份"
+      source="NFO｜V16、V14 · 并列组合示意；游戏画面｜用户提供的 CAPCOM 预告"
     >
+      <div style={{ ...pos, inset: 0, opacity: 0.4 * (1 - p) }}>
+        <Still src="v38/act3/motion/nfs-road.png" dim={0.2} />
+      </div>
+      <div style={{ ...pos, inset: 0, opacity: 1 - p }}>
+        <Grid tilt />
+      </div>
       <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 210,
-          fontSize: 60,
-          color: C.gray,
-        }}
+        style={{ ...pos, inset: 0, clipPath: `inset(0 0 0 ${(1 - p) * 100}%)` }}
       >
-        {p > 0.5 ? "识质存在 · PRAGMATA" : "极品飞车：热力追踪 重制版"}
+        <Clip
+          src="v38/act3/motion/pragmata-character.mp4"
+          at={newer}
+          duration={2.4}
+          dim={0}
+        />
+        <Clip
+          src="v38/act3/motion/pragmata-action.mp4"
+          at={newer + 2.4}
+          duration={6.9}
+          dim={0}
+        />
+        <div
+          style={{
+            ...pos,
+            inset: 0,
+            background:
+              "linear-gradient(0deg,#040b14f0 0%,#040b14cf 26%,#040b1410 58%,#040b1438),linear-gradient(90deg,#040b1470,transparent 65%)",
+          }}
+        />
       </div>
       <div
         style={{
-          position: "absolute",
-          left: 140,
-          top: 390,
-          fontFamily: F.mono,
-          fontSize: 91,
-          color: C.blue,
+          ...pos,
+          left: 100,
+          top: 160,
+          fontSize: 62,
+          opacity: 1 - p,
+          translate: `0 ${-p * 150}px`,
+        }}
+      >
+        极品飞车：热力追踪 重制版
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 100,
+          top: 160,
+          color: C.white,
+          opacity: p,
+          translate: `0 ${(1 - p) * 140}px`,
+          textShadow: "0 3px 24px #000b",
+        }}
+      >
+        <div style={{ ...mono, fontSize: 98 }}>PRAGMATA</div>
+        <div style={{ fontSize: 36, color: "#cedbe5", marginTop: 20 }}>
+          识质存在
+        </div>
+      </div>
+      <div
+        style={{
+          ...pos,
+          right: 100,
+          top: 65,
+          ...mono,
+          fontSize: 24,
+          color: C.yellow,
+          opacity: p,
+        }}
+      >
+        2026.05 / NFO
+      </div>
+      <div
+        style={{
+          ...pos,
+          left: 110,
+          top: 400 + p * 255,
+          ...mono,
+          opacity: 1 - focus,
+          fontSize: 105 - p * 59,
+          color: p > 0.5 ? "#a8cee5" : "#35546d",
+          textShadow: p > 0.5 ? "0 2px 15px #000" : undefined,
         }}
       >
         Denuvo
+        <span
+          style={{
+            display: "inline-block",
+            marginLeft: 70,
+            opacity: 1 - p,
+            translate: `0 ${-p * 220}px`,
+            color: C.ink,
+          }}
+        >
+          + EA
+        </span>
+      </div>
+      <div style={{ ...pos, inset: 0, opacity: p }}>
+        <svg width={1920} height={1080} style={{ opacity: 1 - focus * 0.85 }}>
+          <path d="M110 730H1820" stroke="#a7c7df40" strokeWidth={2} />
+          {list.map((_, i) => (
+            <Stroke
+              key={i}
+              d={`M${120 + i * 430} 730v35h330`}
+              at={terms + Math.max(0, i - 1) * 0.62}
+              color={i === 3 ? C.yellow : "#a8cee5"}
+            />
+          ))}
+        </svg>
+        {list.map((word, i) =>
+          i === 0 ? null : (
+            <div
+              key={word}
+              style={{
+                ...pos,
+                left: 110 + i * 430 - focus * (i === 3 ? 900 : 650),
+                top: 655,
+                opacity:
+                  lerp(
+                    t,
+                    terms + 0.45 + (i - 1) * 0.62,
+                    terms + 0.9 + (i - 1) * 0.62,
+                  ) * (i === 3 ? 1 : 1 - focus),
+                ...mono,
+                fontSize: 46,
+                color: i === 3 ? C.yellow : C.white,
+                transformOrigin: "left",
+                scale: i === 3 ? 1 + focus * 0.8 : 1,
+                translate: `0 ${lerp(t, terms + 0.45 + (i - 1) * 0.62, terms + 1.2 + (i - 1) * 0.62, -100, 0)}px`,
+                textShadow: "0 2px 15px #000",
+              }}
+            >
+              + {word}
+            </div>
+          ),
+        )}
       </div>
       <div
         style={{
-          position: "absolute",
-          left: 670,
-          top: 390,
-          fontFamily: F.mono,
-          fontSize: 91,
-          color: C.white,
-          translate: `0 ${-p * 160}px`,
-          opacity: 1 - p,
-        }}
-      >
-        + EA
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 555,
-          fontFamily: F.mono,
-          fontSize: 70,
-          color: C.white,
-        }}
-      >
-        {["Steam", "VMProtect", "Custom"].map((word, i) => (
-          <span
-            key={word}
-            style={{
-              display: "inline-block",
-              marginRight: 40,
-              opacity: lerp(t, terms + 0.45 + i * 0.62, terms + 0.7 + i * 0.62),
-              translate: `${lerp(t, terms + 0.45 + i * 0.62, terms + 1 + i * 0.62, 130, 0)}px 0`,
-              color: i === 2 ? C.yellow : C.white,
-            }}
-          >
-            + {word}
-          </span>
-        ))}
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          left: 1250,
-          top: 735,
-          fontSize: 34,
+          ...pos,
+          left: 1000,
+          top: 655,
+          fontSize: 57,
           color: C.yellow,
-          opacity: lerp(t, say(timing, 71) - 0.2, say(timing, 71) + 0.1),
+          opacity: focus,
+          translate: `${(1 - focus) * 250}px 0`,
+          textShadow: "0 2px 15px #000",
         }}
       >
-        Custom · 厂商自己的保护
+        厂商自己的保护
       </div>
-      <div
-        style={{
-          position: "absolute",
-          left: 140,
-          top: 760,
-          width: 1050,
-          height: 2,
-          background: C.blue,
-          scale: `${p} 1`,
-          transformOrigin: "left",
-        }}
-      />
-    </FilmScene>
+      <div style={{ ...pos, inset: 0, opacity: 1 - p }}>
+        <DateRail
+          from="2025.11 / 2 项"
+          to="2026.05 / 4 项"
+          progress={ramp(t, newer, custom + 0.5)}
+        />
+      </div>
+    </Stage>
   );
 };

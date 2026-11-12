@@ -2,9 +2,11 @@
 
 时码为分:秒.帧（60 fps）；BGM 空白，配音保持原速。
 
-当前画面在 `FilmNfo.tsx`、`FilmCredits.tsx`、`FilmProper.tsx`，分别负责 NFO 字段与游戏笑点、致谢及组件、原文声明与修复。`ProperScenes.tsx` 保留《死亡空间》实景和三天日历；旧 `NfoScenes.tsx`、`Credits.tsx` 的卡片实现已不接入时间线。
+当前 18 个镜头全部由 `FilmNfo.tsx`、`FilmCredits.tsx`、`FilmProper.tsx` 接入，`motion-shared.tsx` 提供按帧驱动的实景、原文裁切和线路组件；旧 `ProperScenes.tsx`、`NfoScenes.tsx`、`Credits.tsx` 不再接入时间线。
 
-KIND 背景使用对应官方游戏片段；NFO 声明以真实裁切原图聚光阅读，PROPER／CRACKFIX 采用原文同位硬切。节选时码与衍生来源见工程根目录 `film-insert-provenance.json`。动效与拟音均按实际配音、字幕锚点触发，改画面时不要增加段落尾部空拍。
+这版按旁白中的动作和转折组织镜头：NFO 题头→字段→游戏；道具寻路→开门；工具验证→署名→接入发行；原文批评→配置/崩溃/内存示意；PROPER→CRACKFIX→原文道歉。长镜头有连续的景别和主体状态变化，只有三天前/后三天的反差处有短暂有意停留。BGM 留空，不增添语音间隔。
+
+只复用本地已有素材与史料。A3-07 已接入用户提供的《识质存在》预告：先看角色近景，再接实机动作；字段退到下方，使用游戏画面取代原来的纯色说明背景。时码与原件记录见 `pragmata-provenance.json`。新追车片段及静帧由 `scripts/prepare-act3-motion.py` 从原片导出，来源和精确时码见 `act3-motion-provenance.json`。组件、文件块、地图、故障演示均为图解；原始 NFO 保持说话主体。所有画面不依赖 WebGL，Studio 可直接预览。
 
 | 镜头 | 幕内起点 | 连续版起点 | 时长 | 配音 |
 | --- | --- | --- | --- | --- |

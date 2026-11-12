@@ -1,0 +1,21 @@
+{
+  "task": "EX15",
+  "kind": "video",
+  "author": "CAPCOM（作品）；本地文件名标注 IGN 转载",
+  "source_page": "",
+  "rights": "用户提供的宣传片转载文件；未附原网页地址，公开使用条件待确认",
+  "status": "exported",
+  "id": "V38_MOTION_pragmata-character",
+  "title": "识质存在 / 角色近景，避开延期告示正文",
+  "path": "media/02_footage/derived/pragmata-character.mp4",
+  "public_path": "voices视频专题/remotion/public/v38/act3/motion/pragmata-character.mp4",
+  "derived_from": "media/02_footage/V38_PRAGMATA_user_IGN_1080p.mp4",
+  "source_sha256": "042a6d9cf233957d322554380c228ab816c9e322ede307c06391bf86b2e10542",
+  "selected_range_seconds": [
+    21.0,
+    23.4
+  ],
+  "bytes": 2661351,
+  "sha256": "03438cc4ff358c9b056fc663ff8f8533f43cb6b6b62b613037e4c439c1c9d3fd",
+  "note": "原速静音节选，不循环、不裁改画面；用于作品展示，不作为保护技术或破解实测证据。"
+}

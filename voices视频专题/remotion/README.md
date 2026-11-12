@@ -48,7 +48,7 @@ npm run studio
 - `src/act1/AccountDiscovery.tsx`：官方 Logo、申请单转页签、身份资料页的逐行焦点；`CourtRequests.tsx`：原请求文字与真实九个账户目标；`PublicTrail.tsx`：原材料长卷、NFO 阅读与被告栏回扣；`shared.tsx`：本幕纸面、来源版式。
 - `src/act2/FilmOrigins.tsx`：NFO、字符图、版本卷轴与更新文档；`FilmProtection.tsx`：保护结构、首发曲线、五天与市场总监回应；`FilmVoices.tsx`：新闻纸面、社区材料和双关。
 - `src/act2/Origins.tsx`：仍使用其中的倒带、三国实景、署名镜头；`Voices.tsx` 的 `FirstAttemptQuote` 保留回扣字号与位置。旧 `Protection.tsx`、`Revised.tsx` 中的卡片实现不再接入当前时间线。
-- `src/act3/FilmNfo.tsx`：新 NFO、KIND 游戏段落与保护字段；`FilmCredits.tsx`：致谢和组件；`FilmProper.tsx`：声明阅读、修复及真实原文硬切。`ProperScenes.tsx` 中保留《死亡空间》实景和三天日历镜头。
+- `src/act3/FilmNfo.tsx`：新 NFO、KIND 游戏段落与保护字段；`FilmCredits.tsx`：致谢和组件；`FilmProper.tsx`：声明阅读、修复及真实原文硬切。《死亡空间》实景与三天日期推进也由 `FilmProper.tsx` 实现，旧 `ProperScenes.tsx` 不再接入。
 - `src/act3/timing.ts`、`motion.ts`，`src/act1/cues.ts`，`src/act2/film-shared.tsx`：按配音和字幕锚点触发动效。氮气、开锁、三声 biu 的画面与音效共享时间。
 - 各幕 `captions.json`：当前字幕；`narration-source.json` 为对词短句。常规后置 0.15 秒，KIND 笑点／自述结束 0.25 秒，道歉对照结束 0.35 秒。
 - `src/timing.ts`、`src/act2/timing.ts`：段落间隔；有配音的镜头不使用预估时长兜底；`calculateMetadata` 读取当前 WAV 实际时长。
@@ -76,7 +76,7 @@ python3 scripts/sync-voiceover.py
 
 《三国》片段沿用原片 11—14、51—56、26—29 秒的静音节选；超出短片覆盖的部分改用本地官方静帧缓推，不循环动作。帧率 60，节选 CRF 16。画面用于展示游戏内容，不代表特定破解版本的实测。
 
-《死亡空间》使用原片 **6.3—8.1、14.3—18.0、20.4—23.9 秒**的静音节选，保留原素材帧率，不循环动作，空余覆盖用官方静帧缓推。NFO 题头与 P05 的 OS FIX 说明以原图裁切、整数倍显示；透明底白字放在墨蓝底上。原图、裁切坐标和节选时码均有登记。四个第三幕轻音效由 `make-act3-sfx.py` 合成；道歉对照不加拟音。
+《死亡空间》使用原片 **6.3—8.1、14.3—18.0、20.4—23.9 秒**的静音节选，保留原素材帧率，不循环动作，空余覆盖用官方静帧缓推。NFO 题头与 P05 的 OS FIX 说明以原图裁切、按有效阅读区域缩放；透明底白字放在墨蓝底上。原图、裁切坐标和节选时码均有登记。四个第三幕轻音效由 `make-act3-sfx.py` 合成；道歉对照不加拟音。
 
 本次增加的素材与准备入口：
 
@@ -103,10 +103,20 @@ python3 scripts/sync-voiceover.py
 
 Three.js 仅用于向量、旋转和透视相机计算，不创建 WebGL 上下文。版本已列入 `package.json`，类型链接在 `scripts/link-remotion.mjs` 中保留。普通 Studio 预览仍使用原启动命令。
 
+## 第三幕连续动作重做
+
+18 个镜头的当前入口为 `src/act3/FilmNfo.tsx`、`FilmCredits.tsx`、`FilmProper.tsx`。长镜头按口播转折切换景别和主体状态；文件原图、游戏动作和图解承担不同叙事任务。旧 `ProperScenes.tsx` 不再接入。字幕位置、原速录音、总长不变，BGM 留空。
+
+`scripts/prepare-act3-motion.py` 仅从已有本地原片生成 NFS 2.00 秒静帧、24.60—28.70 秒新追车节选和 007 38.10 秒静帧；来源、哈希和副本路径在 `act3-motion-provenance.json`。无需重新采集。另复用第二张《死亡空间》官方静帧作为测试版背景。
+
+`scripts/import-pragmata.py` 从用户指定的 `/home/lrxin/文档/IGG/Lolicon` 素材库归档 IGN 转载的 CAPCOM 预告，选 21.00—23.40 秒角色近景及 43.10—50.00 秒实机动作，接入 A3-07。原目录保留不动；画面原速、静音、不循环。原始路径、归档与节选哈希在 `pragmata-provenance.json`。
+
 ## 验证
 
 `npm run typecheck` 检查 TypeScript。`node scripts/check-current.cjs` 在后台检查前三幕及连续版，抽帧存入忽略的 `.qa/`，不打开可见浏览器或导出成片。可指定镜头，如 `node scripts/check-current.cjs 1:7 2:14 3:18`。`check-frames.cjs`、`check-act2.cjs`、`check-act3.cjs` 分别只抽查对应幕的画面。
 
 `node scripts/check-studio-cube.cjs` 直接检查运行中的 Studio：禁用 WebGL 后，跳转立方体各阶段、离开再返回，并检查连续版。截图保存在 `.qa/studio-cube-*.png`。此检查用于覆盖抽帧与用户实时预览可能不同的问题。
+
+`node scripts/check-studio-act3.cjs` 检查运行中的第三幕与连续版，覆盖开门、工具拼合、原文裁切和前后拖动，截图留在 `.qa/`。
 
 验证覆盖 51 个镜头、103 段原速录音、跨镜头音频区间、字幕边界、合成总长，以及完整片与各幕的画面一致性。检查脚本同时约束普通语音衔接的上限，避免长空拍再次出现。

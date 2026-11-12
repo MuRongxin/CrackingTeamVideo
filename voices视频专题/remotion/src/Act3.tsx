@@ -13,8 +13,9 @@ import {
   ProtectionLists,
 } from "./act3/FilmNfo";
 import { Thanks, SharedTool } from "./act3/FilmCredits";
-import { DeadSpace, ThreeDays } from "./act3/ProperScenes";
 import {
+  DeadSpace,
+  ThreeDays,
   ProperWord,
   EarlierBeta,
   Criticism,
