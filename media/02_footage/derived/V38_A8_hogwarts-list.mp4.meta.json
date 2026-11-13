@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_hogwarts-list",
+  "task": "EX13",
+  "kind": "video",
+  "title": "第八幕 / 霍格沃茨名单镜头",
+  "path": "media/02_footage/derived/V38_A8_hogwarts-list.mp4",
+  "source_page": "https://store.steampowered.com/app/990080/",
+  "source_url": "https://video.akamai.steamstatic.com/store_trailers/990080/1375135040/954f940cc193696b7733f9eacfa43a2cdadb1db5/1778796137/hls_264_0_video.m3u8",
+  "author": "Warner Bros. Games / Avalanche",
+  "rights": "官方发布；公开剪辑使用条件待确认",
+  "status": "exported",
+  "bytes": 14399255,
+  "sha256": "95a4bece6a5f20dccf43305a65ba464f1c0d21d012f1b336f9a492f320bce3c6",
+  "derived_from": "media/02_footage/V38_A8_HOGWARTS_launch_1080p.mp4",
+  "selected_range_seconds": [
+    11,
+    25.8
+  ],
+  "source_sha256": "0449c688f575be74f0d91dbe1008a8d122cb6f6c3da674aab001c34d4927807d",
+  "note": "原速静音节选，不循环；仅示意被列名游戏，非破解版本实测"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_CAPCOM",
+  "task": "EX15",
+  "kind": "image",
+  "title": "Capcom 官方预告片尾原字标",
+  "path": "media/03_stills/voices38_act8/capcom.png",
+  "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+  "source_page": "https://store.steampowered.com/app/3764200/",
+  "author": "Capcom",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "status": "exported",
+  "source_time_seconds": 202,
+  "crop_pixels": [
+    1460,
+    880,
+    190,
+    60
+  ],
+  "sha256": "45636e06bb8871d6adbf07c7034285bd28e8530511169a6d9c062abdbaf5e4d5",
+  "bytes": 7359
+}

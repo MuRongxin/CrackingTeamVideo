@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_game-hogwarts",
+  "task": "EX15",
+  "kind": "image",
+  "title": "诉状原件第7页局部 / game-hogwarts",
+  "path": "media/03_stills/voices38_act8/game-hogwarts.png",
+  "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.1.0.pdf",
+  "author": "Denuvo GmbH 诉状",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 7,
+  "crop_pdf_points": [
+    65,
+    82,
+    550,
+    153
+  ],
+  "sha256": "2e7bd0fa66cddacf007c61cf286efb3e8db95a0c2a0908c6496575e7805bc20b",
+  "bytes": 43385
+}

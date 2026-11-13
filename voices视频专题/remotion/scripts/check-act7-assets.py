@@ -2,7 +2,7 @@
 from pathlib import Path
 import json,hashlib,subprocess
 root=Path(__file__).resolve().parents[1];repo=root.parents[1]
-assets=json.loads((root/'act7-asset-provenance.json').read_text());assert len(assets)==11
+assets=json.loads((root/'act7-asset-provenance.json').read_text());assert len(assets)==12
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 previous=[]
 for f in root.glob('*provenance.json'):
@@ -22,5 +22,5 @@ for v in assets:
    if old.get('derived_from')==v['derived_from']:
     c,d=old['selected_range_seconds'];assert min(b,d)-max(a,c)<=.001,(v['path'],old['path'])
   current.append(v)
-assert len(current)==6
-print('PASS: 6 original-speed video selects, no repeated source intervals across acts; 5 source images, hashes and provenance valid.')
+assert len(current)==7
+print('PASS: 7 original-speed video selects, no repeated source intervals across acts; 5 source images, hashes and provenance valid.')

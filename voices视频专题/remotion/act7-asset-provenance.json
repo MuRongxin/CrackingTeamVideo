@@ -258,5 +258,26 @@
     "bytes": 2347277,
     "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
     "ledger_path": "media/02_footage/derived/V38_A7_half-life.mp4"
+  },
+  {
+    "id": "V38_A7_mafia-question",
+    "kind": "video",
+    "task": "EX15",
+    "title": "第七幕 / mafia-question",
+    "path": "voices视频专题/remotion/public/v38/act7/mafia-question.mp4",
+    "derived_from": "media/02_footage/V38_A7_MAFIA_launch_1080p.mp4",
+    "source_page": "https://store.steampowered.com/app/1941540/",
+    "author": "Hangar 13 / 2K",
+    "rights": "官方宣传片，公开剪辑使用条件待确认",
+    "status": "exported",
+    "selected_range_seconds": [
+      71,
+      75.7
+    ],
+    "source_sha256": "5f7b613d422152033f430a32097be667e365535103b45bfd5d96edbd0e23b66e",
+    "sha256": "4fa25fc39f5cb32e7247b3251e0d06fd31e5433622a4dc663307f5aae8cc4fb3",
+    "bytes": 5521643,
+    "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
+    "ledger_path": "media/02_footage/derived/V38_A7_mafia-question.mp4"
   }
 ]

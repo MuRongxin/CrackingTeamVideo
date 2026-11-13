@@ -1,0 +1,15 @@
+{
+  "id": "V38_A8_BRAND_steam",
+  "task": "EX15",
+  "kind": "image",
+  "title": "steam 品牌原标识",
+  "path": "media/03_stills/voices38_act8/steam.png",
+  "derived_from": "media/01_sources/V38_A8_BRANDS/steam.svg",
+  "source_page": "https://simpleicons.org/?q=steam",
+  "source_url": "https://cdn.simpleicons.org/steam/FFFFFF",
+  "author": "品牌权利人 / Simple Icons",
+  "rights": "Simple Icons CC0 图标库；商标权归原品牌所有",
+  "status": "exported",
+  "sha256": "088f9f7e0ddfaf079f045a959b83ebc0bd838b9c6a40c81120a3504af6dcce61",
+  "bytes": 25677
+}

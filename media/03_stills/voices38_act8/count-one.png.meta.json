@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_count-one",
+  "task": "EX15",
+  "kind": "image",
+  "title": "诉状原件第10页局部 / count-one",
+  "path": "media/03_stills/voices38_act8/count-one.png",
+  "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.1.0.pdf",
+  "author": "Denuvo GmbH 诉状",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 10,
+  "crop_pdf_points": [
+    65,
+    410,
+    550,
+    565
+  ],
+  "sha256": "d999b419e9b09573c30b61d844b884e77cf7a37944d68520924de4201170f258",
+  "bytes": 78868
+}

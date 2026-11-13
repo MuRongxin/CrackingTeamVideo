@@ -1,0 +1,31 @@
+{
+  "id": "V38_A8_toms-report",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第八幕 MK13 原网页局部",
+  "path": "media/03_stills/voices38_act8/toms-report.png",
+  "derived_from": "media/01_sources/MK13/original.html",
+  "source_page": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-cracking-group-denuvowo-reportedly-disbands-lawsuit-from-irdeto-has-a-chilling-effect-but-cracking-continues-as-piracy-hub-purges-links",
+  "author": "Tom’s Hardware",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，仅补base地址；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 251,
+      "y": 1380.546875,
+      "width": 618,
+      "height": 208,
+      "scale": 1
+    },
+    "selector": "p",
+    "needle": "According to"
+  },
+  "sha256": "4906b15081df8a7b75c3bf152081830f58ffc2421d98ecc1a9c4dd045bb03f56",
+  "bytes": 112859
+}

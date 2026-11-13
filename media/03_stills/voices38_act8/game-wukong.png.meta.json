@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_game-wukong",
+  "task": "EX15",
+  "kind": "image",
+  "title": "诉状原件第8页局部 / game-wukong",
+  "path": "media/03_stills/voices38_act8/game-wukong.png",
+  "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.1.0.pdf",
+  "author": "Denuvo GmbH 诉状",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 8,
+  "crop_pdf_points": [
+    65,
+    552,
+    550,
+    623
+  ],
+  "sha256": "cb078aef57c73bb3792d05fd8f096a15632325124c5333fb790f8d6a5544630b",
+  "bytes": 45100
+}

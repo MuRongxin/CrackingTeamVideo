@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_game-requiem",
+  "task": "EX15",
+  "kind": "image",
+  "title": "诉状原件第8页局部 / game-requiem",
+  "path": "media/03_stills/voices38_act8/game-requiem.png",
+  "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.1.0.pdf",
+  "author": "Denuvo GmbH 诉状",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 8,
+  "crop_pdf_points": [
+    65,
+    458,
+    550,
+    529
+  ],
+  "sha256": "f53840313a98ab871c03408a5734791c188a6d138825ff56ec47209a2e4fcea9",
+  "bytes": 42285
+}

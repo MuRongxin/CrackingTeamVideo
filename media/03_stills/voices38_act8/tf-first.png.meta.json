@@ -1,0 +1,31 @@
+{
+  "id": "V38_A8_tf-first",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第八幕 V20 原网页局部",
+  "path": "media/03_stills/voices38_act8/tf-first.png",
+  "derived_from": "media/01_sources/V20/original.html",
+  "source_page": "https://torrentfreak.com/denuvo-sues-game-cracker-voices38-for-bypassing-its-anti-tamper-drm/",
+  "author": "TorrentFreak",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，仅补base地址；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 217,
+      "y": 2936.84375,
+      "width": 710.65625,
+      "height": 114.578125,
+      "scale": 1
+    },
+    "selector": "p",
+    "needle": "As far as we know"
+  },
+  "sha256": "eaa1a813cd632edc7c6ea32ec85d71b4a2c86ec31057b4c4599e4c736c934d4a",
+  "bytes": 36163
+}

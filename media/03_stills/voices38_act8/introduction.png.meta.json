@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_introduction",
+  "task": "EX15",
+  "kind": "image",
+  "title": "诉状原件第2页局部 / introduction",
+  "path": "media/03_stills/voices38_act8/introduction.png",
+  "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.1.0.pdf",
+  "author": "Denuvo GmbH 诉状",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 2,
+  "crop_pdf_points": [
+    65,
+    107,
+    550,
+    191
+  ],
+  "sha256": "779bf47f9509cc514e18119436be6ea386e20ead8e27803c0f7d31d32058b13f",
+  "bytes": 42489
+}

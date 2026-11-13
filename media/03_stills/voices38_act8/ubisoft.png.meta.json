@@ -1,0 +1,15 @@
+{
+  "id": "V38_A8_BRAND_ubisoft",
+  "task": "EX15",
+  "kind": "image",
+  "title": "ubisoft 品牌原标识",
+  "path": "media/03_stills/voices38_act8/ubisoft.png",
+  "derived_from": "media/01_sources/V38_A8_BRANDS/ubisoft.svg",
+  "source_page": "https://simpleicons.org/?q=ubisoft",
+  "source_url": "https://cdn.simpleicons.org/ubisoft/FFFFFF",
+  "author": "品牌权利人 / Simple Icons",
+  "rights": "Simple Icons CC0 图标库；商标权归原品牌所有",
+  "status": "exported",
+  "sha256": "ee246479fd56d728a5ace3bd0a76e5f7ca49e2d3c66234d1f24fd0cdada466a5",
+  "bytes": 32372
+}

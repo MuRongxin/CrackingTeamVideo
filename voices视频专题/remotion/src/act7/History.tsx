@@ -160,71 +160,147 @@ export const OldArgument = ({ timing }: { timing: ShotTiming }) => {
 export const CrackOrBypass = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime(),
     right = say(timing, 210, "还是"),
-    p = lerp(t, 0, 0.6),
-    r = lerp(t, right - 0.15, right + 0.4),
-    exit = lerp(t, timing.duration - 0.65, timing.duration);
+    entry = lerp(t, 0, 0.65),
+    r = lerp(t, right - 0.2, right + 0.5),
+    push = Math.min(1, t / timing.duration),
+    exit = lerp(t, timing.duration - 0.65, timing.duration),
+    stroke = Math.max(0, Math.min(1, (t - 0.65) / 2.3));
   return (
     <Stage
       name="A7-08 · 破解，还是绕过"
-      source="术语与技术争议｜不把报道或参与者的主张当作独立结论"
+      source="术语与技术争议｜游戏画面：2K 官方；非破解版本运行对比"
     >
+      <div
+        style={{
+          ...pos,
+          inset: 0,
+          scale: 1.03 + push * 0.1,
+          translate: `${-push * 35}px 0`,
+        }}
+      >
+        <Footage name="mafia-question" />
+      </div>
+      <Darken />
       <AbsoluteFill
         style={{
-          background: "radial-gradient(ellipse at 50% 50%,#294352,#080e13 70%)",
+          background: "linear-gradient(90deg,#07131cdd,transparent 75%)",
         }}
       />
-      <Kicker>2026 / THE QUESTION REMAINS</Kicker>
+      <svg width="1920" height="1080" style={{ ...pos, inset: 0 }}>
+        <path
+          d={`M${1630 - r * 720} -200L${1310 - r * 720} 1200H2200V-200Z`}
+          fill="#153b45"
+          opacity={0.12 + r * 0.32}
+        />
+        <path
+          d={`M${1630 - r * 720} -200L${1310 - r * 720} 1200`}
+          fill="none"
+          stroke="#87ced5"
+          strokeWidth="3"
+        />
+        <path
+          d={`M0 ${145 + t * 35}H1920`}
+          stroke="#ffffff"
+          strokeOpacity=".09"
+        />
+      </svg>
+      <Kicker>2026 / 今天的争论</Kicker>
       <div
         style={{
           ...pos,
-          left: 100,
-          top: 360,
-          opacity: p,
-          translate: `${(1 - p) * -250}px 0`,
+          left: 100 + push * 35,
+          top: 260 + r * 75,
+          transformOrigin: "left center",
+          transform: `perspective(1400px) translateX(${(1 - entry) * -1100 - exit * 500}px) rotateY(${(1 - entry) * 50 - r * 8}deg) scale(${1 - r * 0.38})`,
+          opacity: (1 - exit) * entry,
         }}
       >
-        <div style={{ ...mono, fontSize: 140, color: C.yellow }}>CRACK</div>
-        <div style={{ fontSize: 55, marginTop: 18 }}>破解</div>
+        <div
+          style={{ ...mono, fontSize: 220, letterSpacing: -8, color: C.yellow }}
+        >
+          CRACK
+        </div>
+        <div
+          style={{ fontSize: 78, marginTop: 8, translate: `${push * 20}px 0` }}
+        >
+          破解
+        </div>
       </div>
       <div
         style={{
           ...pos,
-          left: 1190,
-          top: 360,
-          opacity: r,
-          translate: `${(1 - r) * 250}px 0`,
+          left: 1110,
+          top: 355,
+          transform: `perspective(1400px) translateX(${(1 - r) * 1200 + exit * 500}px) rotateY(${(1 - r) * -35 + r * -5}deg)`,
+          opacity: r * (1 - exit),
         }}
       >
-        <div style={{ ...mono, fontSize: 140, color: "#93d9dd" }}>BYPASS</div>
-        <div style={{ fontSize: 55, marginTop: 18 }}>绕过</div>
+        <div
+          style={{
+            ...mono,
+            fontSize: 170,
+            letterSpacing: -6,
+            color: "#a0e7e6",
+          }}
+        >
+          BYPASS
+        </div>
+        <div style={{ fontSize: 68, marginTop: 8 }}>绕过</div>
       </div>
+      <svg
+        width="280"
+        height="420"
+        viewBox="0 0 280 420"
+        style={{
+          ...pos,
+          left: 795,
+          top: 300,
+          opacity: 1 - exit,
+          scale: 1 + push * 0.12,
+          translate: `${r * 12}px ${-push * 15}px`,
+        }}
+      >
+        <path
+          d="M45 120C45 60 95 30 145 30C210 30 249 73 225 128C205 177 141 182 141 247"
+          fill="none"
+          stroke={C.white}
+          strokeWidth="18"
+          strokeLinecap="round"
+          pathLength="100"
+          strokeDasharray="100"
+          strokeDashoffset={100 * (1 - stroke)}
+        />
+        <circle
+          cx="141"
+          cy="300"
+          r={11 * lerp(t, right, right + 0.4)}
+          fill={C.white}
+        />
+      </svg>
       <div
         style={{
           ...pos,
-          left: 875,
-          top: 315,
-          ...mono,
-          fontSize: 260,
-          color: C.white,
-          lineHeight: 1,
-          opacity: p,
-          transform: `rotateY(${(1 - r) * 25}deg)`,
-        }}
-      >
-        ?
-      </div>
-      <div
-        style={{
-          ...pos,
-          left: 0,
-          right: 0,
-          bottom: -160 + exit * 220,
-          height: 160,
+          left: 2300 - exit * 3500,
+          top: -220,
+          width: 3600,
+          height: 1600,
           background: C.paper,
-          rotate: "-3deg",
-          boxShadow: "0 -10px 60px #0007",
+          transform: "skewX(-16deg)",
+          zIndex: 45,
+          boxShadow: "-35px 0 80px #0007",
         }}
-      />
+      >
+        <div
+          style={{
+            ...pos,
+            left: 50,
+            top: 0,
+            bottom: 0,
+            width: 2,
+            background: "#b3ab97",
+          }}
+        />
+      </div>
     </Stage>
   );
 };

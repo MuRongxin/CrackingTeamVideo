@@ -1,0 +1,15 @@
+{
+  "id": "V38_A8_BRAND_sony",
+  "task": "EX15",
+  "kind": "image",
+  "title": "sony 品牌原标识",
+  "path": "media/03_stills/voices38_act8/sony.png",
+  "derived_from": "media/01_sources/V38_A8_BRANDS/sony.svg",
+  "source_page": "https://simpleicons.org/?q=sony",
+  "source_url": "https://cdn.simpleicons.org/sony/FFFFFF",
+  "author": "品牌权利人 / Simple Icons",
+  "rights": "Simple Icons CC0 图标库；商标权归原品牌所有",
+  "status": "exported",
+  "sha256": "5e50812134377ebe403eeeaccca88cea4f1502a1d92c9121ce9b69d6ba6d45dd",
+  "bytes": 9696
+}

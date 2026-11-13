@@ -6,6 +6,8 @@ import { Act4 } from "./Act4";
 import { Act5 } from "./Act5";
 import { Act6 } from "./Act6";
 import { Act7 } from "./Act7";
+import { Act8 } from "./Act8";
+import { calculateAct8Metadata, initialAct8Timings } from "./act8/timing";
 import { Full, calculateFullMetadata } from "./Full";
 import { calculateActMetadata, initialTimings, totalFrames } from "./timing";
 import { calculateAct2Metadata, initialAct2Timings } from "./act2/timing";
@@ -87,6 +89,16 @@ export const Root = () => (
       defaultProps={{ timings: initialAct7Timings }}
     />
     <Composition
+      id="V38Act8"
+      component={Act8}
+      width={1920}
+      height={1080}
+      fps={60}
+      durationInFrames={totalFrames(initialAct8Timings)}
+      calculateMetadata={calculateAct8Metadata}
+      defaultProps={{ timings: initialAct8Timings }}
+    />
+    <Composition
       id="V38Full"
       component={Full}
       width={1920}
@@ -99,7 +111,8 @@ export const Root = () => (
         totalFrames(initialAct4Timings) +
         totalFrames(initialAct5Timings) +
         totalFrames(initialAct6Timings) +
-        totalFrames(initialAct7Timings)
+        totalFrames(initialAct7Timings) +
+        totalFrames(initialAct8Timings)
       }
       calculateMetadata={calculateFullMetadata}
       defaultProps={{
@@ -110,6 +123,7 @@ export const Root = () => (
         act5Timings: initialAct5Timings,
         act6Timings: initialAct6Timings,
         act7Timings: initialAct7Timings,
+        act8Timings: initialAct8Timings,
       }}
     />
     <Still id="V38Thumb" component={Thumbnail} width={1920} height={1080} />

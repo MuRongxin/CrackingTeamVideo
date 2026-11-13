@@ -10,10 +10,8 @@ import {
   Darken,
   Kicker,
   SourceImage,
-  Question,
   pos,
   mono,
-  lin,
 } from "./Stage";
 
 export const TechnicalClaim = ({ timing }: { timing: ShotTiming }) => {
@@ -307,101 +305,4 @@ export const MafiaClaim = ({ timing }: { timing: ShotTiming }) => {
   );
 };
 
-export const OpenQuestion = ({ timing }: { timing: ShotTiming }) => {
-  const t = useTime(),
-    pull = say(timing, 206),
-    p = lerp(t, pull, pull + 1),
-    intro = lerp(t, 0, 0.7);
-  return (
-    <Stage
-      name="A7-06 · 独立分析？"
-      source="公开证据边界｜截至文稿资料期；保留不同来源各自的说法"
-    >
-      <AbsoluteFill
-        style={{
-          background: "radial-gradient(ellipse at 50% 43%,#234451,#080e13 70%)",
-        }}
-      />
-      <div style={{ ...pos, inset: 0, perspective: 1800 }}>
-        <div
-          style={{
-            ...pos,
-            left: 70 - p * 200,
-            top: 160 - p * 100,
-            width: 720,
-            background: "white",
-            padding: 25,
-            transform: `rotateY(16deg) rotateZ(-7deg) translateZ(${-p * 500}px)`,
-            opacity: (1 - p) * intro,
-            boxShadow: "0 20px 60px #0008",
-          }}
-        >
-          <SourceImage name="techspot-title.png" style={{ width: "100%" }} />
-          <div style={{ marginTop: 22, fontSize: 49, color: "#16213a" }}>
-            TechSpot：移除
-          </div>
-        </div>
-        <div
-          style={{
-            ...pos,
-            left: 1180 + p * 200,
-            top: 195 - p * 90,
-            width: 640,
-            padding: 28,
-            background: "#142c36",
-            transform: `rotateY(-18deg) rotateZ(6deg) translateZ(${-p * 500}px)`,
-            opacity: (1 - p) * intro,
-            boxShadow: "0 20px 60px #0008",
-          }}
-        >
-          <GroupMark name="denuvowo" width={450} />
-          <div style={{ fontSize: 42 }}>KiriGiri：VM 仍运行</div>
-        </div>
-        <div
-          style={{
-            ...pos,
-            left: 560,
-            top: 650 + p * 220,
-            width: 800,
-            padding: 30,
-            background: "#eae5d9",
-            transform: `rotateX(15deg) rotateZ(-2deg) translateZ(${-p * 500}px)`,
-            opacity: (1 - p) * intro,
-          }}
-        >
-          <div style={{ ...mono, fontSize: 32, color: "#16213a" }}>
-            DSOGaming
-          </div>
-          <div style={{ fontSize: 68, color: "#16213a" }}>绕过 / BYPASS</div>
-        </div>
-      </div>
-      <Question style={{ top: 165, opacity: intro, scale: 0.8 + p * 0.15 }} />
-      <div
-        style={{
-          ...pos,
-          left: 100,
-          right: 100,
-          top: 670,
-          textAlign: "center",
-          fontSize: 77,
-          opacity: p,
-          translate: `0px ${(1 - p) * 30}px`,
-        }}
-      >
-        公开、独立的分析<span style={{ color: C.yellow }}>？</span>
-      </div>
-      <div
-        style={{
-          ...pos,
-          left: 700,
-          top: 790,
-          width: 520,
-          height: 2,
-          background: "#93b3be",
-          opacity: p,
-          scale: `${lin(t, pull + 0.3, pull + 1.2)} 1`,
-        }}
-      />
-    </Stage>
-  );
-};
+export { OpenQuestion } from "./OpenQuestion";

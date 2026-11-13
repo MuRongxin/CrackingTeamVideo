@@ -44,7 +44,7 @@ src=repo/'media/03_stills/voices38_act2/empress-announcement.png';dst=repo/'medi
 Image.open(src).crop(box).save(dst)
 write(dst.with_suffix('.png.meta.json'),dict(id='V38_A7_EMPRESS_CHANNEL',kind='image',task='EX15',title='EMPRESS 官方频道署名与头像局部',path=str(dst.relative_to(repo)),derived_from=str(src.relative_to(repo)),source_page='https://t.me/EmpressRevolution/201',author='EMPRESS',rights='频道公开发布，公开剪辑使用条件待确认',status='exported',crop_pixels=box,sha256=sha(dst),bytes=dst.stat().st_size))
 put(dst,'empress-channel.png')
-selects=[('requiem-question','V38_REV_REQUIEM_official_1080p.mp4',8.0,6.1),('requiem-clock','V38_REV_REQUIEM_official_1080p.mp4',94,11),('requiem-review','V38_REV_REQUIEM_official_1080p.mp4',185,13),('requiem-mechanism','V38_REV_REQUIEM_official_1080p.mp4',28,16.5),('mafia-report','V38_A7_MAFIA_launch_1080p.mp4',55,15.8),('half-life','V38_A7_HALFLIFE_official_montage.mp4',18.5,11.4)]
+selects=[('requiem-question','V38_REV_REQUIEM_official_1080p.mp4',8.0,6.1),('requiem-clock','V38_REV_REQUIEM_official_1080p.mp4',94,11),('requiem-review','V38_REV_REQUIEM_official_1080p.mp4',185,13),('requiem-mechanism','V38_REV_REQUIEM_official_1080p.mp4',28,16.5),('mafia-report','V38_A7_MAFIA_launch_1080p.mp4',55,15.8),('half-life','V38_A7_HALFLIFE_official_montage.mp4',18.5,11.4),('mafia-question','V38_A7_MAFIA_launch_1080p.mp4',71,4.7)]
 for name,file,start,duration in selects:
  src=repo/'media/02_footage'/file;dst=repo/f'media/02_footage/derived/V38_A7_{name}.mp4'
  if not dst.exists():subprocess.run(['ffmpeg','-v','error','-y','-ss',str(start),'-i',str(src),'-t',str(duration),'-map','0:v:0','-an','-c:v','libx264','-crf','18','-preset','medium','-threads','2','-pix_fmt','yuv420p','-movflags','+faststart',str(dst)],check=True)

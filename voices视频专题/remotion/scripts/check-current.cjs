@@ -33,6 +33,7 @@ const { execFileSync } = require("node:child_process");
         comps.find((c) => c.id === "V38Act5"),
         comps.find((c) => c.id === "V38Act6"),
         comps.find((c) => c.id === "V38Act7"),
+        comps.find((c) => c.id === "V38Act8"),
       ];
     assert.equal(
       full.durationInFrames,
@@ -195,9 +196,9 @@ const { execFileSync } = require("node:child_process");
       3: [0.17, 0.4, 0.67, 0.93],
       4: [0.18, 0.48, 0.68, 0.92],
       5: [0.2, 0.49, 0.83, 0.96],
-      6: [0.2, 0.5, 0.9],
+      6: [0.08, 0.21, 0.36, 0.5, 0.65, 0.82, 0.96],
       7: [0.1, 0.45, 0.7, 0.96],
-      8: [0.2, 0.7, 0.96],
+      8: [0.1, 0.32, 0.57, 0.72, 0.86, 0.97],
     };
     const act7Text = fs
       .readFileSync("../voices38_B站文稿.md", "utf8")
@@ -213,8 +214,39 @@ const { execFileSync } = require("node:child_process");
       ),
       normalizeText(act7Text),
     );
+    extras[8] = {
+      1: [0.18, 0.6, 0.95],
+      2: [0.2, 0.48, 0.7, 0.94],
+      3: [0.16, 0.4, 0.63, 0.9],
+      4: [0.2, 0.58, 0.9],
+      5: [0.2, 0.8],
+      6: [0.25, 0.55, 0.88],
+      7: [0.16, 0.58, 0.93],
+      8: [0.25, 0.65, 0.95],
+      9: [0.18, 0.45, 0.72, 0.95],
+      10: [0.08, 0.28, 0.48, 0.62, 0.8, 0.96],
+      11: [0.2, 0.85],
+      12: [0.2, 0.48, 0.74, 0.93],
+    };
+    const act8Text = fs
+      .readFileSync("../voices38_B站文稿.md", "utf8")
+      .split("## 一份起诉书")[1]
+      .split(/##\s*一个字母/)[0];
+    const act8Captions = JSON.parse(fs.readFileSync("src/act8/captions.json"));
+    assert.equal(
+      normalizeText(
+        Object.values(act8Captions)
+          .flat()
+          .map((c) => c.text)
+          .join(""),
+      ),
+      normalizeText(act8Text),
+    );
     for (const [ai, act] of acts.entries()) {
-      assert.equal(act.props.timings.length, [11, 22, 18, 11, 7, 14, 8][ai]);
+      assert.equal(
+        act.props.timings.length,
+        [11, 22, 18, 11, 7, 14, 8, 12][ai],
+      );
       let start = 0;
       let previousSpeech = null;
       for (const [i, s] of act.props.timings.entries()) {
@@ -276,7 +308,7 @@ const { execFileSync } = require("node:child_process");
     );
     assert.deepEqual(
       [...new Set(all.map((v) => v.id))],
-      Array.from({ length: 210 }, (_, i) => i + 1),
+      Array.from({ length: 236 }, (_, i) => i + 1),
     );
     for (const v of manifest) {
       const uses = all.filter((x) => x.id === v.id);
@@ -300,16 +332,18 @@ const { execFileSync } = require("node:child_process");
       "src/act5/captions.json",
       "src/act6/captions.json",
       "src/act7/captions.json",
+      "src/act8/captions.json",
     ])
       for (const rows of Object.values(JSON.parse(fs.readFileSync(file))))
         for (const c of rows) {
           assert(c.endMs > c.startMs);
           assert(c.text.split("\n").length <= 2);
         }
-    for (const ai of [0, 1, 2, 3, 4, 5, 6]) {
+    for (const ai of [0, 1, 2, 3, 4, 5, 6, 7]) {
       const p =
         probeFrames.find(
-          (x) => x.act === ai + 1 && x.shot === [9, 14, 9, 10, 7, 13, 7][ai],
+          (x) =>
+            x.act === ai + 1 && x.shot === [9, 14, 9, 10, 7, 13, 7, 10][ai],
         ) || probeFrames.filter((x) => x.act === ai + 1).at(-1);
       if (!p) continue;
       await renderStill({
@@ -355,7 +389,7 @@ assert peak <= 2 and mean < .05, (peak, mean)
       });
     }
     console.log(
-      "PASS: current 91 shots, 210 original recordings, audio 09 continuous source ranges, Full duration, subtitle bounds.",
+      "PASS: current 103 shots, 236 original recordings, audio 09 continuous source ranges, Full duration, subtitle bounds.",
     );
   } finally {
     await browser.close({ silent: true });

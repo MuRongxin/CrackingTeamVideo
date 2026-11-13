@@ -1,0 +1,14 @@
+{
+  "id": "V38_A8_HOGWARTS",
+  "task": "EX13",
+  "kind": "video",
+  "title": "Hogwarts Legacy 官方发售预告 1080p视频轨",
+  "path": "media/02_footage/V38_A8_HOGWARTS_launch_1080p.mp4",
+  "source_page": "https://store.steampowered.com/app/990080/",
+  "source_url": "https://video.akamai.steamstatic.com/store_trailers/990080/1375135040/954f940cc193696b7733f9eacfa43a2cdadb1db5/1778796137/hls_264_0_video.m3u8",
+  "author": "Warner Bros. Games / Avalanche",
+  "rights": "官方发布；公开剪辑使用条件待确认",
+  "status": "downloaded",
+  "bytes": 102568505,
+  "sha256": "0449c688f575be74f0d91dbe1008a8d122cb6f6c3da674aab001c34d4927807d"
+}

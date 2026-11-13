@@ -46,12 +46,20 @@ export const Act7Sound = ({
       );
     case 8:
       return (
-        <Cue
-          at={timing.duration - 0.65}
-          file="paper"
-          volume={0.08}
-          duration={0.6}
-        />
+        <>
+          <Cue at={0.18} file="sweep" volume={0.065} />
+          <Cue
+            at={say(timing, 210, "还是") - 0.15}
+            file="sweep"
+            volume={0.075}
+          />
+          <Cue
+            at={timing.duration - 0.65}
+            file="paper"
+            volume={0.08}
+            duration={0.6}
+          />
+        </>
       );
     default:
       return null;

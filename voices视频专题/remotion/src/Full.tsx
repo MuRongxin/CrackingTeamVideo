@@ -9,6 +9,8 @@ import { Act4 } from "./Act4";
 import { Act5 } from "./Act5";
 import { Act6 } from "./Act6";
 import { Act7 } from "./Act7";
+import { Act8 } from "./Act8";
+import { loadAct8Timings } from "./act8/timing";
 import { loadAct7Timings } from "./act7/timing";
 import { makeTimings, totalFrames, type ShotTiming } from "./timing";
 import { loadAct2Timings } from "./act2/timing";
@@ -25,6 +27,7 @@ export type FullProps = {
   act5Timings: ShotTiming[];
   act6Timings: ShotTiming[];
   act7Timings: ShotTiming[];
+  act8Timings: ShotTiming[];
 };
 export const Full = ({
   timings,
@@ -34,6 +37,7 @@ export const Full = ({
   act5Timings,
   act6Timings,
   act7Timings,
+  act8Timings,
 }: FullProps) => (
   <TransitionSeries>
     <TransitionSeries.Sequence
@@ -78,6 +82,12 @@ export const Full = ({
     >
       <Act7 name="第七幕" timings={act7Timings} />
     </TransitionSeries.Sequence>
+    <TransitionSeries.Sequence
+      name="第八幕 · 一份起诉书"
+      durationInFrames={totalFrames(act8Timings)}
+    >
+      <Act8 name="第八幕" timings={act8Timings} />
+    </TransitionSeries.Sequence>
   </TransitionSeries>
 );
 export const calculateFullMetadata: CalculateMetadataFunction<
@@ -91,6 +101,7 @@ export const calculateFullMetadata: CalculateMetadataFunction<
     act5Timings,
     act6Timings,
     act7Timings,
+    act8Timings,
   ] = await Promise.all([
     Promise.all(
       voices.map((v) =>
@@ -105,6 +116,7 @@ export const calculateFullMetadata: CalculateMetadataFunction<
     loadAct5Timings(),
     loadAct6Timings(),
     loadAct7Timings(),
+    loadAct8Timings(),
   ]);
   const timings = makeTimings(durations);
   return {
@@ -115,7 +127,8 @@ export const calculateFullMetadata: CalculateMetadataFunction<
       totalFrames(act4Timings) +
       totalFrames(act5Timings) +
       totalFrames(act6Timings) +
-      totalFrames(act7Timings),
+      totalFrames(act7Timings) +
+      totalFrames(act8Timings),
     props: {
       timings,
       act2Timings,
@@ -124,6 +137,7 @@ export const calculateFullMetadata: CalculateMetadataFunction<
       act5Timings,
       act6Timings,
       act7Timings,
+      act8Timings,
     },
   };
 };

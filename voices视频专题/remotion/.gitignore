@@ -1,3 +1,6 @@
 node_modules
 .qa
 out
+
+# Generated public copy, >= 10 MiB; rebuild from its ledger source.
+/public/v38/act8/hogwarts-list.mp4

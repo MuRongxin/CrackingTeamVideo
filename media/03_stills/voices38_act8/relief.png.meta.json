@@ -1,0 +1,21 @@
+{
+  "id": "V38_A8_relief",
+  "task": "EX15",
+  "kind": "image",
+  "title": "诉状原件第13页局部 / relief",
+  "path": "media/03_stills/voices38_act8/relief.png",
+  "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.1.0.pdf",
+  "author": "Denuvo GmbH 诉状",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 13,
+  "crop_pdf_points": [
+    65,
+    178,
+    550,
+    545
+  ],
+  "sha256": "478e06b74346918a3932f61757d014330a64f8663200be01b05abe6f3b0ff335",
+  "bytes": 190852
+}
