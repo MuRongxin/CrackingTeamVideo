@@ -9,6 +9,10 @@ import { Act4 } from "./Act4";
 import { Act5 } from "./Act5";
 import { Act6 } from "./Act6";
 import { Act7 } from "./Act7";
+import { Act9 } from "./Act9";
+import { Act10 } from "./Act10";
+import { loadAct10Timings } from "./act10/timing";
+import { loadAct9Timings } from "./act9/timing";
 import { Act8 } from "./Act8";
 import { loadAct8Timings } from "./act8/timing";
 import { loadAct7Timings } from "./act7/timing";
@@ -28,6 +32,8 @@ export type FullProps = {
   act6Timings: ShotTiming[];
   act7Timings: ShotTiming[];
   act8Timings: ShotTiming[];
+  act9Timings: ShotTiming[];
+  act10Timings: ShotTiming[];
 };
 export const Full = ({
   timings,
@@ -38,6 +44,8 @@ export const Full = ({
   act6Timings,
   act7Timings,
   act8Timings,
+  act9Timings,
+  act10Timings,
 }: FullProps) => (
   <TransitionSeries>
     <TransitionSeries.Sequence
@@ -88,6 +96,18 @@ export const Full = ({
     >
       <Act8 name="第八幕" timings={act8Timings} />
     </TransitionSeries.Sequence>
+    <TransitionSeries.Sequence
+      name="第九幕 · 一个字母"
+      durationInFrames={totalFrames(act9Timings)}
+    >
+      <Act9 name="第九幕" timings={act9Timings} />
+    </TransitionSeries.Sequence>
+    <TransitionSeries.Sequence
+      name="第十幕 · 尾声"
+      durationInFrames={totalFrames(act10Timings)}
+    >
+      <Act10 name="第十幕" timings={act10Timings} />
+    </TransitionSeries.Sequence>
   </TransitionSeries>
 );
 export const calculateFullMetadata: CalculateMetadataFunction<
@@ -102,6 +122,8 @@ export const calculateFullMetadata: CalculateMetadataFunction<
     act6Timings,
     act7Timings,
     act8Timings,
+    act9Timings,
+    act10Timings,
   ] = await Promise.all([
     Promise.all(
       voices.map((v) =>
@@ -117,6 +139,8 @@ export const calculateFullMetadata: CalculateMetadataFunction<
     loadAct6Timings(),
     loadAct7Timings(),
     loadAct8Timings(),
+    loadAct9Timings(),
+    loadAct10Timings(),
   ]);
   const timings = makeTimings(durations);
   return {
@@ -128,7 +152,9 @@ export const calculateFullMetadata: CalculateMetadataFunction<
       totalFrames(act5Timings) +
       totalFrames(act6Timings) +
       totalFrames(act7Timings) +
-      totalFrames(act8Timings),
+      totalFrames(act8Timings) +
+      totalFrames(act9Timings) +
+      totalFrames(act10Timings),
     props: {
       timings,
       act2Timings,
@@ -138,6 +164,8 @@ export const calculateFullMetadata: CalculateMetadataFunction<
       act6Timings,
       act7Timings,
       act8Timings,
+      act9Timings,
+      act10Timings,
     },
   };
 };

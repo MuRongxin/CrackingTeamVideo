@@ -1,0 +1,31 @@
+{
+  "id": "V38_A9_playground-history",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第九幕 V26 原网页局部",
+  "path": "media/03_stills/voices38_act9/playground-history.png",
+  "derived_from": "media/01_sources/V26/original.html",
+  "source_page": "https://www.playground.ru/misc/news/voices38_stal_v0ices38_posle_udaleniya_reddit_akkaunta_vzlomschik_smenil_nik_na_cs_rin-1883402",
+  "author": "Playground",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，补base地址并禁用网页脚本以阻止跳转；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 142,
+      "y": 1096.6875,
+      "width": 766,
+      "height": 169.5625,
+      "scale": 1
+    },
+    "selector": "p",
+    "needle": "Важно, что речь"
+  },
+  "sha256": "113467a2da0bf3dc9b38e84a1bf562c8b20d3d1005ebf775a965fe573baf4b56",
+  "bytes": 85843
+}

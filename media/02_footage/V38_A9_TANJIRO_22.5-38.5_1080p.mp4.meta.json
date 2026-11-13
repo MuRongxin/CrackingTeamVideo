@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_TANJIRO",
+  "task": "EX15",
+  "kind": "video",
+  "title": "SEGA 亚洲官方炭治郎角色演示 / 原片22.5—38.5秒",
+  "path": "media/02_footage/V38_A9_TANJIRO_22.5-38.5_1080p.mp4",
+  "derived_from": "media/01_sources/V38_A9_TANJIRO/received-video.partial",
+  "source_url": "https://www.youtube.com/watch?v=B-NFjj595bg",
+  "source_page": "https://www.youtube.com/watch?v=B-NFjj595bg",
+  "author": "SEGA Asia(EN) / CyberConnect2",
+  "rights": "官方游戏宣传片，公开剪辑使用条件待确认",
+  "status": "exported",
+  "selected_range_seconds": [
+    22.5,
+    38.5
+  ],
+  "source_sha256": "f500f28583f53ce25e60806af6e6dad13e0437926d0af2a835850b81687a849b",
+  "sha256": "1d8a604513c668905d781df9e3aa1da0460dfacd6a72d29384b8f55de85b9393",
+  "bytes": 36752870,
+  "note": "实际入库16秒可独立解码片段，1920×1080，原速静音；完整原视频未取得。"
+}

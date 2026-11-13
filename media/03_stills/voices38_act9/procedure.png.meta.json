@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_procedure",
+  "task": "EX15",
+  "kind": "image",
+  "title": "COURT_DOC24 第1页原件局部",
+  "path": "media/03_stills/voices38_act9/procedure.png",
+  "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.24.0.pdf",
+  "author": "美国加州北区联邦法院 / Denuvo 提交文件",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 1,
+  "crop_pdf_points": [
+    98,
+    410,
+    582,
+    478
+  ],
+  "sha256": "20ba80244557e781a993ad79dbfef9003a1d4db49dcbc72b0dfd6930db61bd42",
+  "bytes": 50496
+}

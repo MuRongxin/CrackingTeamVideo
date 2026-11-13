@@ -1,0 +1,31 @@
+{
+  "id": "V38_A9_platform-response",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第九幕 V21 原网页局部",
+  "path": "media/03_stills/voices38_act9/platform-response.png",
+  "derived_from": "media/01_sources/V21/original.html",
+  "source_page": "https://torrentfreak.com/denuvo-asks-court-to-unmask-game-cracker-voices38-reveals-crypto-transactions/",
+  "author": "TorrentFreak",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，仅补base地址；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 217,
+      "y": 1141.5,
+      "width": 710.65625,
+      "height": 147.4375,
+      "scale": 1
+    },
+    "selector": "p",
+    "needle": "reached out to the three"
+  },
+  "sha256": "9eb7763298942b075db071a851cdb73360b465ab487cfc1263d7c88396e027d8",
+  "bytes": 50761
+}

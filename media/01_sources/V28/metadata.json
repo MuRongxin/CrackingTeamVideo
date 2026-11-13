@@ -1,16 +1,18 @@
 {
   "id": "V28",
   "source_url": "https://ixbt.games/en/news/2026/11/02/xaker-voices38-ulucsil-vzlom-denuvo-v-onimusha-way-of-the-sword-on-ispravil-kriticeskii-bag-za-capcom.html",
-  "retrieved_at": "2026-11-09T14:12:58.818683+00:00",
+  "retrieved_at": "2026-11-13T10:09:18.019086+00:00",
   "rights": "待确认；公开访问不等于获得视频使用许可",
-  "status": "failed",
-  "http_status": 403,
+  "status": "downloaded",
+  "http_status": 200,
   "final_url": "https://ixbt.games/en/news/2026/11/02/xaker-voices38-ulucsil-vzlom-denuvo-v-onimusha-way-of-the-sword-on-ispravil-kriticeskii-bag-za-capcom.html",
   "content_type": "text/html; charset=UTF-8",
-  "error": "403 Client Error: Forbidden for url: https://ixbt.games/en/news/2026/11/02/xaker-voices38-ulucsil-vzlom-denuvo-v-onimusha-way-of-the-sword-on-ispravil-kriticeskii-bag-za-capcom.html",
   "reader_capture_path": "media/01_sources/V28/web_reader_capture.txt",
   "reader_capture_kind": "网页工具提供的带行号阅读器文本；非原始 HTML，不冒充原页截图",
   "reader_retrieved_at": "2026-11-09T14:22:08.553629+00:00",
   "reader_tool": "web.run；带行号的阅读器返回，可能只覆盖正文的一部分，不是完整原始网页",
-  "reader_source_url": "https://ixbt.games/news/2026/11/02/xaker-voices38-ulucsil-vzlom-denuvo-v-onimusha-way-of-the-sword-on-ispravil-kriticeskii-bag-za-capcom.html"
+  "reader_source_url": "https://ixbt.games/news/2026/11/02/xaker-voices38-ulucsil-vzlom-denuvo-v-onimusha-way-of-the-sword-on-ispravil-kriticeskii-bag-za-capcom.html",
+  "path": "media/01_sources/V28/original.html",
+  "bytes": 264758,
+  "sha256": "ffc11cd46eb0feb472207047252a1eec38669e2dba0f8e8837dd2cffcd478aca"
 }

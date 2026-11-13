@@ -1,0 +1,20 @@
+{
+  "id": "V38_A9_demon-exorcism",
+  "task": "EX15",
+  "kind": "video",
+  "title": "第九幕 / demon-exorcism",
+  "path": "media/02_footage/derived/V38_A9_demon-exorcism.mp4",
+  "derived_from": "media/02_footage/V38_A9_DEMON_official_1080p.mp4",
+  "source_page": "https://store.steampowered.com/app/1490890/",
+  "author": "SEGA / CyberConnect2",
+  "rights": "原发布者所有，公开剪辑使用条件待确认",
+  "status": "exported",
+  "selected_range_seconds": [
+    22,
+    28
+  ],
+  "source_sha256": "1fe0ed2db3fd211a4a5c09e2f275abcfcf2f0cbd01c249fd66a16d889686cc9a",
+  "sha256": "41d73a00f54ae73d52f17748e38ab24cf89e529334fd94cb039d2608f83feacb",
+  "bytes": 8988492,
+  "note": "官方游戏画面，原速静音，不循环；非破解或修复效果实测"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "V38_A10_ownership",
+  "task": "EX15",
+  "kind": "image",
+  "title": "V27 原NFO所有权声明 / 无联系方式与捐款地址",
+  "path": "media/03_stills/voices38_act10/ownership.png",
+  "derived_from": "media/03_stills/source_images/V27_nfo.png",
+  "crop_pixels": [
+    12,
+    1041,
+    639,
+    1056
+  ],
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1x969x3/demonslayerkimetsunoyaibathehinokamichroniclesvoic/",
+  "author": "voices38",
+  "rights": "公开帖子链接的 NFO 图；公开使用授权待确认",
+  "status": "exported",
+  "source_sha256": "e8e0a539c33aa60842b0aa65e514969be54def7725ee3775f2381a922c6edd3e",
+  "sha256": "e26e1f30f905e3f83158e7876382db41d94d8c2e1a05912d2d42855ecef7c11b",
+  "bytes": 913
+}

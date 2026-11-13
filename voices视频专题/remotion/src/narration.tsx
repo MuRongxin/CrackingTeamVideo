@@ -15,6 +15,10 @@ import seventhVoices from "./act7/voice-manifest.json";
 import act7Captions from "./act7/captions.json";
 import eighthVoices from "./act8/voice-manifest.json";
 import act8Captions from "./act8/captions.json";
+import ninthVoices from "./act9/voice-manifest.json";
+import act9Captions from "./act9/captions.json";
+import tenthVoices from "./act10/voice-manifest.json";
+import act10Captions from "./act10/captions.json";
 const recordingById = Object.fromEntries(
   [
     ...firstVoices,
@@ -25,6 +29,8 @@ const recordingById = Object.fromEntries(
     ...sixthVoices,
     ...seventhVoices,
     ...eighthVoices,
+    ...ninthVoices,
+    ...tenthVoices,
   ].map((v) => [v.id, v]),
 );
 import act2Captions from "./act2/captions.json";
@@ -41,6 +47,8 @@ const captions: Record<string, Caption[]> = {
   ...act6Captions,
   ...act7Captions,
   ...act8Captions,
+  ...act9Captions,
+  ...act10Captions,
 };
 
 export const Subtitle = ({
@@ -150,7 +158,7 @@ export const Narration = ({
     <>
       {timing.voices.map((clip) => (
         <Sequence
-          key={clip.id}
+          key={`${clip.id}-${clip.trimBefore ?? 0}`}
           name={`原始配音 ${String(clip.id).padStart(2, "0")}`}
           from={Math.round(clip.start * fps)}
           durationInFrames={Math.ceil(clip.duration * fps)}

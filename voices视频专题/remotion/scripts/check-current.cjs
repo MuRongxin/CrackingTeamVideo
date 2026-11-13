@@ -34,6 +34,8 @@ const { execFileSync } = require("node:child_process");
         comps.find((c) => c.id === "V38Act6"),
         comps.find((c) => c.id === "V38Act7"),
         comps.find((c) => c.id === "V38Act8"),
+        comps.find((c) => c.id === "V38Act9"),
+        comps.find((c) => c.id === "V38Act10"),
       ];
     assert.equal(
       full.durationInFrames,
@@ -242,10 +244,51 @@ const { execFileSync } = require("node:child_process");
       ),
       normalizeText(act8Text),
     );
+    extras[9] = Object.fromEntries(
+      Array.from({ length: 17 }, (_, i) => [i + 1, [0.15, 0.48, 0.76, 0.95]]),
+    );
+    extras[9][3].push(0.57);
+    extras[9][4].push(0.62);
+    extras[9][5].push(0.58);
+    extras[9][15].push(0.05, 0.33);
+    let act9Text = fs
+      .readFileSync("../voices38_B站文稿.md", "utf8")
+      .split(/##\s*一个字母/)[1]
+      .split("## 尾声")[0];
+    const voiceEdits9 = JSON.parse(
+      fs.readFileSync("src/act9/voice-edits.json"),
+    );
+    for (const edit of Object.values(voiceEdits9))
+      act9Text = act9Text.replace(edit.removedText, "");
+    assert.equal(
+      normalizeText(
+        Object.values(JSON.parse(fs.readFileSync("src/act9/captions.json")))
+          .flat()
+          .map((c) => c.text)
+          .join(""),
+      ),
+      normalizeText(act9Text),
+    );
+    extras[10] = Object.fromEntries(
+      Array.from({ length: 9 }, (_, i) => [i + 1, [0.15, 0.45, 0.73, 0.95]]),
+    );
+    extras[10][5].push(0.24, 0.3, 0.4, 0.5, 0.58);
+    extras[10][9].push(0.34, 0.5, 0.82, 0.995, 0.999);
+    assert.equal(
+      normalizeText(
+        Object.values(JSON.parse(fs.readFileSync("src/act10/captions.json")))
+          .flat()
+          .map((c) => c.text)
+          .join(""),
+      ),
+      normalizeText(
+        fs.readFileSync("../voices38_B站文稿.md", "utf8").split("## 尾声")[1],
+      ),
+    );
     for (const [ai, act] of acts.entries()) {
       assert.equal(
         act.props.timings.length,
-        [11, 22, 18, 11, 7, 14, 8, 12][ai],
+        [11, 22, 18, 11, 7, 14, 8, 12, 17, 9][ai],
       );
       let start = 0;
       let previousSpeech = null;
@@ -259,9 +302,9 @@ const { execFileSync } = require("node:child_process");
           const absoluteStart = start / 60 + v.start;
           if (previousSpeech) {
             const gap = absoluteStart - previousSpeech.end;
-            const limit = [38, 204].includes(previousSpeech.id)
-              ? 0.75
-              : [3, 100].includes(previousSpeech.id)
+            const limit = [38, 204, 292].includes(previousSpeech.id)
+              ? 0.78
+              : [3, 100, 286, 296].includes(previousSpeech.id)
                 ? 0.5
                 : 0.4;
             assert(
@@ -308,18 +351,34 @@ const { execFileSync } = require("node:child_process");
     );
     assert.deepEqual(
       [...new Set(all.map((v) => v.id))],
-      Array.from({ length: 236 }, (_, i) => i + 1),
+      Array.from({ length: 297 }, (_, i) => i + 1),
     );
     for (const v of manifest) {
       const uses = all.filter((x) => x.id === v.id);
       assert(
-        Math.abs(uses.reduce((s, x) => s + x.duration, 0) - v.duration) < 0.001,
+        Math.abs(
+          uses.reduce((s, x) => s + x.duration, 0) -
+            (v.duration -
+              (voiceEdits9[v.id]
+                ? (voiceEdits9[v.id].cutToFrame -
+                    voiceEdits9[v.id].cutFromFrame) /
+                  60
+                : 0)),
+        ) < 0.001,
         `voice ${v.id}`,
       );
     }
     fs.writeFileSync(
       ".qa/pacing-report.json",
       JSON.stringify(pacingGaps, null, 2),
+    );
+    const edited268 = all.filter((v) => v.id === 268);
+    assert.equal(edited268.length, 2);
+    assert.equal(edited268[0].duration, voiceEdits9[268].cutFromFrame / 60);
+    assert.equal(edited268[1].trimBefore, voiceEdits9[268].cutToFrame / 60);
+    assert.equal(
+      edited268[1].start,
+      edited268[0].start + edited268[0].duration,
     );
     const split = all.filter((v) => v.id === 9);
     assert.equal(split.length, 2);
@@ -333,17 +392,20 @@ const { execFileSync } = require("node:child_process");
       "src/act6/captions.json",
       "src/act7/captions.json",
       "src/act8/captions.json",
+      "src/act9/captions.json",
+      "src/act10/captions.json",
     ])
       for (const rows of Object.values(JSON.parse(fs.readFileSync(file))))
         for (const c of rows) {
           assert(c.endMs > c.startMs);
           assert(c.text.split("\n").length <= 2);
         }
-    for (const ai of [0, 1, 2, 3, 4, 5, 6, 7]) {
+    for (const ai of [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]) {
       const p =
         probeFrames.find(
           (x) =>
-            x.act === ai + 1 && x.shot === [9, 14, 9, 10, 7, 13, 7, 10][ai],
+            x.act === ai + 1 &&
+            x.shot === [9, 14, 9, 10, 7, 13, 7, 10, 15, 9][ai],
         ) || probeFrames.filter((x) => x.act === ai + 1).at(-1);
       if (!p) continue;
       await renderStill({
@@ -389,7 +451,7 @@ assert peak <= 2 and mean < .05, (peak, mean)
       });
     }
     console.log(
-      "PASS: current 103 shots, 236 original recordings, audio 09 continuous source ranges, Full duration, subtitle bounds.",
+      "PASS: current 129 shots, 297 original recordings, audio 09 continuous source ranges, audio 268 approved cut, Full duration, subtitle bounds.",
     );
   } finally {
     await browser.close({ silent: true });

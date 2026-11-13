@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_motion",
+  "task": "EX15",
+  "kind": "image",
+  "title": "COURT_DOC15 第7页原件局部",
+  "path": "media/03_stills/voices38_act9/motion.png",
+  "derived_from": "media/01_sources/COURT_DOC15/original.pdf",
+  "source_page": "https://torrentfreak.com/images/denuvo-voices-discovery.pdf",
+  "author": "美国加州北区联邦法院 / Denuvo 提交文件",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 7,
+  "crop_pdf_points": [
+    98,
+    308,
+    583,
+    425
+  ],
+  "sha256": "c296e05c5e7d7951cf192f6c8cd80709a1da5dc771ed943772ebba2145170faf",
+  "bytes": 74388
+}

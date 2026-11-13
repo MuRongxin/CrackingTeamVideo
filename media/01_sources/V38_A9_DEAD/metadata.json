@@ -1,0 +1,16 @@
+{
+  "id": "V38_A9_DEAD",
+  "source_url": "https://store.steampowered.com/app/1693980/",
+  "status": "downloaded",
+  "rights": "原发布者所有，公开剪辑使用条件待确认",
+  "retrieved_at": "2026-11-13T10:27:21.712555+00:00",
+  "movie": {
+    "id": 256927033,
+    "name": "Officially gameplay tr",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256927033/movie.293x165.jpg?t=1674835413",
+    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1693980/532985/2c155b6fbb5e51526b0978274accdab00e93481a/1750726127/dash_av1.mpd?t=1674835413",
+    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1693980/532985/2c155b6fbb5e51526b0978274accdab00e93481a/1750726127/dash_h264.mpd?t=1674835413",
+    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1693980/532985/2c155b6fbb5e51526b0978274accdab00e93481a/1750726127/hls_264_master.m3u8?t=1674835413",
+    "highlight": true
+  }
+}

@@ -6,6 +6,10 @@ import { Act4 } from "./Act4";
 import { Act5 } from "./Act5";
 import { Act6 } from "./Act6";
 import { Act7 } from "./Act7";
+import { Act9 } from "./Act9";
+import { Act10 } from "./Act10";
+import { calculateAct10Metadata, initialAct10Timings } from "./act10/timing";
+import { calculateAct9Metadata, initialAct9Timings } from "./act9/timing";
 import { Act8 } from "./Act8";
 import { calculateAct8Metadata, initialAct8Timings } from "./act8/timing";
 import { Full, calculateFullMetadata } from "./Full";
@@ -99,6 +103,26 @@ export const Root = () => (
       defaultProps={{ timings: initialAct8Timings }}
     />
     <Composition
+      id="V38Act9"
+      component={Act9}
+      width={1920}
+      height={1080}
+      fps={60}
+      durationInFrames={totalFrames(initialAct9Timings)}
+      calculateMetadata={calculateAct9Metadata}
+      defaultProps={{ timings: initialAct9Timings }}
+    />
+    <Composition
+      id="V38Act10"
+      component={Act10}
+      width={1920}
+      height={1080}
+      fps={60}
+      durationInFrames={totalFrames(initialAct10Timings)}
+      calculateMetadata={calculateAct10Metadata}
+      defaultProps={{ timings: initialAct10Timings }}
+    />
+    <Composition
       id="V38Full"
       component={Full}
       width={1920}
@@ -112,7 +136,9 @@ export const Root = () => (
         totalFrames(initialAct5Timings) +
         totalFrames(initialAct6Timings) +
         totalFrames(initialAct7Timings) +
-        totalFrames(initialAct8Timings)
+        totalFrames(initialAct8Timings) +
+        totalFrames(initialAct9Timings) +
+        totalFrames(initialAct10Timings)
       }
       calculateMetadata={calculateFullMetadata}
       defaultProps={{
@@ -124,6 +150,8 @@ export const Root = () => (
         act6Timings: initialAct6Timings,
         act7Timings: initialAct7Timings,
         act8Timings: initialAct8Timings,
+        act9Timings: initialAct9Timings,
+        act10Timings: initialAct10Timings,
       }}
     />
     <Still id="V38Thumb" component={Thumbnail} width={1920} height={1080} />

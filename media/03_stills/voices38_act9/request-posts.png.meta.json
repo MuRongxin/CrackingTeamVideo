@@ -1,0 +1,31 @@
+{
+  "id": "V38_A9_request-posts",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第九幕 V24 原网页局部",
+  "path": "media/03_stills/voices38_act9/request-posts.png",
+  "derived_from": "media/01_sources/V24/original.html",
+  "source_page": "https://torrentfreak.com/court-approves-voices38-subpoenas-after-denuvo-drops-payment-and-login-data-requests/",
+  "author": "TorrentFreak",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，补base地址并禁用网页脚本以阻止跳转；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 217,
+      "y": 1783.609375,
+      "width": 710.65625,
+      "height": 114.578125,
+      "scale": 1
+    },
+    "selector": "p",
+    "needle": "Discord was asked to list"
+  },
+  "sha256": "70f6a11edb333f49f0aa27c3b9dac4d0760f0435cbbfc23c2bf8c0f6e7a5b28e",
+  "bytes": 42360
+}

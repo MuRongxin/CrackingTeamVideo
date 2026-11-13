@@ -1,0 +1,20 @@
+{
+  "id": "V38_A9_demon-tanjiro",
+  "task": "EX15",
+  "kind": "video",
+  "title": "第九幕 / demon-tanjiro",
+  "path": "media/02_footage/derived/V38_A9_demon-tanjiro.mp4",
+  "derived_from": "media/02_footage/V38_A9_TANJIRO_22.5-38.5_1080p.mp4",
+  "source_page": "https://www.youtube.com/watch?v=B-NFjj595bg",
+  "author": "SEGA Asia(EN) / CyberConnect2",
+  "rights": "官方游戏宣传片，公开剪辑使用条件待确认",
+  "status": "exported",
+  "selected_range_seconds": [
+    7,
+    13
+  ],
+  "source_sha256": "1d8a604513c668905d781df9e3aa1da0460dfacd6a72d29384b8f55de85b9393",
+  "sha256": "57de9c8f7b7108f4a63bfb27a91df665371c24696591e340528344ee4350d22a",
+  "bytes": 13047142,
+  "note": "官方游戏画面，原速静音，不循环；非破解或修复效果实测"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_judge-signature",
+  "task": "EX15",
+  "kind": "image",
+  "title": "COURT_DOC24 第2页原件局部",
+  "path": "media/03_stills/voices38_act9/judge-signature.png",
+  "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.24.0.pdf",
+  "author": "美国加州北区联邦法院 / Denuvo 提交文件",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 2,
+  "crop_pdf_points": [
+    98,
+    282,
+    580,
+    360
+  ],
+  "sha256": "fb32e42a36cd3904b4d9d86bd21134c5ce3d333f4d5effbd34ddc1017c92555c",
+  "bytes": 65755
+}

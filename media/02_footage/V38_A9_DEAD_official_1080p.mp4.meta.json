@@ -1,0 +1,14 @@
+{
+  "id": "V38_A9_DEAD",
+  "task": "EX15",
+  "kind": "video",
+  "title": "Dead Space / Official gameplay trailer",
+  "path": "media/02_footage/V38_A9_DEAD_official_1080p.mp4",
+  "source_url": "https://video.akamai.steamstatic.com/store_trailers/1693980/532985/2c155b6fbb5e51526b0978274accdab00e93481a/1750726127/hls_264_0_video.m3u8",
+  "source_page": "https://store.steampowered.com/app/1693980/",
+  "author": "Electronic Arts / Motive",
+  "rights": "原发布者所有，公开剪辑使用条件待确认",
+  "status": "downloaded",
+  "sha256": "8ec8a1eab167af537679eb7353f41357d5c6b5205fea365741cbe71f72328f8b",
+  "bytes": 100698280
+}

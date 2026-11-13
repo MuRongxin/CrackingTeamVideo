@@ -1,0 +1,14 @@
+{
+  "id": "V38_A9_ONIMUSHA",
+  "task": "EX15",
+  "kind": "video",
+  "title": "Onimusha: Way of the Sword / 07_PV7_Multi_EN-US_ESRB_FullHD",
+  "path": "media/02_footage/V38_A9_ONIMUSHA_official_1080p.mp4",
+  "source_url": "https://video.akamai.steamstatic.com/store_trailers/2638890/1053843670/2a387b30ca36af73fab2198941de6282587f2bfe/1788938110/hls_264_0_video.m3u8",
+  "source_page": "https://store.steampowered.com/app/2638890/",
+  "author": "Capcom",
+  "rights": "原发布者所有，公开剪辑使用条件待确认",
+  "status": "downloaded",
+  "sha256": "60d87941ea7dcd4daefdb5cec50b5288f074d2f9c6896c3fd376c4d9b5706564",
+  "bytes": 105600672
+}

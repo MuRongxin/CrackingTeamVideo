@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_pseudonym-context",
+  "task": "EX15",
+  "kind": "image",
+  "title": "COURT_DOC25 第3页原件局部",
+  "path": "media/03_stills/voices38_act9/pseudonym-context.png",
+  "derived_from": "media/01_sources/COURT_DOC25/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.25.0.pdf",
+  "author": "美国加州北区联邦法院 / Denuvo 提交文件",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 3,
+  "crop_pdf_points": [
+    98,
+    137,
+    582,
+    255
+  ],
+  "sha256": "359b5b8cb40a48edbb070abf73d1e1713ab5076ff0f9479beda747e2cfda7cce",
+  "bytes": 76705
+}

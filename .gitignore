@@ -5,6 +5,7 @@
 # BEGIN LARGE MEDIA (generated)
 # Threshold: >= 10 MiB
 /media/01_sources/G11/original.pdf
+/media/01_sources/V38_A9_TANJIRO/received-video.partial
 /media/02_footage/EX02_STEAM_33230_trailer1_394p.mp4
 /media/02_footage/EX13_STEAM_1196590_trailer1_720p.mp4
 /media/02_footage/EX15_STEAM_779340_trailer1_720p.mp4
@@ -15,6 +16,10 @@
 /media/02_footage/V38_007_official_720p.mp4
 /media/02_footage/V38_A7_MAFIA_launch_1080p.mp4
 /media/02_footage/V38_A8_HOGWARTS_launch_1080p.mp4
+/media/02_footage/V38_A9_DEAD_official_1080p.mp4
+/media/02_footage/V38_A9_DEMON_official_1080p.mp4
+/media/02_footage/V38_A9_ONIMUSHA_official_1080p.mp4
+/media/02_footage/V38_A9_TANJIRO_22.5-38.5_1080p.mp4
 /media/02_footage/V38_NFS_official_720p.mp4
 /media/02_footage/V38_REV_CRIMSON_official_1080p.mp4
 /media/02_footage/V38_REV_REQUIEM_official_1080p.mp4
@@ -23,6 +28,9 @@
 /media/02_footage/derived/V38_A2_community-persona.mp4
 /media/02_footage/derived/V38_A7_mafia-report.mp4
 /media/02_footage/derived/V38_A8_hogwarts-list.mp4
+/media/02_footage/derived/V38_A9_demon-tanjiro.mp4
+/media/02_footage/derived/V38_A9_onimusha-fix.mp4
+/media/02_footage/derived/V38_A9_onimusha-release.mp4
 /media/02_footage/derived/V38_REV_wukong-compatibility.mp4
 /media/02_footage/derived/V38_REV_wukong-denial.mp4
 /media/02_footage/derived/V38_REV_wukong-encounter.mp4

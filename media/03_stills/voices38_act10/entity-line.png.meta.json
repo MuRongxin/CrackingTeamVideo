@@ -1,0 +1,22 @@
+{
+  "id": "V38_A10_entity-line",
+  "task": "EX15",
+  "kind": "image",
+  "title": "尾声 / 起诉书首页原件裁片",
+  "path": "media/03_stills/voices38_act10/entity-line.png",
+  "derived_from": "media/01_sources/COURT_COMPLAINT/original.pdf",
+  "page": 1,
+  "crop_pdf_points": [
+    76,
+    548,
+    300,
+    567
+  ],
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.1.0.pdf",
+  "author": "Denuvo 提交的法院文件",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "source_sha256": "10373f02f2a76ea3d0f662aa4a0b2fcfc2533f1fff7dd89c88e55c2347f6f256",
+  "sha256": "e814f7e6136c242091cf7ec85587a59cc5f19231b022b7d20b2daba4eb3e99f6",
+  "bytes": 22597
+}

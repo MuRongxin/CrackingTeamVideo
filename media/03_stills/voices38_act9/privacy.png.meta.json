@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_privacy",
+  "task": "EX15",
+  "kind": "image",
+  "title": "COURT_DOC24 第1页原件局部",
+  "path": "media/03_stills/voices38_act9/privacy.png",
+  "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.24.0.pdf",
+  "author": "美国加州北区联邦法院 / Denuvo 提交文件",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "status": "exported",
+  "page": 1,
+  "crop_pdf_points": [
+    98,
+    573,
+    583,
+    734
+  ],
+  "sha256": "d9f9763dec74c96022694f64565cc4073b917d77e3937939e75df92681b986d7",
+  "bytes": 119075
+}

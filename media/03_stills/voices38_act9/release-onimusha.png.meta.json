@@ -1,0 +1,32 @@
+{
+  "id": "V38_A9_release-onimusha",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第九幕 V01 原网页局部",
+  "path": "media/03_stills/voices38_act9/release-onimusha.png",
+  "derived_from": "media/01_sources/V01/original.html",
+  "stylesheet_source": "media/01_sources/V01/site.css",
+  "source_page": "https://www.xrel.to/p2p/group-6080-voices38/releases.html",
+  "author": "xREL",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，补base地址并禁用网页脚本以阻止跳转；xREL使用其归档原CSS；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 360,
+      "y": 322,
+      "width": 185.859375,
+      "height": 30,
+      "scale": 4
+    },
+    "selector": ".release_title_p2p",
+    "needle": "Onimusha.Way.of.the.Sword-voices38"
+  },
+  "sha256": "1d367c23c373717ed18f2864b4aca8755922e1e7f7c1ae2ad34a9ea01bff74be",
+  "bytes": 46458
+}

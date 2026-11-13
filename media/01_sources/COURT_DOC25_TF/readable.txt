@@ -1,0 +1,1189 @@
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ 
+ 
+ 
+ 
+ 
+Case No. 4:26-cv-10423-HSG 
+PLAINTIFF’S RESPONSE TO ORDER TO SHOW CAUSE 
+ 
+Gregory J. Lundell (CA Bar No. 234,941) 
+greg.lundell@hglaw.com 
+Donny K. Samporna (CA Bar No. 316,456) 
+donny.samporna@hglaw.com 
+HG LAW LLP 
+111 North Market Street, Suite 900 
+San Jose, California 95113 
+Tel: (669) 213-1050, Fax: (669) 500-7375 
+ 
+Brian N. Platt (pro hac vice)  
+bplatt@wnlaw.com  
+Ryan C. Morris (pro hac vice)  
+rmorris@wnlaw.com  
+WORKMAN NYDEGGER  
+60 East South Temple Suite 1000  
+Salt Lake City, UT 84111  
+Tel: (801) 533-9800, Fax: (801) 328-1707  
+ 
+Attorneys for Plaintiff Denuvo GmbH 
+ 
+ 
+ 
+UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF CALIFORNIA 
+OAKLAND DIVISION 
+DENUVO GMBH, 
+ 
+Plaintiff, 
+ 
+v. 
+ 
+VOICES38, an unknown individual or entity, 
+and DOES 1-10, 
+ 
+Defendants. 
+ 
+ Case No. 4:26-cv-10423-HSG 
+ 
+ 
+PLAINTIFF’S RESPONSE TO ORDER 
+TO SHOW CAUSE (DKT. NO. 24) RE EX 
+PARTE MOTION FOR EXPEDITED 
+DISCOVERY (DKT. NO. 15) 
+ 
+ 
+Judge: 
+Haywood S. Gilliam, Jr. 
+ 
+ 
+Plaintiff Denuvo GmbH (“Denuvo”) responds to the Court’s Order Directing Plaintiff to E-
+File Proposed Order and Order to Show Cause (the “Order”). Dkt. No. 24. Denuvo concurrently 
+herewith e-files the proposed order. Denuvo also attaches hereto revised subpoenas to Discord, 
+Inc. (“Discord”), Reddit, Inc. (“Reddit”), and Valve Corporation (“Valve”) as Exhibits A, B, and 
+C. Denuvo accepts the Court’s invitation to submit revised subpoenas that are narrowly tailored to 
+identify Defendant. Denuvo respectfully submits that the revised subpoenas align with the 
+narrowly tailored subpoena in Alo, LLC v. Fang, No. 25-cv-11126-PHK, 2026 WL 1725893, 2026 
+Case 4:26-cv-10423-HSG     Document 25     Filed 10/14/26     Page 1 of 4
+
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ 
+ 
+ 
+ 
+2 
+Case No. 4:26-cv-10423-HSG 
+PLAINTIFF’S RESPONSE TO ORDER TO SHOW CAUSE 
+ 
+U.S. Dist. LEXIS 133181 (N.D. Cal. June 15, 2026). Below, Denuvo submits why each document 
+request is targeted to identifying and serving Defendant voices38 (“Defendant”), complies with 
+the Order, and aligns with Alo. 
+I. 
+EACH REQUEST IS TARGETED TO IDENTIFYING AND SERVING 
+DEFENDANT 
+Courts permit limited early discovery “to permit the plaintiff to learn the identifying facts 
+necessary to permit service on the defendant.” Columbia Ins. Co. v. seescandy.com, 185 F.R.D. 573, 
+577 (N.D. Cal. 1999). The plaintiff must provide “a statement of reasons justifying the specific 
+discovery requested.” Id. at 580. 
+A. 
+The Revised Requests Follow the Alo Subpoena. 
+The Order identifies the subpoena in Alo as the model for Denuvo’s requests. Dkt. No. 24 at 
+2. In Alo, Judge Kang granted leave to serve that subpoena, which sought “[a]ll DOCUMENTS 
+RELATING TO the contact information for the ebay seller kyy_40,” including “any identifying 
+information such as . . . names, identification documents, email addresses, business or residential 
+addresses.” Alo, 2026 U.S. Dist. LEXIS 133181, at *17; Alo, ECF No. 16-2 at 16. 
+Denuvo’s revised requests follow the same form. Each seeks all documents relating to the 
+identity or contact information of one account that the Complaint attributes to Defendant, including 
+names, identification documents, email addresses, and business or residential addresses. Exs. A-C. 
+Exhibit A addresses the Discord user “voices38,” User ID 1427416652684984397. Compl. ¶ 4. 
+Exhibit B addresses the Reddit user “voices38.” Id. ¶¶ 3, 64. Exhibit C contains a separate request 
+for each of the seven Steam profiles listed in the Complaint. Id. ¶ 5. 
+The requests do not seek the contents of any message, post, or file, which federal law 
+generally bars these providers from disclosing. 18 U.S.C. § 2702(a)(1). The requests seek records 
+“pertaining to a subscriber,” which a provider may disclose “to any person other than a 
+governmental entity.” Id. § 2702(c)(6). Measured against the Alo subpoena, Denuvo’s requests 
+differ in only three respects. They reach identity as well as contact information, and they add 
+telephone numbers and Internet Protocol (“IP”) addresses. Denuvo respectfully submits that these 
+differences are permissible in light of the Order and Alo. 
+Case 4:26-cv-10423-HSG     Document 25     Filed 10/14/26     Page 2 of 4
+
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ 
+ 
+ 
+ 
+3 
+Case No. 4:26-cv-10423-HSG 
+PLAINTIFF’S RESPONSE TO ORDER TO SHOW CAUSE 
+ 
+B. 
+Each Difference Is Needed to Identify Defendant and Aligns with Alo. 
+1. 
+Identity Information 
+In Alo, the plaintiff already had a name and a street address from the return label on the 
+packages it bought. Alo, 2026 U.S. Dist. LEXIS 133181, at *2-3. In granting leave, Judge Kang 
+described the information sought as an email address and a residential or business address. Id. at 
+*15. Denuvo has only a pseudonym. Compl. ¶ 21. Denuvo therefore needs records showing who 
+holds each account, including any name or identification document on file, to name Defendant and 
+effect service. See Fed. R. Civ. P. 4(e), (f). 
+2. 
+Telephone Numbers 
+Ebates struck telephone numbers because the plaintiff did not explain why it needed them. 
+Ebates, Inc. v. Does, No. 16-cv-01925-JST, 2016 U.S. Dist. LEXIS 59480, at *9 (N.D. Cal. May 3, 
+2016). Denuvo’s reason is specific to Discord, which asks each new user to “provide a way of 
+contacting you (such as an email address and/or phone number).” Discord Privacy Policy (eff. Sept. 
+29, 2025).1 Discord may also require “a verified phone number.” Id. A Discord account may 
+therefore carry a telephone number and no email address. That number identifies a carrier and a 
+subscriber of record, which may be the only route to a name and address. 
+3. 
+IP Addresses 
+eBay requires every individual seller to provide a full name, an address, a date of birth, and 
+a Social Security number. Alo, ECF No. 16-2 at 7. The platforms here require far less, and what they 
+require is self-reported. Valve collects an “email address and country of residence” at registration. 
+Steam Privacy Policy (rev. Feb. 14, 2025).2 Discord requires a username, a password, a birthday, 
+and a means of contact. Discord Privacy Policy, supra. Both platforms log IP addresses. Steam 
+Privacy Policy, supra (stating that “our servers log your IP address”); Discord Privacy Policy, supra 
+(collecting “information like your IP address”). Those addresses may be the only reliable path to 
+Defendant. 
+ 
+1 Available at https://discord.com/privacy (last visited Oct. 14, 2026). 
+2 Available at https://store.steampowered.com/privacy_agreement/ (last visited Oct. 14, 2026). 
+Case 4:26-cv-10423-HSG     Document 25     Filed 10/14/26     Page 3 of 4
+
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ 
+ 
+ 
+ 
+4 
+Case No. 4:26-cv-10423-HSG 
+PLAINTIFF’S RESPONSE TO ORDER TO SHOW CAUSE 
+ 
+Ebates permitted requests for IP address information at registration and during a defined 
+period. Ebates, 2016 U.S. Dist. LEXIS 59480, at *8, *10. This Court has likewise authorized a 
+subpoena to any provider “identified in response to a subpoena as a provider of Internet services to 
+Defendant.” Strike 3 Holdings, LLC v. Doe, No. 21-cv-03950-HSG, ECF No. 8 ¶ 3 (N.D. Cal. June 
+4, 2021). 
+C. 
+Denuvo Concurrently Herewith Submits the Proposed Order. 
+Denuvo concurrently herewith e-files the proposed order and submits a Word version to 
+HSG@cand.uscourts.gov. 
+ 
+II. 
+CONCLUSION 
+Denuvo’s revised requests follow the subpoena the Order identifies as the model, and each 
+difference serves the identification and service of Defendant. Denuvo respectfully requests that the 
+Court grant the Ex Parte Motion for Expedited Discovery and authorize service of the subpoenas 
+attached as Exhibits A through C. 
+ 
+Dated:  October 14, 2026 
+ 
+HG LAW LLP 
+Gregory J. Lundell 
+Donny K. Samporna 
+ 
+and 
+ 
+WORKMAN NYDEGGER 
+Brian N. Platt (pro hac vice)  
+Ryan C. Morris (pro hac vice) 
+ 
+ 
+ 
+ 
+By: / Donny Samporna /  
+ 
+ 
+Donny K. Samporna 
+Attorneys for Plaintiff Denuvo GmbH 
+ 
+ 
+Case 4:26-cv-10423-HSG     Document 25     Filed 10/14/26     Page 4 of 4
+
+
+AO 88B  (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action
+UNITED STATES DISTRICT COURT
+for the
+__________ District of __________
+)
+)
+)
+)
+)
+)
+Plaintiff
+v.
+Civil Action No.
+Defendant
+SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
+OR TO PERMIT INSPECTION OF PREMISES IN A CIVIL ACTION 
+To:
+(Name of person to whom this subpoena is directed)
+’ Production: YOU ARE COMMANDED to produce at the time, date, and place set forth below the following 
+documents, electronically stored information, or objects, and to permit inspection, copying, testing, or sampling of the
+material:
+Place:
+Date and Time:
+’ Inspection of Premises: YOU ARE COMMANDED to permit entry onto the designated premises, land, or 
+other property possessed or controlled by you at the time, date, and location set forth below, so that the requesting party
+may inspect, measure, survey, photograph, test, or sample the property or any designated object or operation on it.
+Place:
+Date and Time:
+The following provisions of Fed. R. Civ. P. 45 are attached – Rule 45(c), relating to the place of compliance;
+Rule 45(d), relating to your protection as a person subject to a subpoena; and Rule 45(e) and (g), relating to your duty to
+respond to this subpoena and the potential consequences of not doing so.
+Date:
+CLERK OF COURT
+OR
+Signature of Clerk or Deputy Clerk
+Attorney’s signature
+The name, address, e-mail address, and telephone number of the attorney representing (name of party)
+, who issues or requests this subpoena, are:
+Notice to the person who issues or requests this subpoena
+If this subpoena commands the production of documents, electronically stored information, or tangible things or the
+inspection of premises before trial, a notice and a copy of the subpoena must be served on each party in this case before
+it is served on the person to whom it is directed. Fed. R. Civ. P. 45(a)(4).
+       Northern District of California
+HG Law, Donny Samporna, 111 N. Market St., Ste 900, San Jose, CA, donny.samporna@hglaw.com (669)213-1050
+Denuvo GmbH,
+Voices38 and Does 1-10,
+Discord, Inc. c/o 1505 Corporation, CT Corporation System 
+330 N. Brand Blvd., Glendale, CA
+✔
+ See Attachment A
+HG Law, LLP 
+111 N. Market St., Ste 900 
+San Jose, CA  95113
+11/03/2026 5:00 pm
+Denuvo GmbH
+4:26-cv-10423-HSG
+Case 4:26-cv-10423-HSG     Document 25-1     Filed 10/14/26     Page 1 of 5
+
+
+AO 88B  (Rev.  02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action (Page 2)
+Civil Action No.
+PROOF OF SERVICE
+(This section should not be filed with the court unless required by Fed. R. Civ. P. 45.)
+I received this subpoena for (name of individual and title, if any)
+on (date)
+.
+’ I served the subpoena by delivering a copy to the named person as follows:
+on (date)
+; or
+’ I returned the subpoena unexecuted because:
+.
+Unless the subpoena was issued on behalf of the United States, or one of its officers or agents, I have also 
+tendered to the witness the fees for one day’s attendance, and the mileage allowed by law, in the amount of
+$
+.
+My fees are $
+for travel and $
+for services, for a total of $
+.
+I declare under penalty of perjury that this information is true.
+Date:
+Server’s signature
+Printed name and title
+Server’s address
+Additional information regarding attempted service, etc.:
+4:26-cv-10423-HSG
+0.00
+Case 4:26-cv-10423-HSG     Document 25-1     Filed 10/14/26     Page 2 of 5
+
+
+AO 88B  (Rev.  02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action(Page 3)
+Federal Rule of Civil Procedure 45 (c), (d), (e), and (g) (Effective 12/1/13)
+(c) Place of Compliance.
+  (1) For a Trial, Hearing, or Deposition. A subpoena may command a
+person to attend a trial, hearing, or deposition only as follows:
+    (A) within 100 miles of where the person resides, is employed, or
+regularly transacts business in person; or
+    (B) within the state where the person resides, is employed, or regularly
+transacts business in person, if the person
+        (i) is a party or a party’s officer; or
+        (ii) is commanded to attend a trial and would not incur substantial
+expense.
+  (2) For Other Discovery. A subpoena may command:
+    (A) production of documents, electronically stored information, or
+tangible things at a place within 100 miles of where the person resides, is
+employed, or regularly transacts business in person; and
+    (B) inspection of premises at the premises to be inspected.
+(d) Protecting a Person Subject to a Subpoena; Enforcement.
+  (1) Avoiding Undue Burden or Expense; Sanctions. A party or attorney
+responsible for issuing and serving a subpoena must take reasonable steps
+to avoid imposing undue burden or expense on a person subject to the
+subpoena. The court for the district where compliance is required must
+enforce this duty and impose an appropriate sanction—which may include
+lost earnings and reasonable attorney’s fees—on a party or attorney who
+fails to comply.
+  (2) Command to Produce Materials or Permit Inspection.
+    (A) Appearance Not Required. A person commanded to produce
+documents, electronically stored information, or tangible things, or to
+permit the inspection of premises, need not appear in person at the place of
+production or inspection unless also commanded to appear for a deposition,
+hearing, or trial.
+    (B) Objections. A person commanded to produce documents or tangible
+things or to permit inspection may serve on the party or attorney designated
+in the subpoena a written objection to inspecting, copying, testing, or
+sampling any or all of the materials or to inspecting the premises—or to
+producing electronically stored information in the form or forms requested.
+The objection must be served before the earlier of the time specified for
+compliance or 14 days after the subpoena is served. If an objection is made,
+the following rules apply:
+        (i) At any time, on notice to the commanded person, the serving party
+may move the court for the district where compliance is required for an
+order compelling production or inspection.
+        (ii) These acts may be required only as directed in the order, and the
+order must protect a person who is neither a party nor a party’s officer from
+significant expense resulting from compliance.
+  (3) Quashing or Modifying a Subpoena.
+    (A) When Required. On timely motion, the court for the district where
+compliance is required must quash or modify a subpoena that:
+        (i) fails to allow a reasonable time to comply;
+        (ii) requires a person to comply beyond the geographical limits
+specified in Rule 45(c);
+        (iii) requires disclosure of privileged or other protected matter, if no
+exception or waiver applies; or
+        (iv) subjects a person to undue burden.
+   (B) When Permitted. To protect a person subject to or affected by a
+subpoena, the court for the district where compliance is required may, on
+motion, quash or modify the subpoena if it requires:
+(i) disclosing a trade secret or other confidential research,
+development, or commercial information; or
+        (ii) disclosing an unretained expert’s opinion or information that does
+not describe specific occurrences in dispute and results from the expert’s
+study that was not requested by a party.
+    (C) Specifying Conditions as an Alternative. In the circumstances
+described in Rule 45(d)(3)(B), the court may, instead of quashing or
+modifying a subpoena, order appearance or production under specified
+conditions if the serving party:
+        (i) shows a substantial need for the testimony or material that cannot be
+otherwise met without undue hardship; and
+        (ii) ensures that the subpoenaed person will be reasonably compensated.
+(e) Duties in Responding to a Subpoena.
+  (1) Producing Documents or Electronically Stored Information. These
+procedures apply to producing documents or electronically stored
+information:
+    (A) Documents. A person responding to a subpoena to produce documents
+must produce them as they are kept in the ordinary course of business or
+must organize and label them to correspond to the categories in the demand.
+    (B) Form for Producing Electronically Stored Information Not Specified.
+If a subpoena does not specify a form for producing electronically stored
+information, the person responding must produce it in a form or forms in
+which it is ordinarily maintained or in a reasonably usable form or forms.
+    (C) Electronically Stored Information Produced in Only One Form. The
+person responding need not produce the same electronically stored
+information in more than one form.
+    (D) Inaccessible Electronically Stored Information. The person
+responding need not provide discovery of electronically stored information
+from sources that the person identifies as not reasonably accessible because
+of undue burden or cost. On motion to compel discovery or for a protective
+order, the person responding must show that the information is not
+reasonably accessible because of undue burden or cost. If that showing is
+made, the court may nonetheless order discovery from such sources if the
+requesting party shows good cause, considering the limitations of Rule
+26(b)(2)(C). The court may specify conditions for the discovery.
+(2) Claiming Privilege or Protection.
+  (A) Information Withheld. A person withholding subpoenaed information
+under a claim that it is privileged or subject to protection as trial-preparation
+material must:
+      (i) expressly make the claim; and
+      (ii) describe the nature of the withheld documents, communications, or
+tangible things in a manner that, without revealing information itself
+privileged or protected, will enable the parties to assess the claim.
+  (B) Information Produced. If information produced in response to a
+subpoena is subject to a claim of privilege or of protection as
+trial-preparation material, the person making the claim may notify any party
+that received the information of the claim and the basis for it. After being
+notified, a party must promptly return, sequester, or destroy the specified
+information and any copies it has; must not use or disclose the information
+until the claim is resolved; must take reasonable steps to retrieve the
+information if the party disclosed it before being notified; and may promptly
+present the information under seal to the court for the district where
+compliance is required for a determination of the claim. The person who
+produced the information must preserve the information until the claim is
+resolved.
+(g) Contempt.
+The court for the district where compliance is required—and also, after a
+motion is transferred, the issuing court—may hold in contempt a person
+who, having been served, fails without adequate excuse to obey the
+subpoena or an order related to it.
+For access to subpoena materials, see Fed. R. Civ. P. 45(a) Committee Note (2013).
+Case 4:26-cv-10423-HSG     Document 25-1     Filed 10/14/26     Page 3 of 5
+
+
+ATTACHMENT A 
+ 
+DEFINITIONS 
+1. 
+The instructions and requests below are subject to and incorporate the following 
+definitions and instructions, regardless of whether upper or lower case letters are used: 
+2. 
+“Document” shall be construed under the broadest possible construction under 
+Federal Rule of Civil Procedure 34 and Federal Rule of Evidence 1001, including all electronically 
+stored information.  
+3. 
+“Refer to,” “referring to,” “relate to,” “related to,” “relating to,” “regarding,” or 
+“concerning” means in whole or in part constituting, containing, contradicting, embodying, 
+commenting on, depicting, demonstrating, refuting, evidencing, representing, discussing, 
+reflecting, describing, analyzing, identifying, mentioning, stating, summarizing, bearing upon, 
+pertaining to, comprising, involving, alluding to, commenting on, referring directly or indirectly 
+to, dealing with, or in any way pertaining to.  
+4. 
+The terms “and” and “or” shall be construed either disjunctively or conjunctively 
+as necessary to bring within the scope of the discovery request all responses that might otherwise 
+be construed to be outside of its scope.  
+5. 
+The terms “any,” “all,” “every,” and “each” each means and includes the other.  
+6. 
+The singular form of any word shall be deemed to include the plural. The plural 
+form of any word shall be deemed to include the singular.  
+7. 
+The use of a verb in any tense shall be construed as the use of the verb in all other 
+tenses.  
+8. 
+“Include” and “including” mean including without limitation.  
+Case 4:26-cv-10423-HSG     Document 25-1     Filed 10/14/26     Page 4 of 5
+
+
+INSTRUCTIONS 
+1. 
+Produce all responsive Documents, electronically stored information, and Things 
+in Your possession, custody, or control, wherever located, in a manner in which they are 
+maintained. 
+2. 
+State, for each request, whether or not there exist any Documents within the scope 
+of the request and whether any such Documents are in Your possession, custody, or control. 
+3. 
+If any Document is withheld from production on the basis of privilege, immunity, 
+or any similar claim, please specify: (i) the date of the Document; (ii) the subject matter of the 
+Document; (iii) the type of Document (memorandum, pamphlet, report, etc.); (iv) such other 
+information as is sufficient to identify the Document, Including, where appropriate, the author, 
+addressee, and any other recipient of the Document, and where not apparent, the relationship of 
+the author, addressee, and any other recipient of each other; and (v) an explanation of the basis for 
+withholding the Document.  
+4. 
+If You object to the scope or breadth of any request, respond within the scope or 
+breadth of production You contend is proper and define the scope or breadth in which You have 
+responded.  
+REQUESTS FOR PRODUCTION 
+1. 
+All documents relating to the identity or contact information for the account user 
+with username “voices38” or User ID 1427416652684984397, including, but not limited to, 
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, and business or residential addresses.  
+Case 4:26-cv-10423-HSG     Document 25-1     Filed 10/14/26     Page 5 of 5
+
+
+AO 88B  (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action
+UNITED STATES DISTRICT COURT
+for the
+__________ District of __________
+)
+)
+)
+)
+)
+)
+Plaintiff
+v.
+Civil Action No.
+Defendant
+SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
+OR TO PERMIT INSPECTION OF PREMISES IN A CIVIL ACTION 
+To:
+(Name of person to whom this subpoena is directed)
+’ Production: YOU ARE COMMANDED to produce at the time, date, and place set forth below the following 
+documents, electronically stored information, or objects, and to permit inspection, copying, testing, or sampling of the
+material:
+Place:
+Date and Time:
+’ Inspection of Premises: YOU ARE COMMANDED to permit entry onto the designated premises, land, or 
+other property possessed or controlled by you at the time, date, and location set forth below, so that the requesting party
+may inspect, measure, survey, photograph, test, or sample the property or any designated object or operation on it.
+Place:
+Date and Time:
+The following provisions of Fed. R. Civ. P. 45 are attached – Rule 45(c), relating to the place of compliance;
+Rule 45(d), relating to your protection as a person subject to a subpoena; and Rule 45(e) and (g), relating to your duty to
+respond to this subpoena and the potential consequences of not doing so.
+Date:
+CLERK OF COURT
+OR
+Signature of Clerk or Deputy Clerk
+Attorney’s signature
+The name, address, e-mail address, and telephone number of the attorney representing (name of party)
+, who issues or requests this subpoena, are:
+Notice to the person who issues or requests this subpoena
+If this subpoena commands the production of documents, electronically stored information, or tangible things or the
+inspection of premises before trial, a notice and a copy of the subpoena must be served on each party in this case before
+it is served on the person to whom it is directed. Fed. R. Civ. P. 45(a)(4).
+       Northern District of California
+HG Law, Donny Samporna, 111 N. Market St., Ste 900, San Jose, CA, donny.samporna@hglaw.com (669)213-1050
+Denuvo GmbH,
+Voices38 and Does 1-10,
+Reddit, Inc. c/o 1505 Corp, Corporation Service Company
+2710 Gateway Oaks Dr., Ste 150N, Sacramento, CA 95833
+✔
+ See Attachment A
+HG Law, LLP 
+111 N. Market St., Ste 900 
+San Jose, CA  95113
+11/03/2026 5:00 pm
+Denuvo GmbH
+4:26-cv-10423-HSG
+Case 4:26-cv-10423-HSG     Document 25-2     Filed 10/14/26     Page 1 of 5
+
+
+AO 88B  (Rev.  02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action (Page 2)
+Civil Action No.
+PROOF OF SERVICE
+(This section should not be filed with the court unless required by Fed. R. Civ. P. 45.)
+I received this subpoena for (name of individual and title, if any)
+on (date)
+.
+’ I served the subpoena by delivering a copy to the named person as follows:
+on (date)
+; or
+’ I returned the subpoena unexecuted because:
+.
+Unless the subpoena was issued on behalf of the United States, or one of its officers or agents, I have also 
+tendered to the witness the fees for one day’s attendance, and the mileage allowed by law, in the amount of
+$
+.
+My fees are $
+for travel and $
+for services, for a total of $
+.
+I declare under penalty of perjury that this information is true.
+Date:
+Server’s signature
+Printed name and title
+Server’s address
+Additional information regarding attempted service, etc.:
+4:26-cv-10423-HSG
+0.00
+Case 4:26-cv-10423-HSG     Document 25-2     Filed 10/14/26     Page 2 of 5
+
+
+AO 88B  (Rev.  02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action(Page 3)
+Federal Rule of Civil Procedure 45 (c), (d), (e), and (g) (Effective 12/1/13)
+(c) Place of Compliance.
+  (1) For a Trial, Hearing, or Deposition. A subpoena may command a
+person to attend a trial, hearing, or deposition only as follows:
+    (A) within 100 miles of where the person resides, is employed, or
+regularly transacts business in person; or
+    (B) within the state where the person resides, is employed, or regularly
+transacts business in person, if the person
+        (i) is a party or a party’s officer; or
+        (ii) is commanded to attend a trial and would not incur substantial
+expense.
+  (2) For Other Discovery. A subpoena may command:
+    (A) production of documents, electronically stored information, or
+tangible things at a place within 100 miles of where the person resides, is
+employed, or regularly transacts business in person; and
+    (B) inspection of premises at the premises to be inspected.
+(d) Protecting a Person Subject to a Subpoena; Enforcement.
+  (1) Avoiding Undue Burden or Expense; Sanctions. A party or attorney
+responsible for issuing and serving a subpoena must take reasonable steps
+to avoid imposing undue burden or expense on a person subject to the
+subpoena. The court for the district where compliance is required must
+enforce this duty and impose an appropriate sanction—which may include
+lost earnings and reasonable attorney’s fees—on a party or attorney who
+fails to comply.
+  (2) Command to Produce Materials or Permit Inspection.
+    (A) Appearance Not Required. A person commanded to produce
+documents, electronically stored information, or tangible things, or to
+permit the inspection of premises, need not appear in person at the place of
+production or inspection unless also commanded to appear for a deposition,
+hearing, or trial.
+    (B) Objections. A person commanded to produce documents or tangible
+things or to permit inspection may serve on the party or attorney designated
+in the subpoena a written objection to inspecting, copying, testing, or
+sampling any or all of the materials or to inspecting the premises—or to
+producing electronically stored information in the form or forms requested.
+The objection must be served before the earlier of the time specified for
+compliance or 14 days after the subpoena is served. If an objection is made,
+the following rules apply:
+        (i) At any time, on notice to the commanded person, the serving party
+may move the court for the district where compliance is required for an
+order compelling production or inspection.
+        (ii) These acts may be required only as directed in the order, and the
+order must protect a person who is neither a party nor a party’s officer from
+significant expense resulting from compliance.
+  (3) Quashing or Modifying a Subpoena.
+    (A) When Required. On timely motion, the court for the district where
+compliance is required must quash or modify a subpoena that:
+        (i) fails to allow a reasonable time to comply;
+        (ii) requires a person to comply beyond the geographical limits
+specified in Rule 45(c);
+        (iii) requires disclosure of privileged or other protected matter, if no
+exception or waiver applies; or
+        (iv) subjects a person to undue burden.
+   (B) When Permitted. To protect a person subject to or affected by a
+subpoena, the court for the district where compliance is required may, on
+motion, quash or modify the subpoena if it requires:
+(i) disclosing a trade secret or other confidential research,
+development, or commercial information; or
+        (ii) disclosing an unretained expert’s opinion or information that does
+not describe specific occurrences in dispute and results from the expert’s
+study that was not requested by a party.
+    (C) Specifying Conditions as an Alternative. In the circumstances
+described in Rule 45(d)(3)(B), the court may, instead of quashing or
+modifying a subpoena, order appearance or production under specified
+conditions if the serving party:
+        (i) shows a substantial need for the testimony or material that cannot be
+otherwise met without undue hardship; and
+        (ii) ensures that the subpoenaed person will be reasonably compensated.
+(e) Duties in Responding to a Subpoena.
+  (1) Producing Documents or Electronically Stored Information. These
+procedures apply to producing documents or electronically stored
+information:
+    (A) Documents. A person responding to a subpoena to produce documents
+must produce them as they are kept in the ordinary course of business or
+must organize and label them to correspond to the categories in the demand.
+    (B) Form for Producing Electronically Stored Information Not Specified.
+If a subpoena does not specify a form for producing electronically stored
+information, the person responding must produce it in a form or forms in
+which it is ordinarily maintained or in a reasonably usable form or forms.
+    (C) Electronically Stored Information Produced in Only One Form. The
+person responding need not produce the same electronically stored
+information in more than one form.
+    (D) Inaccessible Electronically Stored Information. The person
+responding need not provide discovery of electronically stored information
+from sources that the person identifies as not reasonably accessible because
+of undue burden or cost. On motion to compel discovery or for a protective
+order, the person responding must show that the information is not
+reasonably accessible because of undue burden or cost. If that showing is
+made, the court may nonetheless order discovery from such sources if the
+requesting party shows good cause, considering the limitations of Rule
+26(b)(2)(C). The court may specify conditions for the discovery.
+(2) Claiming Privilege or Protection.
+  (A) Information Withheld. A person withholding subpoenaed information
+under a claim that it is privileged or subject to protection as trial-preparation
+material must:
+      (i) expressly make the claim; and
+      (ii) describe the nature of the withheld documents, communications, or
+tangible things in a manner that, without revealing information itself
+privileged or protected, will enable the parties to assess the claim.
+  (B) Information Produced. If information produced in response to a
+subpoena is subject to a claim of privilege or of protection as
+trial-preparation material, the person making the claim may notify any party
+that received the information of the claim and the basis for it. After being
+notified, a party must promptly return, sequester, or destroy the specified
+information and any copies it has; must not use or disclose the information
+until the claim is resolved; must take reasonable steps to retrieve the
+information if the party disclosed it before being notified; and may promptly
+present the information under seal to the court for the district where
+compliance is required for a determination of the claim. The person who
+produced the information must preserve the information until the claim is
+resolved.
+(g) Contempt.
+The court for the district where compliance is required—and also, after a
+motion is transferred, the issuing court—may hold in contempt a person
+who, having been served, fails without adequate excuse to obey the
+subpoena or an order related to it.
+For access to subpoena materials, see Fed. R. Civ. P. 45(a) Committee Note (2013).
+Case 4:26-cv-10423-HSG     Document 25-2     Filed 10/14/26     Page 3 of 5
+
+
+ATTACHMENT A 
+ 
+DEFINITIONS 
+1. 
+The instructions and requests below are subject to and incorporate the following 
+definitions and instructions, regardless of whether upper or lower case letters are used: 
+2. 
+“Document” shall be construed under the broadest possible construction under 
+Federal Rule of Civil Procedure 34 and Federal Rule of Evidence 1001, including all electronically 
+stored information.  
+3. 
+“Refer to,” “referring to,” “relate to,” “related to,” “relating to,” “regarding,” or 
+“concerning” means in whole or in part constituting, containing, contradicting, embodying, 
+commenting on, depicting, demonstrating, refuting, evidencing, representing, discussing, 
+reflecting, describing, analyzing, identifying, mentioning, stating, summarizing, bearing upon, 
+pertaining to, comprising, involving, alluding to, commenting on, referring directly or indirectly 
+to, dealing with, or in any way pertaining to.  
+4. 
+The terms “and” and “or” shall be construed either disjunctively or conjunctively 
+as necessary to bring within the scope of the discovery request all responses that might otherwise 
+be construed to be outside of its scope.  
+5. 
+The terms “any,” “all,” “every,” and “each” each means and includes the other.  
+6. 
+The singular form of any word shall be deemed to include the plural. The plural 
+form of any word shall be deemed to include the singular.  
+7. 
+The use of a verb in any tense shall be construed as the use of the verb in all other 
+tenses.  
+8. 
+“Include” and “including” mean including without limitation.  
+Case 4:26-cv-10423-HSG     Document 25-2     Filed 10/14/26     Page 4 of 5
+
+
+INSTRUCTIONS 
+1. 
+Produce all responsive Documents, electronically stored information, and Things 
+in Your possession, custody, or control, wherever located, in a manner in which they are 
+maintained. 
+2. 
+State, for each request, whether or not there exist any Documents within the scope 
+of the request and whether any such Documents are in Your possession, custody, or control. 
+3. 
+If any Document is withheld from production on the basis of privilege, immunity, 
+or any similar claim, please specify: (i) the date of the Document; (ii) the subject matter of the 
+Document; (iii) the type of Document (memorandum, pamphlet, report, etc.); (iv) such other 
+information as is sufficient to identify the Document, Including, where appropriate, the author, 
+addressee, and any other recipient of the Document, and where not apparent, the relationship of 
+the author, addressee, and any other recipient of each other; and (v) an explanation of the basis for 
+withholding the Document.  
+4. 
+If You object to the scope or breadth of any request, respond within the scope or 
+breadth of production You contend is proper and define the scope or breadth in which You have 
+responded.  
+REQUESTS FOR PRODUCTION 
+1. 
+All Documents relating to the identity or contact information for Reddit user 
+“voices38,” including but not limited to any identifying information such as names, identification 
+documents, email addresses, IP addresses, phone numbers, or business or residential addresses. 
+Case 4:26-cv-10423-HSG     Document 25-2     Filed 10/14/26     Page 5 of 5
+
+
+AO 88B  (Rev. 02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action
+UNITED STATES DISTRICT COURT
+for the
+__________ District of __________
+)
+)
+)
+)
+)
+)
+Plaintiff
+v.
+Civil Action No.
+Defendant
+SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
+OR TO PERMIT INSPECTION OF PREMISES IN A CIVIL ACTION 
+To:
+(Name of person to whom this subpoena is directed)
+’ Production: YOU ARE COMMANDED to produce at the time, date, and place set forth below the following 
+documents, electronically stored information, or objects, and to permit inspection, copying, testing, or sampling of the
+material:
+Place:
+Date and Time:
+’ Inspection of Premises: YOU ARE COMMANDED to permit entry onto the designated premises, land, or 
+other property possessed or controlled by you at the time, date, and location set forth below, so that the requesting party
+may inspect, measure, survey, photograph, test, or sample the property or any designated object or operation on it.
+Place:
+Date and Time:
+The following provisions of Fed. R. Civ. P. 45 are attached – Rule 45(c), relating to the place of compliance;
+Rule 45(d), relating to your protection as a person subject to a subpoena; and Rule 45(e) and (g), relating to your duty to
+respond to this subpoena and the potential consequences of not doing so.
+Date:
+CLERK OF COURT
+OR
+Signature of Clerk or Deputy Clerk
+Attorney’s signature
+The name, address, e-mail address, and telephone number of the attorney representing (name of party)
+, who issues or requests this subpoena, are:
+Notice to the person who issues or requests this subpoena
+If this subpoena commands the production of documents, electronically stored information, or tangible things or the
+inspection of premises before trial, a notice and a copy of the subpoena must be served on each party in this case before
+it is served on the person to whom it is directed. Fed. R. Civ. P. 45(a)(4).
+       Northern District of California
+HG Law, Donny Samporna, 111 N. Market St., Ste 900, San Jose, CA, donny.samporna@hglaw.com (669)213-1050
+Denuvo GmbH,
+Voices38 and Does 1-10,
+Valve Corporation c/o CT Corporation System 
+711 Capitol Way S, Ste 204, Olympia, WA  98501-1267
+✔
+ See Attachment A
+Seattle In-House Counsel Services 
+4331 NE 42nd St., Seattle, WA 98105
+11/03/2026 5:00 pm
+Denuvo GmbH
+4:26-cv-10423-HSG
+Case 4:26-cv-10423-HSG     Document 25-3     Filed 10/14/26     Page 1 of 6
+
+
+AO 88B  (Rev.  02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action (Page 2)
+Civil Action No.
+PROOF OF SERVICE
+(This section should not be filed with the court unless required by Fed. R. Civ. P. 45.)
+I received this subpoena for (name of individual and title, if any)
+on (date)
+.
+’ I served the subpoena by delivering a copy to the named person as follows:
+on (date)
+; or
+’ I returned the subpoena unexecuted because:
+.
+Unless the subpoena was issued on behalf of the United States, or one of its officers or agents, I have also 
+tendered to the witness the fees for one day’s attendance, and the mileage allowed by law, in the amount of
+$
+.
+My fees are $
+for travel and $
+for services, for a total of $
+.
+I declare under penalty of perjury that this information is true.
+Date:
+Server’s signature
+Printed name and title
+Server’s address
+Additional information regarding attempted service, etc.:
+4:26-cv-10423-HSG
+0.00
+Case 4:26-cv-10423-HSG     Document 25-3     Filed 10/14/26     Page 2 of 6
+
+
+AO 88B  (Rev.  02/14) Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises in a Civil Action(Page 3)
+Federal Rule of Civil Procedure 45 (c), (d), (e), and (g) (Effective 12/1/13)
+(c) Place of Compliance.
+  (1) For a Trial, Hearing, or Deposition. A subpoena may command a
+person to attend a trial, hearing, or deposition only as follows:
+    (A) within 100 miles of where the person resides, is employed, or
+regularly transacts business in person; or
+    (B) within the state where the person resides, is employed, or regularly
+transacts business in person, if the person
+        (i) is a party or a party’s officer; or
+        (ii) is commanded to attend a trial and would not incur substantial
+expense.
+  (2) For Other Discovery. A subpoena may command:
+    (A) production of documents, electronically stored information, or
+tangible things at a place within 100 miles of where the person resides, is
+employed, or regularly transacts business in person; and
+    (B) inspection of premises at the premises to be inspected.
+(d) Protecting a Person Subject to a Subpoena; Enforcement.
+  (1) Avoiding Undue Burden or Expense; Sanctions. A party or attorney
+responsible for issuing and serving a subpoena must take reasonable steps
+to avoid imposing undue burden or expense on a person subject to the
+subpoena. The court for the district where compliance is required must
+enforce this duty and impose an appropriate sanction—which may include
+lost earnings and reasonable attorney’s fees—on a party or attorney who
+fails to comply.
+  (2) Command to Produce Materials or Permit Inspection.
+    (A) Appearance Not Required. A person commanded to produce
+documents, electronically stored information, or tangible things, or to
+permit the inspection of premises, need not appear in person at the place of
+production or inspection unless also commanded to appear for a deposition,
+hearing, or trial.
+    (B) Objections. A person commanded to produce documents or tangible
+things or to permit inspection may serve on the party or attorney designated
+in the subpoena a written objection to inspecting, copying, testing, or
+sampling any or all of the materials or to inspecting the premises—or to
+producing electronically stored information in the form or forms requested.
+The objection must be served before the earlier of the time specified for
+compliance or 14 days after the subpoena is served. If an objection is made,
+the following rules apply:
+        (i) At any time, on notice to the commanded person, the serving party
+may move the court for the district where compliance is required for an
+order compelling production or inspection.
+        (ii) These acts may be required only as directed in the order, and the
+order must protect a person who is neither a party nor a party’s officer from
+significant expense resulting from compliance.
+  (3) Quashing or Modifying a Subpoena.
+    (A) When Required. On timely motion, the court for the district where
+compliance is required must quash or modify a subpoena that:
+        (i) fails to allow a reasonable time to comply;
+        (ii) requires a person to comply beyond the geographical limits
+specified in Rule 45(c);
+        (iii) requires disclosure of privileged or other protected matter, if no
+exception or waiver applies; or
+        (iv) subjects a person to undue burden.
+   (B) When Permitted. To protect a person subject to or affected by a
+subpoena, the court for the district where compliance is required may, on
+motion, quash or modify the subpoena if it requires:
+(i) disclosing a trade secret or other confidential research,
+development, or commercial information; or
+        (ii) disclosing an unretained expert’s opinion or information that does
+not describe specific occurrences in dispute and results from the expert’s
+study that was not requested by a party.
+    (C) Specifying Conditions as an Alternative. In the circumstances
+described in Rule 45(d)(3)(B), the court may, instead of quashing or
+modifying a subpoena, order appearance or production under specified
+conditions if the serving party:
+        (i) shows a substantial need for the testimony or material that cannot be
+otherwise met without undue hardship; and
+        (ii) ensures that the subpoenaed person will be reasonably compensated.
+(e) Duties in Responding to a Subpoena.
+  (1) Producing Documents or Electronically Stored Information. These
+procedures apply to producing documents or electronically stored
+information:
+    (A) Documents. A person responding to a subpoena to produce documents
+must produce them as they are kept in the ordinary course of business or
+must organize and label them to correspond to the categories in the demand.
+    (B) Form for Producing Electronically Stored Information Not Specified.
+If a subpoena does not specify a form for producing electronically stored
+information, the person responding must produce it in a form or forms in
+which it is ordinarily maintained or in a reasonably usable form or forms.
+    (C) Electronically Stored Information Produced in Only One Form. The
+person responding need not produce the same electronically stored
+information in more than one form.
+    (D) Inaccessible Electronically Stored Information. The person
+responding need not provide discovery of electronically stored information
+from sources that the person identifies as not reasonably accessible because
+of undue burden or cost. On motion to compel discovery or for a protective
+order, the person responding must show that the information is not
+reasonably accessible because of undue burden or cost. If that showing is
+made, the court may nonetheless order discovery from such sources if the
+requesting party shows good cause, considering the limitations of Rule
+26(b)(2)(C). The court may specify conditions for the discovery.
+(2) Claiming Privilege or Protection.
+  (A) Information Withheld. A person withholding subpoenaed information
+under a claim that it is privileged or subject to protection as trial-preparation
+material must:
+      (i) expressly make the claim; and
+      (ii) describe the nature of the withheld documents, communications, or
+tangible things in a manner that, without revealing information itself
+privileged or protected, will enable the parties to assess the claim.
+  (B) Information Produced. If information produced in response to a
+subpoena is subject to a claim of privilege or of protection as
+trial-preparation material, the person making the claim may notify any party
+that received the information of the claim and the basis for it. After being
+notified, a party must promptly return, sequester, or destroy the specified
+information and any copies it has; must not use or disclose the information
+until the claim is resolved; must take reasonable steps to retrieve the
+information if the party disclosed it before being notified; and may promptly
+present the information under seal to the court for the district where
+compliance is required for a determination of the claim. The person who
+produced the information must preserve the information until the claim is
+resolved.
+(g) Contempt.
+The court for the district where compliance is required—and also, after a
+motion is transferred, the issuing court—may hold in contempt a person
+who, having been served, fails without adequate excuse to obey the
+subpoena or an order related to it.
+For access to subpoena materials, see Fed. R. Civ. P. 45(a) Committee Note (2013).
+Case 4:26-cv-10423-HSG     Document 25-3     Filed 10/14/26     Page 3 of 6
+
+
+ATTACHMENT A 
+ 
+DEFINITIONS 
+1. 
+The instructions and requests below are subject to and incorporate the following 
+definitions and instructions, regardless of whether upper or lower case letters are used: 
+2. 
+“Document” shall be construed under the broadest possible construction under 
+Federal Rule of Civil Procedure 34 and Federal Rule of Evidence 1001, including all electronically 
+stored information.  
+3. 
+“Refer to,” “referring to,” “relate to,” “related to,” “relating to,” “regarding,” or 
+“concerning” means in whole or in part constituting, containing, contradicting, embodying, 
+commenting on, depicting, demonstrating, refuting, evidencing, representing, discussing, 
+reflecting, describing, analyzing, identifying, mentioning, stating, summarizing, bearing upon, 
+pertaining to, comprising, involving, alluding to, commenting on, referring directly or indirectly 
+to, dealing with, or in any way pertaining to.  
+4. 
+The terms “and” and “or” shall be construed either disjunctively or conjunctively 
+as necessary to bring within the scope of the discovery request all responses that might otherwise 
+be construed to be outside of its scope.  
+5. 
+The terms “any,” “all,” “every,” and “each” each means and includes the other.  
+6. 
+The singular form of any word shall be deemed to include the plural. The plural 
+form of any word shall be deemed to include the singular.  
+7. 
+The use of a verb in any tense shall be construed as the use of the verb in all other 
+tenses.  
+8. 
+“Include” and “including” mean including without limitation.  
+Case 4:26-cv-10423-HSG     Document 25-3     Filed 10/14/26     Page 4 of 6
+
+
+INSTRUCTIONS 
+1. 
+Produce all responsive Documents, electronically stored information, and Things 
+in Your possession, custody, or control, wherever located, in a manner in which they are 
+maintained. 
+2. 
+State, for each request, whether or not there exist any Documents within the scope 
+of the request and whether any such Documents are in Your possession, custody, or control. 
+3. 
+If any Document is withheld from production on the basis of privilege, immunity, 
+or any similar claim, please specify: (i) the date of the Document; (ii) the subject matter of the 
+Document; (iii) the type of Document (memorandum, pamphlet, report, etc.); (iv) such other 
+information as is sufficient to identify the Document, Including, where appropriate, the author, 
+addressee, and any other recipient of the Document, and where not apparent, the relationship of 
+the author, addressee, and any other recipient of each other; and (v) an explanation of the basis for 
+withholding the Document.  
+4. 
+If You object to the scope or breadth of any request, respond within the scope or 
+breadth of production You contend is proper and define the scope or breadth in which You have 
+responded.  
+REQUESTS FOR PRODUCTION 
+1. 
+All 
+Documents relating 
+to the 
+identity or contact information for 
+https://steamcommunity.com/profiles/76561199431115733, including but not limited to any 
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, or business or residential addresses. 
+2. 
+All 
+Documents relating 
+to the 
+identity or contact information for 
+https://steamcommunity.com/profiles/76561198779407957, including but not limited to any 
+Case 4:26-cv-10423-HSG     Document 25-3     Filed 10/14/26     Page 5 of 6
+
+
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, or business or residential addresses. 
+3. 
+All 
+Documents relating 
+to the 
+identity or contact information 
+for 
+https://steamcommunity.com/profiles/76561199886659362, including but not limited to any 
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, or business or residential addresses. 
+4. 
+All 
+Documents relating 
+to the 
+identity or contact information for 
+https://steamcommunity.com/profiles/76561199875355070, including but not limited to any 
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, or business or residential addresses. 
+5. 
+All 
+Documents relating 
+to the 
+identity or contact information 
+for 
+https://steamcommunity.com/profiles/76561199872834766, including but not limited to any 
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, or business or residential addresses. 
+6. 
+All 
+Documents relating 
+to the 
+identity or contact information 
+for 
+https://steamcommunity.com/profiles/76561198730942620, including but not limited to any 
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, or business or residential addresses. 
+7. 
+All 
+Documents relating 
+to the 
+identity or contact information 
+for 
+https://steamcommunity.com/profiles/76561198735927271, including but not limited to any 
+identifying information such as names, identification documents, email addresses, IP addresses, 
+phone numbers, or business or residential addresses. 
+Case 4:26-cv-10423-HSG     Document 25-3     Filed 10/14/26     Page 6 of 6

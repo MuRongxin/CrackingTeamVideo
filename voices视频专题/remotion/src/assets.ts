@@ -12,6 +12,8 @@ import inserts from "../film-insert-provenance.json";
 
 import act7 from "../act7-asset-provenance.json";
 import act8 from "../act8-asset-provenance.json";
+import act9 from "../act9-asset-provenance.json";
+import act10 from "../act10-asset-provenance.json";
 const versions = Object.fromEntries(
   [
     ...common,
@@ -26,6 +28,8 @@ const versions = Object.fromEntries(
     ...revision,
     ...act7,
     ...act8,
+    ...act9,
+    ...act10,
   ].map((asset) => [
     asset.path.split("/public/")[1],
     asset.sha256.slice(0, 12),

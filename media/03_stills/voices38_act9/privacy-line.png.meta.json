@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_privacy-line",
+  "task": "EX15",
+  "kind": "image",
+  "title": "COURT_DOC24 原件关键句特写",
+  "path": "media/03_stills/voices38_act9/privacy-line.png",
+  "derived_from": "media/01_sources/COURT_DOC24/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.24.0.pdf",
+  "author": "法院公开文件",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "page": 1,
+  "crop_pdf_points": [
+    296.7300109863281,
+    713.4840087890625,
+    494.3399963378906,
+    732.7680053710938
+  ],
+  "sha256": "6270bba1acb18a34836b5f5ff761beafef4a10f6609990d6d2bc9a95961060d4",
+  "bytes": 15968
+}

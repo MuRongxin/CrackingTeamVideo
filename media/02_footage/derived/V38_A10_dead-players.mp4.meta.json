@@ -1,0 +1,20 @@
+{
+  "id": "V38_A10_dead-players",
+  "task": "EX15",
+  "kind": "video",
+  "title": "尾声 / 死亡空间官方零重力与探索画面",
+  "path": "media/02_footage/derived/V38_A10_dead-players.mp4",
+  "derived_from": "media/02_footage/V38_A9_DEAD_official_1080p.mp4",
+  "selected_range_seconds": [
+    29,
+    36.3
+  ],
+  "source_page": "https://store.steampowered.com/app/1693980/",
+  "author": "Electronic Arts / Motive",
+  "rights": "原发布者所有，公开剪辑使用条件待确认",
+  "status": "exported",
+  "source_sha256": "8ec8a1eab167af537679eb7353f41357d5c6b5205fea365741cbe71f72328f8b",
+  "sha256": "111b52bcb4436b887e8e2fe4e9792a82f2b733868181d129f836ae8fc4ce37ea",
+  "bytes": 7050107,
+  "note": "原速静音，不循环；与前幕节选不重叠。为游戏作品画面，不是破解版本实测。"
+}

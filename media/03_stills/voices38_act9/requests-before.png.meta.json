@@ -1,0 +1,31 @@
+{
+  "id": "V38_A9_requests-before",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第九幕 V24 原网页局部",
+  "path": "media/03_stills/voices38_act9/requests-before.png",
+  "derived_from": "media/01_sources/V24/original.html",
+  "source_page": "https://torrentfreak.com/court-approves-voices38-subpoenas-after-denuvo-drops-payment-and-login-data-requests/",
+  "author": "TorrentFreak",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，仅补base地址；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 217,
+      "y": 1667.28125,
+      "width": 710.65625,
+      "height": 114.578125,
+      "scale": 1
+    },
+    "selector": "p",
+    "needle": "The proposed subpoena to Valve"
+  },
+  "sha256": "2c1ed1048aaf60dcb5d6bc2928d48732dd636c5fe2c7ad154313e020632b8241",
+  "bytes": 42654
+}

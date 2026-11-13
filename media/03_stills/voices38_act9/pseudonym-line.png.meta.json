@@ -1,0 +1,21 @@
+{
+  "id": "V38_A9_pseudonym-line",
+  "task": "EX15",
+  "kind": "image",
+  "title": "COURT_DOC25 原件关键句特写",
+  "path": "media/03_stills/voices38_act9/pseudonym-line.png",
+  "derived_from": "media/01_sources/COURT_DOC25/original.pdf",
+  "source_page": "https://storage.courtlistener.com/recap/gov.uscourts.cand.478929/gov.uscourts.cand.478929.25.0.pdf",
+  "author": "法院公开文件",
+  "rights": "公开法院案卷；沿用原件使用条件",
+  "status": "exported",
+  "page": 3,
+  "crop_pdf_points": [
+    123.64482879638672,
+    191.11831665039062,
+    282.00653076171875,
+    209.11831665039062
+  ],
+  "sha256": "8ef1c5a7917bd0837e00f062ad4be2d7a06893a852b6b797f67db7280017d36d",
+  "bytes": 14226
+}

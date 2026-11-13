@@ -1,0 +1,20 @@
+{
+  "id": "V38_A9_onimusha-release",
+  "task": "EX15",
+  "kind": "video",
+  "title": "第九幕 / onimusha-release",
+  "path": "media/02_footage/derived/V38_A9_onimusha-release.mp4",
+  "derived_from": "media/02_footage/V38_A9_ONIMUSHA_official_1080p.mp4",
+  "source_page": "https://store.steampowered.com/app/2638890/",
+  "author": "Capcom",
+  "rights": "原发布者所有，公开剪辑使用条件待确认",
+  "status": "exported",
+  "selected_range_seconds": [
+    100,
+    114
+  ],
+  "source_sha256": "60d87941ea7dcd4daefdb5cec50b5288f074d2f9c6896c3fd376c4d9b5706564",
+  "sha256": "1110209084b278686d9e168ed611c7851e77f14ecab13ca2a599b9cfc0622ccd",
+  "bytes": 30343085,
+  "note": "官方游戏画面，原速静音，不循环；非破解或修复效果实测"
+}

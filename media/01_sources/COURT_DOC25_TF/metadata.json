@@ -1,0 +1,13 @@
+{
+  "id": "COURT_DOC25_TF",
+  "source_url": "https://torrentfreak.com/images/denuvo-voices-revised.pdf",
+  "source_page": "https://torrentfreak.com/",
+  "status": "downloaded",
+  "retrieved_at": "2026-11-13T10:09:53.957745+00:00",
+  "rights": "法院公开文件，公开剪辑使用条件待确认",
+  "note": "TorrentFreak 镜像含附件；法院原始存档保留于 COURT_DOC25。",
+  "http_status": 200,
+  "path": "media/01_sources/COURT_DOC25_TF/original.pdf",
+  "bytes": 649662,
+  "sha256": "4dcbf95386f8010e8d6bd1fb6c4e7f0cc517a27e4252608c3237cb46ebfaf3fe"
+}

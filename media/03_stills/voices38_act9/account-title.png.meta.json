@@ -1,0 +1,31 @@
+{
+  "id": "V38_A9_account-title",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第九幕 V25 原网页局部",
+  "path": "media/03_stills/voices38_act9/account-title.png",
+  "derived_from": "media/01_sources/V25/original.html",
+  "source_page": "https://gbatemp.net/threads/voices38-no-longer-has-an-account-on-reddit.685650/",
+  "author": "GBAtemp",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，补base地址并禁用网页脚本以阻止跳转；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 0,
+      "y": 5375.171875,
+      "width": 389.578125,
+      "height": 38,
+      "scale": 1
+    },
+    "selector": "h1",
+    "needle": "Voices38 no longer"
+  },
+  "sha256": "064f9b3800e5b01c4eb73bbc9b69946e99195a75674f692aff118bfe801981bf",
+  "bytes": 10026
+}

@@ -1,0 +1,14 @@
+{
+  "id": "V38_A10_SCORE",
+  "task": "AU15",
+  "kind": "audio",
+  "title": "尾声原创稀疏配乐",
+  "path": "media/05_audio/original/V38_A10_epilogue.wav",
+  "derived_from": "voices视频专题/remotion/scripts/make-act10-score.py",
+  "author": "本项目原创合成",
+  "rights": "本项目原创，无外部采样",
+  "status": "exported",
+  "sha256": "0abbef629ac5ae6a50a28b46d4bcab320c92f5fc8116901c8a701c58ba806ae6",
+  "bytes": 3666444,
+  "note": "正弦音与少量泛音合成，无打击节拍；第八镜末尾前已退静，最后一句无音乐。"
+}

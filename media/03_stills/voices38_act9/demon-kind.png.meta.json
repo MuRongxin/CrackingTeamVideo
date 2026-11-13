@@ -1,0 +1,20 @@
+{
+  "id": "V38_A9_demon-kind",
+  "task": "EX15",
+  "kind": "image",
+  "title": "V27 原NFO名称／KIND字段",
+  "path": "media/03_stills/voices38_act9/demon-kind.png",
+  "derived_from": "media/03_stills/source_images/V27_nfo.png",
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1x969x3/demonslayerkimetsunoyaibathehinokamichroniclesvoic/",
+  "author": "voices38",
+  "rights": "公开帖子链接的 NFO 图；公开使用授权待确认",
+  "status": "exported",
+  "crop_pixels": [
+    55,
+    287,
+    545,
+    300
+  ],
+  "sha256": "a1fc8cdf547e381dfc9791ddb8681a366acad212d7eba01a87390f2ca20793c3",
+  "bytes": 411
+}

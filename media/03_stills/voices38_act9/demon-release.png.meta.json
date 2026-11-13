@@ -1,0 +1,20 @@
+{
+  "id": "V38_A9_demon-release",
+  "task": "EX15",
+  "kind": "image",
+  "title": "V27 原NFO名称／KIND字段",
+  "path": "media/03_stills/voices38_act9/demon-release.png",
+  "derived_from": "media/03_stills/source_images/V27_nfo.png",
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1x969x3/demonslayerkimetsunoyaibathehinokamichroniclesvoic/",
+  "author": "voices38",
+  "rights": "公开帖子链接的 NFO 图；公开使用授权待确认",
+  "status": "exported",
+  "crop_pixels": [
+    55,
+    224,
+    625,
+    253
+  ],
+  "sha256": "bef5d14787ae5ac13af2896732e8f13d2126a511255f25a6bfee21643b532151",
+  "bytes": 1246
+}
