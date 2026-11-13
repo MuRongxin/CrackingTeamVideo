@@ -1,0 +1,21 @@
+{
+  "id": "V38_REV_SELECT_reunion-day",
+  "kind": "video",
+  "task": "EX15",
+  "status": "exported",
+  "title": "reunion-day / 审片重剪",
+  "path": "media/02_footage/derived/V38_REV_reunion-day.mp4",
+  "derived_from": "media/02_footage/V38_REV_REUNION_official_1080p.mp4",
+  "source_sha256": "d34ca5e34c6cbbf9cee001047ce5a86b93f7008c3159d14dd49f05c28f90fea8",
+  "selected_range_seconds": [
+    30,
+    36
+  ],
+  "edit_usage": "A6-03",
+  "source_page": "https://store.steampowered.com/app/2624870/",
+  "author": "Deck Nine Games / Square Enix",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "sha256": "55bc6821fed0d18d202b2ea682b9abd04e0aa4cc1c2915b82b88e48f2ba029f0",
+  "bytes": 3516156,
+  "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "V38_A7_RAZOR_MARK",
+  "task": "EX15",
+  "kind": "image",
+  "title": "JeD / ACiD 原始 Razor 1911 ASCII 字标矢量重排",
+  "path": "media/03_stills/voices38_act7/razor-jed.png",
+  "derived_from": "media/01_sources/V38_A7_RAZOR_MARK/reconstructed.svg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Razor1911_JEDACID_HQ.svg",
+  "author": "JeD / ACiD",
+  "rights": "Commons 文件页许可 Attribution；允许再分发、改编、商业用途，需署名 JeD / ACiD。",
+  "status": "exported",
+  "sha256": "920006d4c5825c1653af96640818bea674bdee7ec3a56749181d4ac66ef396e3",
+  "bytes": 12142,
+  "note": "按Commons文件页原ASCII逐格矢量重排，再输出透明PNG；不是下载到的Commons SVG或xREL渲染图。",
+  "ascii_source": "media/01_sources/V38_A7_RAZOR_MARK/original.txt"
+}

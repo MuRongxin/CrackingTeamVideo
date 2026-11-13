@@ -1,0 +1,262 @@
+[
+  {
+    "id": "V38_A7_techspot-title",
+    "task": "EX15",
+    "kind": "image",
+    "title": "第七幕 V11 原网页局部",
+    "path": "voices视频专题/remotion/public/v38/act7/techspot-title.png",
+    "derived_from": "media/01_sources/V11/original.html",
+    "source_page": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html",
+    "author": "TechSpot / Alfonso Maruccia",
+    "rights": "待确认；公开访问不等于获得视频使用许可",
+    "status": "exported",
+    "capture": {
+      "mode": "原始HTML存档渲染，仅补base地址以加载原站样式；正文未改写",
+      "viewport": [
+        1440,
+        1200
+      ],
+      "deviceScaleFactor": 2,
+      "clip": {
+        "x": 112,
+        "y": 270,
+        "width": 1064,
+        "height": 123.3125,
+        "scale": 1
+      },
+      "selector": "h1",
+      "needle": "Denuvo removed"
+    },
+    "sha256": "46de5b0860b3f1cec60f22b2b43079492ab49c9ec29fb434dbd5e5157c9bc92f",
+    "bytes": 55628,
+    "ledger_path": "media/03_stills/voices38_act7/techspot-title.png"
+  },
+  {
+    "id": "V38_A7_toms-performance",
+    "task": "EX15",
+    "kind": "image",
+    "title": "第七幕 V12 原网页局部",
+    "path": "voices视频专题/remotion/public/v38/act7/toms-performance.png",
+    "derived_from": "media/01_sources/V12/original.html",
+    "source_page": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-properly-cracked-in-resident-evil-requiem-bypasses-become-plug-and-play-cracked-version-runs-faster-smoother-and-uses-way-less-vram-and-ram",
+    "author": "Tom’s Hardware / Bruno Ferreira",
+    "rights": "待确认；公开访问不等于获得视频使用许可",
+    "status": "exported",
+    "capture": {
+      "mode": "原始HTML存档渲染，仅补base地址以加载原站样式；正文未改写",
+      "viewport": [
+        1440,
+        1200
+      ],
+      "deviceScaleFactor": 2,
+      "clip": {
+        "x": 251,
+        "y": 3116.234375,
+        "width": 618,
+        "height": 160,
+        "scale": 1
+      },
+      "selector": "p",
+      "needle": "a shocking"
+    },
+    "sha256": "6633106c3d68bb4eb26dff2bfba256b61fa469e4631e7b651c2e61ff3a017c05",
+    "bytes": 85141,
+    "ledger_path": "media/03_stills/voices38_act7/toms-performance.png"
+  },
+  {
+    "id": "V38_A7_kirigiri-technical",
+    "task": "EX15",
+    "kind": "image",
+    "title": "第七幕 V13 原网页局部",
+    "path": "voices视频专题/remotion/public/v38/act7/kirigiri-technical.png",
+    "derived_from": "media/01_sources/V13/original.html",
+    "source_page": "https://www.gamersky.com/news/202604/2122429.shtml",
+    "author": "游民星空 / 风歌HS",
+    "rights": "待确认；公开访问不等于获得视频使用许可",
+    "status": "exported",
+    "capture": {
+      "mode": "原始HTML存档渲染，仅补base地址以加载原站样式；正文未改写",
+      "viewport": [
+        1440,
+        1200
+      ],
+      "deviceScaleFactor": 2,
+      "clip": {
+        "x": 237,
+        "y": 1636,
+        "width": 636,
+        "height": 128,
+        "scale": 1
+      },
+      "selector": ".Mid2L_con p",
+      "needle": "针对部分用户"
+    },
+    "sha256": "a824905f2b22c7381a0e858600426a42a3df7a702fe96f8e6e95f319c4714718",
+    "bytes": 87176,
+    "ledger_path": "media/03_stills/voices38_act7/kirigiri-technical.png"
+  },
+  {
+    "id": "V38_A7_RAZOR_MARK",
+    "task": "EX15",
+    "kind": "image",
+    "title": "JeD / ACiD 原始 Razor 1911 ASCII 字标矢量重排",
+    "path": "voices视频专题/remotion/public/v38/act7/razor-jed.png",
+    "derived_from": "media/01_sources/V38_A7_RAZOR_MARK/reconstructed.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Razor1911_JEDACID_HQ.svg",
+    "author": "JeD / ACiD",
+    "rights": "Commons 文件页许可 Attribution；允许再分发、改编、商业用途，需署名 JeD / ACiD。",
+    "status": "exported",
+    "sha256": "920006d4c5825c1653af96640818bea674bdee7ec3a56749181d4ac66ef396e3",
+    "bytes": 12142,
+    "note": "按Commons文件页原ASCII逐格矢量重排，再输出透明PNG；不是下载到的Commons SVG或xREL渲染图。",
+    "ascii_source": "media/01_sources/V38_A7_RAZOR_MARK/original.txt",
+    "ledger_path": "media/03_stills/voices38_act7/razor-jed.png"
+  },
+  {
+    "id": "V38_A7_EMPRESS_CHANNEL",
+    "kind": "image",
+    "task": "EX15",
+    "title": "EMPRESS 官方频道署名与头像局部",
+    "path": "voices视频专题/remotion/public/v38/act7/empress-channel.png",
+    "derived_from": "media/03_stills/voices38_act2/empress-announcement.png",
+    "source_page": "https://t.me/EmpressRevolution/201",
+    "author": "EMPRESS",
+    "rights": "频道公开发布，公开剪辑使用条件待确认",
+    "status": "exported",
+    "crop_pixels": [
+      10,
+      10,
+      900,
+      102
+    ],
+    "sha256": "9b7ec563c10e5cfb9aacb654f6ce66661774586f3f21499477ccf0a39eb69460",
+    "bytes": 20266,
+    "ledger_path": "media/03_stills/voices38_act7/empress-channel.png"
+  },
+  {
+    "id": "V38_A7_requiem-question",
+    "kind": "video",
+    "task": "EX15",
+    "title": "第七幕 / requiem-question",
+    "path": "voices视频专题/remotion/public/v38/act7/requiem-question.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "status": "exported",
+    "selected_range_seconds": [
+      8.0,
+      14.1
+    ],
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "sha256": "95beec5272911f64b90d76423832c3a8113e383a6ced36de1e17f74cb0f3ea03",
+    "bytes": 3025230,
+    "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
+    "ledger_path": "media/02_footage/derived/V38_A7_requiem-question.mp4"
+  },
+  {
+    "id": "V38_A7_requiem-clock",
+    "kind": "video",
+    "task": "EX15",
+    "title": "第七幕 / requiem-clock",
+    "path": "voices视频专题/remotion/public/v38/act7/requiem-clock.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "status": "exported",
+    "selected_range_seconds": [
+      94,
+      105
+    ],
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "sha256": "c08912a65f6c8f6fbc8b70bc4b08154247a3805750da51d32d8c41859205afdc",
+    "bytes": 9244127,
+    "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
+    "ledger_path": "media/02_footage/derived/V38_A7_requiem-clock.mp4"
+  },
+  {
+    "id": "V38_A7_requiem-review",
+    "kind": "video",
+    "task": "EX15",
+    "title": "第七幕 / requiem-review",
+    "path": "voices视频专题/remotion/public/v38/act7/requiem-review.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "status": "exported",
+    "selected_range_seconds": [
+      185,
+      198
+    ],
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "sha256": "764ad313cff99b8e9e8187af9b65531da39f5e6d906624aa291a6d0388d9c485",
+    "bytes": 10224113,
+    "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
+    "ledger_path": "media/02_footage/derived/V38_A7_requiem-review.mp4"
+  },
+  {
+    "id": "V38_A7_requiem-mechanism",
+    "kind": "video",
+    "task": "EX15",
+    "title": "第七幕 / requiem-mechanism",
+    "path": "voices视频专题/remotion/public/v38/act7/requiem-mechanism.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "status": "exported",
+    "selected_range_seconds": [
+      28,
+      44.5
+    ],
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "sha256": "56925eeffd2edc286332d580cb9af6ca98c46cf1dac3a0fc1fc0b20a79eb1c26",
+    "bytes": 9195099,
+    "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
+    "ledger_path": "media/02_footage/derived/V38_A7_requiem-mechanism.mp4"
+  },
+  {
+    "id": "V38_A7_mafia-report",
+    "kind": "video",
+    "task": "EX15",
+    "title": "第七幕 / mafia-report",
+    "path": "voices视频专题/remotion/public/v38/act7/mafia-report.mp4",
+    "derived_from": "media/02_footage/V38_A7_MAFIA_launch_1080p.mp4",
+    "source_page": "https://store.steampowered.com/app/1941540/",
+    "author": "Hangar 13 / 2K",
+    "rights": "官方宣传片，公开剪辑使用条件待确认",
+    "status": "exported",
+    "selected_range_seconds": [
+      55,
+      70.8
+    ],
+    "source_sha256": "5f7b613d422152033f430a32097be667e365535103b45bfd5d96edbd0e23b66e",
+    "sha256": "d17b1797b975b50ebc37431e0cc4ec8e89bae6ce18b85a9f01c604e4de73d969",
+    "bytes": 18815629,
+    "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
+    "ledger_path": "media/02_footage/derived/V38_A7_mafia-report.mp4"
+  },
+  {
+    "id": "V38_A7_half-life",
+    "kind": "video",
+    "task": "EX15",
+    "title": "第七幕 / half-life",
+    "path": "voices视频专题/remotion/public/v38/act7/half-life.mp4",
+    "derived_from": "media/02_footage/V38_A7_HALFLIFE_official_montage.mp4",
+    "source_page": "https://www.half-life.com/en/halflife25",
+    "author": "Valve",
+    "rights": "官方周年网页素材；公开使用条件待确认",
+    "status": "exported",
+    "selected_range_seconds": [
+      18.5,
+      29.9
+    ],
+    "source_sha256": "3ae217b122c1d6962212576cd1269f31c3a7c593962e40ff37740cb1e6d08611",
+    "sha256": "4e87bed6454ada2475835c1feab604a99d636b856935eb3437a40fa479abdce1",
+    "bytes": 2347277,
+    "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测",
+    "ledger_path": "media/02_footage/derived/V38_A7_half-life.mp4"
+  }
+]

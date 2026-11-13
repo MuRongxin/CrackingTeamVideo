@@ -1,0 +1,395 @@
+[
+  {
+    "id": "V38_REV_SELECT_pragmata-new",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "pragmata-new / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/pragmata-new.mp4",
+    "derived_from": "media/02_footage/V38_PRAGMATA_user_IGN_1080p.mp4",
+    "source_sha256": "042a6d9cf233957d322554380c228ab816c9e322ede307c06391bf86b2e10542",
+    "selected_range_seconds": [
+      5.5,
+      14.5
+    ],
+    "edit_usage": "A5-01",
+    "source_page": "",
+    "author": "CAPCOM（作品）；本地文件名标注 IGN 转载",
+    "rights": "用户提供的宣传片转载文件；未附原网页地址，公开使用条件待确认",
+    "sha256": "07019cad5e41ed5e89f1352945ab1ff281a96658eb9b901bfb253543078bffcd",
+    "bytes": 8479681,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_pragmata-new.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_routes",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "routes / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/routes.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "selected_range_seconds": [
+      154,
+      160.6
+    ],
+    "edit_usage": "A6-01",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "edefdf00b8c730e969432bf36b29c00a4b3115a0644bd5aec2a9fc3a51c6eb79",
+    "bytes": 4722270,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_routes.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_layer-game",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "layer-game / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/layer-game.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "selected_range_seconds": [
+      79,
+      92
+    ],
+    "edit_usage": "A6-02",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "920468eddf6dbb7333a8f6c5e48908ce7a764b728a6449ae1f6d46e2c5676192",
+    "bytes": 5300517,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_layer-game.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_requiem-day",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "requiem-day / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/requiem-day.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "selected_range_seconds": [
+      144,
+      152
+    ],
+    "edit_usage": "A6-03",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "bc8dde3e02aa9ca7493eb149194428501f179e2eb8f9ed700ebd055c04899768",
+    "bytes": 5339633,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_requiem-day.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_crimson-day",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "crimson-day / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/crimson-day.mp4",
+    "derived_from": "media/02_footage/V38_REV_CRIMSON_official_1080p.mp4",
+    "source_sha256": "967987692895857d7c206781c46b2ee013002e11e3a6d5c53ef121fab6c3a680",
+    "selected_range_seconds": [
+      13.1,
+      16.3
+    ],
+    "edit_usage": "A6-03",
+    "source_page": "https://store.steampowered.com/app/3321460/",
+    "author": "Pearl Abyss / Pearl Abyss",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "2c12f8271959d7cca363f9b13295749098c984731731873477f186105056f1a7",
+    "bytes": 5450839,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_crimson-day.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_reunion-day",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "reunion-day / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/reunion-day.mp4",
+    "derived_from": "media/02_footage/V38_REV_REUNION_official_1080p.mp4",
+    "source_sha256": "d34ca5e34c6cbbf9cee001047ce5a86b93f7008c3159d14dd49f05c28f90fea8",
+    "selected_range_seconds": [
+      30,
+      36
+    ],
+    "edit_usage": "A6-03",
+    "source_page": "https://store.steampowered.com/app/2624870/",
+    "author": "Deck Nine Games / Square Enix",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "55bc6821fed0d18d202b2ea682b9abd04e0aa4cc1c2915b82b88e48f2ba029f0",
+    "bytes": 3516156,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_reunion-day.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_system",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "system / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/system.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "selected_range_seconds": [
+      170,
+      178.5
+    ],
+    "edit_usage": "A6-04",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "ae9a00baade1fd3f43cc9a17be145f5bcba2ea429e5845581ec5f4308d6ae0a2",
+    "bytes": 7931358,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_system.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_oldschool",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "oldschool / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/oldschool.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "selected_range_seconds": [
+      116,
+      127.2
+    ],
+    "edit_usage": "A6-05",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "e1a32f44fcc510d783c687d7f19d83ead5fe81a781ebb2e4cece2ac8bf70132a",
+    "bytes": 7009835,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_oldschool.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_wukong-encounter",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "wukong-encounter / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/wukong-encounter.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      27.4,
+      41.5
+    ],
+    "edit_usage": "A6-06",
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "19100b696f37a5ffd556b4e8235c5432ca0b59a255745ea3ebf77182745f2d9a",
+    "bytes": 22892932,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_wukong-encounter.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_wukong-denial",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "wukong-denial / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/wukong-denial.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      60.8,
+      72.5
+    ],
+    "edit_usage": "A6-07",
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "0e83f36444267171210d7f49af2c6d22a134cf3800d79a95ba40456f76351e0e",
+    "bytes": 15476079,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_wukong-denial.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_wukong-compatibility",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "wukong-compatibility / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/wukong-compatibility.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      75,
+      83.5
+    ],
+    "edit_usage": "A6-08 first 8.5s",
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "08b570ad47ed115c70b46c798ffd977ae3dcbe373e2ade1ebac0b35ce4885149",
+    "bytes": 14722096,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_wukong-compatibility.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_wukong-title",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "wukong-title / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/wukong-title.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      42.5,
+      50.8
+    ],
+    "edit_usage": "A6-10 from 3.5s",
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "2d37fdea065e76f6cc12ddaf53e3e2a103c9a109baf004cf6390a847a0a14aff",
+    "bytes": 14012946,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_wukong-title.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_requiem-interval",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "requiem-interval / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/requiem-interval.mp4",
+    "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+    "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+    "selected_range_seconds": [
+      132.5,
+      143.3
+    ],
+    "edit_usage": "A6-11 left",
+    "source_page": "https://store.steampowered.com/app/3764200/",
+    "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "6625f68ed9c71eb8bbf30133ffc193ca559e5e36c2d9e5360dfee9f0400ebff5",
+    "bytes": 6434927,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_requiem-interval.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_wukong-interval",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "wukong-interval / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/wukong-interval.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      53.5,
+      60.8
+    ],
+    "edit_usage": "A6-11 from 3.5s right",
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "edbe88d0f8e61349c8bab26f208890a5d5c021fdd3a4fe5921c5a9389fd62d8a",
+    "bytes": 12400643,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_wukong-interval.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_wukong-play",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "wukong-play / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/wukong-play.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      13.4,
+      21.5
+    ],
+    "edit_usage": "A6-14",
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "sha256": "086796423c455463188c5b9ae602ee193e8ad5d632e4b519562a1de02ae0167e",
+    "bytes": 7812260,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_wukong-play.mp4"
+  },
+  {
+    "id": "V38_REV_SELECT_tiger-full",
+    "kind": "video",
+    "task": "EX15",
+    "status": "exported",
+    "title": "tiger-full / 审片重剪",
+    "path": "voices视频专题/remotion/public/v38/revision/tiger-full.mp4",
+    "derived_from": "media/02_footage/V38_TIGER_BILI_BV1Vr4y1o7i4_230-265_480p.mp4",
+    "source_sha256": "7a73ca9e77ad4e6b7b1f5e7843b812a8ecdbb038acfb39de2a75c2e5c2ebe0c4",
+    "selected_range_seconds": [
+      16.5,
+      30.3
+    ],
+    "edit_usage": "A6-09; original source 246.5–260.3s",
+    "source_page": "https://www.bilibili.com/video/BV1Vr4y1o7i4/",
+    "author": "大胖頭",
+    "rights": "B站上传者 大胖頭；游戏作品 Game Science。公开视频节选仅用于内部剪辑研究，公开使用授权未取得。",
+    "sha256": "05211f5ef365053aa040cc3a4e10e19fcc353ff1c43d1ea460031284337d1d20",
+    "bytes": 2955632,
+    "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。",
+    "ledger_path": "media/02_footage/derived/V38_REV_tiger-full.mp4"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/revision/denuvowo.png",
+    "derived_from": "media/03_stills/voices38_act6/denuvowo-original.png",
+    "status": "copied",
+    "sha256": "248313d0f9e7177ed8e25baf54979f999290136a6c9df07417221e8677e7e045"
+  },
+  {
+    "path": "voices视频专题/remotion/public/v38/revision/voices38-nfo.png",
+    "derived_from": "media/03_stills/source_images/V18_nfo.png",
+    "status": "copied",
+    "sha256": "e6014e13e1c9b50e98002ea0865f97464a3174e457f2a0290c9853080a29b335"
+  },
+  {
+    "id": "V38_A6_V13_PARAGRAPH",
+    "kind": "image",
+    "task": "EX16",
+    "status": "exported",
+    "title": "V13 报道 KiriGiri 回应段落 / 实际页面截图",
+    "path": "voices视频专题/remotion/public/v38/revision/v13-quote.png",
+    "derived_from": "media/01_sources/V13/original.html",
+    "source_page": "https://www.gamersky.com/news/202604/2122429.shtml",
+    "author": "游民星空 / 风歌HS",
+    "rights": "报道段落截图，用于注明和评论其说法；公开使用条件待确认",
+    "capture": {
+      "viewport": [
+        1440,
+        1200
+      ],
+      "device_scale_factor": 2,
+      "clip": {
+        "x": 235,
+        "y": 1120,
+        "width": 640,
+        "height": 156
+      },
+      "note": "浏览器实际页面段落，非仿制网页、非 Discord 原始对话"
+    },
+    "sha256": "d3e61eb90f8576b2d155a3a497470ddcfdbbb0be6e2ec2171fd203b3af9177e8",
+    "bytes": 87128,
+    "ledger_path": "media/03_stills/voices38_act6/v13-quote-capture.png"
+  }
+]

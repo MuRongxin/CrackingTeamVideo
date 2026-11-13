@@ -1,0 +1,31 @@
+{
+  "id": "V38_A7_toms-performance",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第七幕 V12 原网页局部",
+  "path": "media/03_stills/voices38_act7/toms-performance.png",
+  "derived_from": "media/01_sources/V12/original.html",
+  "source_page": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-properly-cracked-in-resident-evil-requiem-bypasses-become-plug-and-play-cracked-version-runs-faster-smoother-and-uses-way-less-vram-and-ram",
+  "author": "Tom’s Hardware / Bruno Ferreira",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，仅补base地址以加载原站样式；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 251,
+      "y": 3116.234375,
+      "width": 618,
+      "height": 160,
+      "scale": 1
+    },
+    "selector": "p",
+    "needle": "a shocking"
+  },
+  "sha256": "6633106c3d68bb4eb26dff2bfba256b61fa469e4631e7b651c2e61ff3a017c05",
+  "bytes": 85141
+}

@@ -1,0 +1,16 @@
+{
+  "id": "V38_A7_HALFLIFE",
+  "kind": "video",
+  "task": "EX15",
+  "title": "Half-Life 25周年官网原版游戏蒙太奇",
+  "path": "media/02_footage/V38_A7_HALFLIFE_official_montage.mp4",
+  "url": "https://cdn.akamai.steamstatic.com/half-life.com/images/halflife25/hl1_anniversary_mashup_looping_H.264.mp4",
+  "source_page": "https://www.half-life.com/en/halflife25",
+  "author": "Valve",
+  "rights": "官方周年网页素材；公开使用条件待确认",
+  "status": "downloaded",
+  "retrieved_at": "2026-11-13T04:02:15.700561+00:00",
+  "sha256": "3ae217b122c1d6962212576cd1269f31c3a7c593962e40ff37740cb1e6d08611",
+  "bytes": 3922264,
+  "note": "2023周年网页上的初代游戏画面，不是1998发行版本的运行证明"
+}

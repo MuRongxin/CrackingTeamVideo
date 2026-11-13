@@ -1,0 +1,21 @@
+{
+  "id": "V38_REV_SELECT_routes",
+  "kind": "video",
+  "task": "EX15",
+  "status": "exported",
+  "title": "routes / 审片重剪",
+  "path": "media/02_footage/derived/V38_REV_routes.mp4",
+  "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+  "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+  "selected_range_seconds": [
+    154,
+    160.6
+  ],
+  "edit_usage": "A6-01",
+  "source_page": "https://store.steampowered.com/app/3764200/",
+  "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "sha256": "edefdf00b8c730e969432bf36b29c00a4b3115a0644bd5aec2a9fc3a51c6eb79",
+  "bytes": 4722270,
+  "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。"
+}

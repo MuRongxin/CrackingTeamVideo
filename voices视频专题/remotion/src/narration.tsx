@@ -8,15 +8,35 @@ import act1Captions from "./captions.json";
 import firstVoices from "./voice-manifest.json";
 import secondVoices from "./act2/voice-manifest.json";
 import thirdVoices from "./act3/voice-manifest.json";
+import fourthVoices from "./act4/voice-manifest.json";
+import fifthVoices from "./act5/voice-manifest.json";
+import sixthVoices from "./act6/voice-manifest.json";
+import seventhVoices from "./act7/voice-manifest.json";
+import act7Captions from "./act7/captions.json";
 const recordingById = Object.fromEntries(
-  [...firstVoices, ...secondVoices, ...thirdVoices].map((v) => [v.id, v]),
+  [
+    ...firstVoices,
+    ...secondVoices,
+    ...thirdVoices,
+    ...fourthVoices,
+    ...fifthVoices,
+    ...sixthVoices,
+    ...seventhVoices,
+  ].map((v) => [v.id, v]),
 );
 import act2Captions from "./act2/captions.json";
 import act3Captions from "./act3/captions.json";
+import act4Captions from "./act4/captions.json";
+import act5Captions from "./act5/captions.json";
+import act6Captions from "./act6/captions.json";
 const captions: Record<string, Caption[]> = {
   ...act1Captions,
   ...act2Captions,
   ...act3Captions,
+  ...act4Captions,
+  ...act5Captions,
+  ...act6Captions,
+  ...act7Captions,
 };
 
 export const Subtitle = ({

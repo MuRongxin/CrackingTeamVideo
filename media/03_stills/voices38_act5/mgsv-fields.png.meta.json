@@ -1,0 +1,21 @@
+{
+  "id": "V38_A5_MGSV_FIELDS",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第五幕 合金装备5 NFO 原始字段",
+  "path": "media/03_stills/voices38_act5/mgsv-fields.png",
+  "derived_from": "media/03_stills/source_images/V19_nfo.png",
+  "source_page": "https://archive.vn/2026.09.06-225428/https%3A/www.reddit.com/r/CrackWatch/comments/1w8ay2h/metalgearsolidvcompletevoices38/",
+  "author": "发行署名 voices38",
+  "rights": "公开帖子链接的 NFO 图；公开使用授权待确认",
+  "status": "exported",
+  "crop_pixels": [
+    56,
+    223,
+    601,
+    316
+  ],
+  "source_sha256": "f634b94ae958a5157c06a5001746304c3e3b66d393d7d803c9ca90fd2b85f5c7",
+  "sha256": "bebd546a2627918b7830874ee78c4e53b6d011a2e7e178ba9ba7f04652696496",
+  "bytes": 3239
+}

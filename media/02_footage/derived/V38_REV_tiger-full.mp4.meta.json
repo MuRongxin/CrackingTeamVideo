@@ -1,0 +1,21 @@
+{
+  "id": "V38_REV_SELECT_tiger-full",
+  "kind": "video",
+  "task": "EX15",
+  "status": "exported",
+  "title": "tiger-full / 审片重剪",
+  "path": "media/02_footage/derived/V38_REV_tiger-full.mp4",
+  "derived_from": "media/02_footage/V38_TIGER_BILI_BV1Vr4y1o7i4_230-265_480p.mp4",
+  "source_sha256": "7a73ca9e77ad4e6b7b1f5e7843b812a8ecdbb038acfb39de2a75c2e5c2ebe0c4",
+  "selected_range_seconds": [
+    16.5,
+    30.3
+  ],
+  "edit_usage": "A6-09; original source 246.5–260.3s",
+  "source_page": "https://www.bilibili.com/video/BV1Vr4y1o7i4/",
+  "author": "大胖頭",
+  "rights": "B站上传者 大胖頭；游戏作品 Game Science。公开视频节选仅用于内部剪辑研究，公开使用授权未取得。",
+  "sha256": "05211f5ef365053aa040cc3a4e10e19fcc353ff1c43d1ea460031284337d1d20",
+  "bytes": 2955632,
+  "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。"
+}

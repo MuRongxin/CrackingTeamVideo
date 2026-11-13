@@ -1,0 +1,20 @@
+{
+  "id": "V38_A7_mafia-report",
+  "kind": "video",
+  "task": "EX15",
+  "title": "第七幕 / mafia-report",
+  "path": "media/02_footage/derived/V38_A7_mafia-report.mp4",
+  "derived_from": "media/02_footage/V38_A7_MAFIA_launch_1080p.mp4",
+  "source_page": "https://store.steampowered.com/app/1941540/",
+  "author": "Hangar 13 / 2K",
+  "rights": "官方宣传片，公开剪辑使用条件待确认",
+  "status": "exported",
+  "selected_range_seconds": [
+    55,
+    70.8
+  ],
+  "source_sha256": "5f7b613d422152033f430a32097be667e365535103b45bfd5d96edbd0e23b66e",
+  "sha256": "d17b1797b975b50ebc37431e0cc4ec8e89bae6ce18b85a9f01c604e4de73d969",
+  "bytes": 18815629,
+  "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测"
+}

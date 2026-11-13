@@ -1,0 +1,27 @@
+[
+  {
+    "id": "V38_A5_FULTON",
+    "task": "EX15",
+    "kind": "video",
+    "title": "第五幕 富尔顿回收实际动作 / B站 P3 553.4—559.9秒",
+    "path": "voices视频专题/remotion/public/v38/act5/fulton.mp4",
+    "derived_from": "media/02_footage/V38_MGSV_BILI_BV1JU4y1P7RD_p3_550-578_480p.mp4",
+    "source_page": "https://www.bilibili.com/video/BV1JU4y1P7RD/?p=3",
+    "author": "鹅恶厄",
+    "rights": "B站上传者 鹅恶厄；游戏作品 KONAMI。页面标注未经作者授权禁止转载；仅作为内部剪辑研究节选，公开使用授权尚未取得。",
+    "status": "exported",
+    "selected_range_seconds": [
+      3.4,
+      9.9
+    ],
+    "original_page_range_seconds": [
+      553.4,
+      559.9
+    ],
+    "source_sha256": "1d5f55d4d9ad7cd18b79b26b8c20d637be5695645feeeffb4fbf4297b2f8f2d3",
+    "sha256": "09cc3c2e6b6dd1110fa541f38d5de8ac1b6ce2ea5071381e52b885e71d33df9f",
+    "bytes": 768951,
+    "note": "原速、静音、不循环；展示游戏机制，不表示 voices38 版本实测。",
+    "ledger_path": "media/02_footage/derived/V38_A5_fulton.mp4"
+  }
+]

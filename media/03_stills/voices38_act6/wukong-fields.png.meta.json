@@ -1,0 +1,21 @@
+{
+  "id": "V38_A6_WUKONG_FIELDS",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第六幕 黑神话悟空 NFO 原始字段",
+  "path": "media/03_stills/voices38_act6/wukong-fields.png",
+  "derived_from": "media/03_stills/source_images/V18_nfo.png",
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1sxjuyo/bl4ckmythwuk0ngvoices38/",
+  "author": "发行文字署名 voices38；图片托管于 ImgBB",
+  "rights": "公开帖子链接的 NFO 图；授权未确认，仅研究与剪辑候选",
+  "status": "exported",
+  "crop_pixels": [
+    56,
+    222,
+    603,
+    314
+  ],
+  "source_sha256": "e6014e13e1c9b50e98002ea0865f97464a3174e457f2a0290c9853080a29b335",
+  "sha256": "4d6b5638a67ad16b2c0caf96830eb9c8176076493f45d9a297f0b0f7315efe9b",
+  "bytes": 3006
+}

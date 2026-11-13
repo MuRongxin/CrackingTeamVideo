@@ -1,0 +1,28 @@
+{
+  "id": "V38_A6_V13_PARAGRAPH",
+  "kind": "image",
+  "task": "EX16",
+  "status": "exported",
+  "title": "V13 报道 KiriGiri 回应段落 / 实际页面截图",
+  "path": "media/03_stills/voices38_act6/v13-quote-capture.png",
+  "derived_from": "media/01_sources/V13/original.html",
+  "source_page": "https://www.gamersky.com/news/202604/2122429.shtml",
+  "author": "游民星空 / 风歌HS",
+  "rights": "报道段落截图，用于注明和评论其说法；公开使用条件待确认",
+  "capture": {
+    "viewport": [
+      1440,
+      1200
+    ],
+    "device_scale_factor": 2,
+    "clip": {
+      "x": 235,
+      "y": 1120,
+      "width": 640,
+      "height": 156
+    },
+    "note": "浏览器实际页面段落，非仿制网页、非 Discord 原始对话"
+  },
+  "sha256": "d3e61eb90f8576b2d155a3a497470ddcfdbbb0be6e2ec2171fd203b3af9177e8",
+  "bytes": 87128
+}

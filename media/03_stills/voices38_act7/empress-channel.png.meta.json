@@ -1,0 +1,20 @@
+{
+  "id": "V38_A7_EMPRESS_CHANNEL",
+  "kind": "image",
+  "task": "EX15",
+  "title": "EMPRESS 官方频道署名与头像局部",
+  "path": "media/03_stills/voices38_act7/empress-channel.png",
+  "derived_from": "media/03_stills/voices38_act2/empress-announcement.png",
+  "source_page": "https://t.me/EmpressRevolution/201",
+  "author": "EMPRESS",
+  "rights": "频道公开发布，公开剪辑使用条件待确认",
+  "status": "exported",
+  "crop_pixels": [
+    10,
+    10,
+    900,
+    102
+  ],
+  "sha256": "9b7ec563c10e5cfb9aacb654f6ce66661774586f3f21499477ccf0a39eb69460",
+  "bytes": 20266
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "V38_A6_TIGER",
+    "task": "EX15",
+    "kind": "video",
+    "title": "第六幕 虎先锋攻击与玩家倒地 / 2023线下试玩",
+    "path": "voices视频专题/remotion/public/v38/act6/tiger.mp4",
+    "derived_from": "media/02_footage/V38_TIGER_BILI_BV1Vr4y1o7i4_230-265_480p.mp4",
+    "source_page": "https://www.bilibili.com/video/BV1Vr4y1o7i4/",
+    "author": "大胖頭",
+    "rights": "B站上传者 大胖頭；游戏作品 Game Science。公开视频节选仅用于内部剪辑研究，公开使用授权未取得。",
+    "status": "exported",
+    "selected_range_seconds": [
+      23.5,
+      30
+    ],
+    "original_page_range_seconds": [
+      253.5,
+      260
+    ],
+    "source_sha256": "7a73ca9e77ad4e6b7b1f5e7843b812a8ecdbb038acfb39de2a75c2e5c2ebe0c4",
+    "sha256": "4631c67b0323cb5979c542bcb8a65b14d3fee59348e22674ead20cc06bbf41d5",
+    "bytes": 1468121,
+    "note": "原速、静音、不循环；保留原水印；2023试玩展示战斗动作，不表示特定破解版本实测。",
+    "ledger_path": "media/02_footage/derived/V38_A6_tiger.mp4"
+  }
+]

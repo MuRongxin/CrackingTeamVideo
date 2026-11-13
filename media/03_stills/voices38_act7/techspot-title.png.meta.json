@@ -1,0 +1,31 @@
+{
+  "id": "V38_A7_techspot-title",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第七幕 V11 原网页局部",
+  "path": "media/03_stills/voices38_act7/techspot-title.png",
+  "derived_from": "media/01_sources/V11/original.html",
+  "source_page": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html",
+  "author": "TechSpot / Alfonso Maruccia",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，仅补base地址以加载原站样式；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 112,
+      "y": 270,
+      "width": 1064,
+      "height": 123.3125,
+      "scale": 1
+    },
+    "selector": "h1",
+    "needle": "Denuvo removed"
+  },
+  "sha256": "46de5b0860b3f1cec60f22b2b43079492ab49c9ec29fb434dbd5e5157c9bc92f",
+  "bytes": 55628
+}

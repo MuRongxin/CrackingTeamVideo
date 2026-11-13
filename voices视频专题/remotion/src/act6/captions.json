@@ -1,0 +1,610 @@
+{
+  "151": [
+    {
+      "text": "接下来，该讲讲那条 Hypervisor 路线了",
+      "startMs": 20,
+      "endMs": 2761,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "152": [
+    {
+      "text": "2026 年初",
+      "startMs": 20,
+      "endMs": 1150,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "对付 Denuvo 的人，分成了两条路",
+      "startMs": 1150,
+      "endMs": 3261,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "153": [
+    {
+      "text": "一条是 Hypervisor",
+      "startMs": 20,
+      "endMs": 1310,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "154": [
+    {
+      "text": "它借助虚拟化技术",
+      "startMs": 20,
+      "endMs": 1530,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "在系统更底层的位置应付正版验证的检查",
+      "startMs": 1530,
+      "endMs": 4445,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "155": [
+    {
+      "text": "据 TorrentFreak 报道",
+      "startMs": 20,
+      "endMs": 1252,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "156": [
+    {
+      "text": "那一年",
+      "startMs": 20,
+      "endMs": 640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "一波 Hypervisor 方案让不少\nDenuvo 游戏在发售当天就被绕过",
+      "startMs": 640,
+      "endMs": 4898,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "157": [
+    {
+      "text": "《生化危机：安魂曲》正式发售后",
+      "startMs": 20,
+      "endMs": 2720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "仅仅几个小时，就出现了 Hypervisor 绕过版本",
+      "startMs": 2720,
+      "endMs": 6163,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "158": [
+    {
+      "text": "随后，《赤色沙漠》和《奇异人生：重聚》",
+      "startMs": 20,
+      "endMs": 2960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也都在发售当天出现了类似的版本",
+      "startMs": 2960,
+      "endMs": 5258,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "159": [
+    {
+      "text": "当然这是有代价的",
+      "startMs": 20,
+      "endMs": 1350,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "玩家通常得关掉 Windows 的一部分安全功能",
+      "startMs": 1350,
+      "endMs": 3980,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "160": [
+    {
+      "text": "把很高的系统权限交出去",
+      "startMs": 20,
+      "endMs": 1840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "这会造成潜在的稳定性问题",
+      "startMs": 1840,
+      "endMs": 3806,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "161": [
+    {
+      "text": "另一条，就是 voices38\n自称的 old school",
+      "startMs": 20,
+      "endMs": 3140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "老派路线",
+      "startMs": 3140,
+      "endMs": 3864,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "162": [
+    {
+      "text": "不用 Hypervisor，像过去的破解一样",
+      "startMs": 20,
+      "endMs": 2420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "在游戏程序这一层动手",
+      "startMs": 2420,
+      "endMs": 4027,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "163": [
+    {
+      "text": "慢一些",
+      "startMs": 20,
+      "endMs": 850,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "但不用改动玩家的系统",
+      "startMs": 850,
+      "endMs": 2401,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "164": [
+    {
+      "text": "两条路，在《黑神话：悟空》上碰到了一起",
+      "startMs": 20,
+      "endMs": 2970,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "165": [
+    {
+      "text": "2026 年 1 月",
+      "startMs": 20,
+      "endMs": 1390,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "0xZeOn 正在用\nHypervisor 方案处理《黑神话》",
+      "startMs": 1390,
+      "endMs": 4607,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "166": [
+    {
+      "text": "Reddit 上开始有人传",
+      "startMs": 20,
+      "endMs": 1589,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "167": [
+    {
+      "text": "voices38 不碰这款游戏",
+      "startMs": 20,
+      "endMs": 2240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "是因为和 0xZeOn 有约定",
+      "startMs": 2240,
+      "endMs": 3969,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "168": [
+    {
+      "text": "voices38 发言否认",
+      "startMs": 20,
+      "endMs": 1844,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "169": [
+    {
+      "text": "他说，两人之间没有任何协议",
+      "startMs": 20,
+      "endMs": 2450,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "《黑神话》可以交给 0xZeOn",
+      "startMs": 2450,
+      "endMs": 4503,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "170": [
+    {
+      "text": "他自己正专心开发",
+      "startMs": 20,
+      "endMs": 1480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "针对 2024 到 2026 年版 Denuvo 的新工具",
+      "startMs": 1480,
+      "endMs": 4607,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "171": [
+    {
+      "text": "但同时他也毫不客气地批评了 Hypervisor 路线",
+      "startMs": 20,
+      "endMs": 2870,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "在 Linux 和 macOS 上用不了",
+      "startMs": 2870,
+      "endMs": 4700,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "172": [
+    {
+      "text": "下一次 Windows 更新",
+      "startMs": 20,
+      "endMs": 1580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "就可能让它失效",
+      "startMs": 1580,
+      "endMs": 2727,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "173": [
+    {
+      "text": "从兼容性和长期保存的角度看",
+      "startMs": 20,
+      "endMs": 2150,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "太不稳定了",
+      "startMs": 2150,
+      "endMs": 2924,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "174": [
+    {
+      "text": "这番话是在 2026 年 1 月说的",
+      "startMs": 20,
+      "endMs": 2343,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "175": [
+    {
+      "text": "4 月底",
+      "startMs": 20,
+      "endMs": 780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38 发布了自己的《黑神话：悟空》",
+      "startMs": 780,
+      "endMs": 3864,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "176": [
+    {
+      "text": "KIND 一栏写着",
+      "startMs": 20,
+      "endMs": 1320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Dying Simulator，死亡模拟器",
+      "startMs": 1320,
+      "endMs": 3586,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "177": [
+    {
+      "text": "玩过这款游戏",
+      "startMs": 20,
+      "endMs": 1250,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "尤其是被虎先锋反复击败过的玩家",
+      "startMs": 1250,
+      "endMs": 3900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "大概能理解这个评价",
+      "startMs": 3900,
+      "endMs": 5362,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "178": [
+    {
+      "text": "Reddit 上的发布帖",
+      "startMs": 20,
+      "endMs": 1440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "标题有点怪",
+      "startMs": 1440,
+      "endMs": 2560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Black 里的字母 a",
+      "startMs": 2560,
+      "endMs": 3960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "换成了数字 4",
+      "startMs": 3960,
+      "endMs": 4898,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "179": [
+    {
+      "text": "Wukong 里的字母 o",
+      "startMs": 20,
+      "endMs": 1240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "换成了数字 0",
+      "startMs": 1240,
+      "endMs": 2204,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "180": [
+    {
+      "text": "帖子里只解释了一句",
+      "startMs": 20,
+      "endMs": 1540,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "标题这么写，是因为 Reddit 的过滤器",
+      "startMs": 1540,
+      "endMs": 4062,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "181": [
+    {
+      "text": "这个版本有 133 GB",
+      "startMs": 20,
+      "endMs": 1647,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "182": [
+    {
+      "text": "距离他发布《生化危机：安魂曲》",
+      "startMs": 20,
+      "endMs": 2530,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "只过了 18 天",
+      "startMs": 2530,
+      "endMs": 3562,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "183": [
+    {
+      "text": "侧面说明",
+      "startMs": 20,
+      "endMs": 800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38确实掌握了如何\n处理当前Denuvo加密的方式",
+      "startMs": 800,
+      "endMs": 4816,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "184": [
+    {
+      "text": "Hypervisor和old school两条路线上的人",
+      "startMs": 20,
+      "endMs": 2430,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "是对手吗",
+      "startMs": 2430,
+      "endMs": 3179,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "185": [
+    {
+      "text": "另一个用 Hypervisor 方案的团队",
+      "startMs": 20,
+      "endMs": 2100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "叫 DenuvOwO",
+      "startMs": 2100,
+      "endMs": 3086,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "186": [
+    {
+      "text": "2026 年 4 月",
+      "startMs": 20,
+      "endMs": 1280,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "它的核心成员 KiriGiri 公开澄清",
+      "startMs": 1280,
+      "endMs": 3870,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "外界以为他们在嫉妒 voices38",
+      "startMs": 3870,
+      "endMs": 6270,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "其实不是",
+      "startMs": 6270,
+      "endMs": 7022,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "187": [
+    {
+      "text": "双方在 Discord 上直接聊过",
+      "startMs": 20,
+      "endMs": 2160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "他们的目标都是同一个",
+      "startMs": 2160,
+      "endMs": 4030,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "不存在敌视",
+      "startMs": 4030,
+      "endMs": 5020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "只是 路线、理念不同而以",
+      "startMs": 5020,
+      "endMs": 6918,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "188": [
+    {
+      "text": "KiriGiri 还给 Hypervisor\n方案下了一个很谦虚的定义",
+      "startMs": 20,
+      "endMs": 3670,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "让玩家在等待“正常破解”的那段时间里",
+      "startMs": 3670,
+      "endMs": 6520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "先有得玩",
+      "startMs": 6520,
+      "endMs": 7359,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ]
+}

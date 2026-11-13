@@ -1,0 +1,26 @@
+{
+  "id": "V38_BILI_TIGER",
+  "title": "【黑神话悟空】线下实机试玩之虎先锋-惜败",
+  "url": "https://www.bilibili.com/video/BV1Vr4y1o7i4/",
+  "source_page": "https://www.bilibili.com/video/BV1Vr4y1o7i4/",
+  "author": "大胖頭",
+  "status": "downloaded",
+  "retrieved_at": "2026-11-13T00:54:32.270314+00:00",
+  "original_duration_seconds": 265.078,
+  "selected_range_seconds": [
+    230,
+    265
+  ],
+  "source_code": "V38_BILI_TIGER",
+  "rights": "B站上传者 大胖頭；游戏作品 Game Science。公开视频节选仅用于内部剪辑研究，公开使用授权未取得。",
+  "note": "2023年线下试玩实机；仅归档230—265秒视频轨，无音轨，非全片、非2026破解版本实测。 请求230—265秒，实得约34.97秒（视频帧边界）。",
+  "task": "EX15",
+  "kind": "video",
+  "path": "media/02_footage/V38_TIGER_BILI_BV1Vr4y1o7i4_230-265_480p.mp4",
+  "width": 852,
+  "height": 480,
+  "sha256": "7a73ca9e77ad4e6b7b1f5e7843b812a8ecdbb038acfb39de2a75c2e5c2ebe0c4",
+  "bytes": 5029161,
+  "complete_source_video": false,
+  "actual_duration_seconds": 34.966016
+}

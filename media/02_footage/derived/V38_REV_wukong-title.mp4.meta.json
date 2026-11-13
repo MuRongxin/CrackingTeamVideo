@@ -1,0 +1,21 @@
+{
+  "id": "V38_REV_SELECT_wukong-title",
+  "kind": "video",
+  "task": "EX15",
+  "status": "exported",
+  "title": "wukong-title / 审片重剪",
+  "path": "media/02_footage/derived/V38_REV_wukong-title.mp4",
+  "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+  "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+  "selected_range_seconds": [
+    42.5,
+    50.8
+  ],
+  "edit_usage": "A6-10 from 3.5s",
+  "source_page": "https://store.steampowered.com/app/2358720/",
+  "author": "Game Science / Game Science",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "sha256": "2d37fdea065e76f6cc12ddaf53e3e2a103c9a109baf004cf6390a847a0a14aff",
+  "bytes": 14012946,
+  "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。"
+}

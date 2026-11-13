@@ -1,0 +1,20 @@
+{
+  "id": "V38_A7_half-life",
+  "kind": "video",
+  "task": "EX15",
+  "title": "第七幕 / half-life",
+  "path": "media/02_footage/derived/V38_A7_half-life.mp4",
+  "derived_from": "media/02_footage/V38_A7_HALFLIFE_official_montage.mp4",
+  "source_page": "https://www.half-life.com/en/halflife25",
+  "author": "Valve",
+  "rights": "官方周年网页素材；公开使用条件待确认",
+  "status": "exported",
+  "selected_range_seconds": [
+    18.5,
+    29.9
+  ],
+  "source_sha256": "3ae217b122c1d6962212576cd1269f31c3a7c593962e40ff37740cb1e6d08611",
+  "sha256": "4e87bed6454ada2475835c1feab604a99d636b856935eb3437a40fa479abdce1",
+  "bytes": 2347277,
+  "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测"
+}

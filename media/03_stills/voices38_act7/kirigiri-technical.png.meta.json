@@ -1,0 +1,31 @@
+{
+  "id": "V38_A7_kirigiri-technical",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第七幕 V13 原网页局部",
+  "path": "media/03_stills/voices38_act7/kirigiri-technical.png",
+  "derived_from": "media/01_sources/V13/original.html",
+  "source_page": "https://www.gamersky.com/news/202604/2122429.shtml",
+  "author": "游民星空 / 风歌HS",
+  "rights": "待确认；公开访问不等于获得视频使用许可",
+  "status": "exported",
+  "capture": {
+    "mode": "原始HTML存档渲染，仅补base地址以加载原站样式；正文未改写",
+    "viewport": [
+      1440,
+      1200
+    ],
+    "deviceScaleFactor": 2,
+    "clip": {
+      "x": 237,
+      "y": 1636,
+      "width": 636,
+      "height": 128,
+      "scale": 1
+    },
+    "selector": ".Mid2L_con p",
+    "needle": "针对部分用户"
+  },
+  "sha256": "a824905f2b22c7381a0e858600426a42a3df7a702fe96f8e6e95f319c4714718",
+  "bytes": 87176
+}

@@ -1,0 +1,21 @@
+{
+  "id": "V38_REV_SELECT_pragmata-new",
+  "kind": "video",
+  "task": "EX15",
+  "status": "exported",
+  "title": "pragmata-new / 审片重剪",
+  "path": "media/02_footage/derived/V38_REV_pragmata-new.mp4",
+  "derived_from": "media/02_footage/V38_PRAGMATA_user_IGN_1080p.mp4",
+  "source_sha256": "042a6d9cf233957d322554380c228ab816c9e322ede307c06391bf86b2e10542",
+  "selected_range_seconds": [
+    5.5,
+    14.5
+  ],
+  "edit_usage": "A5-01",
+  "source_page": "",
+  "author": "CAPCOM（作品）；本地文件名标注 IGN 转载",
+  "rights": "用户提供的宣传片转载文件；未附原网页地址，公开使用条件待确认",
+  "sha256": "07019cad5e41ed5e89f1352945ab1ff281a96658eb9b901bfb253543078bffcd",
+  "bytes": 8479681,
+  "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。"
+}

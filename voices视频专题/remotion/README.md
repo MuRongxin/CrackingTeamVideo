@@ -1,13 +1,17 @@
-# voices38 专题 · 新版前三幕
+# voices38 专题 · 新版前七幕
 
-依据当前 `voices38_视频脚本.md` 和新版文稿，使用 `videoVoices/` 中的第 01—103 段录音。1920 × 1080，60 fps。第一幕使用本地合成的原创配乐，第二、三幕 BGM 留空；配音保持原速，没有导出成片。
+依据当前 `voices38_视频脚本.md` 和新版文稿，使用 `videoVoices/` 中的第 01—210 段录音。1920 × 1080，60 fps。第一幕使用本地合成的原创配乐，第二至第七幕 BGM 留空；配音保持原速，没有导出成片。
 
 | 合成 | 内容 | 实测时长 |
 | --- | --- | --- |
 | `V38Act1` | 第一幕，A1-01—A1-11 | **1:06.30 / 3990 帧** |
 | `V38Act2` | 第二幕，A2-01—A2-22 | **3:23.44 / 12224 帧** |
 | `V38Act3` | 第三幕，A3-01—A3-18 | **3:25.02 / 12302 帧** |
-| `V38Full` | 前三幕连续播放 | **7:55.16 / 28516 帧** |
+| `V38Act4` | 第四幕，A4-01—A4-11 | **2:05.17 / 7517 帧** |
+| `V38Act5` | 第五幕，A5-01—A5-07 | **0:54.44 / 3284 帧** |
+| `V38Act6` | 第六幕，A6-01—A6-14 | **2:34.24 / 9264 帧** |
+| `V38Act7` | 第七幕，A7-01—A7-08 | **1:30.14 / 5414 帧** |
+| `V38Full` | 前七幕连续播放 | **14:59.55 / 53995 帧** |
 | `V38Thumb` | 新片名封面 | Denuvo 的天敌／voices38的故事 |
 
 末两位是帧，不是小数秒。视频脚本中的时码只作粗剪参考，不再作为镜头最低时长。普通镜头按实际录音长度剪辑：前置 0.1 秒、后置约 0.15 秒，段内独立录音间隔 0.15 秒。名字强调、第一次尝试等少数位置有短停顿；片名卡 2.3 秒、倒带转场 2.2 秒。开头 A1-01 → A1-02 的配音间隔由约 1.94 秒收紧至约 0.25 秒。第一幕 A1-01—A1-05 已合成固定机位、匹配跳切的冷开场，原 A1-08 片名前移至 A1-05 后（约 21.68 秒），随后再接传票与 46 → 9；配音保持原速。
@@ -20,6 +24,15 @@ npm run studio
 ```
 
 现有预览：<http://localhost:3018/V38Full>。启动命令带 `--no-open`，不会自动打开浏览器。
+
+
+第七幕单独检查：<http://localhost:3018/V38Act7>；连续版从 **13:29.41** 开始。[第七幕逐镜定位表](src/act7/README.md)记录六段新视频、真实报道和组织字标、动效与证据边界。
+
+第六幕单独检查：<http://localhost:3018/V38Act6>；连续版从 **10:55.17** 开始。[第六幕逐镜定位表](src/act6/README.md)记录两条技术路线、虎先锋实机和字幕锚点。
+
+第五幕单独检查：<http://localhost:3018/V38Act5>；连续版从 **10:00.33** 开始。[第五幕逐镜定位表](src/act5/README.md)记录名单运动、实机选段和来源边界。
+
+第四幕单独检查：<http://localhost:3018/V38Act4>；在连续版中从 **7:55.16** 开始。[第四幕逐镜定位表](src/act4/README.md)记录实测时码、配音编号和证据边界。
 
 第三幕单独检查：<http://localhost:3018/V38Act3>；在 `V38Full` 中从 **4:30.14** 开始。
 
@@ -35,7 +48,7 @@ npm run studio
 - 第一幕后半：NFO 原图 → 社区帖子原题 → 发行说明组成连续横向阅读；再进入真实日期、字段、第一人称，最终推回起诉书被告栏。替换原来的来源卡片、空月份轴和巨大 I → 他 字卡。
 - 第二幕：游戏实景与发行文档接续，老 NFO 纵向扫描、版本年份横向推移、保护层拆开、首发曲线绘出、日历连续翻页。新闻在同一纸面中翻到原话，社区标题接到实际新发行记录；双关波形的破音保持 6 帧。
 - 第三幕：沿真实 NFO 阅读字段，KIND 三个笑点结合对应官方游戏动作；保护组合在同一字段里变更，致谢、组件归属、PROPER 原文聚光与 CRACKFIX 道歉按口播推进，最后回到真实 OS FIX 说明。
-- 第二幕止于“这个判断是否准确，当时还没人知道”；第三幕使用第 54—103 段录音，止于 RELOADED 的兼容性修复。第 104 段起属于第四幕，尚未接入。
+- 第二幕止于“这个判断是否准确，当时还没人知道”；第三幕使用第 54—103 段录音，止于 RELOADED 的兼容性修复。第四幕已接入第 104—136 段，止于“继续研究的条件”；第五幕已接入第 137—150 段，以 34 个化名及公开协作痕迹收束；第六幕已接入第 151—188 段；第七幕已接入第 189—210 段；第 211 段起属于第八幕，尚未接入。
 
 第 09 段录音同时覆盖 A1-09 与 A1-10，工程在 **5.8 秒**（实测静音区 5.560—6.002 秒）切镜。两段使用互相衔接的原始音频区间，字幕按同一来源时钟偏移，不重复或拉伸录音。其余新录音各使用一次。
 
@@ -52,7 +65,7 @@ npm run studio
 - `src/act3/timing.ts`、`motion.ts`，`src/act1/cues.ts`，`src/act2/film-shared.tsx`：按配音和字幕锚点触发动效。氮气、开锁、三声 biu 的画面与音效共享时间。
 - 各幕 `captions.json`：当前字幕；`narration-source.json` 为对词短句。常规后置 0.15 秒，KIND 笑点／自述结束 0.25 秒，道歉对照结束 0.35 秒。
 - `src/timing.ts`、`src/act2/timing.ts`：段落间隔；有配音的镜头不使用预估时长兜底；`calculateMetadata` 读取当前 WAV 实际时长。
-- `src/Sound.tsx`、`src/act2/Sound.tsx`、`src/act3/Sound.tsx`：各幕轻量音效入口。第一幕保留现有原创配乐，第二、三幕 BGM 留空。
+- `src/Sound.tsx`、`src/act2/Sound.tsx`、`src/act3/Sound.tsx`：各幕轻量音效入口。第一幕保留现有原创配乐，第二至第七幕 BGM 留空。
 - `scripts/make-act1-score.py`：生成第一幕现有原创配乐；重新生成后同步登记 SHA-256。
 - `src/assets.ts`：为原图局部、Logo 与游戏节选附加素材 SHA-256，避免已有 Studio 缓存旧版本。
 
@@ -60,7 +73,7 @@ npm run studio
 
 ## 录音、素材与来源
 
-`current-voice-provenance.json` 记录 103 段录音的原文件、实际长度与 SHA-256；`asset-provenance.json`、`act2-asset-provenance.json`、`act3-asset-provenance.json` 记录各幕素材与副本来源；新增官方游戏片段记于 `film-insert-provenance.json`。原始文件保持不变。音频 URL 带当前文件的哈希版本标识，避免已有 Studio 继续命中旧录音缓存。
+`current-voice-provenance.json` 记录 210 段录音的原文件、实际长度与 SHA-256；`asset-provenance.json`、`act2-asset-provenance.json`、`act3-asset-provenance.json` 记录各幕素材与副本来源；新增官方游戏片段记于 `film-insert-provenance.json`。原始文件保持不变。音频 URL 带当前文件的哈希版本标识，避免已有 Studio 继续命中旧录音缓存。
 
 新录音同步命令：
 
@@ -113,10 +126,42 @@ Three.js 仅用于向量、旋转和透视相机计算，不创建 WebGL 上下�
 
 ## 验证
 
-`npm run typecheck` 检查 TypeScript。`node scripts/check-current.cjs` 在后台检查前三幕及连续版，抽帧存入忽略的 `.qa/`，不打开可见浏览器或导出成片。可指定镜头，如 `node scripts/check-current.cjs 1:7 2:14 3:18`。`check-frames.cjs`、`check-act2.cjs`、`check-act3.cjs` 分别只抽查对应幕的画面。
+`npm run typecheck` 检查 TypeScript。`node scripts/check-current.cjs` 在后台检查前六幕及连续版，抽帧存入忽略的 `.qa/`，不打开可见浏览器或导出成片。可指定镜头，如 `node scripts/check-current.cjs 1:7 2:14 3:18`。`check-frames.cjs`、`check-act2.cjs`、`check-act3.cjs` 分别只抽查对应幕的画面。
 
 `node scripts/check-studio-cube.cjs` 直接检查运行中的 Studio：禁用 WebGL 后，跳转立方体各阶段、离开再返回，并检查连续版。截图保存在 `.qa/studio-cube-*.png`。此检查用于覆盖抽帧与用户实时预览可能不同的问题。
 
 `node scripts/check-studio-act3.cjs` 检查运行中的第三幕与连续版，覆盖开门、工具拼合、原文裁切和前后拖动，截图留在 `.qa/`。
 
-验证覆盖 51 个镜头、103 段原速录音、跨镜头音频区间、字幕边界、合成总长，以及完整片与各幕的画面一致性。检查脚本同时约束普通语音衔接的上限，避免长空拍再次出现。
+验证覆盖 83 个镜头、188 段原速录音、跨镜头音频区间、字幕边界、合成总长，以及完整片与各幕的画面一致性。检查脚本同时约束普通语音衔接的上限，避免长空拍再次出现。
+
+## 第四幕：硬件、测试与五个月
+
+新增 `src/Act4.tsx` 与 `src/act4/`，沿现有文稿和第 104—136 段配音完成 11 镜。NFO 原文、名单局部、硬件线稿、测试声明、35% 筹备目标与五个月后的回应随口播推进。配音保持原速，普通衔接约 0.25 秒，BGM 留空。前三幕时长不变。
+
+`prepare-act4.py` 只从本地准备本幕录音和五张 NFO 原图裁切，保留既有字幕。V30 年末说明采用帖子中的文本存档重排，V31 采用有归属的报道转述；《黑暗时代》用文字海报。来源与使用条件见第四幕定位表和 `act4-asset-provenance.json`。
+
+本幕验证入口：`node scripts/check-act4.cjs`、`node scripts/check-studio-act4.cjs`。
+
+## 第五幕：三十四个化名
+
+新增 `src/Act5.tsx` 与 `src/act5/`，7 镜共 54.73 秒。实机进入名单、名字脱离纸面形成透视圆柱、镜头飞向三个化名、跨发行名单迁移、富尔顿回收、磁盘流水线及组件汇合均按帧驱动。与旁白共用时间锚点，前四幕时长不变。
+
+B站实机已取得明确的富尔顿回收动作，选自鹅恶厄 `BV1JU4y1P7RD` 第 3 集 553.4—559.9 秒。完整原视频未下载；当前持有 550—578 秒的 480p 视频轨片段，公开使用条件与下载状态分别记录。来源、范围、哈希见 `act5-bilibili-provenance.json`。
+
+`prepare-act5.py` 维护本幕原速录音、字幕和文本名单；`prepare-act5-bilibili.py` 从本地归档重建视频节选。本幕验证入口：`node scripts/check-act5.cjs`、`node scripts/check-studio-act5.cjs`。
+
+## 第六幕：Wuk0ng
+
+`src/Act6.tsx` 与 `src/act6/`，14 镜共 154.40 秒。按审片意见重剪：四部作品的官方 1080p 画面、延长的 B站虎先锋实机、voices38 原始 NFO 字标、DenuvOwO 原标识和真实报道段落共同承担主画面。透视分层、斜向换景、原件推近退远、字轮替换和双画面发行时间线均随口播推进；保留当事人说法的时间与归属。
+
+第五幕 PRAGMATA 同时改用原片 5.5—14.5 秒，不再重复第三幕选段；结尾改为真实 NFO 字标。配音、字幕、所有时长和接点不变。虎先锋改用原片 246.5—260.3 秒，13.8 秒、480p、原速静音，保留 2023 试玩与水印归属。原 6.5 秒选段仅保留归档。
+
+新增文件、原片与精确源时码在 `picture-revision-provenance.json`。`acquire-act6-revision.py` 只采集本轮四条官方视频轨；`prepare-picture-revision.py` 从本地重建选段；`prepare-act6.py` 继续维护录音与字幕。详见[第六幕定位表](src/act6/README.md)。
+
+验证：`npm run typecheck`、`node scripts/check-current.cjs`、`node scripts/check-studio-act6.cjs`，以及 `python3 scripts/check-picture-revision.py` 的素材哈希、时长和重复时码检查。预览 [第六幕](http://localhost:3018/V38Act6)，[第五幕](http://localhost:3018/V38Act5)。
+
+## 第七幕新增制作
+
+“一个问号”已按第 189—210 段原录音做成八镜。新增《四海兄弟：故乡》官方 1080p 视频轨和 Valve 周年官网初代《半条命》实机；《安魂曲》从本地 PV3 选取四段此前未用的动作。三张真实报道段落来自原 HTML 存档渲染，Razor／CLASS 为原 ASCII 字标重排，EMPRESS 为官方频道头像，voices38／DenuvOwO 复用既有身份标识。
+
+时间尺展开、原文推拉、程序平面透视、来源向纵深退场、1998—2026 年份衔接都按实际配音触发。A7-06 的设问有短停顿，不替技术争议作结论。素材时码、重建入口和检查结果见[第七幕说明](src/act7/README.md)。

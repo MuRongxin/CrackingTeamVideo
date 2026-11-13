@@ -1,0 +1,21 @@
+{
+  "id": "V38_A4_supporters",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第四幕 NFO 原图局部：supporters",
+  "path": "media/03_stills/voices38_act4/supporters.png",
+  "derived_from": "media/03_stills/source_images/V15_01.png",
+  "source_page": "https://www.xrel.to/p2p/440784-007-First-Light-voices38/nfo.html",
+  "author": "发行署名 voices38；图像制作署名见原图",
+  "rights": "xREL 渲染图仅研究参考；站外使用限制及公开使用许可须另核",
+  "status": "exported",
+  "crop_pixels": [
+    56,
+    536,
+    305,
+    697
+  ],
+  "source_sha256": "9ae1ae0f058f683d70df36c70fe747f041b7e9039bcd5c2e95b70f0a49ef9864",
+  "sha256": "c932e3d3a585987c51fda71c678866b6a5e7e61d6a2eeafba012a62b900a6187",
+  "bytes": 1493
+}

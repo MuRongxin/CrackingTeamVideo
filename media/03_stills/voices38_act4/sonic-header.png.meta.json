@@ -1,0 +1,21 @@
+{
+  "id": "V38_A4_sonic-header",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第四幕 NFO 原图局部：sonic-header",
+  "path": "media/03_stills/voices38_act4/sonic-header.png",
+  "derived_from": "media/03_stills/source_images/V05_01.png",
+  "source_page": "https://www.xrel.to/p2p/419489-Sonic-Frontiers-voices38/nfo.html",
+  "author": "见来源页，待核署名",
+  "rights": "xREL 渲染图可见禁止站外使用提示；仅研究参考，公开剪辑前需许可或改用另行取得的原始 NFO",
+  "status": "exported",
+  "crop_pixels": [
+    0,
+    0,
+    574,
+    293
+  ],
+  "source_sha256": "871d1806a43c6f748647191009d035d71edd4cc8d1b4cb88161f4970351b5aca",
+  "sha256": "fd8f0c948a92f744aa8fde3701726e9e166689e90287718a7e7aea0a2c0f366e",
+  "bytes": 2563
+}

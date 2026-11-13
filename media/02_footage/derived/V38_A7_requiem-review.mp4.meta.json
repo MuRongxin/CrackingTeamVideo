@@ -1,0 +1,20 @@
+{
+  "id": "V38_A7_requiem-review",
+  "kind": "video",
+  "task": "EX15",
+  "title": "第七幕 / requiem-review",
+  "path": "media/02_footage/derived/V38_A7_requiem-review.mp4",
+  "derived_from": "media/02_footage/V38_REV_REQUIEM_official_1080p.mp4",
+  "source_page": "https://store.steampowered.com/app/3764200/",
+  "author": "CAPCOM Co., Ltd. / CAPCOM Co., Ltd.",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "status": "exported",
+  "selected_range_seconds": [
+    185,
+    198
+  ],
+  "source_sha256": "aa10d2f0de002b9bb01c61d49d7609c5d996a9ed0b0c278b10842060d9e0ec8e",
+  "sha256": "764ad313cff99b8e9e8187af9b65531da39f5e6d906624aa291a6d0388d9c485",
+  "bytes": 10224113,
+  "note": "原速静音节选，不循环；游戏画面不代表特定破解版本实测"
+}

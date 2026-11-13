@@ -1,0 +1,21 @@
+{
+  "id": "V38_A4_colors-header",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第四幕 NFO 原图局部：colors-header",
+  "path": "media/03_stills/voices38_act4/colors-header.png",
+  "derived_from": "media/03_stills/source_images/V30_nfo.png",
+  "source_page": "https://www.reddit.com/r/SteamDeckPirates/comments/1pxk2xv/new_denuvo_cracker_voices38_confirms_all_cracks/",
+  "author": "发行署名 voices38",
+  "rights": "公开帖子链接的 NFO 图；公开使用授权待确认",
+  "status": "exported",
+  "crop_pixels": [
+    0,
+    0,
+    640,
+    322
+  ],
+  "source_sha256": "2c2dc2b515531e5e2a67d5f4fd8d19231adeaf78148655725c0ccd9222f437d0",
+  "sha256": "52c1364d69252dcc82a333c3a5d1c64b9f941f8fb0293da17638a09b33af9ada",
+  "bytes": 5677
+}

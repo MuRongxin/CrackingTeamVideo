@@ -1,0 +1,558 @@
+{
+  "104": [
+    {
+      "text": "随着发行的内容越来越多",
+      "startMs": 20,
+      "endMs": 2000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38 的 NFO 里",
+      "startMs": 2000,
+      "endMs": 4020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也逐渐出现了另一段固定内容",
+      "startMs": 4020,
+      "endMs": 5919,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "105": [
+    {
+      "text": "大意是",
+      "startMs": 20,
+      "endMs": 940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "想支持以后的破解",
+      "startMs": 940,
+      "endMs": 2480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "现在可以捐款了",
+      "startMs": 2480,
+      "endMs": 3562,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "106": [
+    {
+      "text": "所有的钱",
+      "startMs": 20,
+      "endMs": 970,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "都会用来买各种昂贵的测试硬件",
+      "startMs": 970,
+      "endMs": 3005,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "107": [
+    {
+      "text": "Denuvo 的新版本越来越难做好",
+      "startMs": 20,
+      "endMs": 2160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "他需要硬件来保证稳定",
+      "startMs": 2160,
+      "endMs": 3644,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "108": [
+    {
+      "text": "资助了他的人",
+      "startMs": 20,
+      "endMs": 1020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "名字会出现在下一份 NFO 的支持者名单里",
+      "startMs": 1020,
+      "endMs": 3760,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "109": [
+    {
+      "text": "有的名字后面标着 x2",
+      "startMs": 20,
+      "endMs": 1650,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "表示捐了两次",
+      "startMs": 1650,
+      "endMs": 2587,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "110": [
+    {
+      "text": "名称为“unknown”",
+      "startMs": 20,
+      "endMs": 1200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "表示不留名的捐赠",
+      "startMs": 1200,
+      "endMs": 2425,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "111": [
+    {
+      "text": "一个匿名的人",
+      "startMs": 20,
+      "endMs": 1080,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "被另一群匿名的人支持着前进",
+      "startMs": 1080,
+      "endMs": 2924,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "112": [
+    {
+      "text": "2025 年 12 月底",
+      "startMs": 20,
+      "endMs": 1700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "他在一次发布里说明了资助的去向",
+      "startMs": 1700,
+      "endMs": 3980,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "113": [
+    {
+      "text": "他说",
+      "startMs": 20,
+      "endMs": 940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "自己一直在用捐款",
+      "startMs": 940,
+      "endMs": 2500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "按计划购买测试硬件",
+      "startMs": 2500,
+      "endMs": 4004,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "114": [
+    {
+      "text": "但是内存涨价是没想到的麻烦",
+      "startMs": 20,
+      "endMs": 2320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "不过他会凑齐的",
+      "startMs": 2320,
+      "endMs": 3470,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "115": [
+    {
+      "text": "屏幕前攒过电脑的朋友",
+      "startMs": 20,
+      "endMs": 1880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "看到这句，大概很有共鸣",
+      "startMs": 1880,
+      "endMs": 3679,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "116": [
+    {
+      "text": "同一份说明里，他还宣布",
+      "startMs": 20,
+      "endMs": 1990,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "从现在起",
+      "startMs": 1990,
+      "endMs": 3020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "所有破解也会在 Linux 上测试",
+      "startMs": 3020,
+      "endMs": 5176,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "117": [
+    {
+      "text": "这对 Linux 玩家很有意义",
+      "startMs": 20,
+      "endMs": 1980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "终于可以在 Linux 设备上玩到破解游戏了",
+      "startMs": 1980,
+      "endMs": 4503,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "118": [
+    {
+      "text": "当然",
+      "startMs": 20,
+      "endMs": 700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "测试不等于保证",
+      "startMs": 700,
+      "endMs": 1821,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "119": [
+    {
+      "text": "后来的《007：初露锋芒》",
+      "startMs": 20,
+      "endMs": 2060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "就有玩家报告在 Linux 上启动不了",
+      "startMs": 2060,
+      "endMs": 4201,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "120": [
+    {
+      "text": "那份说明的最后一句，是新年祝福",
+      "startMs": 20,
+      "endMs": 3190,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "大意是",
+      "startMs": 3190,
+      "endMs": 4090,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "祝大家新年快乐",
+      "startMs": 4090,
+      "endMs": 5246,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "121": [
+    {
+      "text": "也希望新的一年",
+      "startMs": 20,
+      "endMs": 1280,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "依然能享受到没有 DRM 的老派游戏体验",
+      "startMs": 1280,
+      "endMs": 3969,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "122": [
+    {
+      "text": "一个月后，关于测试硬件的筹备",
+      "startMs": 20,
+      "endMs": 2370,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "他又公布了一次进展",
+      "startMs": 2370,
+      "endMs": 3562,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "123": [
+    {
+      "text": "按照他的说法",
+      "startMs": 20,
+      "endMs": 1350,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "测试平台目前只完成了目标的大约 35%",
+      "startMs": 1350,
+      "endMs": 4422,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "124": [
+    {
+      "text": "原本计划中的硬件采购",
+      "startMs": 20,
+      "endMs": 1840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "还是被内存涨价拖住了",
+      "startMs": 1840,
+      "endMs": 3319,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "125": [
+    {
+      "text": "不过",
+      "startMs": 20,
+      "endMs": 620,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "他已经准备好继续往前走",
+      "startMs": 620,
+      "endMs": 2111,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "126": [
+    {
+      "text": "他表示，从下一次发布开始",
+      "startMs": 20,
+      "endMs": 2100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "就要尝试处理更新",
+      "startMs": 2100,
+      "endMs": 3270,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "更加复杂的 Denuvo 版本",
+      "startMs": 3270,
+      "endMs": 5118,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "127": [
+    {
+      "text": "又过了一个多月",
+      "startMs": 20,
+      "endMs": 1340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "voices38 发布了",
+      "startMs": 1340,
+      "endMs": 2610,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "《毁灭战士：黑暗时代》",
+      "startMs": 2610,
+      "endMs": 4677,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "128": [
+    {
+      "text": "这一次",
+      "startMs": 20,
+      "endMs": 780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "事情有些不一样了",
+      "startMs": 780,
+      "endMs": 1891,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "129": [
+    {
+      "text": "媒体将它视为 voices38",
+      "startMs": 20,
+      "endMs": 2210,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "开始突破较新一代 Denuvo 的一个重要节点",
+      "startMs": 2210,
+      "endMs": 4758,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "130": [
+    {
+      "text": "还记得最初 Reddit 上的那条提醒吗",
+      "startMs": 20,
+      "endMs": 2251,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "131": [
+    {
+      "text": "现在，五个月过去了",
+      "startMs": 20,
+      "endMs": 1403,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "132": [
+    {
+      "text": "新版 Denuvo 加密防护",
+      "startMs": 20,
+      "endMs": 1880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "已经被 voices38 攻破",
+      "startMs": 1880,
+      "endMs": 3783,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "133": [
+    {
+      "text": "他没有把捐款当成某一款游戏的悬赏",
+      "startMs": 20,
+      "endMs": 2780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "而是明确告诉大家",
+      "startMs": 2780,
+      "endMs": 4027,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "134": [
+    {
+      "text": "这些钱将用于购买测试电脑和硬件",
+      "startMs": 20,
+      "endMs": 2320,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "135": [
+    {
+      "text": "内存涨价",
+      "startMs": 20,
+      "endMs": 1140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "可能拖慢了他的计划",
+      "startMs": 1140,
+      "endMs": 2471,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "136": [
+    {
+      "text": "但这些匿名支持者提供的资金",
+      "startMs": 20,
+      "endMs": 2100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "也确实让他有了继续研究的条件",
+      "startMs": 2100,
+      "endMs": 4062,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ]
+}

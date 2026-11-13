@@ -1,0 +1,21 @@
+{
+  "id": "V38_A4_funding",
+  "task": "EX15",
+  "kind": "image",
+  "title": "第四幕 NFO 原图局部：funding",
+  "path": "media/03_stills/voices38_act4/funding.png",
+  "derived_from": "media/03_stills/source_images/V16_01.png",
+  "source_page": "https://www.xrel.to/p2p/408878-Need-For-Speed-Hot-Pursuit-Remastered-voices38/nfo.html",
+  "author": "发行署名 voices38；图像制作署名见原图",
+  "rights": "xREL 渲染图仅研究参考；站外使用限制及公开使用许可须另核",
+  "status": "exported",
+  "crop_pixels": [
+    16,
+    734,
+    563,
+    784
+  ],
+  "source_sha256": "78c70d5d76b1a42e8fecbf2a951e918ea312660a81b1987f865d10b3a1ab889a",
+  "sha256": "da6b17561a57301804b418a950a9213a914488ea78b7155e398a4010fb9286ad",
+  "bytes": 1496
+}

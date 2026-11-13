@@ -1,0 +1,21 @@
+{
+  "id": "V38_REV_SELECT_crimson-day",
+  "kind": "video",
+  "task": "EX15",
+  "status": "exported",
+  "title": "crimson-day / 审片重剪",
+  "path": "media/02_footage/derived/V38_REV_crimson-day.mp4",
+  "derived_from": "media/02_footage/V38_REV_CRIMSON_official_1080p.mp4",
+  "source_sha256": "967987692895857d7c206781c46b2ee013002e11e3a6d5c53ef121fab6c3a680",
+  "selected_range_seconds": [
+    13.1,
+    16.3
+  ],
+  "edit_usage": "A6-03",
+  "source_page": "https://store.steampowered.com/app/3321460/",
+  "author": "Pearl Abyss / Pearl Abyss",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "sha256": "2c12f8271959d7cca363f9b13295749098c984731731873477f186105056f1a7",
+  "bytes": 5450839,
+  "note": "原速、静音、不循环；作品展示，不表示某个破解版本实测。与本轮其他镜头及既有镜头避免重复。"
+}
