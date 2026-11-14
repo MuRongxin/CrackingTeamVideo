@@ -1,0 +1,7 @@
+# Preserve original NFO artwork, CRLF line endings and legacy CP437 bytes.
+media/01_sources/V38_UPDATE_RACER/nfo.txt -text -whitespace
+media/01_sources/V38_UPDATE_RACER/rune-original.nfo binary -whitespace
+
+# These are verbatim pre-edit manuscript snapshots, including their final blank line.
+"voices视频专题/tts/2026-11-14/previous-act9.md" whitespace=-blank-at-eof
+"voices视频专题/tts/2026-11-14/previous-tail.md" whitespace=-blank-at-eof
