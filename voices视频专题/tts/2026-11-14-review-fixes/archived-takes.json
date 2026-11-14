@@ -1,0 +1,104 @@
+[
+  {
+    "voice": {
+      "id": 52,
+      "file": "v38/vo/sentence-52.wav",
+      "duration": 5.50312925170068,
+      "original": "sentence_52_能破解这些游戏不代表他已经有能力对付那些.wav",
+      "source": "voices视频专题/videoVoices/sentence_52_能破解这些游戏不代表他已经有能力对付那些.wav",
+      "sha256": "954c04e097d1e6b163bc534ecd8e03d04f385758cbe33f330980041918a06cb1"
+    },
+    "captions": [
+      {
+        "text": "能破解这些游戏",
+        "startMs": 20,
+        "endMs": 1206,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "不代表他已经有能力对付那些",
+        "startMs": 1206,
+        "endMs": 3409,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "使用更新版本保护的新游戏",
+        "startMs": 3409,
+        "endMs": 5443,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "replacedBy": 309
+  },
+  {
+    "voice": {
+      "id": 126,
+      "file": "v38/vo/sentence-126.wav",
+      "duration": 5.143219954648526,
+      "original": "sentence_126_他表示从下一次发布开始就要尝试处理更新更.wav",
+      "source": "voices视频专题/videoVoices/sentence_126_他表示从下一次发布开始就要尝试处理更新更.wav",
+      "sha256": "4501309fb7258b5df1fcf71cad61abc466856abb817af4771e9ae3ec946da961"
+    },
+    "captions": [
+      {
+        "text": "他表示，从下一次发布开始",
+        "startMs": 20,
+        "endMs": 2100,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "就要尝试处理更新",
+        "startMs": 2100,
+        "endMs": 3270,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "更加复杂的 Denuvo 版本",
+        "startMs": 3270,
+        "endMs": 5118,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "replacedBy": 310
+  },
+  {
+    "voice": {
+      "id": 267,
+      "file": "v38/vo/sentence-267.wav",
+      "duration": 5.88625850340136,
+      "source": "voices视频专题/videoVoices/sentence_267_那份在什么环境下都能用的_PROPER那.wav",
+      "original": "sentence_267_那份在什么环境下都能用的_PROPER那.wav",
+      "sha256": "f8814f6bf6c2455df15ef5ad05f8ab83b169f9f2c71d99db0aae80a26094a844"
+    },
+    "captions": [
+      {
+        "text": "那份“在什么环境下都能用”的 PROPER，",
+        "startMs": 20,
+        "endMs": 2600,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "那句“抱歉”，那个 Wuk0ng，",
+        "startMs": 2600,
+        "endMs": 5250,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "都是这样。",
+        "startMs": 5250,
+        "endMs": 5861,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "replacedBy": 311
+  }
+]

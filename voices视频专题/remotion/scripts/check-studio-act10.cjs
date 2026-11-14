@@ -50,12 +50,16 @@ const assert = require("node:assert/strict");
     });
     const requested = process.argv.slice(2).map(Number);
     const probes = [
-      ...Array.from({ length: 9 }, (_, i) => [
+      ...Array.from({ length: 10 }, (_, i) => [
         [i + 1, 0.2],
         [i + 1, 0.72],
         [i + 1, 0.86],
       ]).flat(),
       [9, 0.995],
+      [10, 0.52],
+      [10, 0.62],
+      [10, 0.83],
+      [10, 0.999],
       [7, 0.3],
       [2, 0.8],
       [1, 0.9],
@@ -88,7 +92,10 @@ const assert = require("node:assert/strict");
             ]) {
         const frame =
           starts[shot - 1] +
-          Math.round(act.props.timings[shot - 1].duration * 60 * ratio) +
+          Math.min(
+            Math.round(act.props.timings[shot - 1].duration * 60) - 1,
+            Math.round(act.props.timings[shot - 1].duration * 60 * ratio),
+          ) +
           (id === "V38Full" ? fullOffset : 0);
         await page.evaluate(
           (frame, id) => window.remotion_setFrame(frame, id, 0),

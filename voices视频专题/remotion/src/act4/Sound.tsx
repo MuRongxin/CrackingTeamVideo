@@ -53,7 +53,7 @@ export const Act4Sound = ({
         />
       );
     case 8:
-      return <Cue at={say(timing, 126)} file="sweep" volume={0.07} />;
+      return <Cue at={say(timing, 310)} file="sweep" volume={0.07} />;
     case 9:
       return <Cue at={say(timing, 127, "《毁灭")} file="stamp" volume={0.08} />;
     case 10:

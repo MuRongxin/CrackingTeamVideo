@@ -386,29 +386,6 @@
       "confidence": null
     }
   ],
-  "126": [
-    {
-      "text": "他表示，从下一次发布开始",
-      "startMs": 20,
-      "endMs": 2100,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "就要尝试处理更新",
-      "startMs": 2100,
-      "endMs": 3270,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "更加复杂的 Denuvo 版本",
-      "startMs": 3270,
-      "endMs": 5118,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
   "127": [
     {
       "text": "又过了一个多月",
@@ -551,6 +528,29 @@
       "text": "也确实让他有了继续研究的条件",
       "startMs": 2100,
       "endMs": 4062,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "310": [
+    {
+      "text": "他表示，从下一次发布开始",
+      "startMs": 22,
+      "endMs": 2356,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "就要尝试处理更新",
+      "startMs": 2356,
+      "endMs": 3669,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "更加复杂的 Denuvo 版本",
+      "startMs": 3669,
+      "endMs": 5742,
       "timestampMs": null,
       "confidence": null
     }

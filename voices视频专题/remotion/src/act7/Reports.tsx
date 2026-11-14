@@ -21,7 +21,7 @@ export const OtherSide = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A7-01 · 澄清的另一面"
-      source="KiriGiri 的说法，经游民星空转述｜V13 · 游戏画面：Capcom 官方"
+      source="KiriGiri 公开回应 · 游民星空 · 游戏画面：CAPCOM"
     >
       <Footage
         name="requiem-question"
@@ -96,7 +96,7 @@ export const HoursAndDays = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A7-02 · 数小时与四十多天"
-      source="时间间隔：TechSpot 报道｜V11 · 图示使用报道概数"
+      source="TechSpot · 《生化危机：安魂曲》破解报道"
     >
       <Footage name="requiem-clock" />
       <Darken />
@@ -186,8 +186,8 @@ export const GoodReviews = ({ timing }: { timing: ShotTiming }) => {
       name="A7-03 · 很高的评价"
       source={
         t < perf
-          ? "TechSpot · 2026.04.13｜原标题存档渲染；“移除”为媒体用词"
-          : "Tom’s Hardware · 2026.04.11｜报道所引对比，并非本片实测"
+          ? "TechSpot · 2026-04-13 · “移除”为其报道用词"
+          : "Tom’s Hardware 性能对比报道 · 2026-04-11"
       }
     >
       <Sequence from={Math.round(headline * fps)} name="未用时段：安魂曲官方片">

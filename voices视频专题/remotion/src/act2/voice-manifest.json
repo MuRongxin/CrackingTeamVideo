@@ -320,19 +320,22 @@
     "sha256": "f03c4740d0ef643d17872421240cc80f2f567e53ce8fae9021f431e8c6e36c42"
   },
   {
-    "id": 52,
-    "file": "v38/vo/sentence-52.wav",
-    "duration": 5.50312925170068,
-    "original": "sentence_52_能破解这些游戏不代表他已经有能力对付那些.wav",
-    "source": "voices视频专题/videoVoices/sentence_52_能破解这些游戏不代表他已经有能力对付那些.wav",
-    "sha256": "954c04e097d1e6b163bc534ecd8e03d04f385758cbe33f330980041918a06cb1"
-  },
-  {
     "id": 53,
     "file": "v38/vo/sentence-53.wav",
     "duration": 2.948934240362812,
     "original": "sentence_53_这个判断是否准确当时还没人知道.wav",
     "source": "voices视频专题/videoVoices/sentence_53_这个判断是否准确当时还没人知道.wav",
     "sha256": "5edb8fd02ac79e397f4c5215f1fd585c50aac6a263e67002e86c43dee7d943c8"
+  },
+  {
+    "id": 309,
+    "file": "v38/vo/sentence-309.wav",
+    "duration": 5.526349206349207,
+    "source": "voices视频专题/videoVoices/sentence_309_review.wav",
+    "original": "sentence_309_review.wav",
+    "sha256": "5b6ac52724dac0ccc2893c625ee345793a2c1892e9181148e2bffc736d1e74ea",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14-review-fixes/request-309.json",
+    "replaces": 52
   }
 ]

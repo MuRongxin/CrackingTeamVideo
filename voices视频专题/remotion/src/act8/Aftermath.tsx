@@ -31,7 +31,7 @@ export const ReportedDisbanding = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A8-10 · 波及另一个团队"
-      source="MK13 / Tom’s Hardware · 2026-09-28；其所链接 CrackWatch 转帖｜流传截图，未独立核实"
+      source="Tom’s Hardware · 2026-09-28 · 报道所引网传截图"
     >
       <Eyebrow style={{ color: C.yellow }}>
         {t < report
@@ -152,7 +152,7 @@ export const Contrast = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A8-11 · 两种反应"
-      source="V20 的当事人公开回复 / MK13 的解散报道｜分别保留说话主体"
+      source="voices38 公开回复 / Tom’s Hardware 报道"
     >
       <AbsoluteFill
         style={{
@@ -244,7 +244,7 @@ export const NoFarewell = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A8-12 · 没有告别信"
-      source="历史对照：EMPRESS 公开告别长文 / DenuvOwO：MK13 所引流传截图；无团队正式告别声明"
+      source="EMPRESS 告别声明 / DenuvOwO 网传聊天截图"
     >
       <Eyebrow style={{ color: C.yellow }}>告别留下了什么 / THE RECORD</Eyebrow>
       <div

@@ -15,7 +15,7 @@ export const Rivals = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="路线不同 / 关系如何"
-      source="DenuvOwO 标识：V13 原配图｜voices38 字标：V18 原始 NFO｜叙事设问"
+      source=""
     >
       <div
         style={{
@@ -103,7 +103,7 @@ export const Clarification = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="KiriGiri 的澄清 / 2026.04"
-      source="原标识及报道段落截图：游民星空 V13｜连接为交流关系图解，不是 Discord 聊天记录"
+      source="KiriGiri 公开回应 · 游民星空转述"
     >
       <div
         style={{
@@ -273,7 +273,7 @@ export const Meanwhile = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="在等待期间 / 先有得玩"
-      source="KiriGiri 的定义据 V13 转述｜游戏科学官方画面；不表示某个破解版本实测"
+      source="KiriGiri 公开回应 · 游戏画面：游戏科学"
     >
       <Film name="wukong-play" />
       <Shade side="bottom" />

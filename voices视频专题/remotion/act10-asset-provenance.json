@@ -166,8 +166,8 @@
     "author": "本项目原创合成",
     "rights": "本项目原创，无外部采样",
     "status": "exported",
-    "sha256": "0abbef629ac5ae6a50a28b46d4bcab320c92f5fc8116901c8a701c58ba806ae6",
-    "bytes": 3666444,
+    "sha256": "e52a1cdf8e31f7d8f9c127a9cb81884d1d747685be3e5380567619000b6d384c",
+    "bytes": 3678444,
     "note": "正弦音与少量泛音合成，无打击节拍；第八镜末尾前已退静，最后一句无音乐。",
     "ledger_path": "media/05_audio/original/V38_A10_epilogue.wav"
   }

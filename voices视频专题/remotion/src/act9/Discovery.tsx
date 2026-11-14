@@ -26,7 +26,7 @@ export const EarlyDiscovery = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-01 · 提前取证"
-      source="Denuvo 提前取证申请 · DOC15 / TorrentFreak · 2026.10.06"
+      source="Denuvo 提前取证申请 · TorrentFreak · 2026-10-06"
     >
       <Beat to={before} name="申请原件" paper>
         <Tag>2026.10 / 提前取证申请</Tag>
@@ -103,7 +103,7 @@ export const PriorContact = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-02 · 直接找过平台"
-      source="TorrentFreak · 按 Denuvo 申请材料中的说法"
+      source="TorrentFreak · 转述 Denuvo 的申请材料"
     >
       <Beat to={no} name="直接联系的原文" paper>
         <Tag>在申请传票之前</Tag>
@@ -204,7 +204,7 @@ export const DataScope = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-03 · 请求的数据"
-      source="原始请求范围 · TorrentFreak / V21、V24"
+      source="TorrentFreak · Denuvo 的原始数据请求"
     >
       {items.map(([label, source, brand], i) => (
         <Beat
@@ -290,36 +290,33 @@ export const ProceduralOrder = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-04 · 先补拟议命令"
-      source="美国加州北区法院官网 / 法院命令 DOC24 · 2026.10.08"
+      source="加州北区联邦法院命令 · 2026-10-08"
     >
-      <Beat to={issue} name="法官与日期" paper>
-        <Source
-          name="judge.webp"
-          style={{
-            ...pos,
-            left: 0,
-            top: 0,
-            width: 760,
-            height: 900,
-            objectFit: "cover",
-            objectPosition: "center 20%",
-          }}
-        />
-        <Tag style={{ left: 890 }}>美国加州北区联邦法院</Tag>
-        <NumberDate style={{ left: 880, top: 245, color: red, fontSize: 190 }}>
-          10.08
-        </NumberDate>
-        <Line style={{ left: 890, top: 510, fontSize: 65 }}>
-          Haywood S.
-          <br />
-          Gilliam Jr.
-        </Line>
-        <div style={{ ...pos, left: 890, top: 710, fontSize: 36 }}>
-          法官发出命令
+      <Beat to={issue} name="签发的法院命令" paper>
+        <Tag>美国加州北区联邦法院</Tag>
+        <div style={{ ...pos, left: 110, top: 180, width: 620, overflow: "hidden" }}>
+          <div style={{ ...mono, fontSize: 27, color: "#879593", letterSpacing: 4 }}>2026 / OCTOBER</div>
+          <NumberDate style={{ position: "relative", left: 0, top: 25, color: red,
+            fontSize: 185, translate: `0 ${lerp(t, 0, 0.48, 160, 0)}px` }}>10.08</NumberDate>
+        </div>
+        <div style={{ ...pos, left: 115, top: 490, width: 520, height: 3,
+          background: red, transformOrigin: "left", scale: `${lerp(t, 0.2, 0.9)} 1` }} />
+        <Line style={{ top: 550, fontSize: 80 }}>法院发出命令</Line>
+        <div style={{ ...pos, left: 115, top: 675, fontSize: 31, color: "#677774",
+          opacity: lerp(t, 0.6, 1) }}>Haywood S. Gilliam Jr. 签发</div>
+        <div style={{ ...pos, left: 820, top: 170, width: 995, height: 630,
+          background: "white", boxShadow: "0 30px 65px #1113",
+          translate: `0 ${lerp(t, 0, 0.6, 190, 0)}px`,
+          clipPath: `inset(0 0 ${100 * (1 - lerp(t, 0, 0.65))}% 0)` }}>
+          <div style={{ ...mono, position: "absolute", left: 45, top: 30,
+            fontSize: 22, color: "#75817e" }}>CASE 4:26-cv-10423-HSG / DOCUMENT 24</div>
+          <Archive name="procedure" x={45} y={135} width={905} />
+          <div style={{ position: "absolute", left: 45, right: 45, top: 370, borderTop: "1px solid #ccc" }} />
+          <Archive name="judge-signature" x={340} y={415} width={605} />
         </div>
       </Beat>
       <Beat from={issue} to={missing} name="原件里的程序要求" paper>
-        <Tag>DOC24 / 程序问题</Tag>
+        <Tag>法院要求 / 程序问题</Tag>
         <Archive name="procedure" x={100} y={270} width={1720} />
         <Line
           style={{
@@ -333,35 +330,27 @@ export const ProceduralOrder = ({ timing }: Props) => {
         <Rule at={required} />
       </Beat>
       <Beat from={missing} to={remind} name="缺失的附件">
-        <Archive
-          name="procedure"
-          x={-200}
-          y={140}
-          width={2300}
-          style={{ opacity: 0.2 }}
-        />
-        <div
-          style={{
-            ...pos,
-            left: 340,
-            top: 250,
-            width: 1240,
-            height: 380,
-            border: "4px dashed #9cb1b9",
-          }}
-        />
-        <Line
-          style={{
-            left: 0,
-            width: 1920,
-            top: 380,
-            fontSize: 160,
-            textAlign: "center",
-            color: C.yellow,
-          }}
-        >
-          没有附上
-        </Line>
+        <Tag light>提前取证 / 申请与附件</Tag>
+        <Archive name="procedure" x={-200} y={80} width={2300} style={{ opacity: 0.1 }} />
+        <div style={{ ...pos, left: 180, top: 265, width: 490, height: 390,
+          background: C.paper, color: C.ink, boxShadow: "0 20px 60px #0006",
+          translate: `${lerp(t, missing, missing + 0.55, -220, 0)}px 0` }}>
+          <div style={{ ...mono, padding: "35px 40px", fontSize: 22, color: red }}>FILED / 申请</div>
+          <div style={{ padding: "20px 40px", fontSize: 65 }}>提前取证</div>
+          {[0,1,2].map(i=><div key={i} style={{ margin: "20px 40px", height: 2,
+            width: 365-i*40, background: "#16213a35" }} />)}
+        </div>
+        <svg width={1920} height={1080} style={pos}>
+          <path d="M690 460 H1060" stroke={mint} strokeWidth={4} fill="none"
+            strokeDasharray="10 14" strokeDashoffset={-Math.min(0.8, t-missing)*150} />
+          <path d="M1030 440 L1060 460 L1030 480" fill="none" stroke={mint} strokeWidth={4} />
+        </svg>
+        <div style={{ ...pos, left: 1100, top: 265, width: 610, height: 390,
+          border: `3px dashed ${red}`, opacity: lerp(t, missing+0.2, missing+0.5),
+          clipPath: `inset(0 ${100*(1-lerp(t, missing+0.2, missing+0.7))}% 0 0)` }}>
+          <div style={{ ...mono, padding: "35px 40px", fontSize: 22, color: mint }}>REQUIRED / 拟议命令</div>
+          <div style={{ padding: "25px 40px", fontSize: 100, color: C.yellow }}>没有附上</div>
+        </div>
       </Beat>
       <Beat from={remind} name="补交并遵守规定" paper>
         <Tag>法院要求补交</Tag>
@@ -401,7 +390,7 @@ export const Privacy = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-05 · 为什么需要这么多"
-      source="法院命令 DOC24 · 识别、送达与隐私顾虑"
+      source="加州北区联邦法院命令 · 取证范围与隐私"
     >
       <Beat to={purpose} name="命令继续往下" paper>
         <Tag>然后才是重点</Tag>
@@ -511,7 +500,7 @@ export const Narrowing = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-06 · 46缩成9"
-      source="Denuvo 修改申请 DOC25 / TorrentFreak · 九项对应九个账号目标"
+      source="Denuvo 修改后的取证申请 · TorrentFreak"
     >
       <Beat to={remove} name="撤去三十七项请求">
         <Tag light>修改申请</Tag>
@@ -611,7 +600,7 @@ export const Pseudonym = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-07 · 只有一个化名"
-      source="Denuvo 修改申请 DOC25 · 第3页原句"
+      source="Denuvo 修改后的取证申请"
     >
       <Beat to={quote} name="从段落靠近原句" paper>
         <Tag>修改申请 / Denuvo 写道</Tag>
@@ -666,7 +655,7 @@ export const Permission = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-08 · 批准与期限"
-      source="法院命令 DOC26 · 2026.10.16 / 资料期限据 TorrentFreak"
+      source="法院准许取证命令 · 2026-10-16 · TorrentFreak"
     >
       <Beat to={deadline} name="准许有限取证" paper>
         <Tag>2026.10.16 / 法院批准修改后的请求</Tag>

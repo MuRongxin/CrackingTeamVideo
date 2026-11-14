@@ -196,9 +196,9 @@ export const Evidence = ({ timing }: { timing: ShotTiming }) => {
       <Act1Source>
         {
           [
-            "当事人发布｜V06｜NFO 原图局部",
-            "社区帖子｜V18｜原题文本重排",
-            "当事人发布｜V06｜PROPER 说明原图局部",
+            "voices38《死亡空间》发行说明",
+            "Reddit · r/CrackWatch 发布帖",
+            "voices38《死亡空间》PROPER 发行说明",
           ][phase]
         }
       </Act1Source>
@@ -349,7 +349,7 @@ export const Unknown = ({ timing }: { timing: ShotTiming }) => {
         </svg>
       </div>
       <Act1Source>
-        公开发行文件｜V06、V07｜真实 NFO 局部 · 并非身份鉴定
+        voices38《死亡空间》发行说明
       </Act1Source>
     </Act1Scene>
   );
@@ -541,8 +541,8 @@ export const Pronoun = ({ timing }: { timing: ShotTiming }) => {
       </div>
       <Act1Source>
         {court > 0.5
-          ? "法院文件｜起诉书 Dkt. 1｜身份未明的个人或实体"
-          : "当事人发布｜V06 PROPER NFO｜第一人称原文节选"}
+          ? "Denuvo 起诉书 · 被告身份描述"
+          : "voices38《死亡空间》PROPER 发行说明"}
       </Act1Source>
     </Act1Scene>
   );

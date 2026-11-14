@@ -30,7 +30,7 @@ export const DeadSpace = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026.01.11 / DEAD SPACE REMAKE"
-      source="EA 官方游戏素材｜KIND 原文：Pew-Pew at Zombies in Space · V06"
+      source="voices38《死亡空间》发行说明 · 游戏画面：EA"
     >
       <Still src="v38/act3/dead-space.jpg" dim={0.05} />
       <Clip src="v38/act3/footage/corridor.mp4" duration={1.8} dim={0.05} />
@@ -171,7 +171,7 @@ export const ProperWord = ({ timing }: { timing: ShotTiming }) => {
     <Stage
       light
       label="版本名里 / 多了一个词"
-      source="V06 发行名原图｜PROPER 术语示意，不代表官方认证"
+      source="voices38《死亡空间》PROPER 发行说明"
     >
       <Grid />
       <div
@@ -290,7 +290,7 @@ export const EarlierBeta = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="同一款游戏 / 几天前的另一条路线"
-      source="V06、V08｜发行背景与 Hypervisor 路线 · 此处只示意发行先后"
+      source="发行记录：Reddit · r/CrackWatch"
     >
       <Still src="v38/act3/motion/dead-space-alt.jpg" dim={0.38} />
       <div
@@ -456,7 +456,7 @@ export const Criticism = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="PROPER NOTES / voices38 怎样评价先前方案"
-      source="V06｜下列批评均为 voices38 自述；电脑故障画面是语义示意，不是本片实测"
+      source="技术批评：voices38《死亡空间》PROPER 发行说明"
     >
       <Grid />
       <div
@@ -650,7 +650,7 @@ export const OwnProper = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="然后 / 他介绍自己的版本"
-      source="V06｜voices38 的自述与兼容性主张，未作独立实测"
+      source="兼容性主张：voices38《死亡空间》发行说明"
     >
       <Grid color={C.yellow} />
       <div
@@ -751,7 +751,7 @@ export const ThreeDays = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="三天后 / 2026.01.14"
-      source="V06 / V07｜原始发行字段 · 同一署名的后续 CRACKFIX"
+      source="voices38《死亡空间》发行说明 · 2026-01-11 / 01-14"
     >
       <Grid color={C.red} />
       <div
@@ -853,7 +853,7 @@ export const Sorry = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="CRACKFIX NOTES / 他的承认与补救"
-      source="V07｜原始 NFO 声明 · 漏项、修复和工具轨迹均为语义示意"
+      source="voices38《死亡空间》CRACKFIX 发行说明 · 2026-01-14"
     >
       <Grid />
       <div
@@ -981,7 +981,7 @@ export const ThreeDaysApart = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label={after ? "01.14 / 三天后" : "01.11 / 三天前"}
-      source="V06 / V07｜同一个署名，两份原始说明 · 此处保留有意的硬切"
+      source="voices38《死亡空间》发行说明 · 2026-01-11 / 01-14"
     >
       <div
         style={{ ...pos, inset: 0, background: after ? "#141014" : "#0a1720" }}
@@ -1042,7 +1042,7 @@ export const EarlierFix = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="发行之后，修复仍在继续"
-      source="P04、P05｜RELOADED 原始 NFO · Windows XP SP2 限制为发行者自述"
+      source="RELOADED《细胞分裂：混沌理论》发行说明 · 2006-05"
     >
       <Grid color={C.blue} />
       <div

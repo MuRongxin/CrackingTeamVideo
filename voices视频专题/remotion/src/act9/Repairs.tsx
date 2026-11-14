@@ -14,7 +14,7 @@ export const Onimusha = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-16 · 鬼武者与修复"
-      source="发行索引 xREL / iXBT.games · 背景：Capcom 官方预告"
+      source="发行记录：xREL / iXBT.games · 游戏画面：CAPCOM"
     >
       <Film name="onimusha-release" />
       <Beat to={next} name="作品与发行" clear>
@@ -105,7 +105,7 @@ export const RepairReport = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-17 · 修复的是游戏"
-      source="据 iXBT.games 报道 / V28 · 游戏画面为官方预告"
+      source="iXBT.games · 《鬼武者》修复报道 · 游戏画面：CAPCOM"
     >
       <Film name="onimusha-fix" />
       <Beat to={paid} name="修复启动崩溃的原文" clear>

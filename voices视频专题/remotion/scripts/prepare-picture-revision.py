@@ -49,3 +49,7 @@ for src,name in [
     original=repo/src;dst=pub/name;shutil.copy2(original,dst)
     manifest.append(dict(path=str(dst.relative_to(repo)),derived_from=src,status='copied',sha256=sha(dst)))
 (project/'picture-revision-provenance.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
+
+# Retain the reviewed true-HD Tiger Vanguard replacement on future rebuilds.
+if (repo/"media/02_footage/V38_TIGER_ONGBAL_0-45_1080p.webm").exists():
+    subprocess.run(["python3",str(project/"scripts/prepare-review-tiger.py")],check=True)

@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_300",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A9-20 / 新增或替换旁白 300",
+  "path": "media/05_audio/narration/V38_TTS_300.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/300.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "e3a935ec9888e4299eab422dec8aa16855505da8a3e1b3aa7a1c60d79c955f38",
+  "bytes": 220204,
+  "source_sha256": "e3a935ec9888e4299eab422dec8aa16855505da8a3e1b3aa7a1c60d79c955f38",
+  "text": "KIND 一栏，还是熟悉的玩笑：一串引擎声，后面跟着一句粗口。",
+  "tts_text": "KIND 一栏，还是熟悉的玩笑：一串引擎声，后面跟着一句粗口。",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

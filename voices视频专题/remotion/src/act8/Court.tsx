@@ -28,7 +28,7 @@ export const Filing = ({ timing }: { timing: ShotTiming }) => {
     <Stage
       name="A8-01 · 一份起诉书"
       paper
-      source="COURT_COMPLAINT｜2026-09-14 提交的起诉书原件；此处为原告诉讼主张"
+      source="Denuvo 起诉书 · 原告主张 · 2026-09-14"
     >
       <Eyebrow>08 / 一份起诉书</Eyebrow>
       <div
@@ -131,7 +131,7 @@ export const Games = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A8-02 · 26款游戏"
-      source="诉状第5、7、8页｜画面：《霍格沃茨之遗》官方预告；非破解版本实测"
+      source="Denuvo 起诉书 · 游戏画面：《霍格沃茨之遗》官方预告"
     >
       <Video
         src={publicAsset("v38/act8/hogwarts-list.mp4")}
@@ -237,7 +237,7 @@ export const Circumvention = ({ timing }: { timing: ShotTiming }) => {
     <Stage
       name="A8-03 · 反规避条款"
       paper
-      source="诉状第10—12页 / 17 U.S.C. §1201(a)(1)、(a)(2)｜诉讼依据，不表示法院已认定违法"
+      source="Denuvo 起诉书 · 《数字千年版权法》反规避条款"
     >
       <Eyebrow style={{ color: red }}>诉讼的依据 / LEGAL BASIS</Eyebrow>
       <div
@@ -395,7 +395,7 @@ export const FirstCase = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A8-05 · 据其所知"
-      source="V20｜TorrentFreak 原报道；“据其所知”的限定保留"
+      source="TorrentFreak · Denuvo 起诉 voices38 报道"
     >
       <div
         style={{
@@ -460,7 +460,7 @@ export const Injunction = ({ timing }: { timing: ShotTiming }) => {
     <Stage
       name="A8-06 · 未来的游戏"
       paper
-      source="诉状第13页 PRAYER FOR RELIEF｜原告请求的禁令范围，并非已经获批的法院命令"
+      source="Denuvo 起诉书 · 原告请求的禁令范围"
     >
       <Eyebrow style={{ color: red }}>原告请求 / PRAYER FOR RELIEF</Eyebrow>
       <div style={{ ...pos, left: 100, top: 165, fontSize: 96 }}>请求禁令</div>

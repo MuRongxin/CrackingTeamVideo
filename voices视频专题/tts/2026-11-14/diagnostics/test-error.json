@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>é¡µé¢æªæ¾å°</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;display:grid;place-items:center;padding:32px 0;background:#f6f8fb;color:#182230;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}.card{width:min(720px,calc(100% - 32px));padding:48px;background:#fff;border:1px solid #e5e9f0;border-radius:16px;box-shadow:0 12px 36px rgba(20,34,54,.08)}.code{display:inline-block;padding:5px 11px;border-radius:20px;background:#fff1f0;color:#d92d20;font-weight:700}.title{margin:20px 0 10px;font-size:32px;line-height:1.3}.lead{margin:0;font-size:17px;line-height:1.8;color:#475467}.tips{margin-top:26px}.tips-title{margin:0 0 12px;font-size:16px;color:#344054}.tips ol{display:grid;gap:12px;margin:0;padding:0;list-style:none;counter-reset:step}.tips li{position:relative;padding:18px 20px 18px 64px;background:#f8fafc;border:1px solid #edf1f5;border-radius:12px;counter-increment:step}.tips li::before{content:counter(step);position:absolute;top:18px;left:20px;display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#e8f0ff;color:#175cd3;font-weight:700}.tips strong{display:block;margin-bottom:6px;color:#1d2939;font-size:16px;line-height:1.6}.tips p{margin:0;color:#475467;line-height:1.7}.highlight{color:#d92d20;font-weight:700}.foot{margin:24px 0 0;color:#667085;font-size:14px;line-height:1.7}@media(max-width:560px){body{padding:16px 0}.card{padding:30px 24px}.title{font-size:27px}.tips li{padding:16px 16px 16px 56px}.tips li::before{top:16px;left:16px}}
+  </style>
+</head>
+<body>
+  <main class="card">
+    <span class="code">404 Not Found</span>
+    <h1 class="title">é¡µé¢æªæ¾å°</h1>
+    <p class="lead">å½åå°åæ²¡æå¯è®¿é®çé¡µé¢ï¼è¯·æ£æ¥è®¿é®å°ååç«¯å£éç½®ã</p>
+    <section class="tips" aria-labelledby="tips-title">
+      <h2 class="tips-title" id="tips-title">è¯·åç¡®è®¤ä»¥ä¸æåµ</h2>
+      <ol>
+        <li>
+          <strong>æ£æ¥è®¿é®å°å</strong>
+          <p>ç¡®è®¤ååãè·¯å¾åç«¯å£æ¯å¦æ­£ç¡®ï¼é¿åä½¿ç¨å·²å¤±æçåå²å°åã</p>
+        </li>
+        <li>
+          <strong>æ£æ¥ HTTP ç«¯å£æ¯å¦å·²å¼æ¾</strong>
+          <p>åå¾<span class="highlight">ãæ´å¤ â éç½®å¼æ¾ç«¯å£ã</span>ï¼ç¡®è®¤å½åæå¡ä½¿ç¨ç HTTP ç«¯å£å·²æ­£ç¡®å¼æ¾ã</p>
+        </li>
+      </ol>
+    </section>
+    <p class="foot">è¥éç½®æ è¯¯ï¼è¯·è¿ååºç¨å¥å£éæ°è®¿é®æèç³»ææ¯æ¯æã</p>
+  </main>
+</body>
+</html>

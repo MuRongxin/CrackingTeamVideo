@@ -1,3 +1,4 @@
+import { matchesSpokenCue } from "../captionCue";
 import captions from "../captions.json";
 import type { ShotTiming } from "../timing";
 
@@ -7,7 +8,7 @@ export const voiceCue = (timing: ShotTiming, id: number, phrase: string) => {
     captions as Record<string, { text: string; startMs: number }[]>
   )[id];
   const caption = rows.find((row) =>
-    row.text.replace(/\n/g, "").includes(phrase),
+    matchesSpokenCue(row.text, phrase),
   );
   if (!voice || !caption)
     throw new Error(`Missing narration landmark: ${id} / ${phrase}`);

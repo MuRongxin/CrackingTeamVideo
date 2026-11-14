@@ -215,7 +215,7 @@ export const OldGame = ({ timing }: { timing: ShotTiming }) => {
       >
         v1.7.1
       </div>
-      <SourceTag>游戏画面｜官方宣传片／官方静帧（Steam）</SourceTag>
+      <SourceTag>游戏画面：SEGA 官方资料</SourceTag>
     </Scene>
   );
 };
@@ -267,7 +267,7 @@ export const Signature = ({ timing }: { timing: ShotTiming }) => {
           <Rule color="#e9ede66a" progress={lerp(t, 0.4, 1.5)} />
         </div>
       </div>
-      <SourceTag>数据库快照｜xREL｜2025-10-14 17:44</SourceTag>
+      <SourceTag>xREL 发行记录 · 2025-10-14</SourceTag>
     </Scene>
   );
 };
@@ -354,7 +354,6 @@ export const WhatNfo = ({ timing }: { timing: ShotTiming }) => {
         <div style={{ fontSize: 45 }}>说明文件</div>
       </div>
       <TinyNote>随发行附带的文字说明</TinyNote>
-      <SourceTag>概念示意</SourceTag>
     </Scene>
   );
 };
@@ -449,7 +448,7 @@ export const OldNfo = ({ timing }: { timing: ShotTiming }) => {
         )}
       </div>
       <SourceTag>
-        Scene 发行 NFO｜RELOADED｜2006-05 · NFOHump 渲染存档
+        RELOADED 发行说明 · NFOHump 存档
       </SourceTag>
     </Scene>
   );
@@ -540,7 +539,7 @@ export const TinyNfo = () => {
       >
         0.34 <span style={{ fontSize: 45 }}>KB</span>
       </div>
-      <SourceTag>数据库快照｜xREL｜NFO 大小</SourceTag>
+      <SourceTag>voices38 发行说明 · xREL</SourceTag>
     </Scene>
   );
 };
@@ -663,7 +662,7 @@ export const FewLines = ({ timing }: { timing: ShotTiming }) => {
       >
         {String(count).padStart(2, "0")} / 13
       </div>
-      <SourceTag>据 xREL 存档 NFO 文字重排｜2025-10-14</SourceTag>
+      <SourceTag>voices38 发行说明节选 · 2025-10-14</SourceTag>
     </Scene>
   );
 };

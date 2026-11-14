@@ -176,14 +176,6 @@
     "sha256": "1d1591709344e399173540cb927b97a71796f55806b6e8b5a20f65e80372b9bf"
   },
   {
-    "id": 126,
-    "file": "v38/vo/sentence-126.wav",
-    "duration": 5.143219954648526,
-    "original": "sentence_126_他表示从下一次发布开始就要尝试处理更新更.wav",
-    "source": "voices视频专题/videoVoices/sentence_126_他表示从下一次发布开始就要尝试处理更新更.wav",
-    "sha256": "4501309fb7258b5df1fcf71cad61abc466856abb817af4771e9ae3ec946da961"
-  },
-  {
     "id": 127,
     "file": "v38/vo/sentence-127.wav",
     "duration": 4.702040816326531,
@@ -262,5 +254,16 @@
     "original": "sentence_136_但这些匿名支持者提供的资金也确实让他有了.wav",
     "source": "voices视频专题/videoVoices/sentence_136_但这些匿名支持者提供的资金也确实让他有了.wav",
     "sha256": "6438ef20a37ef96263c57e350ed7b36fd3f6c28c2bf090d5329ae2cf23852fbb"
+  },
+  {
+    "id": 310,
+    "file": "v38/vo/sentence-310.wav",
+    "duration": 5.77015873015873,
+    "source": "voices视频专题/videoVoices/sentence_310_review.wav",
+    "original": "sentence_310_review.wav",
+    "sha256": "c3a89d9728e41b64912c6806b9863e70a68ae25e42381187f7c4e16dd14bb933",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14-review-fixes/request-310.json",
+    "replaces": 126
   }
 ]

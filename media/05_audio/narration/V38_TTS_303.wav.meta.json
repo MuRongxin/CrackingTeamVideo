@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_303",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A10-07 / 新增或替换旁白 303",
+  "path": "media/05_audio/narration/V38_TTS_303.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/303.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "58fd791af34072a8297a39db384ad257410832efa4c5ddd571dbd31709b3b24f",
+  "bytes": 189996,
+  "source_sha256": "58fd791af34072a8297a39db384ad257410832efa4c5ddd571dbd31709b3b24f",
+  "text": "一年后，旧账号已经不见了，新的署名又出现在发布帖上。",
+  "tts_text": "一年后，旧账号已经不见了，新的署名又出现在发布帖上。",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

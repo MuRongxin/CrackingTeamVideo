@@ -52,7 +52,7 @@ const assert = require("node:assert/strict");
       [14, 0.12],
       [14, 0.18],
       [14, 0.4],
-      ...Array.from({ length: 17 }, (_, i) => [i + 1, 0.9]),
+      ...Array.from({ length: 20 }, (_, i) => [i + 1, 0.9]),
       [16, 0.4],
       [10, 0.7],
       [4, 0.5],
@@ -122,7 +122,7 @@ const assert = require("node:assert/strict");
             beat: [...stage.querySelectorAll("[data-act9-beat]")]
               .map((el) => el.dataset.act9Beat)
               .join("/"),
-            sources: [...stage.querySelectorAll("[data-act9-source]")].map(
+            sources: [...stage.querySelectorAll("[data-act9-source], [data-act10-source]")].map(
               (el) => {
                 const r = el.getBoundingClientRect();
                 return {

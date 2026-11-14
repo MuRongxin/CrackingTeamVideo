@@ -51,8 +51,9 @@ export const Act1Source = ({
 }: {
   children: React.ReactNode;
   paper?: boolean;
-}) => (
+}) => children ? (
   <div
+    data-source-credit
     style={{
       position: "absolute",
       left: 72,
@@ -70,7 +71,7 @@ export const Act1Source = ({
   >
     {children}
   </div>
-);
+) : null;
 
 export const Act1Kicker = ({
   children,

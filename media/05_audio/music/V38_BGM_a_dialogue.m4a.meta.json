@@ -1,0 +1,22 @@
+{
+  "id": "V38_BGM_a_dialogue",
+  "task": "AU15",
+  "kind": "audio",
+  "title": "❌",
+  "path": "media/05_audio/music/V38_BGM_a_dialogue.m4a",
+  "derived_from": "media/05_audio/music/V38_USER_BGM_a.mp3",
+  "source_sha256": "8fcc27be83bab88546fef0151fdc6e43af37722868e92c353718db94935e39ec",
+  "source_page": "用户提供本地文件",
+  "author": "Ala",
+  "rights": "用户提供用于本片配乐；原曲权利保留，公开使用条件未另行核实",
+  "status": "exported",
+  "sha256": "76833ce9700ecb1bee14ea9a0e7f819c962cc8ff9b8b7ff6c99b637e28fc968b",
+  "bytes": 3246473,
+  "note": "48kHz立体声AAC；65Hz高通、2.2kHz轻削减，统一约-21 LUFS；原速，源MP3未修改。",
+  "filters": "highpass=f=65,equalizer=f=2200:t=q:w=0.8:g=-3,loudnorm=I=-21:TP=-2:LRA=11:measured_I=-16.92:measured_TP=1.10:measured_LRA=8.30:measured_thresh=-28.14:offset=0:linear=true,atrim=start=0:end=130.7,asetpts=PTS-STARTPTS",
+  "selected_range_seconds": [
+    0,
+    130.7
+  ],
+  "trim_note": "BGM1去掉130.7秒后的衰减及长静音；原始MP3保留"
+}

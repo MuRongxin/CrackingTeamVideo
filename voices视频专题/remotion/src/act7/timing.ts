@@ -1,3 +1,4 @@
+import { matchesSpokenCue } from "../captionCue";
 import { getAudioDurationInSeconds } from "@remotion/media-utils";
 import { staticFile, type CalculateMetadataFunction } from "remotion";
 import { FPS, totalFrames, type ActProps, type ShotTiming } from "../timing";
@@ -52,7 +53,7 @@ export const say = (timing: ShotTiming, id: number, text?: string) => {
     captions as Record<string, { text: string; startMs: number }[]>
   )[id];
   const cue = text
-    ? rows.find((c) => c.text.replace(/\n/g, "").includes(text))
+    ? rows.find((c) => matchesSpokenCue(c.text, text))
     : null;
   if (text && !cue) throw Error("Missing cue " + id + ": " + text);
   return v.start + (cue?.startMs ?? 0) / 1000;

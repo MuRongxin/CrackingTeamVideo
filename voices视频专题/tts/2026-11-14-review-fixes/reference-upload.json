@@ -1,0 +1,6 @@
+{
+  "code": 200,
+  "msg": "上传成功!",
+  "original_file": "voices38_narration_reference.wav",
+  "stored_file": "/workspace/index-tts/prompts/3f53cc590be118bc12dc11d73c1b1c1b.wav"
+}

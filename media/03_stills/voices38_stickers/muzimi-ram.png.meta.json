@@ -1,0 +1,26 @@
+{
+  "id": "V38_MUZIMI_ram",
+  "task": "MG15",
+  "kind": "image",
+  "title": "睦子米 / 咬牙",
+  "path": "media/03_stills/voices38_stickers/muzimi-ram.png",
+  "derived_from": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/no_background_ai/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNGZ2U2FhSmNZNWlNIQUAcXVuZ3o!.png",
+  "source_sha256": "bfdf9a516745021b68c8ea6eb5ec3848ef8598172d2c048ed01ea01264ed4914",
+  "sha256": "bfdf9a516745021b68c8ea6eb5ec3848ef8598172d2c048ed01ea01264ed4914",
+  "bytes": 1625196,
+  "width": 1254,
+  "height": 1254,
+  "alpha_bbox": [
+    13,
+    0,
+    1179,
+    1254
+  ],
+  "status": "exported",
+  "author": "用户提供 / 睦子米表情包系列",
+  "source_page": "用户指定本地贴纸目录",
+  "rights": "用户明确授权用于本片剪辑",
+  "source_original": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNGZ2U2FhSmNZNWlNIQUAcXVuZ3o!.jpeg",
+  "source_method": "image_gen AI background extraction; no local matte algorithm",
+  "note": "原PNG逐字节复制；不修改原贴纸，不增加背景；透明边距仅由CSS窗口裁切。"
+}

@@ -13,10 +13,9 @@ import {
 } from "./act4/Testing";
 import { DarkAges, FiveMonths, Conditions } from "./act4/Breakthrough";
 import { Act4Sound } from "./act4/Sound";
-const Act4Inner = ({ timings = initialAct4Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+export const act4Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A4-01 钱用来做什么"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -105,7 +104,15 @@ const Act4Inner = ({ timings = initialAct4Timings }: ActProps) => {
         <Narration timing={timings[10]} />
         <Act4Sound shot={11} timing={timings[10]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+    </>
+  );
+};
+const Act4Inner = ({ timings = initialAct4Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act4Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act4 = Interactive.create({

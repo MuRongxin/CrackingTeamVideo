@@ -1,0 +1,16 @@
+{
+  "a": {
+    "title": "❌",
+    "artist": "Ala",
+    "file": "v38/music/a.m4a",
+    "duration": 130.7,
+    "sha256": "76833ce9700ecb1bee14ea9a0e7f819c962cc8ff9b8b7ff6c99b637e28fc968b"
+  },
+  "b": {
+    "title": "ring a bell",
+    "artist": "用户文件未注明作者",
+    "file": "v38/music/b.m4a",
+    "duration": 174.667,
+    "sha256": "0f94b1810128c5f9849764baf398d9f3ac21d66a3ac171f4800ea5d12512ed35"
+  }
+}

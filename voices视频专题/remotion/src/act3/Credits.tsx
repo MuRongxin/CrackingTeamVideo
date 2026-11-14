@@ -11,7 +11,7 @@ export const Thanks = ({ timing }: { timing: ShotTiming }) => {
   const tool = say(timing, 74);
   const scroll = lerp(t, thanks, thanks + 0.8);
   return (
-    <A3Scene source="当事人致谢｜V16｜2025-11-18 · 据 NFO 文本存档重排">
+    <A3Scene source="voices38《极品飞车》发行说明 · 2025-11-18">
       <Header title="发行说明里，还写着别人的名字" right="GREETINGS" />
       <div
         style={{
@@ -110,7 +110,7 @@ export const SharedTool = ({ timing }: { timing: ShotTiming }) => {
   const join = say(timing, 78);
   const p = lerp(t, join, join + 1);
   return (
-    <A3Scene source="组件关系示意｜依据 V16 致谢 · EA 模拟器由 anadius 提供">
+    <A3Scene source="voices38 发行致谢 · EA 模拟器作者：anadius">
       <Header
         title="一个人的工具，成为另一次发行的组成部分"
         right="CREDIT / COMPONENT"

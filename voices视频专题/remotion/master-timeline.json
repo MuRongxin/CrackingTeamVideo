@@ -1,0 +1,1397 @@
+{
+  "fps": 60,
+  "totalFrames": 78179,
+  "scenes": [
+    {
+      "scene": "A1-01",
+      "from": 0,
+      "frames": 391,
+      "voices": [
+        1
+      ]
+    },
+    {
+      "scene": "A1-02",
+      "from": 391,
+      "frames": 224,
+      "voices": [
+        2
+      ]
+    },
+    {
+      "scene": "A1-03",
+      "from": 615,
+      "frames": 211,
+      "voices": [
+        3
+      ]
+    },
+    {
+      "scene": "A1-04",
+      "from": 826,
+      "frames": 239,
+      "voices": [
+        4
+      ]
+    },
+    {
+      "scene": "A1-05",
+      "from": 1065,
+      "frames": 236,
+      "voices": [
+        5
+      ]
+    },
+    {
+      "scene": "A1-08",
+      "from": 1301,
+      "frames": 138,
+      "voices": []
+    },
+    {
+      "scene": "A1-06",
+      "from": 1439,
+      "frames": 580,
+      "voices": [
+        6
+      ]
+    },
+    {
+      "scene": "A1-07",
+      "from": 2019,
+      "frames": 448,
+      "voices": [
+        7,
+        8
+      ]
+    },
+    {
+      "scene": "A1-09",
+      "from": 2467,
+      "frames": 354,
+      "voices": [
+        9
+      ]
+    },
+    {
+      "scene": "A1-10",
+      "from": 2821,
+      "frames": 320,
+      "voices": [
+        9
+      ]
+    },
+    {
+      "scene": "A1-11",
+      "from": 3141,
+      "frames": 849,
+      "voices": [
+        10,
+        11
+      ]
+    },
+    {
+      "scene": "A2-01",
+      "from": 3990,
+      "frames": 132,
+      "voices": []
+    },
+    {
+      "scene": "A2-02",
+      "from": 4122,
+      "frames": 442,
+      "voices": [
+        12
+      ]
+    },
+    {
+      "scene": "A2-03",
+      "from": 4564,
+      "frames": 162,
+      "voices": [
+        13
+      ]
+    },
+    {
+      "scene": "A2-04",
+      "from": 4726,
+      "frames": 341,
+      "voices": [
+        14
+      ]
+    },
+    {
+      "scene": "A2-05",
+      "from": 5067,
+      "frames": 553,
+      "voices": [
+        15,
+        16
+      ]
+    },
+    {
+      "scene": "A2-06",
+      "from": 5620,
+      "frames": 338,
+      "voices": [
+        17
+      ]
+    },
+    {
+      "scene": "A2-07",
+      "from": 5958,
+      "frames": 616,
+      "voices": [
+        18,
+        19
+      ]
+    },
+    {
+      "scene": "A2-08",
+      "from": 6574,
+      "frames": 851,
+      "voices": [
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "scene": "A2-09",
+      "from": 7425,
+      "frames": 537,
+      "voices": [
+        24
+      ]
+    },
+    {
+      "scene": "A2-10",
+      "from": 7962,
+      "frames": 282,
+      "voices": [
+        25
+      ]
+    },
+    {
+      "scene": "A2-11",
+      "from": 8244,
+      "frames": 521,
+      "voices": [
+        26
+      ]
+    },
+    {
+      "scene": "A2-12",
+      "from": 8765,
+      "frames": 800,
+      "voices": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "scene": "A2-13",
+      "from": 9565,
+      "frames": 448,
+      "voices": [
+        30,
+        31
+      ]
+    },
+    {
+      "scene": "A2-14",
+      "from": 10013,
+      "frames": 1232,
+      "voices": [
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "scene": "A2-15",
+      "from": 11245,
+      "frames": 482,
+      "voices": [
+        35
+      ]
+    },
+    {
+      "scene": "A2-16",
+      "from": 11727,
+      "frames": 792,
+      "voices": [
+        36,
+        37
+      ]
+    },
+    {
+      "scene": "A2-17",
+      "from": 12519,
+      "frames": 141,
+      "voices": [
+        38
+      ]
+    },
+    {
+      "scene": "A2-18",
+      "from": 12660,
+      "frames": 725,
+      "voices": [
+        39,
+        40
+      ]
+    },
+    {
+      "scene": "A2-19",
+      "from": 13385,
+      "frames": 1149,
+      "voices": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "scene": "A2-20",
+      "from": 14534,
+      "frames": 731,
+      "voices": [
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "scene": "A2-21",
+      "from": 15265,
+      "frames": 749,
+      "voices": [
+        50,
+        51,
+        309
+      ]
+    },
+    {
+      "scene": "A2-22",
+      "from": 16014,
+      "frames": 201,
+      "voices": [
+        53
+      ]
+    },
+    {
+      "scene": "A3-01",
+      "from": 16215,
+      "frames": 998,
+      "voices": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "scene": "A3-02",
+      "from": 17213,
+      "frames": 513,
+      "voices": [
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "scene": "A3-03",
+      "from": 17726,
+      "frames": 304,
+      "voices": [
+        61
+      ]
+    },
+    {
+      "scene": "A3-04",
+      "from": 18030,
+      "frames": 570,
+      "voices": [
+        62,
+        63
+      ]
+    },
+    {
+      "scene": "A3-05",
+      "from": 18600,
+      "frames": 536,
+      "voices": [
+        64,
+        65
+      ]
+    },
+    {
+      "scene": "A3-06",
+      "from": 19136,
+      "frames": 616,
+      "voices": [
+        66,
+        67,
+        68
+      ]
+    },
+    {
+      "scene": "A3-07",
+      "from": 19752,
+      "frames": 803,
+      "voices": [
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "scene": "A3-08",
+      "from": 20555,
+      "frames": 903,
+      "voices": [
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "scene": "A3-09",
+      "from": 21458,
+      "frames": 1028,
+      "voices": [
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "scene": "A3-10",
+      "from": 22486,
+      "frames": 789,
+      "voices": [
+        79,
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "scene": "A3-11",
+      "from": 23275,
+      "frames": 652,
+      "voices": [
+        83,
+        84,
+        85
+      ]
+    },
+    {
+      "scene": "A3-12",
+      "from": 23927,
+      "frames": 685,
+      "voices": [
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "scene": "A3-13",
+      "from": 24612,
+      "frames": 1046,
+      "voices": [
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "scene": "A3-14",
+      "from": 25658,
+      "frames": 439,
+      "voices": [
+        93,
+        94
+      ]
+    },
+    {
+      "scene": "A3-15",
+      "from": 26097,
+      "frames": 599,
+      "voices": [
+        95,
+        96
+      ]
+    },
+    {
+      "scene": "A3-16",
+      "from": 26696,
+      "frames": 711,
+      "voices": [
+        97,
+        98
+      ]
+    },
+    {
+      "scene": "A3-17",
+      "from": 27407,
+      "frames": 248,
+      "voices": [
+        99,
+        100
+      ]
+    },
+    {
+      "scene": "A3-18",
+      "from": 27655,
+      "frames": 862,
+      "voices": [
+        101,
+        102,
+        103
+      ]
+    },
+    {
+      "scene": "A4-01",
+      "from": 28517,
+      "frames": 1016,
+      "voices": [
+        104,
+        105,
+        106,
+        107
+      ]
+    },
+    {
+      "scene": "A4-02",
+      "from": 29533,
+      "frames": 756,
+      "voices": [
+        108,
+        109,
+        110,
+        111
+      ]
+    },
+    {
+      "scene": "A4-03",
+      "from": 30289,
+      "frames": 962,
+      "voices": [
+        112,
+        113,
+        114,
+        115
+      ]
+    },
+    {
+      "scene": "A4-04",
+      "from": 31251,
+      "frames": 608,
+      "voices": [
+        116,
+        117
+      ]
+    },
+    {
+      "scene": "A4-05",
+      "from": 31859,
+      "frames": 389,
+      "voices": [
+        118,
+        119
+      ]
+    },
+    {
+      "scene": "A4-06",
+      "from": 32248,
+      "frames": 586,
+      "voices": [
+        120,
+        121
+      ]
+    },
+    {
+      "scene": "A4-07",
+      "from": 32834,
+      "frames": 716,
+      "voices": [
+        122,
+        123,
+        124
+      ]
+    },
+    {
+      "scene": "A4-08",
+      "from": 33550,
+      "frames": 499,
+      "voices": [
+        125,
+        310
+      ]
+    },
+    {
+      "scene": "A4-09",
+      "from": 34049,
+      "frames": 718,
+      "voices": [
+        127,
+        128,
+        129
+      ]
+    },
+    {
+      "scene": "A4-10",
+      "from": 34767,
+      "frames": 484,
+      "voices": [
+        130,
+        131,
+        132
+      ]
+    },
+    {
+      "scene": "A4-11",
+      "from": 35251,
+      "frames": 821,
+      "voices": [
+        133,
+        134,
+        135,
+        136
+      ]
+    },
+    {
+      "scene": "A5-01",
+      "from": 36072,
+      "frames": 527,
+      "voices": [
+        137,
+        138
+      ]
+    },
+    {
+      "scene": "A5-02",
+      "from": 36599,
+      "frames": 458,
+      "voices": [
+        139,
+        140
+      ]
+    },
+    {
+      "scene": "A5-03",
+      "from": 37057,
+      "frames": 633,
+      "voices": [
+        141,
+        142,
+        143
+      ]
+    },
+    {
+      "scene": "A5-04",
+      "from": 37690,
+      "frames": 360,
+      "voices": [
+        144
+      ]
+    },
+    {
+      "scene": "A5-05",
+      "from": 38050,
+      "frames": 386,
+      "voices": [
+        145,
+        146
+      ]
+    },
+    {
+      "scene": "A5-06",
+      "from": 38436,
+      "frames": 458,
+      "voices": [
+        147,
+        148
+      ]
+    },
+    {
+      "scene": "A5-07",
+      "from": 38894,
+      "frames": 462,
+      "voices": [
+        149,
+        150
+      ]
+    },
+    {
+      "scene": "A6-01",
+      "from": 39356,
+      "frames": 389,
+      "voices": [
+        151,
+        152
+      ]
+    },
+    {
+      "scene": "A6-02",
+      "from": 39745,
+      "frames": 763,
+      "voices": [
+        153,
+        154,
+        155,
+        156
+      ]
+    },
+    {
+      "scene": "A6-03",
+      "from": 40508,
+      "frames": 713,
+      "voices": [
+        157,
+        158
+      ]
+    },
+    {
+      "scene": "A6-04",
+      "from": 41221,
+      "frames": 495,
+      "voices": [
+        159,
+        160
+      ]
+    },
+    {
+      "scene": "A6-05",
+      "from": 41716,
+      "frames": 656,
+      "voices": [
+        161,
+        162,
+        163
+      ]
+    },
+    {
+      "scene": "A6-06",
+      "from": 42372,
+      "frames": 837,
+      "voices": [
+        164,
+        165,
+        166,
+        167
+      ]
+    },
+    {
+      "scene": "A6-07",
+      "from": 43209,
+      "frames": 695,
+      "voices": [
+        168,
+        169,
+        170
+      ]
+    },
+    {
+      "scene": "A6-08",
+      "from": 43904,
+      "frames": 816,
+      "voices": [
+        171,
+        172,
+        173,
+        174
+      ]
+    },
+    {
+      "scene": "A6-09",
+      "from": 44720,
+      "frames": 813,
+      "voices": [
+        175,
+        176,
+        177
+      ]
+    },
+    {
+      "scene": "A6-10",
+      "from": 45533,
+      "frames": 708,
+      "voices": [
+        178,
+        179,
+        180
+      ]
+    },
+    {
+      "scene": "A6-11",
+      "from": 46241,
+      "frames": 640,
+      "voices": [
+        181,
+        182,
+        183
+      ]
+    },
+    {
+      "scene": "A6-12",
+      "from": 46881,
+      "frames": 214,
+      "voices": [
+        184
+      ]
+    },
+    {
+      "scene": "A6-13",
+      "from": 47095,
+      "frames": 1060,
+      "voices": [
+        185,
+        186,
+        187
+      ]
+    },
+    {
+      "scene": "A6-14",
+      "from": 48155,
+      "frames": 465,
+      "voices": [
+        188
+      ]
+    },
+    {
+      "scene": "A7-01",
+      "from": 48620,
+      "frames": 358,
+      "voices": [
+        189,
+        190
+      ]
+    },
+    {
+      "scene": "A7-02",
+      "from": 48978,
+      "frames": 635,
+      "voices": [
+        191,
+        192,
+        193
+      ]
+    },
+    {
+      "scene": "A7-03",
+      "from": 49613,
+      "frames": 1007,
+      "voices": [
+        194,
+        195,
+        196,
+        197
+      ]
+    },
+    {
+      "scene": "A7-04",
+      "from": 50620,
+      "frames": 973,
+      "voices": [
+        198,
+        199,
+        200
+      ]
+    },
+    {
+      "scene": "A7-05",
+      "from": 51593,
+      "frames": 928,
+      "voices": [
+        201,
+        202,
+        203
+      ]
+    },
+    {
+      "scene": "A7-06",
+      "from": 52521,
+      "frames": 578,
+      "voices": [
+        204,
+        205,
+        206
+      ]
+    },
+    {
+      "scene": "A7-07",
+      "from": 53099,
+      "frames": 667,
+      "voices": [
+        207,
+        208,
+        209
+      ]
+    },
+    {
+      "scene": "A7-08",
+      "from": 53766,
+      "frames": 268,
+      "voices": [
+        210
+      ]
+    },
+    {
+      "scene": "A8-01",
+      "from": 54034,
+      "frames": 282,
+      "voices": [
+        211
+      ]
+    },
+    {
+      "scene": "A8-02",
+      "from": 54316,
+      "frames": 871,
+      "voices": [
+        212,
+        213
+      ]
+    },
+    {
+      "scene": "A8-03",
+      "from": 55187,
+      "frames": 967,
+      "voices": [
+        214,
+        215,
+        216,
+        217
+      ]
+    },
+    {
+      "scene": "A8-04",
+      "from": 56154,
+      "frames": 530,
+      "voices": [
+        218,
+        219
+      ]
+    },
+    {
+      "scene": "A8-05",
+      "from": 56684,
+      "frames": 262,
+      "voices": [
+        220
+      ]
+    },
+    {
+      "scene": "A8-06",
+      "from": 56946,
+      "frames": 477,
+      "voices": [
+        221
+      ]
+    },
+    {
+      "scene": "A8-07",
+      "from": 57423,
+      "frames": 351,
+      "voices": [
+        222
+      ]
+    },
+    {
+      "scene": "A8-08",
+      "from": 57774,
+      "frames": 367,
+      "voices": [
+        223
+      ]
+    },
+    {
+      "scene": "A8-09",
+      "from": 58141,
+      "frames": 780,
+      "voices": [
+        224,
+        225,
+        226,
+        227
+      ]
+    },
+    {
+      "scene": "A8-10",
+      "from": 58921,
+      "frames": 1230,
+      "voices": [
+        228,
+        229,
+        230,
+        231
+      ]
+    },
+    {
+      "scene": "A8-11",
+      "from": 60151,
+      "frames": 256,
+      "voices": [
+        232,
+        233
+      ]
+    },
+    {
+      "scene": "A8-12",
+      "from": 60407,
+      "frames": 696,
+      "voices": [
+        234,
+        235,
+        236
+      ]
+    },
+    {
+      "scene": "A9-01",
+      "from": 61103,
+      "frames": 512,
+      "voices": [
+        237
+      ]
+    },
+    {
+      "scene": "A9-02",
+      "from": 61615,
+      "frames": 633,
+      "voices": [
+        238,
+        239,
+        240
+      ]
+    },
+    {
+      "scene": "A9-03",
+      "from": 62248,
+      "frames": 604,
+      "voices": [
+        241,
+        242
+      ]
+    },
+    {
+      "scene": "A9-04",
+      "from": 62852,
+      "frames": 872,
+      "voices": [
+        243,
+        244,
+        245
+      ]
+    },
+    {
+      "scene": "A9-05",
+      "from": 63724,
+      "frames": 797,
+      "voices": [
+        246,
+        247,
+        248
+      ]
+    },
+    {
+      "scene": "A9-06",
+      "from": 64521,
+      "frames": 610,
+      "voices": [
+        249,
+        250,
+        251
+      ]
+    },
+    {
+      "scene": "A9-07",
+      "from": 65131,
+      "frames": 332,
+      "voices": [
+        252
+      ]
+    },
+    {
+      "scene": "A9-08",
+      "from": 65463,
+      "frames": 361,
+      "voices": [
+        253,
+        254
+      ]
+    },
+    {
+      "scene": "A9-09",
+      "from": 65824,
+      "frames": 861,
+      "voices": [
+        255,
+        256,
+        257,
+        258
+      ]
+    },
+    {
+      "scene": "A9-10",
+      "from": 66685,
+      "frames": 339,
+      "voices": [
+        259,
+        260
+      ]
+    },
+    {
+      "scene": "A9-11",
+      "from": 67024,
+      "frames": 365,
+      "voices": [
+        261,
+        262
+      ]
+    },
+    {
+      "scene": "A9-12",
+      "from": 67389,
+      "frames": 644,
+      "voices": [
+        263,
+        264,
+        265
+      ]
+    },
+    {
+      "scene": "A9-13",
+      "from": 68033,
+      "frames": 612,
+      "voices": [
+        266,
+        311
+      ]
+    },
+    {
+      "scene": "A9-14",
+      "from": 68645,
+      "frames": 339,
+      "voices": [
+        268,
+        268
+      ]
+    },
+    {
+      "scene": "A9-15",
+      "from": 68984,
+      "frames": 474,
+      "voices": [
+        269,
+        270,
+        271,
+        272
+      ]
+    },
+    {
+      "scene": "A9-16",
+      "from": 69458,
+      "frames": 798,
+      "voices": [
+        273,
+        274,
+        275
+      ]
+    },
+    {
+      "scene": "A9-17",
+      "from": 70256,
+      "frames": 781,
+      "voices": [
+        276,
+        277,
+        278
+      ]
+    },
+    {
+      "scene": "A9-18",
+      "from": 71037,
+      "frames": 479,
+      "voices": [
+        298
+      ]
+    },
+    {
+      "scene": "A9-19",
+      "from": 71516,
+      "frames": 486,
+      "voices": [
+        299
+      ]
+    },
+    {
+      "scene": "A9-20",
+      "from": 72002,
+      "frames": 324,
+      "voices": [
+        300
+      ]
+    },
+    {
+      "scene": "A10-01",
+      "from": 72326,
+      "frames": 743,
+      "voices": [
+        301,
+        302
+      ]
+    },
+    {
+      "scene": "A10-02",
+      "from": 73069,
+      "frames": 659,
+      "voices": [
+        281,
+        282,
+        283
+      ]
+    },
+    {
+      "scene": "A10-03",
+      "from": 73728,
+      "frames": 815,
+      "voices": [
+        284,
+        285,
+        286
+      ]
+    },
+    {
+      "scene": "A10-04",
+      "from": 74543,
+      "frames": 375,
+      "voices": [
+        287
+      ]
+    },
+    {
+      "scene": "A10-05",
+      "from": 74918,
+      "frames": 958,
+      "voices": [
+        288,
+        289,
+        290,
+        291
+      ]
+    },
+    {
+      "scene": "A10-06",
+      "from": 75876,
+      "frames": 213,
+      "voices": [
+        292
+      ]
+    },
+    {
+      "scene": "A10-07",
+      "from": 76089,
+      "frames": 528,
+      "voices": [
+        303,
+        304
+      ]
+    },
+    {
+      "scene": "A10-08",
+      "from": 76617,
+      "frames": 307,
+      "voices": [
+        296
+      ]
+    },
+    {
+      "scene": "A10-09",
+      "from": 76924,
+      "frames": 337,
+      "voices": [
+        297
+      ]
+    },
+    {
+      "scene": "A10-10",
+      "from": 77261,
+      "frames": 918,
+      "voices": [
+        305,
+        306,
+        307,
+        308
+      ]
+    }
+  ],
+  "musicRegions": [
+    {
+      "id": "music-a-1",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 12,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 48,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 0.2,
+      "endSeconds": 130.88333333333333,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-2",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 7846,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 130.76666666666668,
+      "endSeconds": 261.45,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-3",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 15680,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 261.3333333333333,
+      "endSeconds": 392.01666666666665,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-4",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 23514,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 391.9,
+      "endSeconds": 522.5833333333334,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-5",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 31348,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 522.4666666666667,
+      "endSeconds": 653.15,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-6",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 39182,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 653.0333333333333,
+      "endSeconds": 783.7166666666667,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-7",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 47016,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 783.6,
+      "endSeconds": 914.2833333333333,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-8",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 54850,
+      "frames": 7841,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 7,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 914.1666666666666,
+      "endSeconds": 1044.85,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-a-9",
+      "track": "a",
+      "label": "正文 · BGM1 去静音后连续循环",
+      "from": 62684,
+      "frames": 4594,
+      "trim": 0,
+      "fadeIn": 7,
+      "fadeOut": 72,
+      "gain": 0.29,
+      "trackGainDb": 3,
+      "startSeconds": 1044.7333333333333,
+      "endSeconds": 1121.3,
+      "sourceStartSeconds": 0
+    },
+    {
+      "id": "music-b-complete",
+      "track": "b",
+      "label": "片尾倒排 · BGM2 完整一遍",
+      "from": 67698,
+      "frames": 10481,
+      "trim": 0,
+      "fadeIn": 120,
+      "fadeOut": 5,
+      "gain": 0.26,
+      "trackGainDb": 0,
+      "startSeconds": 1128.3,
+      "endSeconds": 1302.9833333333333,
+      "sourceStartSeconds": 0
+    }
+  ],
+  "musicPolicy": "BGM1 trimmed continuous loops; seven-second music break; BGM2 complete once, aligned to the film end",
+  "musicBreak": {
+    "from": 67278,
+    "to": 67698
+  }
+}

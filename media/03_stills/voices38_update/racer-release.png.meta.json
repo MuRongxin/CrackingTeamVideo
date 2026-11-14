@@ -1,0 +1,21 @@
+{
+  "id": "V38_UP_racer-release",
+  "kind": "image",
+  "task": "EX15",
+  "title": "racer-release",
+  "path": "media/03_stills/voices38_update/racer-release.png",
+  "derived_from": "media/01_sources/V38_UPDATE_RACER/nfo-original.png",
+  "source_sha256": "a089c862487c3175e2d1ff1a4842f7c880d434bcb2fd69068d706db44f19e061",
+  "crop_pixels": [
+    55,
+    224,
+    610,
+    260
+  ],
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1xunli6/starwarsgalacticracervoices38/",
+  "author": "voices38",
+  "rights": "原作者与商标权利保留，公开使用条件分别核对",
+  "status": "exported",
+  "sha256": "533802a57a8d4490a8396a70b0c3cfceb47ba07578611a28b82fa5c8fc9ed3d9",
+  "bytes": 1593
+}

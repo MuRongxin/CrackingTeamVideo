@@ -43,7 +43,7 @@ export const MoonList = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="05 / 三十四个化名"
-      source="PRAGMATA 宣传片｜CAPCOM · 用户提供 IGN 转载｜NFO 据 V14 文本重排"
+      source="voices38《识质存在》发行说明 · 游戏画面：CAPCOM / IGN"
     >
       <Field />
       <Sequence
@@ -163,7 +163,7 @@ export const ThirtyFour = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="PRAGMATA / TESTERS"
-      source="34 个测试者署名｜V14 NFO 文本重排｜空间排列为动效设计"
+      source="voices38《识质存在》测试者名单"
     >
       <Field speed={1.4} />
       <div
@@ -432,7 +432,7 @@ export const Aliases = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="化名里的游戏与故事"
-      source="公开昵称及文稿释义｜V14｜书页、像素轮廓、开锁均为图解"
+      source="voices38《识质存在》测试者名单"
     >
       <Field speed={2} />
       <div

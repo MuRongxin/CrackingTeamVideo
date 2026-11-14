@@ -1,0 +1,20 @@
+{
+  "id": "V38_A10M_thanks-wukong",
+  "task": "EX15",
+  "kind": "video",
+  "title": "尾声动效修订 / thanks-wukong",
+  "path": "media/02_footage/derived/V38_A10M_thanks-wukong.mp4",
+  "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+  "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+  "selected_range_seconds": [
+    83.6,
+    86.5
+  ],
+  "source_page": "https://store.steampowered.com/app/2358720/",
+  "author": "Game Science / Game Science",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "status": "exported",
+  "sha256": "4cf7569436284caa86b59418db9030629acbfd26441b4495cefef4651acd9f54",
+  "bytes": 5035049,
+  "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。"
+}

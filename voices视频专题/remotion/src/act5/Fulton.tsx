@@ -14,7 +14,7 @@ export const Fulton = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026.09 / METAL GEAR SOLID V"
-      source="NFO 原图 V19｜实机：B站 鹅恶厄 · BV1JU4y1P7RD / P3 · 原速节选"
+      source="游戏实机：B站「鹅恶厄」 · 《合金装备5》"
     >
       <Video
         src={publicAsset("v38/act5/fulton.mp4")}

@@ -135,7 +135,7 @@ export const Versions = ({ timing }: { timing: ShotTiming }) => {
           ?
         </div>
       )}
-      <SourceTag>数据库快照｜xREL 游戏档案</SourceTag>
+      <SourceTag>发行记录：xREL</SourceTag>
     </Scene>
   );
 };
@@ -292,7 +292,7 @@ export const Updates = ({ timing }: { timing: ShotTiming }) => {
       >
         译述：后来的更新加不进去
       </div>
-      <SourceTag>社区讨论｜r/PiratedGames｜2025-10-14</SourceTag>
+      <SourceTag>Reddit · r/PiratedGames · 2025-10-14</SourceTag>
       <TinyNote paper>版本位置为示意</TinyNote>
     </Scene>
   );
@@ -360,7 +360,6 @@ export const DenuvoShell = () => {
         </div>
         <div style={{ fontSize: 35, marginTop: 30 }}>俗称 D 加密</div>
       </div>
-      <SourceTag>概念示意｜游戏保护</SourceTag>
     </Scene>
   );
 };
@@ -370,7 +369,7 @@ export const LayerDiagram = ({ timing }: { timing: ShotTiming }) => {
   const arrow = lerp(t, outer + 1.3, outer + 2.1);
   return (
     <Scene paper>
-      <Topline label="保护与验证，各在一层" right="CONCEPT / 概念示意" paper />
+      <Topline label="保护与验证，各在一层" right="CONCEPT / 技术示意" paper />
       <svg width="1920" height="1080" style={{ position: "absolute" }}>
         <defs>
           <pattern
@@ -483,7 +482,6 @@ export const LayerDiagram = ({ timing }: { timing: ShotTiming }) => {
         </div>
         <div style={{ fontSize: 43, marginTop: 15 }}>反篡改层</div>
       </div>
-      <SourceTag>概念示意｜不代表具体技术实现</SourceTag>
     </Scene>
   );
 };

@@ -456,8 +456,8 @@ export const ColdOpen = () => {
       <div style={{ opacity: 1 - hookOpacity }}>
         <Act1Source paper={t < 17.75}>
           {t < 17.75
-            ? "法院文件｜起诉书 Dkt. 1｜2026-09-14"
-            : "旁白概括｜据起诉书 Dkt. 1"}
+            ? "Denuvo 起诉书 · 2026-09-14"
+            : "Denuvo 起诉书 · 被告身份未确认"}
         </Act1Source>
       </div>
       <div style={{ position: "absolute", left: 72, right: 72, top: 100 }}>

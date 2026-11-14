@@ -1,0 +1,21 @@
+{
+  "id": "V38_UP_racer-signature",
+  "kind": "image",
+  "task": "EX15",
+  "title": "racer-signature",
+  "path": "media/03_stills/voices38_update/racer-signature.png",
+  "derived_from": "media/01_sources/V38_UPDATE_RACER/nfo-original.png",
+  "source_sha256": "a089c862487c3175e2d1ff1a4842f7c880d434bcb2fd69068d706db44f19e061",
+  "crop_pixels": [
+    0,
+    0,
+    640,
+    205
+  ],
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1xunli6/starwarsgalacticracervoices38/",
+  "author": "voices38",
+  "rights": "原作者与商标权利保留，公开使用条件分别核对",
+  "status": "exported",
+  "sha256": "f79039aec726d7d692b8e30c25f256f6d825b4b279b7280a9fe95dd004e3b5c2",
+  "bytes": 2358
+}

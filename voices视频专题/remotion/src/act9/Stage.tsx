@@ -30,23 +30,26 @@ export const Stage = ({
       }}
     >
       {children}
-      <div
-        style={{
-          position: "absolute",
-          left: 100,
-          top: 885,
-          maxWidth: 1650,
-          fontSize: 23,
-          lineHeight: 1.35,
-          padding: "9px 14px",
-          borderLeft: "2px solid #8e9d9b",
-          background: "#08131be8",
-          color: "#d4dedb",
-          zIndex: 40,
-        }}
-      >
-        {source}
-      </div>
+      {source ? (
+        <div
+          data-source-credit
+          style={{
+            position: "absolute",
+            left: 100,
+            top: 885,
+            maxWidth: 1650,
+            fontSize: 23,
+            lineHeight: 1.35,
+            padding: "9px 14px",
+            borderLeft: "2px solid #8e9d9b",
+            background: "#08131be8",
+            color: "#d4dedb",
+            zIndex: 40,
+          }}
+        >
+          {source}
+        </div>
+      ) : null}
     </AbsoluteFill>
   );
 };

@@ -16,9 +16,9 @@ export const DyingSimulator = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026.04 / Dying Simulator"
-      source="V18 原始 NFO｜B站 大胖頭：2023 线下试玩 / BV1Vr4y1o7i4｜保留原水印"
+      source="voices38《黑神话：悟空》发行说明 · 实机：ONGBAL"
     >
-      <Film name="tiger-full" />
+      <Film name="tiger-hd" />
       <Shade side="bottom" />
       <div
         style={{
@@ -140,7 +140,7 @@ export const FilterTitle = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="发布帖标题 / Bl4ck-Myth-Wuk0ng-voices38"
-      source="V18 发布帖文字存档重排｜标题与过滤器解释均来自原帖｜背景为游戏科学官方画面"
+      source="Reddit · r/CrackWatch 发布帖 · 游戏画面：游戏科学"
     >
       <NfoTop
         width={1500}
@@ -239,7 +239,7 @@ export const ReleaseInterval = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="两次发行之间 / 18 天"
-      source="133 GB 与 18 天据 V18 社区帖｜官方宣传画面｜发行间隔不等于单作破解耗时"
+      source="发行记录：Reddit · r/CrackWatch · 游戏画面：游戏科学 / CAPCOM"
     >
       <Film name="requiem-interval" />
       <Sequence from={Math.round(3.5 * fps)}>

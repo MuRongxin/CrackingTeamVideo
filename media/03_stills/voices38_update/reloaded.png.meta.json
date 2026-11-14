@@ -1,0 +1,16 @@
+{
+  "id": "V38_UP_reloaded",
+  "kind": "image",
+  "task": "EX15",
+  "title": "reloaded",
+  "path": "media/03_stills/voices38_update/reloaded.png",
+  "derived_from": "media/03_stills/voices38_act2/reloaded-header.png",
+  "source_sha256": "8458745d32a74401ed9a496fbc2bba6eb7dc858bc469d5aa4bac36be270ce75a",
+  "crop_pixels": null,
+  "source_page": "https://www.xrel.to",
+  "author": "RELOADED / nERv",
+  "rights": "原作者与商标权利保留，公开使用条件分别核对",
+  "status": "exported",
+  "sha256": "8458745d32a74401ed9a496fbc2bba6eb7dc858bc469d5aa4bac36be270ce75a",
+  "bytes": 3029
+}

@@ -17,7 +17,7 @@ export const Encounter = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026.01 / 在悟空上相遇"
-      source="游戏科学官方预告｜0xZeOn、传言与回应依据 V08 / V09｜传言不是事实确认"
+      source="voices38 回应 · GameGPU / 游侠网 · 游戏画面：游戏科学"
     >
       <Film name="wukong-encounter" />
       <Shade side="bottom" />
@@ -94,7 +94,7 @@ export const NoAgreement = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="voices38 的回应 / 2026.01"
-      source="V08 / V09 对当事人回应的转述｜新工具为其自述目标｜游戏科学官方画面"
+      source="voices38 回应 · GameGPU / 游侠网"
     >
       <Film name="wukong-denial" />
       <Shade />
@@ -186,7 +186,7 @@ export const Compatibility = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="兼容性与长期保存 / voices38 的一月评价"
-      source="V08 / V09 转述 voices38 当时的批评｜不外推为所有方案的永久状态｜官方游戏画面"
+      source="voices38 对 Hypervisor 的批评 · GameGPU / 游侠网"
     >
       <Sequence durationInFrames={Math.round(8.5 * fps)}>
         <Film name="wukong-compatibility" />

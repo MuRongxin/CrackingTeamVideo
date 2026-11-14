@@ -35,7 +35,7 @@ export const NfoGrows = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="03 / NFO 里的性格与试错"
-      source="原始 NFO｜V02、V06、V07 · 文件先后排列为编辑示意"
+      source="voices38 发行说明"
     >
       <Grid />
       <div style={{ ...pos, inset: 0, opacity: (1 - pull) * 0.3 }}>
@@ -181,7 +181,7 @@ export const KindIntro = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="KIND / 他怎样形容这些游戏"
-      source="NFO 原文字段｜V16、V10、V15 · 游戏类型为编辑释义"
+      source="voices38 发行说明 · KIND 字段"
     >
       <Grid />
       {[
@@ -321,8 +321,8 @@ export const Nitro = ({ timing }: { timing: ShotTiming }) => {
     p = lerp(t, boost - 0.15, boost + 0.5);
   return (
     <Stage
-      label="极品飞车：热力追踪 重制版 / V16"
-      source="EA 官方游戏片段｜KIND 原文：Fast Cars on Nitro"
+      label="极品飞车：热力追踪 重制版"
+      source="游戏画面：EA《极品飞车：热力追踪 重制版》"
     >
       <Clip src="v38/film/nfs.mp4" duration={5.12} dim={0.08} />
       <div
@@ -445,8 +445,8 @@ export const ZombiePuzzle = ({ timing }: { timing: ShotTiming }) => {
     p = lerp(t, open, open + 0.7);
   return (
     <Stage
-      label="生化危机：安魂曲 / V10"
-      source="CAPCOM 官方游戏素材｜KIND 原文 · 地图、道具与开门为笑点示意"
+      label="生化危机：安魂曲"
+      source="游戏画面：CAPCOM《生化危机：安魂曲》"
     >
       <Still src="v38/film/requiem-corridor.png" dim={0.15} />
       <Clip src="v38/film/requiem-establish.mp4" duration={3.3} dim={0.1} />
@@ -595,8 +595,8 @@ export const MI6 = ({ timing }: { timing: ShotTiming }) => {
     hitman = say(timing, 65, "做的");
   return (
     <Stage
-      label="007：初露锋芒 / V15"
-      source="007 官方游戏片段｜KIND 原文 · IO Interactive 开发商关系示意"
+      label="007：初露锋芒"
+      source="游戏画面：IO Interactive《007：初露锋芒》"
     >
       <Clip src="v38/film/bond.mp4" duration={9.2} dim={0.18} />
       <div
@@ -696,7 +696,7 @@ export const AnotherField = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="同一份 NFO / 语气变了"
-      source="V16、V14｜KIND 与 PROTECTION 原文字段重排"
+      source="voices38 发行说明 · KIND / PROTECTION"
     >
       <Grid tilt />
       <div style={{ ...pos, inset: 0, clipPath: "inset(120px 0 245px 0)" }}>
@@ -795,7 +795,7 @@ export const ProtectionLists = ({ timing }: { timing: ShotTiming }) => {
     <Stage
       light={p < 0.95}
       label="PROTECTION / 从一份发行到下一份"
-      source="NFO｜V16、V14 · 并列组合示意；游戏画面｜用户提供的 CAPCOM 预告"
+      source="voices38 发行说明 · 游戏画面：CAPCOM"
     >
       <div style={{ ...pos, inset: 0, opacity: 0.4 * (1 - p) }}>
         <Still src="v38/act3/motion/nfs-road.png" dim={0.2} />

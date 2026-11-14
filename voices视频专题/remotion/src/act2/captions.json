@@ -346,7 +346,7 @@
   ],
   "27": [
     {
-      "text": "Denuvo 并不需要\n让一款游戏永远无法破解",
+      "text": "Denuvo 并不需要让一款游戏永远无法破解",
       "startMs": 20,
       "endMs": 3028,
       "timestampMs": null,
@@ -814,29 +814,6 @@
       "confidence": null
     }
   ],
-  "52": [
-    {
-      "text": "能破解这些游戏",
-      "startMs": 20,
-      "endMs": 1206,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "不代表他已经有能力对付那些",
-      "startMs": 1206,
-      "endMs": 3409,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "使用更新版本保护的新游戏",
-      "startMs": 3409,
-      "endMs": 5443,
-      "timestampMs": null,
-      "confidence": null
-    }
-  ],
   "53": [
     {
       "text": "这个判断是否准确",
@@ -849,6 +826,29 @@
       "text": "当时还没人知道",
       "startMs": 1550,
       "endMs": 2889,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "309": [
+    {
+      "text": "能破解这些游戏",
+      "startMs": 20,
+      "endMs": 1211,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "不代表他已经有能力对付那些",
+      "startMs": 1211,
+      "endMs": 3423,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "使用更新版本保护的新游戏",
+      "startMs": 3423,
+      "endMs": 5466,
       "timestampMs": null,
       "confidence": null
     }

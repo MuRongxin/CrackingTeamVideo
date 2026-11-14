@@ -169,8 +169,8 @@ export const ProtectionCube = ({ timing }: { timing: ShotTiming }) => {
   return (
     <FilmScene
       title="正版验证外面，还有一层"
-      right="立方体 / 概念示意"
-      source="概念示意｜不代表具体产品内部实现"
+      right="保护层示意"
+      source=""
     >
       <GameStill dark={0.82} />
       <svg

@@ -1,0 +1,26 @@
+{
+  "id": "V38_MUZIMI_thanks",
+  "task": "MG15",
+  "kind": "image",
+  "title": "睦子米 / 爱心感谢",
+  "path": "media/03_stills/voices38_stickers/muzimi-thanks.png",
+  "derived_from": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/no_background_ai/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNHhqR1RhQ1phWHdBIQUAcXVuZ3o!.png",
+  "source_sha256": "f4dca3249f63062a2dcfc2367157063df3f15adf9da190cc1b6e43113ccd28d0",
+  "sha256": "f4dca3249f63062a2dcfc2367157063df3f15adf9da190cc1b6e43113ccd28d0",
+  "bytes": 1627498,
+  "width": 1254,
+  "height": 1254,
+  "alpha_bbox": [
+    33,
+    26,
+    1254,
+    1254
+  ],
+  "status": "exported",
+  "author": "用户提供 / 睦子米表情包系列",
+  "source_page": "用户指定本地贴纸目录",
+  "rights": "用户明确授权用于本片剪辑",
+  "source_original": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNHhqR1RhQ1phWHdBIQUAcXVuZ3o!.jpeg",
+  "source_method": "image_gen AI background extraction; no local matte algorithm",
+  "note": "原PNG逐字节复制；不修改原贴纸，不增加背景；透明边距仅由CSS窗口裁切。"
+}

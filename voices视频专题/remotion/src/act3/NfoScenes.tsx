@@ -26,7 +26,7 @@ export const NfoGrows = ({ timing }: { timing: ShotTiming }) => {
     ["PROTECTION", "Denuvo + EA"],
   ];
   return (
-    <A3Scene source="NFO 节选／文字重排｜V02、V16 · 字符题头取自 V06">
+    <A3Scene source="voices38 发行说明节选">
       <Header title="从几行说明，到一份完整的 NFO" right="2025.10 →" />
       <div
         style={{
@@ -198,7 +198,7 @@ export const KindIntro = ({ timing }: { timing: ShotTiming }) => {
   const joke = say(timing, 60);
   const p = lerp(t, joke, joke + 0.5);
   return (
-    <A3Scene source="NFO 字段释义｜V16、V10、V15 · 据文本存档重排">
+    <A3Scene source="voices38 发行说明 · KIND 字段">
       <Header title="有一栏，越来越不像类型" right="voices38 / KIND" />
       <Divider />
       <div
@@ -279,7 +279,7 @@ export const Nitro = ({ timing }: { timing: ShotTiming }) => {
       game="极品飞车：热力追踪 重制版"
       english={<Typed text="Fast Cars on Nitro" start={0.15} speed={45} />}
       chinese="加满氮气的快车"
-      source="NFO 文字重排｜V16｜2025-11-18 · 车道为概念示意"
+      source="voices38《极品飞车》发行说明 · 2025-11-18"
     >
       <svg
         width={1920}
@@ -380,7 +380,7 @@ export const ZombiePuzzle = ({ timing }: { timing: ShotTiming }) => {
       game="生化危机：安魂曲"
       english="Zombie Puzzle Simulator"
       chinese="僵尸解谜模拟器"
-      source="NFO 文字重排｜V10 · 钥匙、徽章与门锁为概念示意"
+      source="voices38《生化危机：安魂曲》发行说明"
     >
       {[0, 1, 2].map((i) => {
         const move = lerp(t, start + 1.4 + i * 0.75, open - 0.1);
@@ -481,7 +481,7 @@ export const MI6 = ({ timing }: { timing: ShotTiming }) => {
         </>
       }
       chinese="军情六处的杀手"
-      source="NFO 文字重排｜V15 · 开发商关系依文稿"
+      source="voices38《007：初露锋芒》发行说明"
     >
       <AccentLine x1={500} y1={650} x2={950} y2={650} at={explain + 0.2} />
       <AccentLine x1={1050} y1={650} x2={1490} y2={650} at={explain + 1.8} />
@@ -544,7 +544,7 @@ export const AnotherField = ({ timing }: { timing: ShotTiming }) => {
   const p = lerp(t, at, at + 0.8);
   const complex = say(timing, 68);
   return (
-    <A3Scene source="NFO 字段重排｜V16、V14 · 保护组合按发行者记录呈现">
+    <A3Scene source="voices38 发行说明 · PROTECTION 字段">
       <Header title="同一份 NFO，另一种语气" />
       <Divider color={C.blue} />
       <div
@@ -635,7 +635,7 @@ export const ProtectionLists = ({ timing }: { timing: ShotTiming }) => {
   const newer = say(timing, 70);
   const list = say(timing, 70, "变成了");
   return (
-    <A3Scene source="NFO 保护字段｜V16 / V14 · 加号表示列举，不表示嵌套层级">
+    <A3Scene source="voices38 发行说明 · PROTECTION 字段">
       <Header title="PROTECTION" right="2025.11 → 2026.05" />
       <div style={{ position: "absolute", left: 140, right: 140, top: 240 }}>
         <div style={{ display: "flex", alignItems: "baseline", gap: 32 }}>

@@ -35,6 +35,9 @@ export const PlatformLogo = ({
 
 export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
+  // Word onsets measured in the original recording (Whisper alignment + waveform).
+  const voiceStart = timing.voices.find(v => v.id === 6)!.start;
+  const platformAt = [2.14, 2.90, 3.52].map(t => voiceStart + t);
   const formAt = voiceCue(timing, 6, "弄清楚");
   const form = lerp(t, formAt, formAt + 0.85);
   const fieldTimes = [
@@ -92,7 +95,7 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
             strokeWidth={2}
             strokeDasharray="8 12"
             strokeDashoffset={-t * 36}
-            opacity={lerp(t, 0.9 + i * 0.55, 1.35 + i * 0.55)}
+            opacity={lerp(t, platformAt[i], platformAt[i] + 0.25)}
           />
         ))}
       </svg>
@@ -273,7 +276,7 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
         </div>
       </div>
       {platforms.map((p, i) => {
-        const at = 0.85 + i * 0.55;
+        const at = platformAt[i];
         const dock = lerp(t, formAt + i * 0.07, formAt + 0.78 + i * 0.07);
         return (
           <div
@@ -287,8 +290,8 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
               background: "#ece7dc",
               boxShadow: `0 ${20 * (1 - dock)}px ${65 * (1 - dock)}px #0005`,
               borderLeft: `${7 * (1 - dock)}px solid ${i === 1 ? C.blue : C.ink}`,
-              opacity: lerp(t, at, at + 0.35),
-              translate: `${lerp(t, at, at + 0.55, 600, 0)}px 0`,
+              opacity: lerp(t, at - 0.08, at + 0.06),
+              translate: `${lerp(t, at - 0.08, at + 0.20, 180, 0)}px 0`,
               overflow: "hidden",
             }}
           >
@@ -342,7 +345,7 @@ export const Subpoenas = ({ timing }: { timing: ShotTiming }) => {
           </div>
         );
       })}
-      <Act1Source>同期报道｜TorrentFreak｜2026-10-06 · 申请阶段</Act1Source>
+      <Act1Source>TorrentFreak · 2026-10-06</Act1Source>
     </Act1Scene>
   );
 };

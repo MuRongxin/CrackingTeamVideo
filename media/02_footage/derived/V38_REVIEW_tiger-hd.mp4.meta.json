@@ -1,0 +1,29 @@
+{
+  "id": "V38_REVIEW_tiger_hd",
+  "kind": "video",
+  "task": "EX15",
+  "title": "虎先锋战斗 / 真1080p审片替换",
+  "path": "media/02_footage/derived/V38_REVIEW_tiger-hd.mp4",
+  "source_page": "https://www.youtube.com/watch?v=znuj3QZbf-k",
+  "url": "https://www.youtube.com/watch?v=znuj3QZbf-k",
+  "author": "옹발이 ONGBAL",
+  "status": "exported",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "selected_range_seconds": [
+    18.8,
+    33.6
+  ],
+  "actual_duration_seconds": 44.999,
+  "original_duration_seconds": 125,
+  "complete_source_video": false,
+  "retrieved_at": "2026-11-14T06:39:49.328877+00:00",
+  "sha256": "7d29bc71331f8828d05ee58bada2d5c1ed7ca772ca462b26405455ca5a5bc057",
+  "bytes": 35591666,
+  "rights": "上传者 ONGBAL；游戏作品 Game Science。公开画面节选，公开剪辑使用条件未另行确认。",
+  "note": "原速14.8秒，无音轨，不循环，无额外放大；源片实机HUD保留，所选画面没有B站水印。",
+  "derived_from": "media/02_footage/V38_TIGER_ONGBAL_0-45_1080p.webm",
+  "source_sha256": "953a13041503b1d5306e89b473ae6f4c938ea5097cc5be7ed02c1aa12c53d399",
+  "edit_usage": "A6-09 Dying Simulator"
+}

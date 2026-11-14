@@ -1,0 +1,16 @@
+{
+  "id": "V38_UP_razor",
+  "kind": "image",
+  "task": "EX15",
+  "title": "razor",
+  "path": "media/03_stills/voices38_update/razor.png",
+  "derived_from": "media/03_stills/voices38_act7/razor-jed.png",
+  "source_sha256": "920006d4c5825c1653af96640818bea674bdee7ec3a56749181d4ac66ef396e3",
+  "crop_pixels": null,
+  "source_page": "https://commons.wikimedia.org/wiki/File:Razor1911_JEDACID_HQ.svg",
+  "author": "JeD / ACiD",
+  "rights": "Commons Attribution；需署名 JeD / ACiD",
+  "status": "exported",
+  "sha256": "118f0cc39d8e8087b53148f057e2e392adc6bf178e1a7d2a632f36265e9225d3",
+  "bytes": 12333
+}

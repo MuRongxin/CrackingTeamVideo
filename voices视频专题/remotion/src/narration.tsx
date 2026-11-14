@@ -1,3 +1,4 @@
+import { ShotStickers } from "./stickers/StickerLayer";
 import { Audio } from "@remotion/media";
 import { Sequence, staticFile, useVideoConfig } from "remotion";
 import type { Caption } from "@remotion/captions";
@@ -61,56 +62,26 @@ export const Subtitle = ({
   const t = useTime() * 1000;
   const current = items.find((c) => t >= c.startMs && t < c.endMs);
   if (!current) return null;
-  if (captionStyle === "panel")
-    return (
-      <div
-        style={{
-          position: "absolute",
-          bottom: 8,
-          left: 100,
-          right: 100,
-          display: "flex",
-          justifyContent: "center",
-          zIndex: 100,
-          pointerEvents: "none",
-        }}
-      >
-        <div
-          style={{
-            maxWidth: 1500,
-            padding: "11px 28px 13px",
-            background: "#070a09ed",
-            borderBottom: "2px solid #ffc83d70",
-            color: "#f4f5f1",
-            fontFamily: '"Noto Sans CJK SC", sans-serif',
-            fontWeight: 500,
-            fontSize: 42,
-            lineHeight: 1.35,
-            textAlign: "center",
-            whiteSpace: "pre-line",
-          }}
-        >
-          {current.text}
-        </div>
-      </div>
-    );
   return (
     <div
+      data-video-subtitle
       style={{
         position: "absolute",
         bottom: 16,
         left: 120,
         right: 120,
         textAlign: "center",
-        fontFamily: F.cn,
-        fontSize: 44,
+        fontFamily: captionStyle === "panel" ? '"Noto Sans CJK SC", sans-serif' : F.cn,
+        fontWeight: captionStyle === "panel" ? 500 : undefined,
+        fontSize: captionStyle === "panel" ? 42 : 44,
         lineHeight: 1.35,
         color: "#fff",
-        WebkitTextStroke: "2px #0009",
+        WebkitTextStroke: "2px #000b",
         paintOrder: "stroke fill",
-        textShadow: "0 2px 10px #000b",
-        zIndex: 50,
-        whiteSpace: "pre-line",
+        textShadow: "0 2px 7px #000c",
+        zIndex: 100,
+        whiteSpace: "nowrap",
+        pointerEvents: "none",
       }}
     >
       {current.text}
@@ -125,11 +96,13 @@ const VoiceClip = ({
   id: number;
   trimBefore?: number;
   captionStyle?: "default" | "panel";
-}) => (
+}) => {
+  const {fps} = useVideoConfig();
+  return (
   <>
     <Audio
       name={`配音 ${id}`}
-      trimBefore={Math.round(trimBefore * 60)}
+      trimBefore={Math.round(trimBefore * fps)}
       src={
         staticFile(recordingById[id].file) +
         "?rev=" +
@@ -145,7 +118,8 @@ const VoiceClip = ({
       }))}
     />
   </>
-);
+  );
+};
 export const Narration = ({
   timing,
   captionStyle = "default",
@@ -170,6 +144,7 @@ export const Narration = ({
           />
         </Sequence>
       ))}
+      <ShotStickers timing={timing} captions={captions} />
     </>
   );
 };

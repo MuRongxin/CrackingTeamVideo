@@ -240,14 +240,6 @@
     "sha256": "93f4db309b1faf5a144c11c5685ad15910dc9005b80465c27aa9423f3760389d"
   },
   {
-    "id": 267,
-    "file": "v38/vo/sentence-267.wav",
-    "duration": 5.88625850340136,
-    "source": "voices视频专题/videoVoices/sentence_267_那份在什么环境下都能用的_PROPER那.wav",
-    "original": "sentence_267_那份在什么环境下都能用的_PROPER那.wav",
-    "sha256": "f8814f6bf6c2455df15ef5ad05f8ab83b169f9f2c71d99db0aae80a26094a844"
-  },
-  {
     "id": 268,
     "file": "v38/vo/sentence-268.wav",
     "duration": 9.137052154195011,
@@ -334,5 +326,46 @@
     "source": "voices视频专题/videoVoices/sentence_278_从另一个角度看他替_Capcom_修了一.wav",
     "original": "sentence_278_从另一个角度看他替_Capcom_修了一.wav",
     "sha256": "a3097029fe16f917909f6897cd88a622aeb49ce1ad62314e7e54efbe1d23bbe8"
+  },
+  {
+    "id": 298,
+    "file": "v38/vo/sentence-298.wav",
+    "duration": 7.720634920634921,
+    "source": "voices视频专题/videoVoices/sentence_298_A9-18.wav",
+    "original": "sentence_298_A9-18.wav",
+    "sha256": "d7b3a5df8e250c125a1bc28e9724f12d78d3cc918f0f13c54c092c614785c5ef",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-298.json"
+  },
+  {
+    "id": 299,
+    "file": "v38/vo/sentence-299.wav",
+    "duration": 7.836734693877551,
+    "source": "voices视频专题/videoVoices/sentence_299_A9-19.wav",
+    "original": "sentence_299_A9-19.wav",
+    "sha256": "14d377d08b61aa95b48065ced82be42363c21ae07b8fcbaa92d194dcad1c8a22",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-299.json"
+  },
+  {
+    "id": 300,
+    "file": "v38/vo/sentence-300.wav",
+    "duration": 4.992290249433107,
+    "source": "voices视频专题/videoVoices/sentence_300_A9-20.wav",
+    "original": "sentence_300_A9-20.wav",
+    "sha256": "e3a935ec9888e4299eab422dec8aa16855505da8a3e1b3aa7a1c60d79c955f38",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-300.json"
+  },
+  {
+    "id": 311,
+    "file": "v38/vo/sentence-311.wav",
+    "duration": 4.922630385487528,
+    "source": "voices视频专题/videoVoices/sentence_311_review.wav",
+    "original": "sentence_311_review.wav",
+    "sha256": "62d2d689a61f076ab3c343ecd1050efb9d1781f2998468cb6a6ad4e91cc1a909",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14-review-fixes/request-311.json",
+    "replaces": 267
   }
 ]

@@ -1,3 +1,4 @@
+import { matchesSpokenCue } from "../captionCue";
 import { getAudioDurationInSeconds } from "@remotion/media-utils";
 import { staticFile, type CalculateMetadataFunction } from "remotion";
 import { FPS, totalFrames, type ActProps, type ShotTiming } from "../timing";
@@ -12,7 +13,7 @@ export const specs4 = [
   { ids: [118, 119], post: 0.15 },
   { ids: [120, 121], post: 0.25 },
   { ids: [122, 123, 124], post: 0.15 },
-  { ids: [125, 126], post: 0.15 },
+  { ids: [125, 310], post: 0.15 },
   { ids: [127, 128, 129], post: 0.15 },
   { ids: [130, 131, 132], post: 0.15 },
   { ids: [133, 134, 135, 136], post: 0.15 },
@@ -21,7 +22,7 @@ export const makeAct4Timings = (durations: number[]): ShotTiming[] =>
   specs4.map((spec) => {
     let cursor = 0.1;
     const clips = spec.ids.map((id) => {
-      const clip = { id, start: cursor, duration: durations[id - 104] };
+      const clip = { id, start: cursor, duration: durations[voices.findIndex((v) => v.id === id)] };
       cursor += clip.duration + 0.15;
       return clip;
     });
@@ -56,7 +57,7 @@ export const say = (timing: ShotTiming, id: number, text?: string) => {
     captions as Record<string, { text: string; startMs: number }[]>
   )[id];
   const cue = text
-    ? rows.find((c) => c.text.replace(/\n/g, "").includes(text))
+    ? rows.find((c) => matchesSpokenCue(c.text, text))
     : null;
   if (text && !cue) throw new Error(`Missing act 4 caption ${id}: ${text}`);
   return voice.start + (cue?.startMs ?? 0) / 1000;

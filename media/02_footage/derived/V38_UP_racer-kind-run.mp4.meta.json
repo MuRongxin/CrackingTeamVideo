@@ -1,0 +1,21 @@
+{
+  "id": "V38_UP_racer-kind-run",
+  "task": "EX15",
+  "kind": "video",
+  "title": "星球大战：银河赛车手™ / 官方发售预告",
+  "path": "media/02_footage/derived/V38_UP_racer-kind-run.mp4",
+  "source_page": "https://store.steampowered.com/app/4078430/",
+  "source_url": "https://video.akamai.steamstatic.com/store_trailers/4078430/1377355049/f1a8dd5f9daabc60d8b7dd21e59aedde6bb3e0a2/1791284459/hls_264_master.m3u8?t=1791286015",
+  "author": "Fuse Games / Secret Mode",
+  "rights": "官方游戏宣传视频；公开剪辑使用条件待确认",
+  "status": "exported",
+  "sha256": "5ef8f97e8773ac3e426400f7e31252df73189b0d9f519b4743cb28cf04c7f599",
+  "bytes": 8140010,
+  "derived_from": "media/02_footage/V38_RACER_launch_1080p.mp4",
+  "source_sha256": "65fe8a61c267755a63fb64f64f3df5d9422e1bc8a8203fec723c6e92d7e3d11a",
+  "selected_range_seconds": [
+    113,
+    118.7
+  ],
+  "note": "原速、不循环，保留官方混音，以低音量铺底，非破解版本实测。"
+}

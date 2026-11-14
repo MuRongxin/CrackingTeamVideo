@@ -8,10 +8,9 @@ import { ReturningNames, UnknownStructure } from "./act5/Continuity";
 import { Fulton } from "./act5/Fulton";
 import { VisibleWork } from "./act5/Collaboration";
 import { Act5Sound } from "./act5/Sound";
-const Act5Inner = ({ timings = initialAct5Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+export const act5Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A5-01 月球上的新名单"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -68,7 +67,15 @@ const Act5Inner = ({ timings = initialAct5Timings }: ActProps) => {
         <Narration timing={timings[6]} />
         <Act5Sound shot={7} timing={timings[6]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+    </>
+  );
+};
+const Act5Inner = ({ timings = initialAct5Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act5Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act5 = Interactive.create({

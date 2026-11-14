@@ -7,8 +7,10 @@ root=Path(__file__).resolve().parents[1];repo=root.parents[1]
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 def write(p,v):
  p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
-phrases=json.loads((root/'src/act9/narration-source.json').read_text());norm=lambda s:re.sub(r'[^\w]','',s).lower()
+phrases={k:v for k,v in json.loads((root/'src/act9/narration-source.json').read_text()).items() if 237<=int(k)<=278};norm=lambda s:re.sub(r'[^\w]','',s).lower()
 text=re.split(r'##\s*一个字母',(root.parent/'voices38_B站文稿.md').read_text())[1].split('## 尾声')[0]
+history=root.parent/'tts/2026-11-14/previous-act9.md'
+if history.exists():text=history.read_text()
 assert norm(text)==norm(''.join(phrases.values()))
 anchors={237:[3.92,5.52],239:[1.71],242:[1.68,4.82],243:[1.0],244:[2.1,4.79],245:[2.34],247:[2.0,5.67],248:[3.07],251:[4.46],252:[2.09,3.86],256:[2.95],265:[2.59],266:[2.20],267:[2.60,5.25],268:[4.61,8.21],273:[1.30],275:[4.36],277:[2.32,4.02]}
 edits=json.loads((root/'src/act9/voice-edits.json').read_text())
@@ -51,3 +53,5 @@ for src,name in [(p,p.name) for p in base.iterdir() if p.suffix in ['.png','.web
  dst=root/'public/v38/act9'/name;dst.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(src,dst);m=json.loads(src.with_suffix(src.suffix+'.meta.json').read_text());records.append(dict(m,path=str(dst.relative_to(repo)),ledger_path=str(src.relative_to(repo)),sha256=sha(dst)))
 write(root/'act9-asset-provenance.json',records)
 print('42 original recordings, captions with authorized cuts;',len(records),'source assets')
+
+if (root.parent/'tts/2026-11-14/manifest.json').exists():subprocess.run(['python3',str(root/'scripts/apply-pending-narration.py')],check=True)

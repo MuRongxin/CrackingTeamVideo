@@ -1,0 +1,57 @@
+[
+  {
+    "id": 309,
+    "replaces": 52,
+    "act": 2,
+    "text": "能破解这些游戏不代表他已经有能力对付那些使用更新版本保护的新游戏",
+    "tts_text": "能破解这些游戏不代表他已经有能力对付那些使用亘新版本保护的新游戏",
+    "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+    "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn",
+    "duration": 5.526349206349207,
+    "sample_rate": 22050,
+    "path": "voices视频专题/tts/2026-11-14-review-fixes/309.wav",
+    "sha256": "5b6ac52724dac0ccc2893c625ee345793a2c1892e9181148e2bffc736d1e74ea",
+    "pronunciation_note": "罕见字堩首轮未通过复核；改用常用四声近音字亘作TTS输入，字幕保留更；更加保留原字",
+    "validation": {
+      "asr_text": "能破解這些遊戲不代表它已經有能力 對付那些使用更新版本保護的新遊戲",
+      "method": "Whisper small word alignment + Praat F0 contour",
+      "fourth_tone_note": "目标更的元音段F0呈下降走势；不以ASR单独判定声调"
+    }
+  },
+  {
+    "id": 310,
+    "replaces": 126,
+    "act": 4,
+    "text": "他表示，从下一次发布开始就要尝试处理更新更加复杂的 Denuvo 版本",
+    "tts_text": "他表示，从下一次发布开始就要尝试处理亘新、更加复杂的 Denuvo 版本",
+    "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+    "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn",
+    "duration": 5.77015873015873,
+    "sample_rate": 22050,
+    "path": "voices视频专题/tts/2026-11-14-review-fixes/310.wav",
+    "sha256": "c3a89d9728e41b64912c6806b9863e70a68ae25e42381187f7c4e16dd14bb933",
+    "pronunciation_note": "罕见字堩首轮未通过复核；改用常用四声近音字亘作TTS输入，字幕保留更；更加保留原字",
+    "validation": {
+      "asr_text": "它表示,從下一次發布開始就要嘗試處理更新,更加複雜的DiniWall版本。",
+      "method": "Whisper small word alignment + Praat F0 contour",
+      "fourth_tone_note": "目标更的元音段F0呈下降走势；不以ASR单独判定声调"
+    }
+  },
+  {
+    "id": 311,
+    "replaces": 267,
+    "act": 9,
+    "text": "那份“在什么环境下都能用”的 PROPER，那句“抱歉”，那个 Wuk0ng，都是这样。",
+    "tts_text": "那份“在什么环境下都能用”的 PROPER，那句“抱歉”，那个 Wukong，都是这样。",
+    "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+    "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn",
+    "duration": 4.922630385487528,
+    "sample_rate": 22050,
+    "path": "voices视频专题/tts/2026-11-14-review-fixes/311.wav",
+    "sha256": "62d2d689a61f076ab3c343ecd1050efb9d1781f2998468cb6a6ad4e91cc1a909",
+    "validation": {
+      "asr_text": "那份在什么环境下都能用的proper 那句抱歉 那个wukong都是这样",
+      "method": "Whisper small transcription"
+    }
+  }
+]

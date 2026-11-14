@@ -1,0 +1,26 @@
+{
+  "id": "V38_MUZIMI_stop",
+  "task": "MG15",
+  "kind": "image",
+  "title": "睦子米 / 暂停",
+  "path": "media/03_stills/voices38_stickers/muzimi-stop.png",
+  "derived_from": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/no_background_ai/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNEJES1RhSnU5Y1FRIQUAcXVuZ3o!.png",
+  "source_sha256": "85b5b98233a7c8abae0ee7eb92c98a6898903b13f6185d9cf9bb44b68bb0a8e2",
+  "sha256": "85b5b98233a7c8abae0ee7eb92c98a6898903b13f6185d9cf9bb44b68bb0a8e2",
+  "bytes": 1488188,
+  "width": 1254,
+  "height": 1254,
+  "alpha_bbox": [
+    0,
+    30,
+    1221,
+    1254
+  ],
+  "status": "exported",
+  "author": "用户提供 / 睦子米表情包系列",
+  "source_page": "用户指定本地贴纸目录",
+  "rights": "用户明确授权用于本片剪辑",
+  "source_original": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNEJES1RhSnU5Y1FRIQUAcXVuZ3o!.jpeg",
+  "source_method": "image_gen AI background extraction; no local matte algorithm",
+  "note": "原PNG逐字节复制；不修改原贴纸，不增加背景；透明边距仅由CSS窗口裁切。"
+}

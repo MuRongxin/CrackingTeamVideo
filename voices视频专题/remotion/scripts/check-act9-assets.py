@@ -28,7 +28,7 @@ for video in videos:
   for r in json.loads(manifest.read_text()):
    if r.get('derived_from')==video['derived_from'] and r.get('selected_range_seconds'):
     a,b=r['selected_range_seconds'];assert min(b,hi)<=max(a,lo),(manifest,a,b,lo,hi)
-voices=json.loads((root/'src/act9/voice-manifest.json').read_text());assert [v['id'] for v in voices]==list(range(237,279))
+voices=json.loads((root/'src/act9/voice-manifest.json').read_text());assert {v['id'] for v in voices}==(set(range(237,279))-{267})|{298,299,300,311}
 for v in voices:assert sha(repo/v['source'])==v['sha256']==sha(root/'public'/v['file'])
 # Actual selected moving-picture durations cover each use, including sentence lead/tail.
 durations={v['id']:v['duration'] for v in voices}
@@ -37,4 +37,4 @@ for name,ids,post in [('demon-tanjiro',[259,260],.15),('onimusha-release',[273,2
  actual=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_format','-of','json',str(repo/v['path'])]))
  assert float(actual['format']['duration'])>=need,(name,need)
 assert 5.7>=durations[257]+durations[258]+.3
-print('PASS: 32 source assets, 4 unlooped video selections, no previous time-range overlap, original recordings 237–278, bounded PDF crops.')
+print('PASS: 32 source assets, 4 unlooped video selections, no previous time-range overlap, 45 active recordings, original take 267 archived, bounded PDF crops.')

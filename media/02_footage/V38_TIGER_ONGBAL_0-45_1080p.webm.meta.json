@@ -1,0 +1,26 @@
+{
+  "id": "V38_TIGER_ONGBAL",
+  "kind": "video",
+  "task": "EX15",
+  "title": "Black Myth: Wukong - Tiger Vanguard No Damage Boss Fight",
+  "path": "media/02_footage/V38_TIGER_ONGBAL_0-45_1080p.webm",
+  "source_page": "https://www.youtube.com/watch?v=znuj3QZbf-k",
+  "url": "https://www.youtube.com/watch?v=znuj3QZbf-k",
+  "author": "옹발이 ONGBAL",
+  "status": "downloaded",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "selected_range_seconds": [
+    0,
+    45
+  ],
+  "actual_duration_seconds": 44.999,
+  "original_duration_seconds": 125,
+  "complete_source_video": false,
+  "retrieved_at": "2026-11-14T06:39:49.328877+00:00",
+  "sha256": "953a13041503b1d5306e89b473ae6f4c938ea5097cc5be7ed02c1aa12c53d399",
+  "bytes": 26301210,
+  "rights": "上传者 ONGBAL；游戏作品 Game Science。公开画面节选，公开剪辑使用条件未另行确认。",
+  "note": "仅保留原片0—45秒有效视频轨，无音轨；不是125秒全片。下载中断后由有效WebM数据封装，已完整解码所选范围；非某破解版本实测。"
+}

@@ -7,10 +7,9 @@ import { OtherSide, HoursAndDays, GoodReviews } from "./act7/Reports";
 import { TechnicalClaim, MafiaClaim, OpenQuestion } from "./act7/Dispute";
 import { OldArgument, CrackOrBypass } from "./act7/History";
 import { Act7Sound } from "./act7/Sound";
-const Act7Inner = ({ timings = initialAct7Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+export const act7Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A7-01 澄清的另一面"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -75,7 +74,15 @@ const Act7Inner = ({ timings = initialAct7Timings }: ActProps) => {
         <Narration timing={timings[7]} />
         <Act7Sound shot={8} timing={timings[7]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+    </>
+  );
+};
+const Act7Inner = ({ timings = initialAct7Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act7Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act7 = Interactive.create({

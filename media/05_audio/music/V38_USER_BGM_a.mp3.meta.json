@@ -1,0 +1,15 @@
+{
+  "id": "V38_USER_BGM_a",
+  "task": "AU15",
+  "kind": "audio",
+  "title": "❌",
+  "path": "media/05_audio/music/V38_USER_BGM_a.mp3",
+  "derived_from": "voices视频专题/bgm 1 ❌.mp3",
+  "source_sha256": "8fcc27be83bab88546fef0151fdc6e43af37722868e92c353718db94935e39ec",
+  "source_page": "用户提供本地文件",
+  "author": "Ala",
+  "rights": "用户提供用于本片配乐；原曲权利保留，公开使用条件未另行核实",
+  "status": "exported",
+  "sha256": "8fcc27be83bab88546fef0151fdc6e43af37722868e92c353718db94935e39ec",
+  "bytes": 2467677
+}

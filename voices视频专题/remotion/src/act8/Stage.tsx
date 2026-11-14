@@ -36,23 +36,26 @@ export const Stage = ({
         }}
       />
       {children}
-      <div
-        style={{
-          position: "absolute",
-          left: 100,
-          top: 870,
-          maxWidth: 1710,
-          padding: "10px 14px",
-          borderLeft: `3px solid ${paper ? "#a69c88" : "#617783"}`,
-          fontSize: 22,
-          lineHeight: 1.35,
-          zIndex: 40,
-          color: paper ? C.ink : "#d2dedc",
-          background: paper ? "#f3efe4ed" : "#0a1219ed",
-        }}
-      >
-        {source}
-      </div>
+      {source ? (
+        <div
+          data-source-credit
+          style={{
+            position: "absolute",
+            left: 100,
+            top: 870,
+            maxWidth: 1710,
+            padding: "10px 14px",
+            borderLeft: `3px solid ${paper ? "#a69c88" : "#617783"}`,
+            fontSize: 22,
+            lineHeight: 1.35,
+            zIndex: 40,
+            color: paper ? C.ink : "#d2dedc",
+            background: paper ? "#f3efe4ed" : "#0a1219ed",
+          }}
+        >
+          {source}
+        </div>
+      ) : null}
     </AbsoluteFill>
   );
 };

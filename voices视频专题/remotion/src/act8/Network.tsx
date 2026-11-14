@@ -29,7 +29,7 @@ export const Business = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A8-04 · 技术生意"
-      source="V20 / 诉状｜Denuvo 对其商业利益的主张；品牌标识为原品牌图形"
+      source="Denuvo 起诉书 · 原告的商业利益主张"
     >
       <Eyebrow style={{ color: C.yellow }}>
         Denuvo 的理由 / THE BUSINESS
@@ -137,7 +137,7 @@ export const Accounts = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A8-07 · 只有账号"
-      source="诉状第2—3页｜1 个 Discord、1 个 Reddit、7 个 Steam；仅展示数量，不展示账号 ID"
+      source="Denuvo 起诉书 · 涉及的平台账号"
     >
       <Eyebrow style={{ color: C.yellow }}>
         UNKNOWN INDIVIDUAL OR ENTITY
@@ -274,7 +274,7 @@ export const Response = ({ timing }: { timing: ShotTiming }) => {
     <Stage
       name="A8-08 · 照常继续"
       paper
-      source="V20｜TorrentFreak 所刊 voices38 的 Reddit 回复原图；2026-09-16 更新"
+      source="voices38 的 Reddit 回复 · TorrentFreak · 2026-09-16"
     >
       <Eyebrow style={{ color: red }}>两天后 / 2026.09.16</Eyebrow>
       <div
@@ -340,7 +340,7 @@ export const SameCourt = ({ timing }: { timing: ShotTiming }) => {
     <Stage
       name="A8-09 · 同一家法院"
       paper
-      source="M22 / GameSpot · 2000-04-27；V20 / 2026诉状｜历史关系示意，未伪造2000年的法院文件"
+      source="GameSpot · 2000-04-27 / Denuvo 起诉书 · 2026-09-14"
     >
       <Eyebrow style={{ color: red }}>美国加州北区联邦法院</Eyebrow>
       <Paper

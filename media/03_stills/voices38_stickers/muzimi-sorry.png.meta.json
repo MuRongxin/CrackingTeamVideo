@@ -1,0 +1,26 @@
+{
+  "id": "V38_MUZIMI_sorry",
+  "task": "MG15",
+  "kind": "image",
+  "title": "睦子米 / 慌张",
+  "path": "media/03_stills/voices38_stickers/muzimi-sorry.png",
+  "derived_from": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/no_background_ai/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNEFUS1RhQ0J6ZWdRIQUAcXVuZ3o!.png",
+  "source_sha256": "f3e09e9b594d6fbd0385fd59ada06ba303091ed786d10ad7955cfc00cf1cb3a5",
+  "sha256": "f3e09e9b594d6fbd0385fd59ada06ba303091ed786d10ad7955cfc00cf1cb3a5",
+  "bytes": 1552925,
+  "width": 1254,
+  "height": 1254,
+  "alpha_bbox": [
+    6,
+    50,
+    1254,
+    1254
+  ],
+  "status": "exported",
+  "author": "用户提供 / 睦子米表情包系列",
+  "source_page": "用户指定本地贴纸目录",
+  "rights": "用户明确授权用于本片剪辑",
+  "source_original": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNEFUS1RhQ0J6ZWdRIQUAcXVuZ3o!.jpeg",
+  "source_method": "image_gen AI background extraction; no local matte algorithm",
+  "note": "原PNG逐字节复制；不修改原贴纸，不增加背景；透明边距仅由CSS窗口裁切。"
+}

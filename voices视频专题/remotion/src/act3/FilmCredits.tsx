@@ -94,7 +94,7 @@ export const Thanks = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="NFO / 字段之外，还有别人的名字"
-      source="V16｜2025-11-18 发行说明致谢 · 按本地原文重排，工具外形为示意"
+      source="voices38《极品飞车》发行致谢 · 2025-11-18"
     >
       <Grid tilt />
       <div
@@ -212,7 +212,7 @@ export const SharedTool = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="一项工具，怎样成为另一份发行的一部分"
-      source="V16 致谢｜组件贡献关系示意，不代表软件实际内部结构 · 背景为 EA 官方游戏片段"
+      source="voices38 发行致谢 · 游戏画面：EA"
     >
       <Grid tilt />
       <div style={{ ...pos, inset: 0, opacity: movie }}>

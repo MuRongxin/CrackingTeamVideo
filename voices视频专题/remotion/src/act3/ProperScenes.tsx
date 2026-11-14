@@ -22,7 +22,7 @@ export const DeadSpace = ({ timing }: { timing: ShotTiming }) => {
   const dismiss = say(timing, 82);
   const pew = pewAt(timing);
   return (
-    <A3Scene source="游戏背景｜EA 官方宣传片／静帧 · NFO｜V06｜2026-01-11">
+    <A3Scene source="voices38《死亡空间》发行说明 · 游戏画面：EA">
       <Img
         src={staticFile("v38/act3/dead-space.jpg")}
         style={{
@@ -158,7 +158,7 @@ export const ProperWord = ({ timing }: { timing: ShotTiming }) => {
   const define = say(timing, 84);
   const example = say(timing, 85);
   return (
-    <A3Scene source="发行记录｜V06 · PROPER 术语示意，不代表官方认证">
+    <A3Scene source="voices38《死亡空间》PROPER 发行说明">
       <Header title="版本名里，多了一个词" right="2026.01.11" />
       <div
         style={{
@@ -239,7 +239,7 @@ export const EarlierBeta = ({ timing }: { timing: ShotTiming }) => {
   const later = say(timing, 88);
   const p = lerp(t, later, later + 0.6);
   return (
-    <A3Scene source="发行背景｜V06、V08 · Hypervisor 路线留至第六幕展开">
+    <A3Scene source="发行记录：Reddit · r/CrackWatch">
       <Header title="同一款游戏，先前已有一次尝试" right="DEAD SPACE" />
       <AccentLine x1={240} y1={555} x2={1670} y2={555} at={0.1} />
       <div style={{ position: "absolute", left: 270, top: 300 }}>
@@ -346,7 +346,7 @@ export const Criticism = ({ timing }: { timing: ShotTiming }) => {
     "the method used is bad by design",
   ];
   return (
-    <A3Scene source="当事人评价｜voices38 · V06 PROPER NFO｜2026-01-11 · 中文译述">
+    <A3Scene source="voices38《死亡空间》PROPER 发行说明 · 2026-01-11">
       <Header title="voices38 对先前方案的评价" right="PROPER NOTES" />
       <div
         style={{
@@ -423,7 +423,7 @@ export const OwnProper = ({ timing }: { timing: ShotTiming }) => {
   const memory = say(timing, 93, "也没有");
   const enjoy = say(timing, 94);
   return (
-    <A3Scene source="当事人自述｜V06｜2026-01-11 · 中文译述，非兼容性实测">
+    <A3Scene source="兼容性主张：voices38《死亡空间》发行说明">
       <Header title="voices38 自述" right="PROPER / 2026.01.11" />
       <Divider />
       <div
@@ -492,7 +492,7 @@ export const ThreeDays = ({ timing }: { timing: ShotTiming }) => {
   const step = Math.min(3, Math.max(0, Math.floor((t - flipStart) / 0.46)));
   const f = Math.max(0, (t - flipStart) / 0.46) % 1;
   return (
-    <A3Scene source="发行记录｜V06 PROPER · 01.11 / V07 CRACKFIX · 01.14">
+    <A3Scene source="voices38《死亡空间》发行说明 · 2026-01-11 / 01-14">
       <Header title="三天后，又有一份发行说明" right="2026.01" />
       <div
         style={{
@@ -635,7 +635,7 @@ export const Sorry = ({ timing }: { timing: ShotTiming }) => {
   const tools = say(timing, 98);
   const p = lerp(t, tools, tools + 0.65);
   return (
-    <A3Scene source="当事人声明｜V07 CRACKFIX｜2026-01-14 · 据文本存档重排">
+    <A3Scene source="voices38《死亡空间》CRACKFIX 发行说明 · 2026-01-14">
       <Header title="修复说明，也写下了一句道歉" right="CRACKFIX NOTES" />
       <div
         style={{
@@ -726,7 +726,7 @@ export const ThreeDaysApart = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
   const after = t >= say(timing, 100);
   return (
-    <A3Scene source="当事人自述对照｜V06 / V07 · 中文译述">
+    <A3Scene source="voices38《死亡空间》发行说明 · 2026-01-11 / 01-14">
       <Header title="同一个署名，两份说明" right="voices38" />
       <div
         style={{
@@ -788,7 +788,7 @@ export const EarlierFix = ({ timing }: { timing: ShotTiming }) => {
   return (
     <A3Scene
       paper
-      source="发行 NFO｜RELOADED · P04 / P05｜2006-05-26 / 05-28 · 兼容性为其自述"
+      source="RELOADED《细胞分裂：混沌理论》发行说明 · 2006-05"
     >
       <Header title="发布之后，再补发修复" right="RELOADED / 2006" paper />
       <div

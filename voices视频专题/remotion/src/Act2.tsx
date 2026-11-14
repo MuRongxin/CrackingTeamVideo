@@ -30,10 +30,9 @@ import {
   Unanswered,
 } from "./act2/FilmVoices";
 import { Act2Sound } from "./act2/Sound";
-const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+export const act2Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A2-01 倒带"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -209,7 +208,15 @@ const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
         <Narration timing={timings[21]} />
         <Act2Sound shot={22} timing={timings[21]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+    </>
+  );
+};
+const Act2Inner = ({ timings = initialAct2Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act2Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act2 = Interactive.create({

@@ -1,0 +1,15 @@
+{
+  "id": "V38_USER_BGM_b",
+  "task": "AU15",
+  "kind": "audio",
+  "title": "ring a bell",
+  "path": "media/05_audio/music/V38_USER_BGM_b.mp3",
+  "derived_from": "voices视频专题/bgm 2 ring a bell.mp3",
+  "source_sha256": "8ded45469c1dd62c5b877f9cdecc359dcebee008fabe72feb0c52ea4e613eb61",
+  "source_page": "用户提供本地文件",
+  "author": "用户文件未注明作者",
+  "rights": "用户提供用于本片配乐；原曲权利保留，公开使用条件未另行核实",
+  "status": "exported",
+  "sha256": "8ded45469c1dd62c5b877f9cdecc359dcebee008fabe72feb0c52ea4e613eb61",
+  "bytes": 2795773
+}

@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_308",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A10-10 / 新增或替换旁白 308",
+  "path": "media/05_audio/narration/V38_TTS_308.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/308.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "027125107f78a45bec491e8a84246893c2ad7b7b297eb90fbf0d654ff67af027",
+  "bytes": 162860,
+  "source_sha256": "027125107f78a45bec491e8a84246893c2ad7b7b297eb90fbf0d654ff67af027",
+  "text": "R组、C组、女皇等的内容正在热情制作中！",
+  "tts_text": "R组、C组、女皇等的内容正在热情制作中！",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

@@ -1,21 +1,5 @@
 [
   {
-    "id": 279,
-    "file": "v38/vo/sentence-279.wav",
-    "duration": 7.267845804988662,
-    "source": "voices视频专题/videoVoices/sentence_279_截至二零二六年_11_月初公开资料里还没.wav",
-    "original": "sentence_279_截至二零二六年_11_月初公开资料里还没.wav",
-    "sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8"
-  },
-  {
-    "id": 280,
-    "file": "v38/vo/sentence-280.wav",
-    "duration": 3.0882539682539685,
-    "source": "voices视频专题/videoVoices/sentence_280_平台有没有交出资料交了什么外界也不知道.wav",
-    "original": "sentence_280_平台有没有交出资料交了什么外界也不知道.wav",
-    "sha256": "8303018789ede1681e8f90cfdd3b7a435479b4f217a3231783ec6f580a591a5b"
-  },
-  {
     "id": 281,
     "file": "v38/vo/sentence-281.wav",
     "duration": 3.947392290249433,
@@ -112,30 +96,6 @@
     "sha256": "b88a9c9e7ae0ae6ea9c68ed9ebb1011d03c61399f5b3a7e3285de016ae1eb357"
   },
   {
-    "id": 293,
-    "file": "v38/vo/sentence-293.wav",
-    "duration": 2.5541950113378684,
-    "source": "voices视频专题/videoVoices/sentence_293_一年后Reddit_上已经找不到这个账号.wav",
-    "original": "sentence_293_一年后Reddit_上已经找不到这个账号.wav",
-    "sha256": "7dbf1fe7673f70e3d3b60b344efee95b9bcafe15a6611401eb4cf26a88d6dc63"
-  },
-  {
-    "id": 294,
-    "file": "v38/vo/sentence-294.wav",
-    "duration": 3.4133333333333336,
-    "source": "voices视频专题/videoVoices/sentence_294_论坛上的名字也从_voices_变成了.wav",
-    "original": "sentence_294_论坛上的名字也从_voices_变成了.wav",
-    "sha256": "d6ec5c3c0088bb1d4c066975a8742471f5f5c3d20c32f3fae8b8dc264ca8e067"
-  },
-  {
-    "id": 295,
-    "file": "v38/vo/sentence-295.wav",
-    "duration": 3.633922902494331,
-    "source": "voices视频专题/videoVoices/sentence_295_名字变了留下的痕迹还在但身份依然没有答案.wav",
-    "original": "sentence_295_名字变了留下的痕迹还在但身份依然没有答案.wav",
-    "sha256": "cee20f8eb8230c191d36c3302064569de5137ca96f8e38691b2c0a8d3624733f"
-  },
-  {
     "id": 296,
     "file": "v38/vo/sentence-296.wav",
     "duration": 4.702040816326531,
@@ -150,5 +110,85 @@
     "source": "voices视频专题/videoVoices/sentence_297_只有法院的案卷上还是依旧写着voices.wav",
     "original": "sentence_297_只有法院的案卷上还是依旧写着voices.wav",
     "sha256": "0e766d4fe65140a8f78f28c187363b0ab9f256acbf1f16f755daf19993db199d"
+  },
+  {
+    "id": 301,
+    "file": "v38/vo/sentence-301.wav",
+    "duration": 7.163356009070295,
+    "source": "voices视频专题/videoVoices/sentence_301_A10-01.wav",
+    "original": "sentence_301_A10-01.wav",
+    "sha256": "adc66d961400bd031b24f6ee0b930c29ca2258efd8437683e696ca33f02bbf15",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-301.json"
+  },
+  {
+    "id": 302,
+    "file": "v38/vo/sentence-302.wav",
+    "duration": 4.806530612244898,
+    "source": "voices视频专题/videoVoices/sentence_302_A10-01.wav",
+    "original": "sentence_302_A10-01.wav",
+    "sha256": "fb5eea11737576205fe510120ab6f85b14a8a5c15491f3effc8332f9123ecb3e",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-302.json"
+  },
+  {
+    "id": 303,
+    "file": "v38/vo/sentence-303.wav",
+    "duration": 4.307301587301588,
+    "source": "voices视频专题/videoVoices/sentence_303_A10-07.wav",
+    "original": "sentence_303_A10-07.wav",
+    "sha256": "58fd791af34072a8297a39db384ad257410832efa4c5ddd571dbd31709b3b24f",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-303.json"
+  },
+  {
+    "id": 304,
+    "file": "v38/vo/sentence-304.wav",
+    "duration": 4.08671201814059,
+    "source": "voices视频专题/videoVoices/sentence_304_A10-07.wav",
+    "original": "sentence_304_A10-07.wav",
+    "sha256": "51b580b331c309b1aa786e6c071f7cd89281bdaf924c6afad0576e2fa3480e8e",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-304.json"
+  },
+  {
+    "id": 305,
+    "file": "v38/vo/sentence-305.wav",
+    "duration": 3.7500226757369615,
+    "source": "voices视频专题/videoVoices/sentence_305_A10-10.wav",
+    "original": "sentence_305_A10-10.wav",
+    "sha256": "e9e9725e6795d1e8593a3115f332ea5c1b83292873c9c0a569aecc103b5a8270",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-305.json"
+  },
+  {
+    "id": 306,
+    "file": "v38/vo/sentence-306.wav",
+    "duration": 1.4512471655328798,
+    "source": "voices视频专题/videoVoices/sentence_306_A10-10.wav",
+    "original": "sentence_306_A10-10.wav",
+    "sha256": "679deb47021bf3037516278b08539791947109c0261c6312e1e35abab0506e1e",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-306.json"
+  },
+  {
+    "id": 307,
+    "file": "v38/vo/sentence-307.wav",
+    "duration": 4.342131519274377,
+    "source": "voices视频专题/videoVoices/sentence_307_A10-10.wav",
+    "original": "sentence_307_A10-10.wav",
+    "sha256": "503f00bd886bfa576333a9d841c48702be5d6d5e85654523587960a2bf0ce25d",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-307.json"
+  },
+  {
+    "id": 308,
+    "file": "v38/vo/sentence-308.wav",
+    "duration": 3.6919727891156464,
+    "source": "voices视频专题/videoVoices/sentence_308_A10-10.wav",
+    "original": "sentence_308_A10-10.wav",
+    "sha256": "027125107f78a45bec491e8a84246893c2ad7b7b297eb90fbf0d654ff67af027",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-308.json"
   }
 ]

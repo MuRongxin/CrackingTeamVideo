@@ -23,7 +23,7 @@ export const OldArgument = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A7-07 · 1998年的老争论"
-      source="历史：L05／L06 · Razor 字标：JeD / ACiD · 画面：Valve 周年官网（非版本核验）"
+      source="Hidden Palace / xREL · Razor 字标：JeD / ACiD · 游戏画面：Valve"
     >
       <Footage name="half-life" />
       <Darken />
@@ -168,7 +168,7 @@ export const CrackOrBypass = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A7-08 · 破解，还是绕过"
-      source="术语与技术争议｜游戏画面：2K 官方；非破解版本运行对比"
+      source="游戏画面：2K 官方预告"
     >
       <div
         style={{

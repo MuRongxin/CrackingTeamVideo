@@ -19,7 +19,7 @@ export const CommercialWindow = ({ timing }: { timing: ShotTiming }) => {
   const shift = timing.voices[2].start;
   return (
     <Scene paper>
-      <Topline label="保护的商业价值" right="首发窗口 / 概念示意" paper />
+      <Topline label="保护的商业价值" right="首发窗口" paper />
       <SalesCurve progress={lerp(t, 0.5, 3)} />
       <div
         style={{
@@ -76,7 +76,6 @@ export const CommercialWindow = ({ timing }: { timing: ShotTiming }) => {
       >
         示意曲线，不代表实际数据
       </div>
-      <SourceTag>概念示意｜首发窗口</SourceTag>
     </Scene>
   );
 };
@@ -135,7 +134,6 @@ export const FiveDays = ({ timing }: { timing: ShotTiming }) => {
       >
         5 天后，Denuvo 保护被突破
       </div>
-      <SourceTag>同期报道｜研究档案 S40｜日期图解</SourceTag>
     </Scene>
   );
 };
@@ -273,7 +271,7 @@ export const DenuvoResponse = ({ timing }: { timing: ShotTiming }) => {
           不必永远挡住
         </div>
       </div>
-      <SourceTag>同期报道｜Ars Technica｜2017-02-06 · 经报道转述</SourceTag>
+      <SourceTag>Ars Technica · 2017-02-06</SourceTag>
     </Scene>
   );
 };
@@ -321,7 +319,7 @@ export const QuietNews = ({ timing }: { timing: ShotTiming }) => {
         </div>
       </Paper>
       <div style={{ position: "absolute", left: 1350, top: 320, width: 380 }}>
-        <Eyebrow>新闻栏 / 概念示意</Eyebrow>
+        <Eyebrow>新闻栏 / </Eyebrow>
         <div
           style={{
             fontSize: 41,
@@ -351,7 +349,7 @@ export const QuietNews = ({ timing }: { timing: ShotTiming }) => {
           }}
         />
       </div>
-      <SourceTag>发行时间图解｜xREL｜2025-10-14</SourceTag>
+      <SourceTag>xREL 发行记录 · 2025-10-14</SourceTag>
     </Scene>
   );
 };
@@ -423,7 +421,7 @@ export const WhyStarted = ({ timing }: { timing: ShotTiming }) => {
           )}
         </div>
       </TerminalPanel>
-      <SourceTag>当事人自述｜经 iXBT 转述｜2025-10-15</SourceTag>
+      <SourceTag>voices38 自述 · iXBT.games · 2025-10-15</SourceTag>
     </Scene>
   );
 };
@@ -502,8 +500,8 @@ export const Retreat = ({ timing }: { timing: ShotTiming }) => {
       </div>
       <SourceTag>
         {k < 0.5
-          ? "同期报道｜iXBT｜2025-10-15"
-          : "当事人声明｜EMPRESS 频道公告｜2025-12-01"}
+          ? "iXBT.games · 2025-10-15"
+          : "EMPRESS 告别声明 · 2025-12-01"}
       </SourceTag>
     </Scene>
   );
@@ -576,7 +574,7 @@ export const CommunityTitle = ({ timing }: { timing: ShotTiming }) => {
           </div>
         </div>
       </TerminalPanel>
-      <SourceTag>社区讨论｜r/PiratedGames｜2025-10-14 · 文本存档重排</SourceTag>
+      <SourceTag>Reddit · r/PiratedGames · 2025-10-14</SourceTag>
     </Scene>
   );
 };
@@ -669,7 +667,7 @@ export const DoubleMeaning = ({ timing }: { timing: ShotTiming }) => {
         />
       </svg>
       <SourceTag>
-        社区讨论｜r/PiratedGames｜2025-10-14 · 语义动画为示意
+        Reddit · r/PiratedGames · 2025-10-14
       </SourceTag>
     </Scene>
   );
@@ -720,7 +718,7 @@ export const Caution = ({ timing }: { timing: ShotTiming }) => {
         </div>
       </TerminalPanel>
       <SourceTag>
-        社区讨论｜r/PiratedGames｜2025-10-14 · 观点属于评论者
+        Reddit 评论 · r/PiratedGames · 2025-10-14
       </SourceTag>
     </Scene>
   );
@@ -784,7 +782,6 @@ export const Unanswered = () => {
         <br />
         新版还不能下结论
       </div>
-      <SourceTag>叙事悬念｜2025 年 10 月</SourceTag>
     </Scene>
   );
 };

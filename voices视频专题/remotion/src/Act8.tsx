@@ -13,10 +13,9 @@ import {
 import { Business, Accounts, Response, SameCourt } from "./act8/Network";
 import { ReportedDisbanding, Contrast, NoFarewell } from "./act8/Aftermath";
 import { Act8Sound } from "./act8/Sound";
-const Act8Inner = ({ timings = initialAct8Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+export const act8Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A8-01 一份起诉书"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -113,7 +112,15 @@ const Act8Inner = ({ timings = initialAct8Timings }: ActProps) => {
         <Narration timing={timings[11]} />
         <Act8Sound shot={12} timing={timings[11]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+    </>
+  );
+};
+const Act8Inner = ({ timings = initialAct8Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act8Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act8 = Interactive.create({

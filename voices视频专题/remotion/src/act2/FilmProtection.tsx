@@ -23,8 +23,8 @@ export const DenuvoShell = ({ timing }: { timing: ShotTiming }) => {
   return (
     <FilmScene
       title="新版本，外面合上一层保护"
-      right="概念示意 / 不是程序结构"
-      source="保护概念示意｜Denuvo 反篡改保护"
+      right="保护层示意 / 不是程序结构"
+      source=""
     >
       <GameStill dark={0.42} />
       <div
@@ -153,7 +153,7 @@ export const CommercialWindow = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="它不必永远挡住破解"
       right="首发窗口 / 示意曲线"
-      source="画面｜艾尔登法环官方宣传片 · 曲线为商业逻辑示意，不是销量"
+      source="游戏画面：《艾尔登法环》官方预告"
     >
       <Video
         src={publicAsset("v38/act2/footage/launch-window.mp4")}
@@ -315,7 +315,7 @@ export const FiveDays = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="生化危机 7"
       right="2017.01.24 → 01.29"
-      source="同期报道｜S40 · 画面为 CAPCOM 官方宣传片实机段落"
+      source="游戏画面：CAPCOM 官方预告"
     >
       <Video
         src={publicAsset("v38/act2/footage/re7.mp4")}
@@ -441,7 +441,7 @@ export const DenuvoResponse = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="Denuvo 市场总监的回应"
       right="Ars Technica / 2017.02.06"
-      source="报道页截图｜Ars Technica｜2017-02-06 · 观点归回应者"
+      source="Ars Technica · Denuvo 市场总监回应 · 2017-02-06"
     >
       <Img
         src={publicAsset("v38/act2/stills/ars-re7.png")}

@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_299",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A9-19 / 新增或替换旁白 299",
+  "path": "media/05_audio/narration/V38_TTS_299.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/299.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "14d377d08b61aa95b48065ced82be42363c21ae07b8fcbaa92d194dcad1c8a22",
+  "bytes": 345644,
+  "source_sha256": "14d377d08b61aa95b48065ced82be42363c21ae07b8fcbaa92d194dcad1c8a22",
+  "text": "新的 Reddit 发布帖，作者一栏写着 v0ices38。而发行说明上，还是原来的 voices38。",
+  "tts_text": "新的 Reddit 发布帖，作者一栏写着 voices thirty-eight。而发行说明上，还是原来的 voices thirty-eight。",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

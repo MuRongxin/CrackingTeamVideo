@@ -1,0 +1,20 @@
+{
+  "id": "V38_A10M_signature-dead",
+  "task": "EX15",
+  "kind": "video",
+  "title": "尾声动效修订 / signature-dead",
+  "path": "media/02_footage/derived/V38_A10M_signature-dead.mp4",
+  "derived_from": "media/02_footage/V38_A9_DEAD_official_1080p.mp4",
+  "source_sha256": "8ec8a1eab167af537679eb7353f41357d5c6b5205fea365741cbe71f72328f8b",
+  "selected_range_seconds": [
+    38.5,
+    44
+  ],
+  "source_page": "https://store.steampowered.com/app/1693980/",
+  "author": "Electronic Arts / Motive",
+  "rights": "原发布者所有，公开剪辑使用条件待确认",
+  "status": "exported",
+  "sha256": "24fe3cd49a720273c4674f3a9b8c906ac84d950f82712306746fea1da37e01a8",
+  "bytes": 4726022,
+  "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。"
+}

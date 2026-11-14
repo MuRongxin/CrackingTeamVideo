@@ -104,20 +104,13 @@
     {
       "text": "因此它请求法院允许它",
       "startMs": 0,
-      "endMs": 1600,
+      "endMs": 1960,
       "timestampMs": null,
       "confidence": null
     },
     {
-      "text": "向 Discord、Valve",
-      "startMs": 1600,
-      "endMs": 2950,
-      "timestampMs": null,
-      "confidence": null
-    },
-    {
-      "text": "和 Reddit 发出传票",
-      "startMs": 2950,
+      "text": "向 Discord、Valve 和 Reddit 发出传票",
+      "startMs": 1960,
       "endMs": 5000,
       "timestampMs": null,
       "confidence": null
@@ -132,20 +125,20 @@
     {
       "text": "比如叫什么",
       "startMs": 7180,
-      "endMs": 7800,
+      "endMs": 7900,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "住在哪",
-      "startMs": 7800,
-      "endMs": 8670,
+      "startMs": 7900,
+      "endMs": 8780,
       "timestampMs": null,
       "confidence": null
     },
     {
       "text": "怎么联系",
-      "startMs": 8670,
+      "startMs": 8780,
       "endMs": 9416,
       "timestampMs": null,
       "confidence": null
@@ -185,7 +178,7 @@
   ],
   "9": [
     {
-      "text": "我准备了很多有关 voices38\n的内容",
+      "text": "我准备了很多有关 voices38的内容",
       "startMs": 0,
       "endMs": 2900,
       "timestampMs": null,

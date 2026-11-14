@@ -36,7 +36,7 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
     <Act1Scene paper>
       <Act1Kicker
         paper
-        right={k < 0.5 ? "ORIGINAL → REVISED" : "Dkt. 25 / 2026.10.14"}
+        right={k < 0.5 ? "ORIGINAL → REVISED" : "修改申请 / 2026.10.14"}
       >
         07 / NARROW THE REQUEST
       </Act1Kicker>
@@ -285,7 +285,7 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
             marginBottom: 24,
           }}
         >
-          法院命令 · Dkt. 24
+          法院命令 · 2026.10.08
         </div>
         <Img
           src={publicAsset("v38/court/order-line1.png")}
@@ -362,8 +362,8 @@ export const Requests = ({ timing }: { timing: ShotTiming }) => {
       </div>
       <Act1Source paper>
         {k > 0.5
-          ? "法院附件｜Dkt. 25-1、25-2、25-3｜2026-10-14"
-          : "原请求类型｜TorrentFreak 2026-10-06；法院命令 Dkt. 24"}
+          ? "Denuvo 修改后的取证申请 · 2026-10-14"
+          : "TorrentFreak · 数据请求范围 · 2026-10-06"}
       </Act1Source>
     </Act1Scene>
   );

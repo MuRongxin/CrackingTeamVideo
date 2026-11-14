@@ -15,8 +15,7 @@ const { execFileSync } = require("node:child_process");
     outDir: path.resolve(".qa/current-bundle"),
   });
   const browser = await openBrowser("chrome", {
-    browserExecutable: "/usr/bin/google-chrome-stable",
-    chromiumOptions: { gl: "angle", headless: true },
+    chromiumOptions: { gl: "vulkan", headless: true },
   });
   try {
     const comps = await getCompositions(url, { puppeteerInstance: browser });
@@ -66,6 +65,8 @@ const { execFileSync } = require("node:child_process");
       );
     }
     const requested = process.argv.slice(2);
+    const revisions = JSON.parse(fs.readFileSync("narration-revisions.json"));
+    const retired = new Set(revisions.retiredIds);
     const all = [];
     const pacingGaps = [];
     const probeFrames = [];
@@ -245,7 +246,7 @@ const { execFileSync } = require("node:child_process");
       normalizeText(act8Text),
     );
     extras[9] = Object.fromEntries(
-      Array.from({ length: 17 }, (_, i) => [i + 1, [0.15, 0.48, 0.76, 0.95]]),
+      Array.from({ length: 20 }, (_, i) => [i + 1, [0.15, 0.48, 0.76, 0.95]]),
     );
     extras[9][3].push(0.57);
     extras[9][4].push(0.62);
@@ -262,7 +263,7 @@ const { execFileSync } = require("node:child_process");
       act9Text = act9Text.replace(edit.removedText, "");
     assert.equal(
       normalizeText(
-        Object.values(JSON.parse(fs.readFileSync("src/act9/captions.json")))
+        acts[8].props.timings.flatMap(s=>s.voices).filter((v,i,a)=>a.findIndex(x=>x.id===v.id)===i).map(v=>JSON.parse(fs.readFileSync("src/act9/captions.json"))[v.id])
           .flat()
           .map((c) => c.text)
           .join(""),
@@ -270,25 +271,32 @@ const { execFileSync } = require("node:child_process");
       normalizeText(act9Text),
     );
     extras[10] = Object.fromEntries(
-      Array.from({ length: 9 }, (_, i) => [i + 1, [0.15, 0.45, 0.73, 0.95]]),
+      Array.from({ length: 10 }, (_, i) => [i + 1, [0.15, 0.45, 0.73, 0.95]]),
     );
     extras[10][5].push(0.24, 0.3, 0.4, 0.5, 0.58);
+    extras[10][10] = [0.15, 0.3, 0.39, 0.52, 0.62, 0.73, 0.83, 0.95, 0.999];
     extras[10][9].push(0.34, 0.5, 0.82, 0.995, 0.999);
     assert.equal(
       normalizeText(
-        Object.values(JSON.parse(fs.readFileSync("src/act10/captions.json")))
-          .flat()
+        acts[9].props.timings
+          .flatMap((s) => s.voices)
+          .flatMap(
+            (v) => JSON.parse(fs.readFileSync("src/act10/captions.json"))[v.id],
+          )
           .map((c) => c.text)
           .join(""),
       ),
       normalizeText(
-        fs.readFileSync("../voices38_B站文稿.md", "utf8").split("## 尾声")[1],
+        fs
+          .readFileSync("../voices38_B站文稿.md", "utf8")
+          .split("## 尾声")[1]
+          .replace(/^### 结尾\s*$/m, ""),
       ),
     );
     for (const [ai, act] of acts.entries()) {
       assert.equal(
         act.props.timings.length,
-        [11, 22, 18, 11, 7, 14, 8, 12, 17, 9][ai],
+        [11, 22, 18, 11, 7, 14, 8, 12, 20, 10][ai],
       );
       let start = 0;
       let previousSpeech = null;
@@ -302,11 +310,14 @@ const { execFileSync } = require("node:child_process");
           const absoluteStart = start / 60 + v.start;
           if (previousSpeech) {
             const gap = absoluteStart - previousSpeech.end;
-            const limit = [38, 204, 292].includes(previousSpeech.id)
-              ? 0.78
-              : [3, 100, 286, 296].includes(previousSpeech.id)
-                ? 0.5
-                : 0.4;
+            const limit =
+              previousSpeech.id === 297
+                ? 1.8
+                : [38, 204, 292].includes(previousSpeech.id)
+                  ? 0.78
+                  : [3, 100, 286, 296].includes(previousSpeech.id)
+                    ? 0.5
+                    : 0.4;
             assert(
               gap <= limit,
               `Long speech gap: ${previousSpeech.id} -> ${v.id}: ${gap}s`,
@@ -328,7 +339,12 @@ const { execFileSync } = require("node:child_process");
         const selection = `${ai + 1}:${i + 1}`;
         if (!requested.length || requested.includes(selection))
           for (const ratio of extras[ai + 1][i + 1] || [0.65]) {
-            const frame = start + Math.round(s.duration * 60 * ratio);
+            const frame =
+              start +
+              Math.min(
+                Math.round(s.duration * 60) - 1,
+                Math.round(s.duration * 60 * ratio),
+              );
             await renderStill({
               serveUrl: url,
               composition: act,
@@ -350,20 +366,24 @@ const { execFileSync } = require("node:child_process");
       JSON.stringify(probeFrames, null, 2),
     );
     assert.deepEqual(
-      [...new Set(all.map((v) => v.id))],
-      Array.from({ length: 297 }, (_, i) => i + 1),
+      [...new Set(all.map((v) => v.id))].sort((a, b) => a - b),
+      Array.from({ length: 311 }, (_, i) => i + 1).filter(
+        (id) => !retired.has(id),
+      ),
     );
     for (const v of manifest) {
       const uses = all.filter((x) => x.id === v.id);
       assert(
         Math.abs(
           uses.reduce((s, x) => s + x.duration, 0) -
-            (v.duration -
-              (voiceEdits9[v.id]
-                ? (voiceEdits9[v.id].cutToFrame -
-                    voiceEdits9[v.id].cutFromFrame) /
-                  60
-                : 0)),
+            (retired.has(v.id)
+              ? 0
+              : v.duration -
+                (voiceEdits9[v.id]
+                  ? (voiceEdits9[v.id].cutToFrame -
+                      voiceEdits9[v.id].cutFromFrame) /
+                    60
+                  : 0)),
         ) < 0.001,
         `voice ${v.id}`,
       );
@@ -398,7 +418,8 @@ const { execFileSync } = require("node:child_process");
       for (const rows of Object.values(JSON.parse(fs.readFileSync(file))))
         for (const c of rows) {
           assert(c.endMs > c.startMs);
-          assert(c.text.split("\n").length <= 2);
+          assert(!c.text.includes("\n"));
+          assert(!/[，。！？；：、,.!?;:]+[”’」』）)】\]]*$/.test(c.text));
         }
     for (const ai of [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]) {
       const p =
@@ -451,7 +472,7 @@ assert peak <= 2 and mean < .05, (peak, mean)
       });
     }
     console.log(
-      "PASS: current 129 shots, 297 original recordings, audio 09 continuous source ranges, audio 268 approved cut, Full duration, subtitle bounds.",
+      "PASS: current 133 shots, 303 active recordings / 311 preserved sources, audio 09 continuous source ranges, audio 268 approved cut, Full duration, subtitle bounds.",
     );
   } finally {
     await browser.close({ silent: true });

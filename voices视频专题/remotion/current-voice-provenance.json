@@ -2374,5 +2374,148 @@
     "source": "voices视频专题/videoVoices/sentence_297_只有法院的案卷上还是依旧写着voices.wav",
     "original": "sentence_297_只有法院的案卷上还是依旧写着voices.wav",
     "sha256": "0e766d4fe65140a8f78f28c187363b0ab9f256acbf1f16f755daf19993db199d"
+  },
+  {
+    "id": 298,
+    "file": "v38/vo/sentence-298.wav",
+    "duration": 7.720634920634921,
+    "source": "voices视频专题/videoVoices/sentence_298_A9-18.wav",
+    "original": "sentence_298_A9-18.wav",
+    "sha256": "d7b3a5df8e250c125a1bc28e9724f12d78d3cc918f0f13c54c092c614785c5ef",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-298.json"
+  },
+  {
+    "id": 299,
+    "file": "v38/vo/sentence-299.wav",
+    "duration": 7.836734693877551,
+    "source": "voices视频专题/videoVoices/sentence_299_A9-19.wav",
+    "original": "sentence_299_A9-19.wav",
+    "sha256": "14d377d08b61aa95b48065ced82be42363c21ae07b8fcbaa92d194dcad1c8a22",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-299.json"
+  },
+  {
+    "id": 300,
+    "file": "v38/vo/sentence-300.wav",
+    "duration": 4.992290249433107,
+    "source": "voices视频专题/videoVoices/sentence_300_A9-20.wav",
+    "original": "sentence_300_A9-20.wav",
+    "sha256": "e3a935ec9888e4299eab422dec8aa16855505da8a3e1b3aa7a1c60d79c955f38",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-300.json"
+  },
+  {
+    "id": 301,
+    "file": "v38/vo/sentence-301.wav",
+    "duration": 7.163356009070295,
+    "source": "voices视频专题/videoVoices/sentence_301_A10-01.wav",
+    "original": "sentence_301_A10-01.wav",
+    "sha256": "adc66d961400bd031b24f6ee0b930c29ca2258efd8437683e696ca33f02bbf15",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-301.json"
+  },
+  {
+    "id": 302,
+    "file": "v38/vo/sentence-302.wav",
+    "duration": 4.806530612244898,
+    "source": "voices视频专题/videoVoices/sentence_302_A10-01.wav",
+    "original": "sentence_302_A10-01.wav",
+    "sha256": "fb5eea11737576205fe510120ab6f85b14a8a5c15491f3effc8332f9123ecb3e",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-302.json"
+  },
+  {
+    "id": 303,
+    "file": "v38/vo/sentence-303.wav",
+    "duration": 4.307301587301588,
+    "source": "voices视频专题/videoVoices/sentence_303_A10-07.wav",
+    "original": "sentence_303_A10-07.wav",
+    "sha256": "58fd791af34072a8297a39db384ad257410832efa4c5ddd571dbd31709b3b24f",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-303.json"
+  },
+  {
+    "id": 304,
+    "file": "v38/vo/sentence-304.wav",
+    "duration": 4.08671201814059,
+    "source": "voices视频专题/videoVoices/sentence_304_A10-07.wav",
+    "original": "sentence_304_A10-07.wav",
+    "sha256": "51b580b331c309b1aa786e6c071f7cd89281bdaf924c6afad0576e2fa3480e8e",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-304.json"
+  },
+  {
+    "id": 305,
+    "file": "v38/vo/sentence-305.wav",
+    "duration": 3.7500226757369615,
+    "source": "voices视频专题/videoVoices/sentence_305_A10-10.wav",
+    "original": "sentence_305_A10-10.wav",
+    "sha256": "e9e9725e6795d1e8593a3115f332ea5c1b83292873c9c0a569aecc103b5a8270",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-305.json"
+  },
+  {
+    "id": 306,
+    "file": "v38/vo/sentence-306.wav",
+    "duration": 1.4512471655328798,
+    "source": "voices视频专题/videoVoices/sentence_306_A10-10.wav",
+    "original": "sentence_306_A10-10.wav",
+    "sha256": "679deb47021bf3037516278b08539791947109c0261c6312e1e35abab0506e1e",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-306.json"
+  },
+  {
+    "id": 307,
+    "file": "v38/vo/sentence-307.wav",
+    "duration": 4.342131519274377,
+    "source": "voices视频专题/videoVoices/sentence_307_A10-10.wav",
+    "original": "sentence_307_A10-10.wav",
+    "sha256": "503f00bd886bfa576333a9d841c48702be5d6d5e85654523587960a2bf0ce25d",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-307.json"
+  },
+  {
+    "id": 308,
+    "file": "v38/vo/sentence-308.wav",
+    "duration": 3.6919727891156464,
+    "source": "voices视频专题/videoVoices/sentence_308_A10-10.wav",
+    "original": "sentence_308_A10-10.wav",
+    "sha256": "027125107f78a45bec491e8a84246893c2ad7b7b297eb90fbf0d654ff67af027",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14/request-308.json"
+  },
+  {
+    "id": 309,
+    "file": "v38/vo/sentence-309.wav",
+    "duration": 5.526349206349207,
+    "source": "voices视频专题/videoVoices/sentence_309_review.wav",
+    "original": "sentence_309_review.wav",
+    "sha256": "5b6ac52724dac0ccc2893c625ee345793a2c1892e9181148e2bffc736d1e74ea",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14-review-fixes/request-309.json",
+    "replaces": 52
+  },
+  {
+    "id": 310,
+    "file": "v38/vo/sentence-310.wav",
+    "duration": 5.77015873015873,
+    "source": "voices视频专题/videoVoices/sentence_310_review.wav",
+    "original": "sentence_310_review.wav",
+    "sha256": "c3a89d9728e41b64912c6806b9863e70a68ae25e42381187f7c4e16dd14bb933",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14-review-fixes/request-310.json",
+    "replaces": 126
+  },
+  {
+    "id": 311,
+    "file": "v38/vo/sentence-311.wav",
+    "duration": 4.922630385487528,
+    "source": "voices视频专题/videoVoices/sentence_311_review.wav",
+    "original": "sentence_311_review.wav",
+    "sha256": "62d2d689a61f076ab3c343ecd1050efb9d1781f2998468cb6a6ad4e91cc1a909",
+    "provider": "IndexTTS2",
+    "tts_request": "voices视频专题/tts/2026-11-14-review-fixes/request-311.json",
+    "replaces": 267
   }
 ]

@@ -32,7 +32,7 @@ export const ReturningReleases = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-09 · 发行再次出现"
-      source="公开发行索引 xREL / TorrentFreak · 间隔原因未知"
+      source="发行记录：xREL · 同期报道：TorrentFreak"
     >
       <Beat to={gap} name="从案卷切回名字">
         <div
@@ -174,7 +174,7 @@ export const Exorcism = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-10 · 驱魔"
-      source="V27 原 NFO · 背景：SEGA 亚洲官方炭治郎角色演示"
+      source="voices38《鬼灭之刃》发行说明 · 游戏画面：SEGA"
     >
       <Film name="demon-tanjiro" />
       <Beat to={kind} name="作品先出现" clear>
@@ -248,7 +248,7 @@ export const BetterTools = ({ timing }: Props) => {
   const t = useTime(),
     reply = say(timing, 262);
   return (
-    <Stage name="A9-11 · 更好的工具" source="V27 · 公开留言原文重排">
+    <Stage name="A9-11 · 更好的工具" source="Reddit · r/CrackWatch · voices38 与玩家的公开留言">
       <Beat to={reply} name="用户问他是否消失">
         <Tag light>帖子下面 / 一位用户</Tag>
         <Line style={{ top: 255, ...mono, fontSize: 86, lineHeight: 1.4 }}>
@@ -303,7 +303,7 @@ export const Disappeared = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-12 · 两天后消失"
-      source="GBAtemp 同期讨论 / V25 · 账号消失原因未知"
+      source="GBAtemp · voices38 的 Reddit 账号讨论"
     >
       <Beat to={date} name="两天后的空缺">
         <Tag light>两天后 / Reddit</Tag>
@@ -413,7 +413,7 @@ export const Disappeared = ({ timing }: Props) => {
 
 export const SurvivingPosts = ({ timing }: Props) => {
   const t = useTime(),
-    past = say(timing, 267),
+    past = say(timing, 311),
     apology = past + 2.6,
     wukong = past + 3.8;
   const items = [
@@ -430,7 +430,7 @@ export const SurvivingPosts = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-13 · 留下的帖子"
-      source="V06、V07、V18 · 旧帖回看 / 原 NFO 局部"
+      source="voices38 发行说明：《死亡空间》《黑神话：悟空》"
     >
       <Beat to={past} name="不同帖子同一作者状态">
         <Tag light>采集时可见的作者状态</Tag>
@@ -510,7 +510,7 @@ export const RenameReport = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-14 · 旧帖还在"
-      source="Playground · 2026.10.20 / 据报道，旧帖保留、账号更名"
+      source="Playground 账号更名报道 · 2026-10-20"
     >
       <Beat to={history} name="同期更名报道" paper>
         <Tag>同一时间 / Playground</Tag>
@@ -543,7 +543,7 @@ export const OneLetter = ({ timing }: Props) => {
   return (
     <Stage
       name="A9-15 · 一个字母"
-      source="Playground · voices38 → v0ices38 / 现实身份仍未知"
+      source="Playground · voices38 账号更名报道"
     >
       <Tag light>{t < one ? "o → 0" : "只换了一个字母"}</Tag>
       <div

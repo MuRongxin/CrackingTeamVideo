@@ -26,22 +26,25 @@ export const Stage = ({
     }}
   >
     {children}
-    <div
-      data-act10-credit
-      style={{
-        ...pos,
-        left: 100,
-        top: 900,
-        maxWidth: 1700,
-        fontSize: 23,
-        lineHeight: 1.35,
-        color: paper ? "#55626b" : "#b8c8ca",
-        borderLeft: "2px solid #7b989d",
-        paddingLeft: 16,
-      }}
-    >
-      {source}
-    </div>
+    {source ? (
+      <div
+          data-source-credit
+        data-act10-credit
+        style={{
+          ...pos,
+          left: 100,
+          top: 900,
+          maxWidth: 1700,
+          fontSize: 23,
+          lineHeight: 1.35,
+          color: paper ? "#55626b" : "#b8c8ca",
+          borderLeft: "2px solid #7b989d",
+          paddingLeft: 16,
+        }}
+      >
+        {source}
+      </div>
+    ) : null}
   </AbsoluteFill>
 );
 export const Cut = ({

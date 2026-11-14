@@ -24,10 +24,10 @@ import {
   OneLetter,
 } from "./act9/Activity";
 import { Onimusha, RepairReport } from "./act9/Repairs";
-const Act9Inner = ({ timings = initialAct9Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+import { GalacticRelease, NewPost, RacingKind } from "./act9/Latest";
+export const act9Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A9-01 提前取证"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -164,7 +164,36 @@ const Act9Inner = ({ timings = initialAct9Timings }: ActProps) => {
         <Narration timing={timings[16]} />
         <Act9Sound shot={17} timing={timings[16]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+      <TransitionSeries.Sequence
+        name="A9-18 银河赛车手"
+        durationInFrames={Math.round(timings[17].duration * fps)}
+      >
+        <GalacticRelease timing={timings[17]} />
+        <Narration timing={timings[17]} />
+      </TransitionSeries.Sequence>
+      <TransitionSeries.Sequence
+        name="A9-19 新发布帖上的署名"
+        durationInFrames={Math.round(timings[18].duration * fps)}
+      >
+        <NewPost timing={timings[18]} />
+        <Narration timing={timings[18]} />
+      </TransitionSeries.Sequence>
+      <TransitionSeries.Sequence
+        name="A9-20 KIND引擎声"
+        durationInFrames={Math.round(timings[19].duration * fps)}
+      >
+        <RacingKind timing={timings[19]} />
+        <Narration timing={timings[19]} />
+      </TransitionSeries.Sequence>
+    </>
+  );
+};
+const Act9Inner = ({ timings = initialAct9Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act9Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act9 = Interactive.create({

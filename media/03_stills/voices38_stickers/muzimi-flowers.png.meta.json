@@ -1,0 +1,26 @@
+{
+  "id": "V38_MUZIMI_flowers",
+  "task": "MG15",
+  "kind": "image",
+  "title": "睦子米 / 送花",
+  "path": "media/03_stills/voices38_stickers/muzimi-flowers.png",
+  "derived_from": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/no_background_ai/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNE1IZVlhTnoqMWhvIQUAcXVuZ3o!.png",
+  "source_sha256": "ca0157491c301339306b369fcb21719d9e236260cd23a3284a7cdcf7513ef247",
+  "sha256": "ca0157491c301339306b369fcb21719d9e236260cd23a3284a7cdcf7513ef247",
+  "bytes": 1078075,
+  "width": 1254,
+  "height": 1254,
+  "alpha_bbox": [
+    73,
+    42,
+    1246,
+    1242
+  ],
+  "status": "exported",
+  "author": "用户提供 / 睦子米表情包系列",
+  "source_page": "用户指定本地贴纸目录",
+  "rights": "用户明确授权用于本片剪辑",
+  "source_original": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNE1IZVlhTnoqMWhvIQUAcXVuZ3o!.jpeg",
+  "source_method": "image_gen AI background extraction; no local matte algorithm",
+  "note": "原PNG逐字节复制；不修改原贴纸，不增加背景；透明边距仅由CSS窗口裁切。"
+}

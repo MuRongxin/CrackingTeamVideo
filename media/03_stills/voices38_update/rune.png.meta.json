@@ -1,0 +1,16 @@
+{
+  "id": "V38_UP_rune",
+  "task": "EX15",
+  "kind": "image",
+  "title": "RUNE 原NFO字符头逐字渲染",
+  "path": "media/03_stills/voices38_update/rune.png",
+  "derived_from": "media/01_sources/V38_UPDATE_RACER/rune-original.nfo",
+  "source_sha256": "e7234899b487ec023336199370ed287a0d3b22f6462006ecf88ddfa98a28efd4",
+  "source_page": "https://www.srrdb.com/download/file/Baldurs.Gate.3-RUNE/rune.nfo",
+  "author": "RUNE / LNK^2020",
+  "rights": "原NFO作者权利保留；非xREL带限制的渲染位图",
+  "status": "exported",
+  "sha256": "4029e8bec1e32a8957f273d7c91ef1d61383157b9a9d7dcb91a77ca32792c70b",
+  "bytes": 10803,
+  "note": "原CP437字符逐字渲染，保留原字符画，不重绘字形。"
+}

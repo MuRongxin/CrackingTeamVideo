@@ -14,10 +14,9 @@ import { Encounter, NoAgreement, Compatibility } from "./act6/Encounter";
 import { DyingSimulator, FilterTitle, ReleaseInterval } from "./act6/Release";
 import { Rivals, Clarification, Meanwhile } from "./act6/Dialogue";
 import { Act6Sound } from "./act6/Sound";
-const Act6Inner = ({ timings = initialAct6Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+export const act6Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A6-01 两条路"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -130,7 +129,15 @@ const Act6Inner = ({ timings = initialAct6Timings }: ActProps) => {
         <Narration timing={timings[13]} />
         <Act6Sound shot={14} timing={timings[13]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+    </>
+  );
+};
+const Act6Inner = ({ timings = initialAct6Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act6Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act6 = Interactive.create({

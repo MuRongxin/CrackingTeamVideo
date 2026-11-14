@@ -24,7 +24,7 @@ export const ReturningNames = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026.05.14 → 2026.06.09 / 名字延续"
-      source="V14 ↔ V15 测试者字段｜据文本重排，仅连接完全相同的昵称"
+      source="《识质存在》《007：初露锋芒》测试者名单"
     >
       <Field speed={1.8} />
       <div
@@ -260,7 +260,7 @@ export const UnknownStructure = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="分工与身份 / 可以看见什么"
-      source="早年分工为历史示意｜voices38 的组织结构未公开｜研究主档 D.1、D.7"
+      source=""
     >
       <Field speed={2 - cut} />
       <div

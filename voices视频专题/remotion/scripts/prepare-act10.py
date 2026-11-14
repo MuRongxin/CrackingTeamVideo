@@ -31,6 +31,8 @@ phrases={
 anchors={279:[1.95,4.55],281:[2.9],282:[1.65],284:[3.95],285:[1.43],287:[2.15,4.4],289:[1.47],290:[1.35],291:[2.8],295:[2.1],296:[1.2],297:[3.0]}
 norm=lambda s:re.sub(r'[^\w]','',s).lower()
 text=(root.parent/'voices38_B站文稿.md').read_text().split('## 尾声')[1]
+history=root.parent/'tts/2026-11-14/previous-tail.md'
+if history.exists():text=history.read_text()
 assert norm(text)==norm(''.join(phrases.values()))
 write(root/'src/act10/narration-source.json',phrases)
 voices=[];caps={}
@@ -69,3 +71,5 @@ src=repo/'media/03_stills/voices38_act8/introduction.png';target=root/'public/v3
 m=json.loads(src.with_suffix('.png.meta.json').read_text());records.append(dict(m,id='V38_A10_intro-context',path=str(target.relative_to(repo)),ledger_path=str(src.relative_to(repo)),reused=True))
 write(root/'act10-asset-provenance.json',records)
 print('Act10:',len(voices),'unchanged recordings;',len(records),'visual assets including archive reuse')
+
+if (root.parent/'tts/2026-11-14/manifest.json').exists():subprocess.run(['python3',str(root/'scripts/apply-pending-narration.py')],check=True)

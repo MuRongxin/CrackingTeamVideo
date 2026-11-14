@@ -92,7 +92,7 @@ export const OpenQuestion = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A7-06 · 独立分析？"
-      source="公开证据边界｜截至文稿资料期；保留不同来源各自的说法"
+      source=""
     >
       <AbsoluteFill
         style={{

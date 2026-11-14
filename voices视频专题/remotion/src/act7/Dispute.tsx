@@ -26,8 +26,8 @@ export const TechnicalClaim = ({ timing }: { timing: ShotTiming }) => {
       name="A7-04 · KiriGiri 的解释"
       source={
         t < comment
-          ? "KiriGiri 的说法，经游民星空转述｜V13 · 示意图不代表独立逆向结论"
-          : "旁白解读｜与前面的 KiriGiri 转述分开呈现"
+          ? "KiriGiri 的技术解释 · 游民星空转述"
+          : ""
       }
     >
       <Footage name="requiem-mechanism" />
@@ -125,7 +125,7 @@ export const TechnicalClaim = ({ timing }: { timing: ShotTiming }) => {
               color: "#adc3cf",
             }}
           >
-            GAME / 概念示意
+            GAME / 技术示意
           </div>
           <div
             style={{
@@ -195,7 +195,7 @@ export const MafiaClaim = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       name="A7-05 · DSOGaming 的说法"
-      source="DSOGaming · 2026.05.22｜报道观点／文字节选重排 · 游戏画面：2K 官方"
+      source="DSOGaming · 2026-05-22 · 游戏画面：2K"
     >
       <Footage name="mafia-report" />
       <Darken />

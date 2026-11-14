@@ -45,8 +45,9 @@ export const NameCursor = ({
     </span>
   );
 };
-export const SourceTag = ({ children }: { children: React.ReactNode }) => (
+export const SourceTag = ({ children }: { children?: React.ReactNode }) => children ? (
   <div
+    data-source-credit
     style={{
       position: "absolute",
       left: 96,
@@ -62,7 +63,7 @@ export const SourceTag = ({ children }: { children: React.ReactNode }) => (
   >
     {children}
   </div>
-);
+) : null;
 export const Eyebrow = ({
   children,
   dark = false,

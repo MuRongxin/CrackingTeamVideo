@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_304",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A10-07 / 新增或替换旁白 304",
+  "path": "media/05_audio/narration/V38_TTS_304.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/304.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "51b580b331c309b1aa786e6c071f7cd89281bdaf924c6afad0576e2fa3480e8e",
+  "bytes": 180268,
+  "source_sha256": "51b580b331c309b1aa786e6c071f7cd89281bdaf924c6afad0576e2fa3480e8e",
+  "text": "名字在变，留下的痕迹还在，但身份依然没有答案。",
+  "tts_text": "名字在变，留下的痕迹还在，但身份依然没有答案。",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

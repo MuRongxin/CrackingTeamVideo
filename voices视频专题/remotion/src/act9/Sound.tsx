@@ -29,8 +29,8 @@ export const Act9Sound = ({
     11: () => [[say(timing, 262), "click"]],
     12: () => [],
     13: () => [
-      [say(timing, 267), "paper"],
-      [say(timing, 267) + 2.6, "paper"],
+      [say(timing, 311), "paper"],
+      [say(timing, 311) + 2.6, "paper"],
     ],
     14: () => [[say(timing, 268, "在一个"), "paper"]],
     15: () => [[say(timing, 269) + 0.8, "key"]],

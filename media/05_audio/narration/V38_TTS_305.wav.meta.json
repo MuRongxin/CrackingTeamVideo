@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_305",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A10-10 / 新增或替换旁白 305",
+  "path": "media/05_audio/narration/V38_TTS_305.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/305.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "e9e9725e6795d1e8593a3115f332ea5c1b83292873c9c0a569aecc103b5a8270",
+  "bytes": 165420,
+  "source_sha256": "e9e9725e6795d1e8593a3115f332ea5c1b83292873c9c0a569aecc103b5a8270",
+  "text": "这就是新生代D加密梦魇 voices thirty-eight的故事，",
+  "tts_text": "这就是新生代D加密梦魇 voices thirty-eight的故事，",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

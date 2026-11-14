@@ -28,7 +28,7 @@ export const VisibleWork = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="公开留下的协作痕迹"
-      source="资助、测试、组件使用｜V14、V15、V16 的公开致谢关系｜图解不表示成员编制"
+      source="voices38 发行说明中的支持者、测试者与组件致谢"
     >
       <Field speed={1.5} />
       <svg width="1920" height="1080" style={{ ...pos, inset: 0 }}>

@@ -1,3 +1,4 @@
+import { matchesSpokenCue } from "../captionCue";
 import { publicAsset } from "../assets";
 import type { ReactNode } from "react";
 import { Img } from "remotion";
@@ -11,7 +12,7 @@ export const cue = (timing: ShotTiming, id: number, phrase?: string) => {
   const row = phrase
     ? (captions as Record<string, { text: string; startMs: number }[]>)[
         id
-      ].find((c) => c.text.replace(/\n/g, "").includes(phrase))
+      ].find((c) => matchesSpokenCue(c.text, phrase))
     : null;
   if (!voice || (phrase && !row))
     throw new Error(`Missing act 2 cue ${id}: ${phrase}`);

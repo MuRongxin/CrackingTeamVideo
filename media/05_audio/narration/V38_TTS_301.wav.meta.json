@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_301",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A10-01 / 新增或替换旁白 301",
+  "path": "media/05_audio/narration/V38_TTS_301.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/301.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "adc66d961400bd031b24f6ee0b930c29ca2258efd8437683e696ca33f02bbf15",
+  "bytes": 315948,
+  "source_sha256": "adc66d961400bd031b24f6ee0b930c29ca2258efd8437683e696ca33f02bbf15",
+  "text": "截至 2026 年 11 月 13 日，我们还没有查到 voices38 身份已被确认的可靠公开消息。",
+  "tts_text": "截至 二零二六年十一月十三日，我们还没有查到 voices thirty-eight 身份已被确认的可靠公开消息。",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

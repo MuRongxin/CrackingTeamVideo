@@ -24,7 +24,7 @@ export const LinuxTesting = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2025.12.28 / 同一份说明"
-      source="测试声明｜voices38 · V30 社区转述 · 据文本存档重排"
+      source="voices38 测试声明 · Reddit · r/SteamDeckPirates"
     >
       <div
         style={{
@@ -95,7 +95,7 @@ export const TestingLimits = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="测试 / 运行反馈"
-      source="社区个别用户反馈的译述｜研究主档 D.5｜007 官方画面仅展示作品语境"
+      source="社区玩家反馈 · 游戏画面：IO Interactive"
     >
       <div style={{ ...pos, left: 130, top: 190, fontSize: 75 }}>
         测试 <span style={{ color: C.yellow }}>≠</span> 保证
@@ -179,7 +179,7 @@ export const NewYear = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2025 → 2026 / 说明的末尾"
-      source="年末祝福｜voices38 · V30 社区转述 · 据文本存档重排"
+      source="voices38 新年祝福 · Reddit · r/SteamDeckPirates"
     >
       <div
         style={{
@@ -257,7 +257,7 @@ export const HardwareProgress = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026.01.28 / 一个月后的进展"
-      source="测试硬件筹备目标：本人说法｜GameGPU 转述 · V31｜题头原图 V05"
+      source="voices38 硬件筹备说明 · GameGPU 转述"
       light
     >
       <div
@@ -387,14 +387,14 @@ export const HardwareProgress = ({ timing }: { timing: ShotTiming }) => {
 
 export const NewVersions = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime(),
-    next = say(timing, 126),
-    versions = say(timing, 126, "就要尝试"),
-    complex = say(timing, 126, "更加复杂");
+    next = say(timing, 310),
+    versions = say(timing, 310, "就要尝试"),
+    complex = say(timing, 310, "更加复杂");
   const push = lerp(t, next, next + 0.75);
   return (
     <Stage
       label="2026.01 / 研究继续"
-      source="voices38 的后续计划｜GameGPU 转述 · V31｜保护结构为图解"
+      source="voices38 后续计划 · GameGPU 转述"
     >
       <div style={{ ...pos, left: 130, top: 150, fontSize: 30, color: C.gray }}>
         测试硬件筹备

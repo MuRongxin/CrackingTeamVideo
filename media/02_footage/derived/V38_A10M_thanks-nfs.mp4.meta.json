@@ -1,0 +1,20 @@
+{
+  "id": "V38_A10M_thanks-nfs",
+  "task": "EX15",
+  "kind": "video",
+  "title": "尾声动效修订 / thanks-nfs",
+  "path": "media/02_footage/derived/V38_A10M_thanks-nfs.mp4",
+  "derived_from": "media/02_footage/V38_NFS_official_720p.mp4",
+  "source_sha256": "79207231cae5fd80a4f8dd4f37f8d3f0cfcf1a10bf9082f678e10d23b48b0af1",
+  "selected_range_seconds": [
+    2.7,
+    5.65
+  ],
+  "source_page": "https://store.steampowered.com/app/1328660/",
+  "author": "Stellar Entertainment Limited / Electronic Arts",
+  "rights": "官方商店宣传片；公开视频使用条件待确认",
+  "status": "exported",
+  "sha256": "9b07928f0b7b9de0a42f269563aadc5bcede9d31e8ee5524c3dac42f6c6619ce",
+  "bytes": 1896017,
+  "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。"
+}

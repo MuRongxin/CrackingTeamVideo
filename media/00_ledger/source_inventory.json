@@ -2506,5 +2506,20 @@
       }
     },
     "local_path": "media/01_sources/V38_REV_WUKONG/appdetails.json"
+  },
+  {
+    "id": "V38_TIGER_ONGBAL",
+    "title": "Black Myth: Wukong - Tiger Vanguard No Damage Boss Fight",
+    "uploader": "옹발이 ONGBAL",
+    "channel": "옹발이 ONGBAL",
+    "upload_date": "20240821",
+    "duration": 125,
+    "webpage_url": "https://www.youtube.com/watch?v=znuj3QZbf-k",
+    "description": "The bosses quality is inconsistent tho, this one is fun.",
+    "url": "https://www.youtube.com/watch?v=znuj3QZbf-k",
+    "status": "downloaded",
+    "note": "YouTube原页元数据；归档视频仅0—45秒，不是全片",
+    "local_path": "media/01_sources/V38_TIGER_ONGBAL/original.txt",
+    "bytes": 176
   }
 ]

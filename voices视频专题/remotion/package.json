@@ -5,7 +5,8 @@
   "scripts": {
     "studio": "node /home/lrxin/文档/remotion/packages/cli/remotion-cli.js studio src/index.ts --port=3018 --no-open",
     "typecheck": "/home/lrxin/文档/remotion/node_modules/.bin/tsc --noEmit",
-    "setup": "node scripts/link-remotion.mjs"
+    "setup": "node scripts/link-remotion.mjs",
+    "render:final": "node scripts/render-final.cjs"
   },
   "dependencies": {
     "remotion": "4.0.542",

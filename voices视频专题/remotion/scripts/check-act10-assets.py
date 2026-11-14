@@ -23,6 +23,25 @@ with wave.open(str(repo/score['path'])) as w:
  samples=np.frombuffer(w.readframes(w.getnframes()),dtype='<i2');rate=w.getframerate()
  assert np.max(np.abs(samples.astype('int32')))<32767
  assert np.max(np.abs(samples[-rate:]))==0
-voices=json.loads((root/'src/act10/voice-manifest.json').read_text());assert [v['id'] for v in voices]==list(range(279,298))
+voices=json.loads((root/'src/act10/voice-manifest.json').read_text());assert [v['id'] for v in voices]==list(range(281,293))+[296,297]+list(range(301,309))
 for v in voices:assert sha(repo/v['source'])==v['sha256']==sha(root/'public'/v['file'])
-print('PASS: 7 new assets + 1 archive crop; bounded original crops, new unlooped 1080p range, unclipped original score fading to silence, 19 unchanged recordings.')
+print('PASS: 7 new assets + 1 archive crop; bounded original crops, new unlooped 1080p range, unclipped original score fading to silence, 14 unchanged + 8 synthesized active recordings.')
+
+# Four fresh, nonoverlapping motion excerpts complement the original archive set.
+extras=json.loads((root/'act10-motion-provenance.json').read_text());assert len(extras)==4
+for r in extras:
+ assert sha(repo/r['path'])==r['sha256']==sha(repo/r['ledger_path'])
+ assert sha(repo/r['derived_from'])==r['source_sha256']
+ lo,hi=r['selected_range_seconds']
+ for manifest in root.glob('*provenance.json'):
+  if manifest.name=='act10-motion-provenance.json':continue
+  for old in json.loads(manifest.read_text()):
+   span=old.get('selected_range_seconds')
+   if old.get('derived_from')==r['derived_from'] and span and len(span)==2:
+    a,b=span;assert min(hi,b)<=max(lo,a),(r['id'],manifest,span)
+ info=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_streams','-show_format','-of','json',str(repo/r['path'])]))
+ assert len(info['streams'])==1
+ assert float(info['format']['duration'])>=hi-lo-.04
+ assert info['streams'][0]['width']>=1280
+ subprocess.run(['ffmpeg','-v','error','-xerror','-i',str(repo/r['path']),'-f','null','-'],check=True)
+print('PASS: 4 motion selections, source hashes, full decoding, duration coverage, no previous source interval overlap.')

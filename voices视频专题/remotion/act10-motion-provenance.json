@@ -1,0 +1,86 @@
+[
+  {
+    "id": "V38_A10M_ownership-wukong",
+    "task": "EX15",
+    "kind": "video",
+    "title": "尾声动效修订 / ownership-wukong",
+    "path": "voices视频专题/remotion/public/v38/act10-motion/ownership-wukong.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      21.6,
+      25.2
+    ],
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "status": "exported",
+    "sha256": "912c2b9676d016024e35ba1829bab6ed995e1366fd56ea215afd2f4581b0b848",
+    "bytes": 9383000,
+    "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。",
+    "ledger_path": "media/02_footage/derived/V38_A10M_ownership-wukong.mp4"
+  },
+  {
+    "id": "V38_A10M_signature-dead",
+    "task": "EX15",
+    "kind": "video",
+    "title": "尾声动效修订 / signature-dead",
+    "path": "voices视频专题/remotion/public/v38/act10-motion/signature-dead.mp4",
+    "derived_from": "media/02_footage/V38_A9_DEAD_official_1080p.mp4",
+    "source_sha256": "8ec8a1eab167af537679eb7353f41357d5c6b5205fea365741cbe71f72328f8b",
+    "selected_range_seconds": [
+      38.5,
+      44
+    ],
+    "source_page": "https://store.steampowered.com/app/1693980/",
+    "author": "Electronic Arts / Motive",
+    "rights": "原发布者所有，公开剪辑使用条件待确认",
+    "status": "exported",
+    "sha256": "24fe3cd49a720273c4674f3a9b8c906ac84d950f82712306746fea1da37e01a8",
+    "bytes": 4726022,
+    "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。",
+    "ledger_path": "media/02_footage/derived/V38_A10M_signature-dead.mp4"
+  },
+  {
+    "id": "V38_A10M_thanks-wukong",
+    "task": "EX15",
+    "kind": "video",
+    "title": "尾声动效修订 / thanks-wukong",
+    "path": "voices视频专题/remotion/public/v38/act10-motion/thanks-wukong.mp4",
+    "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+    "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+    "selected_range_seconds": [
+      83.6,
+      86.5
+    ],
+    "source_page": "https://store.steampowered.com/app/2358720/",
+    "author": "Game Science / Game Science",
+    "rights": "官方商店宣传片；公开使用条件待确认",
+    "status": "exported",
+    "sha256": "4cf7569436284caa86b59418db9030629acbfd26441b4495cefef4651acd9f54",
+    "bytes": 5035049,
+    "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。",
+    "ledger_path": "media/02_footage/derived/V38_A10M_thanks-wukong.mp4"
+  },
+  {
+    "id": "V38_A10M_thanks-nfs",
+    "task": "EX15",
+    "kind": "video",
+    "title": "尾声动效修订 / thanks-nfs",
+    "path": "voices视频专题/remotion/public/v38/act10-motion/thanks-nfs.mp4",
+    "derived_from": "media/02_footage/V38_NFS_official_720p.mp4",
+    "source_sha256": "79207231cae5fd80a4f8dd4f37f8d3f0cfcf1a10bf9082f678e10d23b48b0af1",
+    "selected_range_seconds": [
+      2.7,
+      5.65
+    ],
+    "source_page": "https://store.steampowered.com/app/1328660/",
+    "author": "Stellar Entertainment Limited / Electronic Arts",
+    "rights": "官方商店宣传片；公开视频使用条件待确认",
+    "status": "exported",
+    "sha256": "9b07928f0b7b9de0a42f269563aadc5bcede9d31e8ee5524c3dac42f6c6619ce",
+    "bytes": 1896017,
+    "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。",
+    "ledger_path": "media/02_footage/derived/V38_A10M_thanks-nfs.mp4"
+  }
+]

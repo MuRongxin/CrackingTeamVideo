@@ -15,7 +15,7 @@ export const QuietNews = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="一款六年前的老游戏"
       right="2019 → 2025.10"
-      source="《三国》官方宣传片另一段｜V02 发行记录"
+      source="游戏画面：SEGA《全面战争：三国》官方预告"
     >
       <Video
         src={publicAsset("v38/act2/footage/quiet-news.mp4")}
@@ -111,7 +111,7 @@ export const WhyStarted = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="真正让他上新闻的，是这段自述"
       right="iXBT / 2025.10.15"
-      source="报道页截图｜iXBT｜2025-10-15 · 自述经该报道转述"
+      source="iXBT.games · voices38 的首次破解声明 · 2025-10-15"
     >
       <Img
         src={publicAsset("v38/act2/stills/ixbt-voices.png")}
@@ -253,8 +253,8 @@ export const Retreat = ({ timing }: { timing: ShotTiming }) => {
       right={turn > 0.5 ? "2025.12.01" : "iXBT / 2025.10.15"}
       source={
         turn > 0.5
-          ? "当事人告别声明｜E04 · 公开转载页实际截图 / 2025-12-01"
-          : "同期报道页英文版截图｜V04 / iXBT · 2025-10-15"
+          ? "EMPRESS 告别声明 · 2025-12-01"
+          : "iXBT.games · 2025-10-15"
       }
     >
       <div
@@ -347,8 +347,8 @@ export const CommunityTitle = ({ timing }: { timing: ShotTiming }) => {
       right="2025.10.14"
       source={
         release > 0.5
-          ? "发行记录｜V02 · 背景为女神异闻录5 皇家版官方宣传片"
-          : "社区帖子｜V03 / r/PiratedGames｜原帖配图"
+          ? "发行记录：xREL · 游戏画面：ATLUS / SEGA"
+          : "Reddit · r/PiratedGames · 原帖配图"
       }
     >
       <Video
@@ -535,8 +535,8 @@ export const DoubleMeaning = ({ timing }: { timing: ShotTiming }) => {
   return (
     <FilmScene
       title="评论接了一句"
-      right={reveal < 0.5 ? "r/PiratedGames / 原帖截图" : "双关 / 语义示意"}
-      source="实际评论截图｜V03 / Mordad51 · 后段波形为语义示意"
+      right={reveal < 0.5 ? "r/PiratedGames / 原帖截图" : "双关 / VOICE CRACK"}
+      source="Reddit 评论：Mordad51"
     >
       <div style={{ position: "absolute", inset: 0, opacity: 1 - reveal, translate: `${-reveal * 1400}px 0` }}>
         <Img src={publicAsset("v38/act2/stills/reddit-20-context.png")} style={{position: "absolute", left: 460, top: 130, width: 1000, opacity: 1 - zoom, scale: 1 + zoom * 0.12, boxShadow: "0 25px 90px #0008"}} />
@@ -638,13 +638,13 @@ export const DoubleMeaning = ({ timing }: { timing: ShotTiming }) => {
 export const Caution = ({ timing }: { timing: ShotTiming }) => {
   const t = useTime();
   const old = cue(timing, 51);
-  const newer = cue(timing, 52);
+  const newer = cue(timing, 309);
   const pull = lerp(t, newer - 0.2, newer + 0.7);
   return (
     <FilmScene
       title="也有人暂时不庆祝"
       right={pull < 0.5 ? "r/PiratedGames / 原帖截图" : "旧版 → 新版？"}
-      source="实际评论截图｜V03 / Mediocre-Housing-131 · 观点属于评论者"
+      source="Reddit 评论：Mediocre-Housing-131"
     >
       <Img
         src={publicAsset("v38/act2/stills/reddit-21-comment.png")}
@@ -747,7 +747,7 @@ export const Unanswered = () => {
     <FilmScene
       title="2025.10 / 当时还没有答案"
       right="待后续发行回答"
-      source="叙事悬念｜2025 年 10 月"
+      source=""
     >
       <div
         style={{

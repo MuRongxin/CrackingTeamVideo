@@ -1,0 +1,26 @@
+{
+  "id": "V38_MUZIMI_reverse",
+  "task": "MG15",
+  "kind": "image",
+  "title": "睦子米 / 交叉手势",
+  "path": "media/03_stills/voices38_stickers/muzimi-reverse.png",
+  "derived_from": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/no_background_ai/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNEFES1RhQTdMZ1FRIQUAcXVuZ3o!.png",
+  "source_sha256": "e6f038b596b10fd238daa497e250783a6394ddd09ba1a45ede64176105aa1369",
+  "sha256": "e6f038b596b10fd238daa497e250783a6394ddd09ba1a45ede64176105aa1369",
+  "bytes": 1369828,
+  "width": 1254,
+  "height": 1254,
+  "alpha_bbox": [
+    0,
+    15,
+    1244,
+    1254
+  ],
+  "status": "exported",
+  "author": "用户提供 / 睦子米表情包系列",
+  "source_page": "用户指定本地贴纸目录",
+  "rights": "用户明确授权用于本片剪辑",
+  "source_original": "/home/lrxin/Pictures/muzimi/睦子米表情包系列/NR8AVjViQ2dBeU1UWXpNRFV5TkRFNEFES1RhQTdMZ1FRIQUAcXVuZ3o!.jpeg",
+  "source_method": "image_gen AI background extraction; no local matte algorithm",
+  "note": "原PNG逐字节复制；不修改原贴纸，不增加背景；透明边距仅由CSS窗口裁切。"
+}

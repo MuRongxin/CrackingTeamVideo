@@ -16,7 +16,7 @@ export const DarkAges = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026.03.13 / 新的发行"
-      source="发行日期｜研究主档 D.6 · 重要节点为媒体评价｜TechSpot / V11 · 文字海报"
+      source="同期报道：TechSpot"
     >
       <div
         style={{
@@ -124,7 +124,7 @@ export const FiveMonths = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="回到最初的提醒 / 2025.10 → 2026.03"
-      source="原评论截图｜V03 · Mediocre-Housing-131｜发行日期：研究主档 D.6"
+      source="Reddit 评论：Mediocre-Housing-131"
     >
       <Img
         src={publicAsset("v38/act2/stills/reddit-21-comment.png")}
@@ -244,7 +244,7 @@ export const Conditions = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="支持 / 硬件 / 研究 / 维护"
-      source="捐款用途自述与叙事概括｜V05、V30、V31｜流程与配置为图解"
+      source="捐款用途：voices38 公开说明"
     >
       <div style={{ ...pos, left: 130, top: 145, fontSize: 58 }}>
         继续研究的条件

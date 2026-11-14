@@ -82,3 +82,8 @@ for name, filename, box in [
                         derived_from=str(src.relative_to(repo)),status='exported',note=note,sha256=sha(dst),crop_pixels=list(box)))
 write(root/'act4-asset-provenance.json',records)
 print(f'Prepared act 4: {len(voices)} original recordings, 5 evidence crops; no network requests.')
+
+# Preserve the later review retakes when rebuilding base narration.
+if (root.parent/'tts/2026-11-14-review-fixes/manifest.json').exists():
+    import subprocess
+    subprocess.run(['python3',str(root/'scripts/apply-review-retakes.py')],check=True)

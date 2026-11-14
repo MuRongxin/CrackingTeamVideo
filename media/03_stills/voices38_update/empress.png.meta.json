@@ -1,0 +1,16 @@
+{
+  "id": "V38_UP_empress",
+  "kind": "image",
+  "task": "EX15",
+  "title": "empress",
+  "path": "media/03_stills/voices38_update/empress.png",
+  "derived_from": "voices视频专题/remotion/public/v38/act2/nfo/empress-logo.png",
+  "source_sha256": "88673f9fd9871fd82fc03c74e7d2f6f88efa92a7dcf0877aa1895b0e2de25d29",
+  "crop_pixels": null,
+  "source_page": "本地既有 EMPRESS 原 NFO 字标",
+  "author": "EMPRESS",
+  "rights": "原作者与商标权利保留，公开使用条件分别核对",
+  "status": "exported",
+  "sha256": "88673f9fd9871fd82fc03c74e7d2f6f88efa92a7dcf0877aa1895b0e2de25d29",
+  "bytes": 925
+}

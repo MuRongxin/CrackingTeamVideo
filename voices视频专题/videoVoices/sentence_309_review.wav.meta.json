@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_309",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "审片错音修订 52 → 309",
+  "path": "media/05_audio/narration/V38_TTS_309.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14-review-fixes/309.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权本片语音合成与剪辑",
+  "status": "exported",
+  "sha256": "5b6ac52724dac0ccc2893c625ee345793a2c1892e9181148e2bffc736d1e74ea",
+  "source_sha256": "5b6ac52724dac0ccc2893c625ee345793a2c1892e9181148e2bffc736d1e74ea",
+  "bytes": 243756,
+  "text": "能破解这些游戏不代表他已经有能力对付那些使用更新版本保护的新游戏",
+  "tts_text": "能破解这些游戏不代表他已经有能力对付那些使用亘新版本保护的新游戏",
+  "replaces": 52,
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8"
+}

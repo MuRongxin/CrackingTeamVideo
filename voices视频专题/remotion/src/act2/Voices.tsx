@@ -40,6 +40,6 @@ export const FirstAttempt = () => (
     >
       这是我的第一次尝试
     </div>
-    <SourceTag>当事人自述｜经 iXBT 转述｜2025-10-15</SourceTag>
+    <SourceTag>voices38 自述 · iXBT.games · 2025-10-15</SourceTag>
   </Scene>
 );

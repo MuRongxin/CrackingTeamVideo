@@ -1,0 +1,21 @@
+{
+  "id": "V38_UP_racer-ownership",
+  "kind": "image",
+  "task": "EX15",
+  "title": "racer-ownership",
+  "path": "media/03_stills/voices38_update/racer-ownership.png",
+  "derived_from": "media/01_sources/V38_UPDATE_RACER/nfo-original.png",
+  "source_sha256": "a089c862487c3175e2d1ff1a4842f7c880d434bcb2fd69068d706db44f19e061",
+  "crop_pixels": [
+    12,
+    908,
+    639,
+    936
+  ],
+  "source_page": "https://www.reddit.com/r/CrackWatch/comments/1xunli6/starwarsgalacticracervoices38/",
+  "author": "voices38",
+  "rights": "原作者与商标权利保留，公开使用条件分别核对",
+  "status": "exported",
+  "sha256": "35c7d894c02ccb551033ecddb19670fea1b0ee340def687e41eacbf876415b6e",
+  "bytes": 1681
+}

@@ -1,0 +1,20 @@
+{
+  "id": "V38_A10M_ownership-wukong",
+  "task": "EX15",
+  "kind": "video",
+  "title": "尾声动效修订 / ownership-wukong",
+  "path": "media/02_footage/derived/V38_A10M_ownership-wukong.mp4",
+  "derived_from": "media/02_footage/V38_REV_WUKONG_official_1080p.mp4",
+  "source_sha256": "6086534abc9b5e82a316c5c6fd634b005ca2f273d024e3295d52db64a1868667",
+  "selected_range_seconds": [
+    21.6,
+    25.2
+  ],
+  "source_page": "https://store.steampowered.com/app/2358720/",
+  "author": "Game Science / Game Science",
+  "rights": "官方商店宣传片；公开使用条件待确认",
+  "status": "exported",
+  "sha256": "912c2b9676d016024e35ba1829bab6ed995e1366fd56ea215afd2f4581b0b848",
+  "bytes": 9383000,
+  "note": "原速静音、不循环；与既有同源节选不重叠。官方作品画面，不是破解实测。"
+}

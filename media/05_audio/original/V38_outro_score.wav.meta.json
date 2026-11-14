@@ -1,0 +1,13 @@
+{
+  "id": "V38_UP_OUTRO_SCORE",
+  "task": "AU15",
+  "kind": "audio",
+  "title": "片尾原创短拨弦配乐",
+  "path": "media/05_audio/original/V38_outro_score.wav",
+  "derived_from": "voices视频专题/remotion/scripts/make-outro-score.py",
+  "author": "本项目原创合成",
+  "rights": "本项目原创，无外部采样",
+  "status": "exported",
+  "sha256": "089ec1b3fe3e5ef3bacdcfb4bccc37ba786692d81ea6a1d522e1ea467fefdec3",
+  "bytes": 733742
+}

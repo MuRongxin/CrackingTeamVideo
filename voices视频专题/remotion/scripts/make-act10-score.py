@@ -4,8 +4,8 @@ import numpy as np
 import json,wave,hashlib,shutil,math
 root=Path(__file__).resolve().parents[1];repo=root.parents[1];rate=24000
 voices=json.loads((root/'src/act10/voice-manifest.json').read_text());ds={v['id']:v['duration'] for v in voices}
-groups=[[279,280],[281,282,283],[284,285,286],[287],[288,289,290,291],[292],[293,294,295],[296],[297]]
-posts=[.15,.15,.3,.15,.15,.65,.15,.3,5]
+groups=[[301,302],[281,282,283],[284,285,286],[287],[288,289,290,291],[292],[303,304],[296],[297],[305,306,307,308]]
+posts=[.15,.15,.3,.15,.15,.65,.15,.3,1.6,1.5]
 lens=[math.ceil((.1+sum(ds[n] for n in g)+.15*(len(g)-1)+post)*60)/60 for g,post in zip(groups,posts)]
 stop=sum(lens[:8]);duration=stop;audio=np.zeros(round(duration*rate))
 def note(at,sec,hz,gain,soft=False):

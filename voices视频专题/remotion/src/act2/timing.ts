@@ -24,14 +24,14 @@ export const specs2 = [
   { ids: [39, 40], pre: 0.1, gap: 0.15, post: 0.15, hold: 0 },
   { ids: [41, 42, 43, 44, 45], pre: 0.1, gap: 0.15, post: 0.15, hold: 0 },
   { ids: [46, 47, 48, 49], pre: 0.1, gap: 0.15, post: 0.25, hold: 0 },
-  { ids: [50, 51, 52], pre: 0.1, gap: 0.15, post: 0.15, hold: 0 },
+  { ids: [50, 51, 309], pre: 0.1, gap: 0.15, post: 0.15, hold: 0 },
   { ids: [53], pre: 0.1, gap: 0, post: 0.3, hold: 0 },
 ];
 export const makeAct2Timings = (durations: number[]): ShotTiming[] =>
   specs2.map((s) => {
     let cursor = s.pre;
     const clips = s.ids.map((id) => {
-      const c = { id, start: cursor, duration: durations[id - 12] };
+      const c = { id, start: cursor, duration: durations[voices.findIndex((v) => v.id === id)] };
       cursor += c.duration + s.gap;
       return c;
     });

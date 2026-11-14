@@ -17,7 +17,7 @@ export const WhatNfo = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="随发行一起留下的文件"
       right="2025.10.14 / NFO"
-      source="实际 NFO 渲染截图｜V02 / xREL"
+      source="voices38 发行说明 · xREL"
     >
       <GameStill dark={0.73} />
       <div
@@ -99,9 +99,9 @@ export const OldNfo = ({ timing }: { timing: ShotTiming }) => {
   ];
   return (
     <FilmScene
-      title="两份真实 NFO，沿长文档向下阅读"
+      title="老牌破解组的发行说明"
       right="RELOADED / RAZOR 1911"
-      source="真实 NFO 原图｜P04 / NFOHump · L06 / xREL"
+      source="NFO 存档：NFOHump / xREL"
     >
       {pages.map((page, i) => (
         <div
@@ -183,7 +183,7 @@ export const TinyNfo = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="和前辈们相比，只有这么大"
       right="NFO / xREL"
-      source="NFO 大小｜V02｜0.34 KB"
+      source="voices38《全面战争：三国》发行说明"
     >
       <div
         style={{
@@ -314,7 +314,7 @@ export const FewLines = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="这份 NFO，几行就能读完"
       right="Total War / v1.7.1"
-      source="V02｜NFO 文字重排；仅展示说明与语言代码"
+      source="voices38《全面战争：三国》发行说明节选"
     >
       <div
         style={{
@@ -404,7 +404,7 @@ export const Versions = ({ timing }: { timing: ShotTiming }) => {
     <FilmScene
       title="同一款游戏，三个发行年份"
       right="字符 Logo 来自各自 NFO"
-      source="发行记录｜V02 · CODEX C10 · EMPRESS E09"
+      source="发行记录：xREL"
     >
       <Img
         src={publicAsset("v38/act2/stills/three-kingdoms.jpg")}
@@ -544,8 +544,8 @@ export const Updates = ({ timing }: { timing: ShotTiming }) => {
   return (
     <FilmScene
       title="社区解释：后来的更新，加不进旧破解"
-      right="V03 / 关系示意"
-      source="社区讨论｜V03｜2025-10-14 · 更新数量为动画示意"
+      right="Reddit / 版本更新讨论"
+      source="Reddit · r/PiratedGames · 2025-10-14"
     >
       <GameStill dark={0.7} />
       <div

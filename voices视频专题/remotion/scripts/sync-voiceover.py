@@ -107,3 +107,8 @@ for name,subset in [('asset-provenance.json',records[:11]),('act2-asset-provenan
    prior=[r for r in prior if r['path']!=record['path']]+[record]
  ledger.write_text(json.dumps(prior,ensure_ascii=False,indent=2)+'\n')
 print('Synced current recordings 01–53; audio 09 split point is 5.8 seconds, inside the measured pause.')
+
+# Preserve the later review retakes when rebuilding base narration.
+if (root.parent/'tts/2026-11-14-review-fixes/manifest.json').exists():
+    import subprocess
+    subprocess.run(['python3',str(root/'scripts/apply-review-retakes.py')],check=True)

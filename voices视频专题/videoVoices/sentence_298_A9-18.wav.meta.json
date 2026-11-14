@@ -1,0 +1,18 @@
+{
+  "id": "V38_TTS_298",
+  "kind": "audio",
+  "task": "AU15",
+  "title": "A9-18 / 新增或替换旁白 298",
+  "path": "media/05_audio/narration/V38_TTS_298.wav",
+  "derived_from": "voices视频专题/tts/2026-11-14/raw/298.wav",
+  "author": "本项目文稿 / 用户指定 IndexTTS 服务",
+  "rights": "用户授权使用现有旁白音色合成，内部剪辑与本片使用",
+  "status": "exported",
+  "sha256": "d7b3a5df8e250c125a1bc28e9724f12d78d3cc918f0f13c54c092c614785c5ef",
+  "bytes": 340524,
+  "source_sha256": "d7b3a5df8e250c125a1bc28e9724f12d78d3cc918f0f13c54c092c614785c5ef",
+  "text": "11 月 12 日，发行记录里，又出现了一份署名 voices38 的破解：《星球大战：银河赛车手》。",
+  "tts_text": "十一月十二日，发行记录里，又出现了一份署名 voices thirty-eight 的破解：《星球大战：银河赛车手》。",
+  "reference_sha256": "4ab8a4142832ae00a791b98df88bc7d304b97dea09759e2763465704d5c199f8",
+  "endpoint": "https://8300-cpod-1xko19fbcsqy-s3.pod.compshare.cn"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "V38_UP_codex",
+  "kind": "image",
+  "task": "EX15",
+  "title": "codex",
+  "path": "media/03_stills/voices38_update/codex.png",
+  "derived_from": "media/03_stills/voices38_act2/codex-logo.png",
+  "source_sha256": "8a1dc73a95d62f39fc4d10c342d626df1b899eeb203e398c8f95b74b5eb4f5ef",
+  "crop_pixels": null,
+  "source_page": "https://torrentfreak.com/iconic-game-cracking-group-codex-shuts-down/",
+  "author": "CODEX",
+  "rights": "原作者与商标权利保留，公开使用条件分别核对",
+  "status": "exported",
+  "sha256": "8a1dc73a95d62f39fc4d10c342d626df1b899eeb203e398c8f95b74b5eb4f5ef",
+  "bytes": 2218
+}

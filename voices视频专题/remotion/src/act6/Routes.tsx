@@ -13,7 +13,7 @@ export const TwoRoutes = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="06 / Wuk0ng"
-      source="游戏画面：CAPCOM 官方预告｜两条路线为概念比较｜时间回到 2026 年初"
+      source="游戏画面：CAPCOM 官方预告"
     >
       <Film name="routes" />
       <Shade />
@@ -111,7 +111,7 @@ export const Hypervisor = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="路线 01 / 进入系统底层"
-      source="分层为技术位置示意｜CAPCOM 官方预告｜发售日现象据 TorrentFreak / V20"
+      source="同期报道：TorrentFreak · 游戏画面：CAPCOM"
     >
       <div
         style={{
@@ -176,7 +176,7 @@ export const DayOne = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2026 / 发售当天"
-      source="各游戏官方宣传片｜画面用于作品展示｜时间叙述沿用文稿与 V11 / V20"
+      source="游戏画面：CAPCOM / Pearl Abyss / Square Enix 官方预告"
     >
       <Sequence
         name="安魂曲 / 新取官方镜头"
@@ -275,7 +275,7 @@ export const SystemCost = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="运行之前 / 系统环境的代价"
-      source="CAPCOM 官方预告中的屏幕画面｜叠加为权限示意，依据 V12 / V20"
+      source="同期报道：Tom’s Hardware / TorrentFreak · 游戏画面：CAPCOM"
     >
       <Film name="system" />
       <Shade />
@@ -389,7 +389,7 @@ export const OldSchool = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="路线 02 / voices38 自称 old school"
-      source="voices38 原字标：V18 NFO｜定位据 V05｜CAPCOM 官方画面，程序层为概念示意"
+      source="voices38 发行说明 · 游戏画面：CAPCOM"
     >
       <Film name="oldschool" />
       <Shade />

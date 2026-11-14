@@ -25,7 +25,7 @@ export const Funding = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="04 / 硬件、测试与五个月"
-      source="捐款用途自述｜voices38 · NFO 原图节选｜硬件为图解"
+      source="voices38 发行说明 · 测试硬件与捐款用途"
     >
       <div
         style={{
@@ -140,7 +140,7 @@ export const Supporters = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="SUPPORTERS / 公开署名"
-      source="支持者字段原图及名单重排｜V15 · 007.First.Light-voices38"
+      source="voices38《007：初露锋芒》支持者名单"
     >
       <div
         style={{
@@ -271,7 +271,7 @@ export const RamPrices = ({ timing }: { timing: ShotTiming }) => {
   return (
     <Stage
       label="2025.12.28 / 年末的说明"
-      source="voices38 自述｜V30 社区转述 · 据文本存档重排｜硬件为图解"
+      source="voices38 年末说明 · Reddit · r/SteamDeckPirates"
       light
     >
       <div

@@ -26,10 +26,9 @@ import {
 } from "./act3/FilmProper";
 import { Act3Sound } from "./act3/Sound";
 
-const Act3Inner = ({ timings = initialAct3Timings }: ActProps) => {
-  const { fps } = useVideoConfig();
+export const act3Scenes = (timings: ActProps["timings"], fps: number) => {
   return (
-    <TransitionSeries>
+    <>
       <TransitionSeries.Sequence
         name="A3-01 NFO 长大了"
         durationInFrames={Math.round(timings[0].duration * fps)}
@@ -174,7 +173,15 @@ const Act3Inner = ({ timings = initialAct3Timings }: ActProps) => {
         <Narration timing={timings[17]} />
         <Act3Sound shot={18} timing={timings[17]} />
       </TransitionSeries.Sequence>
-    </TransitionSeries>
+    </>
+  );
+};
+const Act3Inner = ({ timings = initialAct3Timings }: ActProps) => {
+  const { fps } = useVideoConfig();
+  return (
+    <>
+      <TransitionSeries>{act3Scenes(timings, fps)}</TransitionSeries>
+    </>
   );
 };
 export const Act3 = Interactive.create({
